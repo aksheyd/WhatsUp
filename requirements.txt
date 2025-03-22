@@ -1,0 +1,4 @@
+beautifulsoup4==4.13.3
+Django==5.1.7
+pandas==2.2.3
+selenium==4.30.0

@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-y5ph-7-q!!gd2t5kvdvl+3+yoh9kcy72_jjdci_y)oumb%b3v*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['whatsup-crimson-water-2982.fly.dev']
 
 
 # Application definition
@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': '/data/db.sqlite3',  # Use the persistent volume path
     }
 }
 
