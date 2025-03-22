@@ -1,12 +1,18 @@
-FROM python:3.9-slim
+# Use the official Python image
+FROM python:3.10-slim
 
-EXPOSE 8501
+# Set the working directory
+WORKDIR /app
 
-RUN apt-get update && apt-get install -y build-essential software-properties-common git ssh \
-    && rm -rf /var/lib/apt/lists/*
+# Install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
+# Copy the application code
 COPY . .
 
-RUN pip3 install django pandas
+# Copy the data file into the image
+COPY web_scraper/state_urls.csv /app/web_scraper/state_urls.csv
 
-ENTRYPOINT [ "python", "djangobase/manage.py", "runserver", "0.0.0.0:8501" ]
+# Run migrations and populate the database during deployment
+CMD ["sh", "-c", "python manage.py migrate && python manage.py import_data && gunicorn myproject.wsgi:application --bind 0.0.0.0:8000"]
