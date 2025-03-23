@@ -12,6 +12,9 @@ from dotenv import load_dotenv
 load_dotenv()
 from langchain_google_genai import ChatGoogleGenerativeAI
 
+def TitleView(request):
+    return render(request, "polls/title.html")
+
 class StateListView(generic.ListView):
     model = State
     template_name = "polls/state_list.html"
