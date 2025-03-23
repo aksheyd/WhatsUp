@@ -2,16 +2,22 @@
 <html lang="en-US">
 <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>States</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 </head>
 <body>
-    <h1>States</h1>
-    <ul>
-        {% for state in state_list %}
-        <li>
-            <a href="{% url 'polls:county' state_id=state.id %}">{{ state.name }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="container">
+        <h1>States</h1>
+        <ul>
+            {% for state in state_list %}
+            <li>
+                <a href="{% url 'polls:county' state_id=state.id %}">{{ state.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <!-- <a href="{% url 'polls:title' %}" class="nav-link">Back to Home</a> -->
+    </div>
 </body>
 </html>

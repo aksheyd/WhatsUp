@@ -2,13 +2,19 @@
 <html lang="en-US">
 <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ county.name }}</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 </head>
 <body>
-    <h1>{{ county.name }}</h1>
-    <p>State: {{ county.state.name }}</p>
-    <p>Link: <a href="{{ county.link }}">{{ county.link }}</a></p>
+    <div class="container">
+        <h1>{{ county.name }}</h1>
+        <p>State: {{ county.state.name }}</p>
+        <p>Link: <a href="{{ county.link }}">{{ county.link }}</a></p>
 
-    <a href="{% url 'polls:question' state_id=county.state.id pk=county.id %}">Quiz</a>
+        <a href="{% url 'polls:question' state_id=county.state.id pk=county.id %}" class="nav-link">Learn about your laws!</a>
+        <a href="{% url 'polls:county' state_id=county.state.id %}" class="nav-link">Back to Counties</a>
+    </div>
 </body>
 </html>

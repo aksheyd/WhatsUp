@@ -2,16 +2,22 @@
 <html lang="en-US">
 <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Counties</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 </head>
 <body>
-    <h1>Counties</h1>
-    <ul>
-        {% for county in county_list %}
-        <li>
-            <a href="{% url 'polls:county_detail' state_id=county.state.id pk=county.id %}">{{ county.name }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="container">
+        <h1>Counties</h1>
+        <ul>
+            {% for county in county_list %}
+            <li>
+                <a href="{% url 'polls:county_detail' state_id=county.state.id pk=county.id %}">{{ county.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        <!-- <a href="{% url 'polls:index' %}" class="nav-link">Back to States</a> -->
+    </div>
 </body>
 </html>
