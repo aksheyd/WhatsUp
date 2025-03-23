@@ -17,18 +17,3 @@ jobs:
       - run: flyctl deploy --remote-only 
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
-      - name: Run Database Migrations
-        run: |
-          flyctl ssh console -C "python djangobase/manage.py makemigrations"
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
-      - name: Run Database Migrations2
-        run: |
-          flyctl ssh console -C "python djangobase/manage.py migrate"
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
-      - name: Seed Database
-        run: |
-          flyctl ssh console -C "python djangobase/manage.py import_data"
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }} 
