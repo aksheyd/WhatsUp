@@ -1,24 +1,37 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-US">
-
 <head>
     <meta charset="utf-8" />
-    <title>Polls Results</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poll Results</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 </head>
-
 <body>
-
     <h1>{{ question.question_text }}</h1>
 
     <ul>
-        {% for choice in question.choice_set.all %}
+    {% for choice in question.choice_set.all %}
         <li>{{ choice.choice_text }} -- {{ choice.votes }} vote{{ choice.votes|pluralize }}</li>
-        {% endfor %}
+    {% endfor %}
     </ul>
 
-    <a href="{% url 'polls:detail' question.id %}">Vote again?</a>
+    <div class="correct-answer">
+        <h3>Correct Answer:</h3>
+        <p>{{ question.right_answer }}</p>
+    </div>
 
+    <div class="ordinance-reference">
+        <h3>Reference Ordinance:</h3>
+        <p><a href="{{ question.ordinance.url }}" target="_blank">View Original Ordinance</a></p>
+        <details>
+            <summary>View Ordinance Text</summary>
+            <div class="ordinance-text">
+                {{ question.ordinance.text|linebreaks }}
+            </div>
+        </details>
+    </div>
+
+    <a href="{% url 'polls:question' state_id=question.county.state.id pk=question.county.id %}">New Question?</a>
 </body>
-
-
 </html>

@@ -8,5 +8,7 @@
     <h1>{{ county.name }}</h1>
     <p>State: {{ county.state.name }}</p>
     <p>Link: <a href="{{ county.link }}">{{ county.link }}</a></p>
+
+    <a href="{% url 'polls:question' state_id=county.state.id pk=county.id %}">Quiz</a>
 </body>
 </html>

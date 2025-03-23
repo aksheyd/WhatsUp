@@ -8,6 +8,7 @@ import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import os
 
 
 def get_states(driver: webdriver.Chrome):
@@ -100,15 +101,59 @@ def get_counties_by_state(state: str, driver: webdriver.Chrome):
 
     return counties_list
 
+def get_ordinance_by_county(csv_file, driver: webdriver.Chrome):
+    counties_data = pd.read_csv(os.path.join('data', csv_file))
+
+    for _, row in counties_data.iterrows():
+        county_url = row['url'] + '/codes/code_of_ordinances'
+        driver.get(county_url)
+        time.sleep(2)
+
+        # Check if the URL redirects
+        if driver.current_url != county_url:
+            print(f"Skipping {row['county']} as the URL redirects.")
+            continue
+
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+
+        specific_links = soup.find_all('a', href=True)
+        r2 = []
+        for link in specific_links:
+            href = link['href']
+
+            if re.match(county_url + r'\?nodeId=\S+', href):
+                link_text = link.text.strip()
+                if link_text:
+                    r2.append({'county': row['county'], 'url': href, 'link_text': link_text})
+
+        specific_data = pd.DataFrame(r2)
+
+        # Create a folder for the state if it doesn't exist
+        state_folder = os.path.join('data', csv_file[:2])
+        os.makedirs(state_folder, exist_ok=True)
+
+        # Save the county-specific URLs in the state's folder
+        specific_csv_filename = os.path.join(
+            state_folder, f'{row["county"].replace(" ", "_")}_specific_urls.csv'
+        )
+        specific_data.to_csv(specific_csv_filename, index=False)
+
 
 def main():
     """Main function to scrape state and county data from municode.com."""
     driver = webdriver.Chrome()
-    # all_states = pd.read_csv('state_urls.csv')
+    all_states = pd.read_csv('state_urls.csv')
+    
+    data_folder = 'data'
+    list_states = list(all_states["State Code"])
+    for state in list_states:
+        csv_files = [f for f in os.listdir(data_folder) if f.endswith('_county_urls.csv')]
 
-    # list_states = list(all_states["State Code"])
-    # for state in list_states:
-    get_counties_by_state("vt", driver)
+        for csv_file in csv_files:
+            get_ordinance_by_county(csv_file, driver)
+            
+        # get_counties_by_state(state, driver)
 
     driver.quit()
     return 0

@@ -10,8 +10,11 @@ urlpatterns = [
     path("states/<int:state_id>/", views.CountyListView.as_view(), name="county"),
     path("states/<int:state_id>/<int:pk>/", views.CountyDetailView.as_view(), name="county_detail"),
     
-    path("questions/", views.QuestionView.as_view(), name="question"),
-    path("questions/<int:pk>/", views.DetailView.as_view(), name="detail"),
-    path("questions/<int:pk>/results/", views.ResultsView.as_view(), name="results"),
-    path("questions/<int:question_id>/vote/", views.vote, name="vote"),
+    path("states/<int:state_id>/<int:pk>/questions/", views.QuestionView.as_view(), name="question"),
+    path("states/<int:state_id>/<int:pk>/questions/generate", views.generate_question, name="generate_question"),
+
+    path("states/<int:state_id>/<int:pk>/questions/<int:pk2>/", views.DetailView.as_view(), name="detail"),
+    
+    path("states/<int:state_id>/<int:pk>/questions/<int:pk2>/vote/", views.vote, name="vote"),
+    path("states/<int:state_id>/<int:pk>/questions/<int:pk2>/results/", views.ResultsView.as_view(), name="results"),
 ]

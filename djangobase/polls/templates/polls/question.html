@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Polls Main</title>
     {% load static %}
 
@@ -13,13 +14,18 @@
 
 
     {% if latest_question_list %}
-    <ul>
-        {% for question in latest_question_list %}
-        <li><a href="{% url 'polls:detail' question.id %}">{{ question.question_text }}</a></li> {% endfor %}
-    </ul>
+        <ul>
+            {% for question in latest_question_list %}
+            <li><a href="{% url 'polls:detail' state_id=question.county.state.id pk=question.county.id pk2=question.id %}">{{ question.question_text }}</a></li> {% endfor %}
+        </ul>
     {% else %}
-    <p>No polls are available.</p>
+        <p>No polls are available.</p>
     {% endif %}
+
+    <form action="{% url 'polls:generate_question' state_id=state_id pk=pk %}" method="post">
+        {% csrf_token %}
+        <input type="submit" value="Generate Question">
+    </form>
 
 </body>
 

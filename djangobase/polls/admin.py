@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import State, County, Choice, Question
+from .models import State, County, Choice, Question, Ordinance
 
 # class ChoiceInline(admin.TabularInline): 
 #     model = Choice
@@ -19,6 +19,7 @@ from .models import State, County, Choice, Question
 
 class CountyAdmin(admin.ModelAdmin):
     autocomplete_fields = ['state']
+    search_fields =['name']
 
 
 class StateAdmin(admin.ModelAdmin):
@@ -27,5 +28,6 @@ class StateAdmin(admin.ModelAdmin):
 
 admin.site.register(State, StateAdmin)
 admin.site.register(County, CountyAdmin)
+admin.site.register(Ordinance)
 admin.site.register(Question)
 admin.site.register(Choice)
