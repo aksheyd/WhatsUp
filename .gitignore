@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# REMOVE ME WHEN ADDING TO GITHUB
+# web_scraper/*
+
+log.txt
+
 # Distribution / packaging
 .Python
 build/
