@@ -27,22 +27,38 @@ SECRET_KEY = os.getenv('DJ_SECRET_KEY')
 if not SECRET_KEY:
     raise ValueError("DJ_SECRET_KEY environment variable is not set!")
 
-SECURE_HSTS_SECONDS = 31536000  # 1 year
-SECURE_HSTS_INCLUDE_SUBDOMAINS = True
-SECURE_HSTS_PRELOAD = True
-SECURE_SSL_REDIRECT = True
-SESSION_COOKIE_SECURE = True
-CSRF_COOKIE_SECURE = True
+# SECURE_HSTS_SECONDS = 31536000  # 1 year
+# SECURE_HSTS_INCLUDE_SUBDOMAINS = True
+# SECURE_HSTS_PRELOAD = True
+# SECURE_SSL_REDIRECT = True
+# SESSION_COOKIE_SECURE = True
+# CSRF_COOKIE_SECURE = True
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://whatsup-crimson-water-2982.fly.dev'
+    'https://whatsup-crimson-water-2982.fly.dev',
+    'http://0.0.0.0:8501',
+    'http://127.0.0.1:8000',
+    'http://localhost:8000',  # For local development
 ]
 
-ALLOWED_HOSTS = ['localhost', 'whatsup-crimson-water-2982.fly.dev']
+ALLOWED_HOSTS = [
+    '0.0.0.0',
+    '127.0.0.1', 
+    'localhost',
+    'whatsup-crimson-water-2982.fly.dev',
+    '[::1]',  # IPv6 localhost
+    '.fly.dev',  # Allow all subdomains on fly.dev
+]
+
+# Security settings
+# SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+# SECURE_SSL_REDIRECT = not DEBUG  # Only redirect in production
+# USE_X_FORWARDED_HOST = True
+# USE_X_FORWARDED_PORT = True
 
 
 # Application definition

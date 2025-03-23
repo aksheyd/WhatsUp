@@ -32,7 +32,8 @@ proxy:
 # the last command to be long-running (e.g. an application server). When the
 # last command exits, LiteFS is shut down.
 exec:
-  - cmd: "gunicorn -b 0.0.0.0:8501 djangobase/mysite.wsgi:application"
+  - cmd: "cd /app/djangobase"
+  - cmd: "gunicorn -b 0.0.0.0:8501 mysite.wsgi:application"
 
 # The lease section specifies how the cluster will be managed. We're using the
 # "consul" lease type so that our application can dynamically change the primary.
