@@ -26,14 +26,18 @@ class Command(BaseCommand):
         
         # Export Ordinances
         ordinances = []
+        count = 0
         for ordinance in Ordinance.objects.all():
-            if ordinance.county.name == "Arkadelphia":
+            if ordinance.text:
                 ordinances.append({
                     'state_code': ordinance.county.state.code,
                     'county_name': ordinance.county.name,
                     'url': ordinance.url,
                     'text': ordinance.text
                 })
+                count += 1
+            if count > 50:
+                break
         
         # Save to files
         with open('exported_states.json', 'w') as f:
