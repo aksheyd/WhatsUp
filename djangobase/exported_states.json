@@ -1,0 +1,252 @@
+[
+  {
+    "code": "al",
+    "name": "Alabama",
+    "link": "https://library.municode.com/al"
+  },
+  {
+    "code": "ak",
+    "name": "Alaska",
+    "link": "https://library.municode.com/ak"
+  },
+  {
+    "code": "az",
+    "name": "Arizona",
+    "link": "https://library.municode.com/az"
+  },
+  {
+    "code": "ar",
+    "name": "Arkansas",
+    "link": "https://library.municode.com/ar"
+  },
+  {
+    "code": "ca",
+    "name": "California",
+    "link": "https://library.municode.com/ca"
+  },
+  {
+    "code": "co",
+    "name": "Colorado",
+    "link": "https://library.municode.com/co"
+  },
+  {
+    "code": "ct",
+    "name": "Connecticut",
+    "link": "https://library.municode.com/ct"
+  },
+  {
+    "code": "de",
+    "name": "Delaware",
+    "link": "https://library.municode.com/de"
+  },
+  {
+    "code": "fl",
+    "name": "Florida",
+    "link": "https://library.municode.com/fl"
+  },
+  {
+    "code": "ga",
+    "name": "Georgia",
+    "link": "https://library.municode.com/ga"
+  },
+  {
+    "code": "hi",
+    "name": "Hawaii",
+    "link": "https://library.municode.com/hi"
+  },
+  {
+    "code": "id",
+    "name": "Idaho",
+    "link": "https://library.municode.com/id"
+  },
+  {
+    "code": "il",
+    "name": "Illinois",
+    "link": "https://library.municode.com/il"
+  },
+  {
+    "code": "in",
+    "name": "Indiana",
+    "link": "https://library.municode.com/in"
+  },
+  {
+    "code": "ia",
+    "name": "Iowa",
+    "link": "https://library.municode.com/ia"
+  },
+  {
+    "code": "ks",
+    "name": "Kansas",
+    "link": "https://library.municode.com/ks"
+  },
+  {
+    "code": "ky",
+    "name": "Kentucky",
+    "link": "https://library.municode.com/ky"
+  },
+  {
+    "code": "la",
+    "name": "Louisiana",
+    "link": "https://library.municode.com/la"
+  },
+  {
+    "code": "me",
+    "name": "Maine",
+    "link": "https://library.municode.com/me"
+  },
+  {
+    "code": "md",
+    "name": "Maryland",
+    "link": "https://library.municode.com/md"
+  },
+  {
+    "code": "ma",
+    "name": "Massachusetts",
+    "link": "https://library.municode.com/ma"
+  },
+  {
+    "code": "mi",
+    "name": "Michigan",
+    "link": "https://library.municode.com/mi"
+  },
+  {
+    "code": "mn",
+    "name": "Minnesota",
+    "link": "https://library.municode.com/mn"
+  },
+  {
+    "code": "ms",
+    "name": "Mississippi",
+    "link": "https://library.municode.com/ms"
+  },
+  {
+    "code": "mo",
+    "name": "Missouri",
+    "link": "https://library.municode.com/mo"
+  },
+  {
+    "code": "mt",
+    "name": "Montana",
+    "link": "https://library.municode.com/mt"
+  },
+  {
+    "code": "ne",
+    "name": "Nebraska",
+    "link": "https://library.municode.com/ne"
+  },
+  {
+    "code": "nv",
+    "name": "Nevada",
+    "link": "https://library.municode.com/nv"
+  },
+  {
+    "code": "nh",
+    "name": "New Hampshire",
+    "link": "https://library.municode.com/nh"
+  },
+  {
+    "code": "nj",
+    "name": "New Jersey",
+    "link": "https://library.municode.com/nj"
+  },
+  {
+    "code": "nm",
+    "name": "New Mexico",
+    "link": "https://library.municode.com/nm"
+  },
+  {
+    "code": "ny",
+    "name": "New York",
+    "link": "https://library.municode.com/ny"
+  },
+  {
+    "code": "nc",
+    "name": "North Carolina",
+    "link": "https://library.municode.com/nc"
+  },
+  {
+    "code": "nd",
+    "name": "North Dakota",
+    "link": "https://library.municode.com/nd"
+  },
+  {
+    "code": "oh",
+    "name": "Ohio",
+    "link": "https://library.municode.com/oh"
+  },
+  {
+    "code": "ok",
+    "name": "Oklahoma",
+    "link": "https://library.municode.com/ok"
+  },
+  {
+    "code": "or",
+    "name": "Oregon",
+    "link": "https://library.municode.com/or"
+  },
+  {
+    "code": "pa",
+    "name": "Pennsylvania",
+    "link": "https://library.municode.com/pa"
+  },
+  {
+    "code": "ri",
+    "name": "Rhode Island",
+    "link": "https://library.municode.com/ri"
+  },
+  {
+    "code": "sc",
+    "name": "South Carolina",
+    "link": "https://library.municode.com/sc"
+  },
+  {
+    "code": "sd",
+    "name": "South Dakota",
+    "link": "https://library.municode.com/sd"
+  },
+  {
+    "code": "tn",
+    "name": "Tennessee",
+    "link": "https://library.municode.com/tn"
+  },
+  {
+    "code": "tx",
+    "name": "Texas",
+    "link": "https://library.municode.com/tx"
+  },
+  {
+    "code": "ut",
+    "name": "Utah",
+    "link": "https://library.municode.com/ut"
+  },
+  {
+    "code": "vt",
+    "name": "Vermont",
+    "link": "https://library.municode.com/vt"
+  },
+  {
+    "code": "va",
+    "name": "Virginia",
+    "link": "https://library.municode.com/va"
+  },
+  {
+    "code": "wa",
+    "name": "Washington",
+    "link": "https://library.municode.com/wa"
+  },
+  {
+    "code": "wv",
+    "name": "West Virginia",
+    "link": "https://library.municode.com/wv"
+  },
+  {
+    "code": "wi",
+    "name": "Wisconsin",
+    "link": "https://library.municode.com/wi"
+  },
+  {
+    "code": "wy",
+    "name": "Wyoming",
+    "link": "https://library.municode.com/wy"
+  }
+]

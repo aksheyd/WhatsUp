@@ -17,15 +17,21 @@ COPY . .
 # Copy litefs
 COPY --from=flyio/litefs:0.5 /usr/local/bin/litefs /usr/local/bin/litefs
 
-# Expose the application port
-EXPOSE 8501
+# Create necessary directories
+RUN mkdir -p /litefs /var/lib/litefs
+
+# Copy LiteFS config
+COPY litefs.yml /etc/litefs.yml
+
+# Set permissions
+RUN chmod 777 /litefs /var/lib/litefs
+
+# Expose both the application port and LiteFS proxy port
+EXPOSE 8501 8080
 
 # Make start script executable
 COPY start.sh .
 RUN chmod +x start.sh
 
-# Use the start script instead
-CMD ["./start.sh"]
-
-ENTRYPOINT litefs mount
-
+# Use litefs mount as entrypoint
+ENTRYPOINT ["litefs", "mount"]

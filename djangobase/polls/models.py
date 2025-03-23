@@ -23,7 +23,7 @@ class County(models.Model):
 
 class Ordinance(models.Model):
     county = models.ForeignKey(County, on_delete=models.CASCADE)
-    url = models.URLField(max_length=500)
+    url = models.URLField(max_length=500, unique=True)
     text = models.TextField()
 
     def __str__(self):

@@ -22,18 +22,19 @@ exit-on-error: false
 proxy:
   addr: ":8080"
   target: "localhost:8501"
-  db: "db"
+  db: "/litefs/db.sqlite3"
   passthrough: 
     - "*.ico"
     - "*.png"
+    - "*.css"
+    - "*.js"
+    - "/static/*"
+    - "/media/*"
 
 # This section defines a list of commands to run after LiteFS has connected
-# and sync'd with the cluster. You can run multiple commands but LiteFS expects
-# the last command to be long-running (e.g. an application server). When the
-# last command exits, LiteFS is shut down.
+# and sync'd with the cluster.
 exec:
-  - cmd: "cd /app/djangobase"
-  - cmd: "gunicorn -b 0.0.0.0:8501 mysite.wsgi:application"
+  - cmd: "/app/start.sh"
 
 # The lease section specifies how the cluster will be managed. We're using the
 # "consul" lease type so that our application can dynamically change the primary.
