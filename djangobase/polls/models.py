@@ -8,6 +8,7 @@ from django.contrib import admin
 class State(models.Model):
     code = models.CharField(max_length=2)
     name = models.CharField(max_length=200)
+    link = models.CharField(max_length=300)
 
     def __str__(self):
         return self.name
@@ -15,6 +16,7 @@ class State(models.Model):
 class County(models.Model):
     state = models.ForeignKey(State, on_delete=models.CASCADE)
     name = models.CharField(max_length=200)
+    link = models.CharField(max_length=300)
 
     def __str__(self):
         return self.name

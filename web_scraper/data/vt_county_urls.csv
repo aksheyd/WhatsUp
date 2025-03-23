@@ -1,1 +1,7 @@
-
+state,county,url
+VT,Barre,https://library.municode.com/vt/barre
+VT,Hartford,https://library.municode.com/vt/hartford
+VT,Montpelier,https://library.municode.com/vt/montpelier
+VT,South Burlington,https://library.municode.com/vt/south_burlington
+VT,Springfield,https://library.municode.com/vt/springfield
+VT,Vergennes,https://library.municode.com/vt/vergennes

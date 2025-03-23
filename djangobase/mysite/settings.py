@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
+import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -25,7 +26,7 @@ SECRET_KEY = 'django-insecure-y5ph-7-q!!gd2t5kvdvl+3+yoh9kcy72_jjdci_y)oumb%b3v*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['whatsup-crimson-water-2982.fly.dev']
+ALLOWED_HOSTS = ['localhost', 'whatsup-crimson-water-2982.fly.dev']
 
 
 # Application definition
@@ -77,7 +78,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': '/data/db.sqlite3',  # Use the persistent volume path
+        'NAME': os.getenv('DB_PATH', BASE_DIR / 'db.sqlite3')
     }
 }
 

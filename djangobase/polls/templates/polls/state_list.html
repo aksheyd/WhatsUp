@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <title>States</title>
+</head>
+<body>
+    <h1>States</h1>
+    <ul>
+        {% for state in state_list %}
+        <li>
+            <a href="{% url 'polls:county' state_id=state.id %}">{{ state.name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
