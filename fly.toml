@@ -38,7 +38,3 @@ primary_region = 'ord'
 [mounts]
   source = "litefs"
   destination = "/var/lib/litefs"
-
-[[mounts]]
-  source = "static"
-  destination = "/app/djangobase/staticfiles"

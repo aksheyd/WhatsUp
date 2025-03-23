@@ -5,3 +5,4 @@ pandas==2.2.3
 python-dotenv==1.0.1
 selenium==4.30.0
 gunicorn
+whitenoise
