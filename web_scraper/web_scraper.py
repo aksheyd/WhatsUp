@@ -104,11 +104,11 @@ def get_counties_by_state(state: str, driver: webdriver.Chrome):
 def main():
     """Main function to scrape state and county data from municode.com."""
     driver = webdriver.Chrome()
-    all_states = pd.read_csv('state_urls.csv')
+    # all_states = pd.read_csv('state_urls.csv')
 
-    list_states = list(all_states["State Code"])
-    for state in list_states:
-        get_counties_by_state(state, driver)
+    # list_states = list(all_states["State Code"])
+    # for state in list_states:
+    get_counties_by_state("vt", driver)
 
     driver.quit()
     return 0

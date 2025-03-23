@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Polls Main</title>
+    {% load static %}
+
+    <link rel="stylesheet" href="{% static 'polls/style.css' %}">
+</head>
+
+<body>
+
+
+    {% if county_list %}
+    
+    <form action="{% url 'polls:select_county' state_code=state_code %}" method="post">
+        {% csrf_token %}
+        <select id="submit">
+            <option id=""></option>
+            {% for county in county_list %}
+            <option id="{{ county.id }}">{{ county.name }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit" value="submit">Select</button>
+    </form>
+    {% else %}
+    <p>No states are available. Contact admin.</p>
+    {% endif %}
+
+</body>
+
+</html>

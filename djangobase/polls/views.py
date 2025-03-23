@@ -1,15 +1,34 @@
 from django.db.models import F
-from django.http import HttpResponseRedirect
-from django.shortcuts import get_object_or_404, render
+from django.http import HttpResponseRedirect, HttpResponse
+from django.shortcuts import get_object_or_404, render, redirect
 from django.urls import reverse
 from django.views import generic
 from django.utils import timezone
 
-from .models import Choice, Question
+from .models import State, County, Choice, Question
+
+class StateListView(generic.ListView):
+    model = State
+    template_name = "polls/state_list.html"
+    context_object_name = "state_list"
+
+class CountyListView(generic.ListView):
+    model = County
+    template_name = "polls/county_list.html"
+    context_object_name = "county_list"
+
+    def get_queryset(self):
+        # Filter counties by the state ID passed in the URL
+        return County.objects.filter(state_id=self.kwargs["state_id"])
+
+class CountyDetailView(generic.DetailView):
+    model = County
+    template_name = "polls/county_detail.html"
+    context_object_name = "county"
 
 
-class IndexView(generic.ListView):
-    template_name = "polls/index.html"
+class QuestionView(generic.ListView):
+    template_name = "polls/question.html"
     context_object_name = "latest_question_list"
 
     def get_queryset(self):
@@ -20,7 +39,6 @@ class IndexView(generic.ListView):
         return Question.objects.filter(pub_date__lte=timezone.now()).order_by("-pub_date")[
             :5
         ]
-
 
 class DetailView(generic.DetailView):
     model = Question
