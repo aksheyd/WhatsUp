@@ -9,7 +9,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         # Import states
-        try:
+        try: 
             states_file = 'web_scraper/state_urls.csv'
             if not os.path.exists(states_file):
                 self.stdout.write(self.style.ERROR(f'File not found: {states_file}'))
