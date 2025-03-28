@@ -197,7 +197,6 @@ def scrape_county_ordinances(county):
                         defaults={"text": content},
                     )
                     found_content = True
-                    break
 
         except Exception as e:
             print(f"Error scraping {url} for {county.name}: {str(e)}")
