@@ -42,8 +42,6 @@ python manage.py migrate || exit 1
 # cd djangobase
 python manage.py import_data_json || echo "Warning: JSON import failed"
 
-playwright install --with-deps
-
 # Collect static files
 python manage.py collectstatic --noinput || echo "Warning: Static files collection failed"
 
