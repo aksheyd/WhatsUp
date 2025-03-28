@@ -117,7 +117,6 @@ class Command(BaseCommand):
             # Import ordinances for each county
             driver = self.setup_selenium()
             try:
-                data_dir = 'web_scraper/data'
                 for state_dir in os.listdir(data_dir):
                     state_path = os.path.join(data_dir, state_dir)
                     if os.path.isdir(state_path):

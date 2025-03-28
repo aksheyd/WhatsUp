@@ -25,6 +25,9 @@
     <form action="{% url 'polls:generate_question' state_id=state_id pk=pk %}" method="post">
         {% csrf_token %}
         <input type="submit" value="Generate Question">
+        <div class="warning">
+            <p>Note: If generating your question is taking time, it is likely because we are scraping ordinances on request. Give us a minute.</p>
+        </div>
     </form>
 
 </body>
