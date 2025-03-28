@@ -31,9 +31,9 @@ primary_region = 'ord'
   port = 443
 
 [[vm]]
-  memory = '1gb'
+  memory = '4gb'
   cpu_kind = 'shared'
-  cpus = 1
+  cpus = 2
 
 [mounts]
   source = "litefs"
