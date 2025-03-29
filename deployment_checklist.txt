@@ -1,0 +1,3 @@
+set debug to false
+check db filepath
+check _specific_urls.csv filepath

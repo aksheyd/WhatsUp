@@ -130,6 +130,7 @@ def get_county_urls_from_csv(county):
         state_code = county.state.code.lower()
         countyname = "_".join(word.capitalize() for word in county.name.split())
         csv_path = f"/app/web_scraper/data/{state_code}/{countyname}_specific_urls.csv"
+        # csv_path = f"web_scraper/data/{state_code}/{countyname}_specific_urls.csv"
 
         if not os.path.exists(csv_path):
             return []
@@ -146,7 +147,21 @@ def get_county_urls_from_csv(county):
                     ):
                         continue
                     urls.append(row["url"])
-        return urls
+
+        county_ords = Ordinance.objects.filter(county=county)
+        print(county_ords)
+        if not county_ords.exists():
+            return random.choice(urls)
+        else:
+            if county_ords.count() == len(urls):
+                return []
+            else:
+                existing_urls = set(county_ords.values_list("url", flat=True))
+                for url in urls:
+                    if url not in existing_urls:
+                        return url
+                return []
+
     except Exception as e:
         print(f"Error reading CSV for {county.name}: {str(e)}")
         return []
@@ -154,12 +169,12 @@ def get_county_urls_from_csv(county):
 
 def scrape_county_ordinances(county):
     """Scrape ordinances for a county from multiple URLs"""
-    urls = get_county_urls_from_csv(county)
+    url = get_county_urls_from_csv(county)
 
-    if not urls:
-        # Fallback to county link if no URLs found in CSV
+    if not url:
+        # Fallback to county link if no url found in CSV
         if county.link:
-            urls = [county.link]
+            url = [county.link]
         else:
             return False
 
@@ -169,7 +184,7 @@ def scrape_county_ordinances(county):
             page = browser.new_page()
             page.goto(pl_url)
             page.wait_for_timeout(
-                5000
+                1000
             )  # Wait for JavaScript to load (adjust as needed)
             content = page.content()
             browser.close()
@@ -177,30 +192,26 @@ def scrape_county_ordinances(county):
 
     found_content = False
 
-    for url in urls:
+    try:
+        content = scrape_with_playwright(url)
+        soup = BeautifulSoup(content, "html.parser")
 
-        try:
-            content = scrape_with_playwright(url)
-            soup = BeautifulSoup(content, "html.parser")
-
-            # Extract all <p> tags and their text
-            elements = soup.find_all("p")
-
-            if elements:
-                content = "\n\n".join(
-                    element.get_text(strip=True) for element in elements
+        # Extract all <p> tags and their text
+        elements = soup.find_all("p")
+        print("URL:", url, "|", elements)
+        if elements:
+            content = "\n\n".join(element.get_text(strip=True) for element in elements)
+            if content:
+                Ordinance.objects.update_or_create(
+                    county=county,
+                    url=url,
+                    defaults={"text": content},
                 )
-                if content:
-                    Ordinance.objects.update_or_create(
-                        county=county,
-                        url=url,
-                        defaults={"text": content},
-                    )
-                    found_content = True
+                found_content = True
 
-        except Exception as e:
-            print(f"Error scraping {url} for {county.name}: {str(e)}")
-            continue
+    except Exception as e:
+        print(f"Error scraping {url} for {county.name}: {str(e)}")
+
     return found_content
 
 
@@ -208,14 +219,13 @@ def generate_question(request, state_id, pk):
     county = get_object_or_404(County, pk=pk)
     ordinances = Ordinance.objects.filter(county=county)
 
-    if not ordinances.exists():
-        # Try to scrape ordinances dynamically
-        if scrape_county_ordinances(county):
-            ordinances = Ordinance.objects.filter(county=county)
-        else:
-            return HttpResponse(
-                "Unable to fetch ordinances for this county. The county website may be unavailable or in an unsupported format."
-            )
+    # Try to scrape ordinances dynamically
+    if scrape_county_ordinances(county):
+        ordinances = Ordinance.objects.filter(county=county)
+    else:
+        return HttpResponse(
+            "Unable to fetch ordinances for this county. The county website may be unavailable or in an unsupported format."
+        )
 
     random_ordinance = ordinances.order_by("?").first()
     if random_ordinance.text.strip() == "":
