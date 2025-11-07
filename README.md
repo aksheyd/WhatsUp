@@ -1,4 +1,5 @@
 # What's Up
+
 > Learn your local laws through interactive engagement!
 
 WhatsUp makes local ordinances accessible through AI-generated questions. Created for the Data Driven Hackathon at University of Michigan, Ann Arbor (3/22/25).
@@ -14,7 +15,7 @@ WhatsUp makes local ordinances accessible through AI-generated questions. Create
 - **Backend**: Django, Gunicorn, SQLite
 - **AI**: Google Gemini via LangChain
 - **Scraping**: Selenium, BeautifulSoup4, Playwright
-- **Deployment**: Fly.io with LiteFS database replication
+- **Deployment**: Trying to migrate from Fly.io to Railway currently
 
 ## Acknowledgments
 
