@@ -39,21 +39,28 @@ DEBUG = False
 
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://whatsup-crimson-water-2982.fly.dev",
-    "http://0.0.0.0:8501",
+    "http://0.0.0.0:8000",
     "http://127.0.0.1:8000",
     "http://localhost:8000",  # For local development
 ]
+
+# Add Railway domain from environment variable if available
+RAILWAY_PUBLIC_DOMAIN = os.getenv("RAILWAY_PUBLIC_DOMAIN")
+if RAILWAY_PUBLIC_DOMAIN:
+    CSRF_TRUSTED_ORIGINS.append(f"https://{RAILWAY_PUBLIC_DOMAIN}")
 
 ALLOWED_HOSTS = [
     "0.0.0.0",
     "127.0.0.1",
     "localhost",
-    "whatsup-crimson-water-2982.fly.dev",
     "[::1]",  # IPv6 localhost
-    ".fly.dev",  # Allow all subdomains on fly.dev
+    ".railway.app",  # Allow all Railway subdomains
     ".umich",
 ]
+
+# Add Railway domain to allowed hosts if available
+if RAILWAY_PUBLIC_DOMAIN:
+    ALLOWED_HOSTS.append(RAILWAY_PUBLIC_DOMAIN)
 
 # Security settings
 # SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
@@ -110,10 +117,11 @@ WSGI_APPLICATION = "mysite.wsgi.application"
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
 if not DEBUG:
+    # Use Railway's persistent volume for production database
     DATABASES = {
         "default": {
             "ENGINE": "django.db.backends.sqlite3",
-            "NAME": "/litefs/db.sqlite3",
+            "NAME": "/data/db.sqlite3",
             "ATOMIC_REQUESTS": True,
         }
     }
