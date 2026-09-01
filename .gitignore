@@ -1,3 +1,4 @@
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,9 +6,6 @@ __pycache__/
 
 # C extensions
 *.so
-
-# REMOVE ME WHEN ADDING TO GITHUB
-# web_scraper/*
 
 log.txt
 test.py
