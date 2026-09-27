@@ -1,0 +1,850 @@
+{
+  "state": "sd",
+  "stateName": "South Dakota",
+  "places": [
+    {
+      "id": "aberdeen",
+      "name": "Aberdeen",
+      "sourceIndex": "https://library.municode.com/sd/aberdeen",
+      "questions": [
+        {
+          "id": "sd:aberdeen:0",
+          "prompt": "If you want to make or sell alcoholic drinks in Aberdeen, how far outside the city do the license rules still apply?",
+          "choices": [
+            "Within one mile of the city limits",
+            "Only inside the city",
+            "Anywhere in the county",
+            "Up to three miles out"
+          ],
+          "answer": "Within one mile of the city limits",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL 35-1-1 et seq.; retailing of alcoholic beverages,\n               SDCL 9-29-6; authority to regulate the sale and use of alcoholic beverages, SDCL 9-29-7;\n               municipal determination of number of licenses and amount of fees, SDCL 35-4-11.\n\nEditor's note— Ord. No. 22-05-02, § 1, effective June 29, 2022, repealed § 4-19, which pertained\n               to unauthorized traffic and derived from Code 1980, § 4-2; Code 2003, § 4-1; and Code\n               2011, § 4-19.\n\nNo person shall sell, offer for sale, keep for sale, exchange, distill, manufacture,\n               produce, bottle, blend or otherwise concoct, within the city and within one mile of\n               its territorial limits, any alcoholic beverage as defined by statute, without having\n               a license therefor, as required by SDCL title 35, or as authorized by such title. (Code 1980, § 4-3; Code 2003, § 4-2; Code 2011, § 4-20) State Law reference— Similar provisions, SDCL 35-1-5; the term \"alcoholic beverage\" defined, SDCL 35-1-1;\n               local approval of licenses, SDCL 35-2-1.2.\n\n(a) All the definitions of terms, as contained in SDCL 35-1-1, shall apply in this article. (b) All licensing policies and procedures contained in SDCL ch. 35-2 shall apply to the\n               licensing policies and procedures for the city. All requirements and provisions in\n               sections contained in SDCL ch. 35-4 shall apply to licensees for the sale of alcoholic\n               beverages issued for the city. If there is located in SDCL title 35 any grandfather\n               rights that pertain to the city as to the licensing of licensees of alcoholic beverages\n               and the sale of alcoholic beverages, then it is the intent of the city to be governed\n               by the grandfather clause. (Code 1980, § 4-9; Code 2003, § 4-3(a); Code 2011, § 4-21)\n\nNo application for any on-sale license of alcoholic…",
+          "sourceUrl": "https://library.municode.com/sd/aberdeen/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "sd:aberdeen:1",
+          "prompt": "How close to an existing school or church door will Aberdeen refuse a new on-sale liquor license (not counting malt beverages)?",
+          "choices": [
+            "Within 100 yards, measured by the usual walking path",
+            "Within 300 feet in a straight line",
+            "On the same block",
+            "Across the street"
+          ],
+          "answer": "Within 100 yards, measured by the usual walking path",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL 35-1-1 et seq.; retailing of alcoholic beverages,\n               SDCL 9-29-6; authority to regulate the sale and use of alcoholic beverages, SDCL 9-29-7;\n               municipal determination of number of licenses and amount of fees, SDCL 35-4-11.\n\nEditor's note— Ord. No. 22-05-02, § 1, effective June 29, 2022, repealed § 4-19, which pertained\n               to unauthorized traffic and derived from Code 1980, § 4-2; Code 2003, § 4-1; and Code\n               2011, § 4-19.\n\nNo person shall sell, offer for sale, keep for sale, exchange, distill, manufacture,\n               produce, bottle, blend or otherwise concoct, within the city and within one mile of\n               its territorial limits, any alcoholic beverage as defined by statute, without having\n               a license therefor, as required by SDCL title 35, or as authorized by such title. (Code 1980, § 4-3; Code 2003, § 4-2; Code 2011, § 4-20) State Law reference— Similar provisions, SDCL 35-1-5; the term \"alcoholic beverage\" defined, SDCL 35-1-1;\n               local approval of licenses, SDCL 35-2-1.2.\n\n(a) All the definitions of terms, as contained in SDCL 35-1-1, shall apply in this article. (b) All licensing policies and procedures contained in SDCL ch. 35-2 shall apply to the\n               licensing policies and procedures for the city. All requirements and provisions in\n               sections contained in SDCL ch. 35-4 shall apply to licensees for the sale of alcoholic\n               beverages issued for the city. If there is located in SDCL title 35 any grandfather\n               rights that pertain to the city as to the licensing of licensees of alcoholic beverages\n               and the sale of alcoholic beverages, then it is the intent of the city to be governed\n               by the grandfather clause. (Code 1980, § 4-9; Code 2003, § 4-3(a); Code 2011, § 4-21)\n\nNo application for any on-sale license of alcoholic…",
+          "sourceUrl": "https://library.municode.com/sd/aberdeen/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "sd:aberdeen:2",
+          "prompt": "What extra step is required when a licensed store in Aberdeen sells a keg of beer?",
+          "choices": [
+            "Record the buyer’s name and address and identify the keg",
+            "Take a photo of the buyer’s ID",
+            "Get a police permit for that keg",
+            "Only check that the buyer is 21"
+          ],
+          "answer": "Record the buyer’s name and address and identify the keg",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL 35-1-1 et seq.; retailing of alcoholic beverages,\n               SDCL 9-29-6; authority to regulate the sale and use of alcoholic beverages, SDCL 9-29-7;\n               municipal determination of number of licenses and amount of fees, SDCL 35-4-11.\n\nEditor's note— Ord. No. 22-05-02, § 1, effective June 29, 2022, repealed § 4-19, which pertained\n               to unauthorized traffic and derived from Code 1980, § 4-2; Code 2003, § 4-1; and Code\n               2011, § 4-19.\n\nNo person shall sell, offer for sale, keep for sale, exchange, distill, manufacture,\n               produce, bottle, blend or otherwise concoct, within the city and within one mile of\n               its territorial limits, any alcoholic beverage as defined by statute, without having\n               a license therefor, as required by SDCL title 35, or as authorized by such title. (Code 1980, § 4-3; Code 2003, § 4-2; Code 2011, § 4-20) State Law reference— Similar provisions, SDCL 35-1-5; the term \"alcoholic beverage\" defined, SDCL 35-1-1;\n               local approval of licenses, SDCL 35-2-1.2.\n\n(a) All the definitions of terms, as contained in SDCL 35-1-1, shall apply in this article. (b) All licensing policies and procedures contained in SDCL ch. 35-2 shall apply to the\n               licensing policies and procedures for the city. All requirements and provisions in\n               sections contained in SDCL ch. 35-4 shall apply to licensees for the sale of alcoholic\n               beverages issued for the city. If there is located in SDCL title 35 any grandfather\n               rights that pertain to the city as to the licensing of licensees of alcoholic beverages\n               and the sale of alcoholic beverages, then it is the intent of the city to be governed\n               by the grandfather clause. (Code 1980, § 4-9; Code 2003, § 4-3(a); Code 2011, § 4-21)\n\nNo application for any on-sale license of alcoholic…",
+          "sourceUrl": "https://library.municode.com/sd/aberdeen/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "sd:aberdeen:3",
+          "prompt": "Under Aberdeen’s rules, a keg is a reusable plastic or metal container of which size?",
+          "choices": [
+            "8 or 16 gallons",
+            "5 gallons only",
+            "15.5 gallons only",
+            "Any size over one gallon"
+          ],
+          "answer": "8 or 16 gallons",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL 35-1-1 et seq.; retailing of alcoholic beverages,\n               SDCL 9-29-6; authority to regulate the sale and use of alcoholic beverages, SDCL 9-29-7;\n               municipal determination of number of licenses and amount of fees, SDCL 35-4-11.\n\nEditor's note— Ord. No. 22-05-02, § 1, effective June 29, 2022, repealed § 4-19, which pertained\n               to unauthorized traffic and derived from Code 1980, § 4-2; Code 2003, § 4-1; and Code\n               2011, § 4-19.\n\nNo person shall sell, offer for sale, keep for sale, exchange, distill, manufacture,\n               produce, bottle, blend or otherwise concoct, within the city and within one mile of\n               its territorial limits, any alcoholic beverage as defined by statute, without having\n               a license therefor, as required by SDCL title 35, or as authorized by such title. (Code 1980, § 4-3; Code 2003, § 4-2; Code 2011, § 4-20) State Law reference— Similar provisions, SDCL 35-1-5; the term \"alcoholic beverage\" defined, SDCL 35-1-1;\n               local approval of licenses, SDCL 35-2-1.2.\n\n(a) All the definitions of terms, as contained in SDCL 35-1-1, shall apply in this article. (b) All licensing policies and procedures contained in SDCL ch. 35-2 shall apply to the\n               licensing policies and procedures for the city. All requirements and provisions in\n               sections contained in SDCL ch. 35-4 shall apply to licensees for the sale of alcoholic\n               beverages issued for the city. If there is located in SDCL title 35 any grandfather\n               rights that pertain to the city as to the licensing of licensees of alcoholic beverages\n               and the sale of alcoholic beverages, then it is the intent of the city to be governed\n               by the grandfather clause. (Code 1980, § 4-9; Code 2003, § 4-3(a); Code 2011, § 4-21)\n\nNo application for any on-sale license of alcoholic…",
+          "sourceUrl": "https://library.municode.com/sd/aberdeen/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "sd:aberdeen:4",
+          "prompt": "For a full-service restaurant liquor license in Aberdeen, what is the maximum share of yearly sales that may come from alcohol?",
+          "choices": [
+            "40 percent",
+            "50 percent",
+            "25 percent",
+            "No limit if a printed food menu is used"
+          ],
+          "answer": "40 percent",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL 35-1-1 et seq.; retailing of alcoholic beverages,\n               SDCL 9-29-6; authority to regulate the sale and use of alcoholic beverages, SDCL 9-29-7;\n               municipal determination of number of licenses and amount of fees, SDCL 35-4-11.\n\nEditor's note— Ord. No. 22-05-02, § 1, effective June 29, 2022, repealed § 4-19, which pertained\n               to unauthorized traffic and derived from Code 1980, § 4-2; Code 2003, § 4-1; and Code\n               2011, § 4-19.\n\nNo person shall sell, offer for sale, keep for sale, exchange, distill, manufacture,\n               produce, bottle, blend or otherwise concoct, within the city and within one mile of\n               its territorial limits, any alcoholic beverage as defined by statute, without having\n               a license therefor, as required by SDCL title 35, or as authorized by such title. (Code 1980, § 4-3; Code 2003, § 4-2; Code 2011, § 4-20) State Law reference— Similar provisions, SDCL 35-1-5; the term \"alcoholic beverage\" defined, SDCL 35-1-1;\n               local approval of licenses, SDCL 35-2-1.2.\n\n(a) All the definitions of terms, as contained in SDCL 35-1-1, shall apply in this article. (b) All licensing policies and procedures contained in SDCL ch. 35-2 shall apply to the\n               licensing policies and procedures for the city. All requirements and provisions in\n               sections contained in SDCL ch. 35-4 shall apply to licensees for the sale of alcoholic\n               beverages issued for the city. If there is located in SDCL title 35 any grandfather\n               rights that pertain to the city as to the licensing of licensees of alcoholic beverages\n               and the sale of alcoholic beverages, then it is the intent of the city to be governed\n               by the grandfather clause. (Code 1980, § 4-9; Code 2003, § 4-3(a); Code 2011, § 4-21)\n\nNo application for any on-sale license of alcoholic…",
+          "sourceUrl": "https://library.municode.com/sd/aberdeen/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "belle-fourche",
+      "name": "Belle Fourche",
+      "sourceIndex": "https://library.municode.com/sd/belle_fourche",
+      "questions": [
+        {
+          "id": "sd:belle-fourche:0",
+          "prompt": "Unless the Common Council orders a different size, how wide must sidewalks in Belle Fourche be?",
+          "choices": [
+            "4 feet",
+            "5 feet",
+            "6 feet",
+            "8 feet"
+          ],
+          "answer": "5 feet",
+          "excerpt": "Chapters:\n\nSections:\n\nThe streets, bridges, buildings and other public works in the City, or owned by the\n               City, shall be under the direction and supervision of the Director of Public Works,\n               or designee. (PC 10.0101)\n\nPersonnel shall be hired and subject to all personnel policies of the City. (PC 10.0102)\n\nSections:\n\nThe entire cost of a public improvement or any part thereof may be advanced by the\n               City, or the governing body may issue general obligation bonds as is provided in SDCL\n               9-43 or acts amendatory thereto.\n\nSections:\n\nAll sidewalks constructed in the municipality of Belle Fourche shall be of portland\n               cement, sand and gravel, or in lieu of gravel, crushed limestone rock. Unless otherwise\n               ordered by the Common Council, sidewalks shall be five (5) feet wide. The location\n               of the sidewalk in relation to the property line shall be as approved by the City\n               Engineer, or designee. (Authority SDCL 9-46-1) (PC 10.0401, 10.0402)\n\nIt shall be the responsibility hereafter and required of all property owners of vacant\n               lots, that sidewalks be installed whenever a new building or dwelling is constructed\n               upon such vacant lot or lots. (Authority SDCL 9-46-3)\n\nSuch sidewalks shall be completed at or before the time the new building or dwelling\n               is completed and shall be constructed and installed according to the plans and specifications\n               and sidewalk widths and grades as approved by the City Engineer, or designee.\n\nThe Common Council may permit exceptions to sidewalk requirements where special conditions\n               exist and a request by the owner is approved.\n\nAll sidewalks shall be constructed under the supervision of the City Engineer, or\n               designee, who shall set the grade of the sidewalk, approve the material used and the\n               manner in which the foundation course is…",
+          "sourceUrl": "https://library.municode.com/sd/belle_fourche/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:belle-fourche:1",
+          "prompt": "What must sidewalks be built from?",
+          "choices": [
+            "Portland cement, sand and gravel, or crushed limestone rock instead of gravel",
+            "Asphalt with a gravel base",
+            "Wood or composite boards",
+            "Whatever the property owner chooses"
+          ],
+          "answer": "Portland cement, sand and gravel, or crushed limestone rock instead of gravel",
+          "excerpt": "Chapters:\n\nSections:\n\nThe streets, bridges, buildings and other public works in the City, or owned by the\n               City, shall be under the direction and supervision of the Director of Public Works,\n               or designee. (PC 10.0101)\n\nPersonnel shall be hired and subject to all personnel policies of the City. (PC 10.0102)\n\nSections:\n\nThe entire cost of a public improvement or any part thereof may be advanced by the\n               City, or the governing body may issue general obligation bonds as is provided in SDCL\n               9-43 or acts amendatory thereto.\n\nSections:\n\nAll sidewalks constructed in the municipality of Belle Fourche shall be of portland\n               cement, sand and gravel, or in lieu of gravel, crushed limestone rock. Unless otherwise\n               ordered by the Common Council, sidewalks shall be five (5) feet wide. The location\n               of the sidewalk in relation to the property line shall be as approved by the City\n               Engineer, or designee. (Authority SDCL 9-46-1) (PC 10.0401, 10.0402)\n\nIt shall be the responsibility hereafter and required of all property owners of vacant\n               lots, that sidewalks be installed whenever a new building or dwelling is constructed\n               upon such vacant lot or lots. (Authority SDCL 9-46-3)\n\nSuch sidewalks shall be completed at or before the time the new building or dwelling\n               is completed and shall be constructed and installed according to the plans and specifications\n               and sidewalk widths and grades as approved by the City Engineer, or designee.\n\nThe Common Council may permit exceptions to sidewalk requirements where special conditions\n               exist and a request by the owner is approved.\n\nAll sidewalks shall be constructed under the supervision of the City Engineer, or\n               designee, who shall set the grade of the sidewalk, approve the material used and the\n               manner in which the foundation course is…",
+          "sourceUrl": "https://library.municode.com/sd/belle_fourche/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:belle-fourche:2",
+          "prompt": "If you put up a new building or house on a vacant lot, when do the sidewalks have to be finished?",
+          "choices": [
+            "Within one year after you move in",
+            "At or before the new building or dwelling is completed",
+            "Only after the city mails a notice",
+            "Sidewalks are optional on vacant lots"
+          ],
+          "answer": "At or before the new building or dwelling is completed",
+          "excerpt": "Chapters:\n\nSections:\n\nThe streets, bridges, buildings and other public works in the City, or owned by the\n               City, shall be under the direction and supervision of the Director of Public Works,\n               or designee. (PC 10.0101)\n\nPersonnel shall be hired and subject to all personnel policies of the City. (PC 10.0102)\n\nSections:\n\nThe entire cost of a public improvement or any part thereof may be advanced by the\n               City, or the governing body may issue general obligation bonds as is provided in SDCL\n               9-43 or acts amendatory thereto.\n\nSections:\n\nAll sidewalks constructed in the municipality of Belle Fourche shall be of portland\n               cement, sand and gravel, or in lieu of gravel, crushed limestone rock. Unless otherwise\n               ordered by the Common Council, sidewalks shall be five (5) feet wide. The location\n               of the sidewalk in relation to the property line shall be as approved by the City\n               Engineer, or designee. (Authority SDCL 9-46-1) (PC 10.0401, 10.0402)\n\nIt shall be the responsibility hereafter and required of all property owners of vacant\n               lots, that sidewalks be installed whenever a new building or dwelling is constructed\n               upon such vacant lot or lots. (Authority SDCL 9-46-3)\n\nSuch sidewalks shall be completed at or before the time the new building or dwelling\n               is completed and shall be constructed and installed according to the plans and specifications\n               and sidewalk widths and grades as approved by the City Engineer, or designee.\n\nThe Common Council may permit exceptions to sidewalk requirements where special conditions\n               exist and a request by the owner is approved.\n\nAll sidewalks shall be constructed under the supervision of the City Engineer, or\n               designee, who shall set the grade of the sidewalk, approve the material used and the\n               manner in which the foundation course is…",
+          "sourceUrl": "https://library.municode.com/sd/belle_fourche/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:belle-fourche:3",
+          "prompt": "Even building numbers go on which sides of the street?",
+          "choices": [
+            "East and north",
+            "West and south",
+            "North and west",
+            "South and east"
+          ],
+          "answer": "West and south",
+          "excerpt": "Chapters:\n\nSections:\n\nThe streets, bridges, buildings and other public works in the City, or owned by the\n               City, shall be under the direction and supervision of the Director of Public Works,\n               or designee. (PC 10.0101)\n\nPersonnel shall be hired and subject to all personnel policies of the City. (PC 10.0102)\n\nSections:\n\nThe entire cost of a public improvement or any part thereof may be advanced by the\n               City, or the governing body may issue general obligation bonds as is provided in SDCL\n               9-43 or acts amendatory thereto.\n\nSections:\n\nAll sidewalks constructed in the municipality of Belle Fourche shall be of portland\n               cement, sand and gravel, or in lieu of gravel, crushed limestone rock. Unless otherwise\n               ordered by the Common Council, sidewalks shall be five (5) feet wide. The location\n               of the sidewalk in relation to the property line shall be as approved by the City\n               Engineer, or designee. (Authority SDCL 9-46-1) (PC 10.0401, 10.0402)\n\nIt shall be the responsibility hereafter and required of all property owners of vacant\n               lots, that sidewalks be installed whenever a new building or dwelling is constructed\n               upon such vacant lot or lots. (Authority SDCL 9-46-3)\n\nSuch sidewalks shall be completed at or before the time the new building or dwelling\n               is completed and shall be constructed and installed according to the plans and specifications\n               and sidewalk widths and grades as approved by the City Engineer, or designee.\n\nThe Common Council may permit exceptions to sidewalk requirements where special conditions\n               exist and a request by the owner is approved.\n\nAll sidewalks shall be constructed under the supervision of the City Engineer, or\n               designee, who shall set the grade of the sidewalk, approve the material used and the\n               manner in which the foundation course is…",
+          "sourceUrl": "https://library.municode.com/sd/belle_fourche/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:belle-fourche:4",
+          "prompt": "When the city puts in new sidewalks, curbs or gutters, it must add ramps at crosswalks. Why?",
+          "choices": [
+            "To drain storm water faster",
+            "To make the change from street to sidewalk easy for people in wheelchairs and for blind people",
+            "To create extra parking spots",
+            "As a decorative city trademark"
+          ],
+          "answer": "To make the change from street to sidewalk easy for people in wheelchairs and for blind people",
+          "excerpt": "Chapters:\n\nSections:\n\nThe streets, bridges, buildings and other public works in the City, or owned by the\n               City, shall be under the direction and supervision of the Director of Public Works,\n               or designee. (PC 10.0101)\n\nPersonnel shall be hired and subject to all personnel policies of the City. (PC 10.0102)\n\nSections:\n\nThe entire cost of a public improvement or any part thereof may be advanced by the\n               City, or the governing body may issue general obligation bonds as is provided in SDCL\n               9-43 or acts amendatory thereto.\n\nSections:\n\nAll sidewalks constructed in the municipality of Belle Fourche shall be of portland\n               cement, sand and gravel, or in lieu of gravel, crushed limestone rock. Unless otherwise\n               ordered by the Common Council, sidewalks shall be five (5) feet wide. The location\n               of the sidewalk in relation to the property line shall be as approved by the City\n               Engineer, or designee. (Authority SDCL 9-46-1) (PC 10.0401, 10.0402)\n\nIt shall be the responsibility hereafter and required of all property owners of vacant\n               lots, that sidewalks be installed whenever a new building or dwelling is constructed\n               upon such vacant lot or lots. (Authority SDCL 9-46-3)\n\nSuch sidewalks shall be completed at or before the time the new building or dwelling\n               is completed and shall be constructed and installed according to the plans and specifications\n               and sidewalk widths and grades as approved by the City Engineer, or designee.\n\nThe Common Council may permit exceptions to sidewalk requirements where special conditions\n               exist and a request by the owner is approved.\n\nAll sidewalks shall be constructed under the supervision of the City Engineer, or\n               designee, who shall set the grade of the sidewalk, approve the material used and the\n               manner in which the foundation course is…",
+          "sourceUrl": "https://library.municode.com/sd/belle_fourche/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "box-elder",
+      "name": "Box Elder",
+      "sourceIndex": "https://library.municode.com/sd/box_elder",
+      "questions": []
+    },
+    {
+      "id": "britton",
+      "name": "Britton",
+      "sourceIndex": "https://library.municode.com/sd/britton",
+      "questions": [
+        {
+          "id": "sd:britton:0",
+          "prompt": "Can you ride, drive, or lead a horse, mule, cow, or other animal on a public sidewalk in Britton?",
+          "choices": [
+            "Yes, if the animal is on a leash",
+            "No, that is not allowed",
+            "Only during daylight hours",
+            "Yes, except in the downtown area"
+          ],
+          "answer": "No, that is not allowed",
+          "excerpt": "Chapters:\n\nSections: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 566 , adopted June 18, 2018, amended Ch. 12.04 in its entirety to read as herein set out.\n               Former Ch. 12.04, §§ 12.04.010—12.04.050, pertained to similar subject matter and\n               derived from prior code §§ 13-1-1—13-1-5.\n\nGrade and curb lines as previously established by the city are adopted as the official\n               grades and curb lines of the city and all sidewalks, driveways, curbs, and concrete\n               pads and foundations hereafter constructed shall be in accordance with such established\n               grades and curb lines. ( Ord. No. 566, 6-18-2018 )\n\nThe building and construction of all sidewalks, driveways, curbs, and concrete pads\n               and foundations shall be done under the direct supervision of the city and its duly\n               appointed officers and agents and all such construction shall be constructed on the\n               grades as determined by the city. ( Ord. No. 566, 6-18-2018 )\n\nThe construction of all sidewalks, driveways, curbs, and concrete pads and foundations\n               shall be done strictly in accordance with the specifications now on file with the\n               council and on file in the office of the municipal finance officer. The council shall\n               have full power to condemn work and material not in accordance with the requirements\n               of such specifications. ( Ord. No. 566, 6-18-2018 )\n\nBefore any sidewalk, driveway, curb, or concrete pad or foundation is constructed,\n               the contractor or person performing the construction must first acquire a permit therefor\n               from the municipal finance officer which permit shall be publicly displayed. ( Ord. No. 566, 6-18-2018 )\n\n(a) For each violation of the provisions of this chapter, any owner, tenant, or contractor\n               who commits, takes part in or assists in any violation of this chapter or who maintains\n            …",
+          "sourceUrl": "https://library.municode.com/sd/britton/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:britton:1",
+          "prompt": "When is it okay to drive a vehicle on a sidewalk?",
+          "choices": [
+            "Anytime if you drive slowly",
+            "Never",
+            "Only when crossing a built driveway to enter or leave a property",
+            "Only for deliveries"
+          ],
+          "answer": "Only when crossing a built driveway to enter or leave a property",
+          "excerpt": "Chapters:\n\nSections: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 566 , adopted June 18, 2018, amended Ch. 12.04 in its entirety to read as herein set out.\n               Former Ch. 12.04, §§ 12.04.010—12.04.050, pertained to similar subject matter and\n               derived from prior code §§ 13-1-1—13-1-5.\n\nGrade and curb lines as previously established by the city are adopted as the official\n               grades and curb lines of the city and all sidewalks, driveways, curbs, and concrete\n               pads and foundations hereafter constructed shall be in accordance with such established\n               grades and curb lines. ( Ord. No. 566, 6-18-2018 )\n\nThe building and construction of all sidewalks, driveways, curbs, and concrete pads\n               and foundations shall be done under the direct supervision of the city and its duly\n               appointed officers and agents and all such construction shall be constructed on the\n               grades as determined by the city. ( Ord. No. 566, 6-18-2018 )\n\nThe construction of all sidewalks, driveways, curbs, and concrete pads and foundations\n               shall be done strictly in accordance with the specifications now on file with the\n               council and on file in the office of the municipal finance officer. The council shall\n               have full power to condemn work and material not in accordance with the requirements\n               of such specifications. ( Ord. No. 566, 6-18-2018 )\n\nBefore any sidewalk, driveway, curb, or concrete pad or foundation is constructed,\n               the contractor or person performing the construction must first acquire a permit therefor\n               from the municipal finance officer which permit shall be publicly displayed. ( Ord. No. 566, 6-18-2018 )\n\n(a) For each violation of the provisions of this chapter, any owner, tenant, or contractor\n               who commits, takes part in or assists in any violation of this chapter or who maintains\n            …",
+          "sourceUrl": "https://library.municode.com/sd/britton/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:britton:2",
+          "prompt": "What do you need before building a sidewalk, driveway, curb, or concrete pad?",
+          "choices": [
+            "A permit from the municipal finance officer that must be displayed in public",
+            "Written okay from every neighbor",
+            "Nothing if you match the existing grade",
+            "A state contractor license only"
+          ],
+          "answer": "A permit from the municipal finance officer that must be displayed in public",
+          "excerpt": "Chapters:\n\nSections: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 566 , adopted June 18, 2018, amended Ch. 12.04 in its entirety to read as herein set out.\n               Former Ch. 12.04, §§ 12.04.010—12.04.050, pertained to similar subject matter and\n               derived from prior code §§ 13-1-1—13-1-5.\n\nGrade and curb lines as previously established by the city are adopted as the official\n               grades and curb lines of the city and all sidewalks, driveways, curbs, and concrete\n               pads and foundations hereafter constructed shall be in accordance with such established\n               grades and curb lines. ( Ord. No. 566, 6-18-2018 )\n\nThe building and construction of all sidewalks, driveways, curbs, and concrete pads\n               and foundations shall be done under the direct supervision of the city and its duly\n               appointed officers and agents and all such construction shall be constructed on the\n               grades as determined by the city. ( Ord. No. 566, 6-18-2018 )\n\nThe construction of all sidewalks, driveways, curbs, and concrete pads and foundations\n               shall be done strictly in accordance with the specifications now on file with the\n               council and on file in the office of the municipal finance officer. The council shall\n               have full power to condemn work and material not in accordance with the requirements\n               of such specifications. ( Ord. No. 566, 6-18-2018 )\n\nBefore any sidewalk, driveway, curb, or concrete pad or foundation is constructed,\n               the contractor or person performing the construction must first acquire a permit therefor\n               from the municipal finance officer which permit shall be publicly displayed. ( Ord. No. 566, 6-18-2018 )\n\n(a) For each violation of the provisions of this chapter, any owner, tenant, or contractor\n               who commits, takes part in or assists in any violation of this chapter or who maintains\n            …",
+          "sourceUrl": "https://library.municode.com/sd/britton/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:britton:3",
+          "prompt": "Who must you contact before digging in any city street or alley?",
+          "choices": [
+            "The city foreman",
+            "The police department",
+            "The municipal finance officer",
+            "No one, as long as you fill the hole"
+          ],
+          "answer": "The city foreman",
+          "excerpt": "Chapters:\n\nSections: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 566 , adopted June 18, 2018, amended Ch. 12.04 in its entirety to read as herein set out.\n               Former Ch. 12.04, §§ 12.04.010—12.04.050, pertained to similar subject matter and\n               derived from prior code §§ 13-1-1—13-1-5.\n\nGrade and curb lines as previously established by the city are adopted as the official\n               grades and curb lines of the city and all sidewalks, driveways, curbs, and concrete\n               pads and foundations hereafter constructed shall be in accordance with such established\n               grades and curb lines. ( Ord. No. 566, 6-18-2018 )\n\nThe building and construction of all sidewalks, driveways, curbs, and concrete pads\n               and foundations shall be done under the direct supervision of the city and its duly\n               appointed officers and agents and all such construction shall be constructed on the\n               grades as determined by the city. ( Ord. No. 566, 6-18-2018 )\n\nThe construction of all sidewalks, driveways, curbs, and concrete pads and foundations\n               shall be done strictly in accordance with the specifications now on file with the\n               council and on file in the office of the municipal finance officer. The council shall\n               have full power to condemn work and material not in accordance with the requirements\n               of such specifications. ( Ord. No. 566, 6-18-2018 )\n\nBefore any sidewalk, driveway, curb, or concrete pad or foundation is constructed,\n               the contractor or person performing the construction must first acquire a permit therefor\n               from the municipal finance officer which permit shall be publicly displayed. ( Ord. No. 566, 6-18-2018 )\n\n(a) For each violation of the provisions of this chapter, any owner, tenant, or contractor\n               who commits, takes part in or assists in any violation of this chapter or who maintains\n            …",
+          "sourceUrl": "https://library.municode.com/sd/britton/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:britton:4",
+          "prompt": "How long can a permit last to store construction equipment or materials on a public street during a project?",
+          "choices": [
+            "No more than three consecutive months, unless extended for good cause",
+            "As long as the job takes, with no limit",
+            "Thirty days only",
+            "Six months"
+          ],
+          "answer": "No more than three consecutive months, unless extended for good cause",
+          "excerpt": "Chapters:\n\nSections: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 566 , adopted June 18, 2018, amended Ch. 12.04 in its entirety to read as herein set out.\n               Former Ch. 12.04, §§ 12.04.010—12.04.050, pertained to similar subject matter and\n               derived from prior code §§ 13-1-1—13-1-5.\n\nGrade and curb lines as previously established by the city are adopted as the official\n               grades and curb lines of the city and all sidewalks, driveways, curbs, and concrete\n               pads and foundations hereafter constructed shall be in accordance with such established\n               grades and curb lines. ( Ord. No. 566, 6-18-2018 )\n\nThe building and construction of all sidewalks, driveways, curbs, and concrete pads\n               and foundations shall be done under the direct supervision of the city and its duly\n               appointed officers and agents and all such construction shall be constructed on the\n               grades as determined by the city. ( Ord. No. 566, 6-18-2018 )\n\nThe construction of all sidewalks, driveways, curbs, and concrete pads and foundations\n               shall be done strictly in accordance with the specifications now on file with the\n               council and on file in the office of the municipal finance officer. The council shall\n               have full power to condemn work and material not in accordance with the requirements\n               of such specifications. ( Ord. No. 566, 6-18-2018 )\n\nBefore any sidewalk, driveway, curb, or concrete pad or foundation is constructed,\n               the contractor or person performing the construction must first acquire a permit therefor\n               from the municipal finance officer which permit shall be publicly displayed. ( Ord. No. 566, 6-18-2018 )\n\n(a) For each violation of the provisions of this chapter, any owner, tenant, or contractor\n               who commits, takes part in or assists in any violation of this chapter or who maintains\n            …",
+          "sourceUrl": "https://library.municode.com/sd/britton/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "brookings",
+      "name": "Brookings",
+      "sourceIndex": "https://library.municode.com/sd/brookings",
+      "questions": [
+        {
+          "id": "sd:brookings:0",
+          "prompt": "In Brookings, how tall can grass or other vegetation grow on a lot, sidewalk, or boulevard before it is treated as a nuisance?",
+          "choices": [
+            "8 inches or more",
+            "12 inches or more",
+            "15 inches or more",
+            "24 inches or more"
+          ],
+          "answer": "15 inches or more",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of the city, § 1.02. Cross reference— Any ordinance vacating any easement or park land saved from repeal, § 1-12(8); buildings and building regulations, ch. 22; planning, ch. 66; streets, sidewalks and other public places, ch. 74; zoning, ch. 94.\n\nIn consultation with the park and recreation advisory board, the city manager shall\n               appoint a director of parks, recreation and forestry to plan, coordinate and administer\n               the activities and functions of the city parks, the operation of an overall recreation\n               program and a forestry program for the city. (Ord. No. 6-00, § 26-15, 2-28-2000)\n\nFootnotes: --- ( 2 ) --- Cross reference— Boards, committees and commissions, § 2-121 et seq.\n\nThe city has established a board which is known as the park and recreation advisory\n               board. (Ord. No. 6-00, § 26-1, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe park and recreation advisory board shall be composed of nine members, with one\n               member who is a high school student and one member who is a college student. (Ord. No. 6-00, § 26-2, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe members of the park and recreation advisory board shall be appointed by the mayor\n               with the advice and consent of the city council. (Ord. No. 6-00, § 26-3, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nMembers of the park and recreation advisory board shall serve three-year terms, except\n               the high school and college student members shall be appointed for terms of one year\n               each. The terms of office for members serving three-year terms shall be established\n               so the term of one member shall expire each year for three years, and the terms of\n               two members shall expire each year for two years. All terms shall expire on the date\n               of the first regular meeting of the city council in May. (Ord. No. 6-00, §…",
+          "sourceUrl": "https://library.municode.com/sd/brookings/codes/code_of_ordinances?nodeId=CH62PAREVEFO"
+        },
+        {
+          "id": "sd:brookings:1",
+          "prompt": "Which of the following is not a lawn nuisance under Brookings rules?",
+          "choices": [
+            "Noxious weeds identified by the county weed board",
+            "Grass 15 inches high left on a boulevard",
+            "Hay that is periodically mowed and removed",
+            "Tall undesirable grass on a vacant lot"
+          ],
+          "answer": "Hay that is periodically mowed and removed",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of the city, § 1.02. Cross reference— Any ordinance vacating any easement or park land saved from repeal, § 1-12(8); buildings and building regulations, ch. 22; planning, ch. 66; streets, sidewalks and other public places, ch. 74; zoning, ch. 94.\n\nIn consultation with the park and recreation advisory board, the city manager shall\n               appoint a director of parks, recreation and forestry to plan, coordinate and administer\n               the activities and functions of the city parks, the operation of an overall recreation\n               program and a forestry program for the city. (Ord. No. 6-00, § 26-15, 2-28-2000)\n\nFootnotes: --- ( 2 ) --- Cross reference— Boards, committees and commissions, § 2-121 et seq.\n\nThe city has established a board which is known as the park and recreation advisory\n               board. (Ord. No. 6-00, § 26-1, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe park and recreation advisory board shall be composed of nine members, with one\n               member who is a high school student and one member who is a college student. (Ord. No. 6-00, § 26-2, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe members of the park and recreation advisory board shall be appointed by the mayor\n               with the advice and consent of the city council. (Ord. No. 6-00, § 26-3, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nMembers of the park and recreation advisory board shall serve three-year terms, except\n               the high school and college student members shall be appointed for terms of one year\n               each. The terms of office for members serving three-year terms shall be established\n               so the term of one member shall expire each year for three years, and the terms of\n               two members shall expire each year for two years. All terms shall expire on the date\n               of the first regular meeting of the city council in May. (Ord. No. 6-00, §…",
+          "sourceUrl": "https://library.municode.com/sd/brookings/codes/code_of_ordinances?nodeId=CH62PAREVEFO"
+        },
+        {
+          "id": "sd:brookings:2",
+          "prompt": "Which of these places does not have to follow Brookings’ usual grass-and-weed height rules?",
+          "choices": [
+            "A typical home’s front yard",
+            "The sidewalk in front of a house",
+            "Edgebrook Golf Course",
+            "A vacant downtown lot"
+          ],
+          "answer": "Edgebrook Golf Course",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of the city, § 1.02. Cross reference— Any ordinance vacating any easement or park land saved from repeal, § 1-12(8); buildings and building regulations, ch. 22; planning, ch. 66; streets, sidewalks and other public places, ch. 74; zoning, ch. 94.\n\nIn consultation with the park and recreation advisory board, the city manager shall\n               appoint a director of parks, recreation and forestry to plan, coordinate and administer\n               the activities and functions of the city parks, the operation of an overall recreation\n               program and a forestry program for the city. (Ord. No. 6-00, § 26-15, 2-28-2000)\n\nFootnotes: --- ( 2 ) --- Cross reference— Boards, committees and commissions, § 2-121 et seq.\n\nThe city has established a board which is known as the park and recreation advisory\n               board. (Ord. No. 6-00, § 26-1, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe park and recreation advisory board shall be composed of nine members, with one\n               member who is a high school student and one member who is a college student. (Ord. No. 6-00, § 26-2, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe members of the park and recreation advisory board shall be appointed by the mayor\n               with the advice and consent of the city council. (Ord. No. 6-00, § 26-3, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nMembers of the park and recreation advisory board shall serve three-year terms, except\n               the high school and college student members shall be appointed for terms of one year\n               each. The terms of office for members serving three-year terms shall be established\n               so the term of one member shall expire each year for three years, and the terms of\n               two members shall expire each year for two years. All terms shall expire on the date\n               of the first regular meeting of the city council in May. (Ord. No. 6-00, §…",
+          "sourceUrl": "https://library.municode.com/sd/brookings/codes/code_of_ordinances?nodeId=CH62PAREVEFO"
+        },
+        {
+          "id": "sd:brookings:3",
+          "prompt": "Brookings’ park and recreation advisory board has nine members. Who must be included?",
+          "choices": [
+            "No student members",
+            "Two high school students",
+            "One high school student and one college student",
+            "One college student only"
+          ],
+          "answer": "One high school student and one college student",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of the city, § 1.02. Cross reference— Any ordinance vacating any easement or park land saved from repeal, § 1-12(8); buildings and building regulations, ch. 22; planning, ch. 66; streets, sidewalks and other public places, ch. 74; zoning, ch. 94.\n\nIn consultation with the park and recreation advisory board, the city manager shall\n               appoint a director of parks, recreation and forestry to plan, coordinate and administer\n               the activities and functions of the city parks, the operation of an overall recreation\n               program and a forestry program for the city. (Ord. No. 6-00, § 26-15, 2-28-2000)\n\nFootnotes: --- ( 2 ) --- Cross reference— Boards, committees and commissions, § 2-121 et seq.\n\nThe city has established a board which is known as the park and recreation advisory\n               board. (Ord. No. 6-00, § 26-1, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe park and recreation advisory board shall be composed of nine members, with one\n               member who is a high school student and one member who is a college student. (Ord. No. 6-00, § 26-2, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe members of the park and recreation advisory board shall be appointed by the mayor\n               with the advice and consent of the city council. (Ord. No. 6-00, § 26-3, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nMembers of the park and recreation advisory board shall serve three-year terms, except\n               the high school and college student members shall be appointed for terms of one year\n               each. The terms of office for members serving three-year terms shall be established\n               so the term of one member shall expire each year for three years, and the terms of\n               two members shall expire each year for two years. All terms shall expire on the date\n               of the first regular meeting of the city council in May. (Ord. No. 6-00, §…",
+          "sourceUrl": "https://library.municode.com/sd/brookings/codes/code_of_ordinances?nodeId=CH62PAREVEFO"
+        },
+        {
+          "id": "sd:brookings:4",
+          "prompt": "Are members of the Brookings park and recreation advisory board paid for serving?",
+          "choices": [
+            "Yes, they receive a monthly stipend",
+            "Yes, they are paid hourly for meetings",
+            "No, they are not compensated",
+            "Only the board president is paid"
+          ],
+          "answer": "No, they are not compensated",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of the city, § 1.02. Cross reference— Any ordinance vacating any easement or park land saved from repeal, § 1-12(8); buildings and building regulations, ch. 22; planning, ch. 66; streets, sidewalks and other public places, ch. 74; zoning, ch. 94.\n\nIn consultation with the park and recreation advisory board, the city manager shall\n               appoint a director of parks, recreation and forestry to plan, coordinate and administer\n               the activities and functions of the city parks, the operation of an overall recreation\n               program and a forestry program for the city. (Ord. No. 6-00, § 26-15, 2-28-2000)\n\nFootnotes: --- ( 2 ) --- Cross reference— Boards, committees and commissions, § 2-121 et seq.\n\nThe city has established a board which is known as the park and recreation advisory\n               board. (Ord. No. 6-00, § 26-1, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe park and recreation advisory board shall be composed of nine members, with one\n               member who is a high school student and one member who is a college student. (Ord. No. 6-00, § 26-2, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nThe members of the park and recreation advisory board shall be appointed by the mayor\n               with the advice and consent of the city council. (Ord. No. 6-00, § 26-3, 2-28-2000; Ord. No. 45-03, § I, 11-25-2003)\n\nMembers of the park and recreation advisory board shall serve three-year terms, except\n               the high school and college student members shall be appointed for terms of one year\n               each. The terms of office for members serving three-year terms shall be established\n               so the term of one member shall expire each year for three years, and the terms of\n               two members shall expire each year for two years. All terms shall expire on the date\n               of the first regular meeting of the city council in May. (Ord. No. 6-00, §…",
+          "sourceUrl": "https://library.municode.com/sd/brookings/codes/code_of_ordinances?nodeId=CH62PAREVEFO"
+        }
+      ]
+    },
+    {
+      "id": "deadwood",
+      "name": "Deadwood",
+      "sourceIndex": "https://library.municode.com/sd/deadwood",
+      "questions": []
+    },
+    {
+      "id": "huron",
+      "name": "Huron",
+      "sourceIndex": "https://library.municode.com/sd/huron",
+      "questions": [
+        {
+          "id": "sd:huron:0",
+          "prompt": "Huron's park and recreation board runs city parks and recreation, but the ordinance carves one activity out of that job. Which one?",
+          "choices": [
+            "Playgrounds",
+            "Golf courses",
+            "Public parks",
+            "Parkways"
+          ],
+          "answer": "Golf courses",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Appointment of officers—See Ch. 2.08 of this code.\n\nFootnotes: --- ( 2 ) --- Editor's note— Prior ordinance history: Ords. 987, 1161 and 1856.\n\nThere is created a combined city park and recreation board for the city to be known\n               as the Huron park and recreation board, to establish, improve, care for, regulate\n               and manage a system of public parks, parkways, and boulevards, and to operate a system\n               of public recreation, playgrounds and parks in and for the city. For the purpose of\n               this section, \"recreation\" shall mean all recreation activities except for golf courses. (Ord. 2031 (part), 2007).\n\nTerm of Office. Upon the final adoption and publication of the ordinance codified\n               herein, the mayor with the approval of the governing body shall forthwith appoint\n               seven members to the city park and recreation board. One such member shall be appointed\n               for the year, one for two years, one for three years, one for four years, one for\n               five years, and there after each appointment shall be for five years. Such appointees\n               are to hold office until their successors are appointed and qualified. (Ord. 2031 (part), 2007). (Ord. No. 2161-11-15, 6-1-2015)\n\nAt the first regular meeting of the board of commissioners in June of each year, one\n               member shall be appointed or reappointed by the mayor and approved by the governing\n               body for a term of three years. The members comprising the park and recreation board\n               shall not hold any elective office in the municipal government. (Ord. 2031 (part), 2007). (Ord. No. 2250-11-18, 3-13-2023)\n\nAll members appointed to serve on the city park and recreation board shall serve without\n               compensation except for expenses accrued due to authorized travel outside the city\n               in fulfilling the obligations of their appointed…",
+          "sourceUrl": "https://library.municode.com/sd/huron/codes/municipal_code?nodeId=TIT11PARE"
+        },
+        {
+          "id": "sd:huron:1",
+          "prompt": "How many members sit on the Huron park and recreation board?",
+          "choices": [
+            "Three",
+            "Five",
+            "Seven",
+            "Nine"
+          ],
+          "answer": "Seven",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Appointment of officers—See Ch. 2.08 of this code.\n\nFootnotes: --- ( 2 ) --- Editor's note— Prior ordinance history: Ords. 987, 1161 and 1856.\n\nThere is created a combined city park and recreation board for the city to be known\n               as the Huron park and recreation board, to establish, improve, care for, regulate\n               and manage a system of public parks, parkways, and boulevards, and to operate a system\n               of public recreation, playgrounds and parks in and for the city. For the purpose of\n               this section, \"recreation\" shall mean all recreation activities except for golf courses. (Ord. 2031 (part), 2007).\n\nTerm of Office. Upon the final adoption and publication of the ordinance codified\n               herein, the mayor with the approval of the governing body shall forthwith appoint\n               seven members to the city park and recreation board. One such member shall be appointed\n               for the year, one for two years, one for three years, one for four years, one for\n               five years, and there after each appointment shall be for five years. Such appointees\n               are to hold office until their successors are appointed and qualified. (Ord. 2031 (part), 2007). (Ord. No. 2161-11-15, 6-1-2015)\n\nAt the first regular meeting of the board of commissioners in June of each year, one\n               member shall be appointed or reappointed by the mayor and approved by the governing\n               body for a term of three years. The members comprising the park and recreation board\n               shall not hold any elective office in the municipal government. (Ord. 2031 (part), 2007). (Ord. No. 2250-11-18, 3-13-2023)\n\nAll members appointed to serve on the city park and recreation board shall serve without\n               compensation except for expenses accrued due to authorized travel outside the city\n               in fulfilling the obligations of their appointed…",
+          "sourceUrl": "https://library.municode.com/sd/huron/codes/municipal_code?nodeId=TIT11PARE"
+        },
+        {
+          "id": "sd:huron:2",
+          "prompt": "How are members of Huron's park and recreation board paid?",
+          "choices": [
+            "They get a yearly salary set by the mayor",
+            "They serve without pay, except for proven costs of authorized travel outside the city",
+            "They are paid like other city officers",
+            "Only the board president is paid"
+          ],
+          "answer": "They serve without pay, except for proven costs of authorized travel outside the city",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Appointment of officers—See Ch. 2.08 of this code.\n\nFootnotes: --- ( 2 ) --- Editor's note— Prior ordinance history: Ords. 987, 1161 and 1856.\n\nThere is created a combined city park and recreation board for the city to be known\n               as the Huron park and recreation board, to establish, improve, care for, regulate\n               and manage a system of public parks, parkways, and boulevards, and to operate a system\n               of public recreation, playgrounds and parks in and for the city. For the purpose of\n               this section, \"recreation\" shall mean all recreation activities except for golf courses. (Ord. 2031 (part), 2007).\n\nTerm of Office. Upon the final adoption and publication of the ordinance codified\n               herein, the mayor with the approval of the governing body shall forthwith appoint\n               seven members to the city park and recreation board. One such member shall be appointed\n               for the year, one for two years, one for three years, one for four years, one for\n               five years, and there after each appointment shall be for five years. Such appointees\n               are to hold office until their successors are appointed and qualified. (Ord. 2031 (part), 2007). (Ord. No. 2161-11-15, 6-1-2015)\n\nAt the first regular meeting of the board of commissioners in June of each year, one\n               member shall be appointed or reappointed by the mayor and approved by the governing\n               body for a term of three years. The members comprising the park and recreation board\n               shall not hold any elective office in the municipal government. (Ord. 2031 (part), 2007). (Ord. No. 2250-11-18, 3-13-2023)\n\nAll members appointed to serve on the city park and recreation board shall serve without\n               compensation except for expenses accrued due to authorized travel outside the city\n               in fulfilling the obligations of their appointed…",
+          "sourceUrl": "https://library.municode.com/sd/huron/codes/municipal_code?nodeId=TIT11PARE"
+        },
+        {
+          "id": "sd:huron:3",
+          "prompt": "What does the ordinance ban in Huron parks?",
+          "choices": [
+            "Any concession that sells food or drinks",
+            "Professional shows or exhibitions that charge admission",
+            "Planting trees along streets or boulevards",
+            "Charging for playgrounds or recreation programs"
+          ],
+          "answer": "Professional shows or exhibitions that charge admission",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Appointment of officers—See Ch. 2.08 of this code.\n\nFootnotes: --- ( 2 ) --- Editor's note— Prior ordinance history: Ords. 987, 1161 and 1856.\n\nThere is created a combined city park and recreation board for the city to be known\n               as the Huron park and recreation board, to establish, improve, care for, regulate\n               and manage a system of public parks, parkways, and boulevards, and to operate a system\n               of public recreation, playgrounds and parks in and for the city. For the purpose of\n               this section, \"recreation\" shall mean all recreation activities except for golf courses. (Ord. 2031 (part), 2007).\n\nTerm of Office. Upon the final adoption and publication of the ordinance codified\n               herein, the mayor with the approval of the governing body shall forthwith appoint\n               seven members to the city park and recreation board. One such member shall be appointed\n               for the year, one for two years, one for three years, one for four years, one for\n               five years, and there after each appointment shall be for five years. Such appointees\n               are to hold office until their successors are appointed and qualified. (Ord. 2031 (part), 2007). (Ord. No. 2161-11-15, 6-1-2015)\n\nAt the first regular meeting of the board of commissioners in June of each year, one\n               member shall be appointed or reappointed by the mayor and approved by the governing\n               body for a term of three years. The members comprising the park and recreation board\n               shall not hold any elective office in the municipal government. (Ord. 2031 (part), 2007). (Ord. No. 2250-11-18, 3-13-2023)\n\nAll members appointed to serve on the city park and recreation board shall serve without\n               compensation except for expenses accrued due to authorized travel outside the city\n               in fulfilling the obligations of their appointed…",
+          "sourceUrl": "https://library.municode.com/sd/huron/codes/municipal_code?nodeId=TIT11PARE"
+        },
+        {
+          "id": "sd:huron:4",
+          "prompt": "If a park concession invests at least $100,000 in buildings or other real improvements, how long may its lease last?",
+          "choices": [
+            "No more than 3 years",
+            "Up to 15 years",
+            "Up to 50 years",
+            "Forever"
+          ],
+          "answer": "Up to 50 years",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Appointment of officers—See Ch. 2.08 of this code.\n\nFootnotes: --- ( 2 ) --- Editor's note— Prior ordinance history: Ords. 987, 1161 and 1856.\n\nThere is created a combined city park and recreation board for the city to be known\n               as the Huron park and recreation board, to establish, improve, care for, regulate\n               and manage a system of public parks, parkways, and boulevards, and to operate a system\n               of public recreation, playgrounds and parks in and for the city. For the purpose of\n               this section, \"recreation\" shall mean all recreation activities except for golf courses. (Ord. 2031 (part), 2007).\n\nTerm of Office. Upon the final adoption and publication of the ordinance codified\n               herein, the mayor with the approval of the governing body shall forthwith appoint\n               seven members to the city park and recreation board. One such member shall be appointed\n               for the year, one for two years, one for three years, one for four years, one for\n               five years, and there after each appointment shall be for five years. Such appointees\n               are to hold office until their successors are appointed and qualified. (Ord. 2031 (part), 2007). (Ord. No. 2161-11-15, 6-1-2015)\n\nAt the first regular meeting of the board of commissioners in June of each year, one\n               member shall be appointed or reappointed by the mayor and approved by the governing\n               body for a term of three years. The members comprising the park and recreation board\n               shall not hold any elective office in the municipal government. (Ord. 2031 (part), 2007). (Ord. No. 2250-11-18, 3-13-2023)\n\nAll members appointed to serve on the city park and recreation board shall serve without\n               compensation except for expenses accrued due to authorized travel outside the city\n               in fulfilling the obligations of their appointed…",
+          "sourceUrl": "https://library.municode.com/sd/huron/codes/municipal_code?nodeId=TIT11PARE"
+        }
+      ]
+    },
+    {
+      "id": "madison",
+      "name": "Madison",
+      "sourceIndex": "https://library.municode.com/sd/madison",
+      "questions": [
+        {
+          "id": "sd:madison:0",
+          "prompt": "In Madison, can a business without a liquor license let customers bring their own alcohol if the business then sells mix, ice, or charges a fee for it?",
+          "choices": [
+            "Yes, that setup is allowed as a bottle club",
+            "No, bottle clubs are prohibited",
+            "Yes, but only for cider and wine",
+            "Only if the business is a private club"
+          ],
+          "answer": "No, bottle clubs are prohibited",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL Title 35.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverage means any distilled spirits, wine, ciders, and malt beverages. Bulk container means any package, or any container within which container there are one or more\n               packages. Cider means any alcoholic beverage obtained by the fermentation of the juice of apples\n               or pears that contains not less than one-half of one percent of alcohol by weight\n               and not more than ten percent of alcohol by weight, including flavored, sparkling,\n               or carbonated cider. Dispenser means a duly licensed physician, dentist, veterinarian, osteopath, podiatrist, chiropractor,\n               or pharmacist; or a druggist, sanitarium, hospital, clinic, educational institution,\n               industrial company, or industrial corporation who purchases alcohol for scientific\n               and medicinal purposes only. Distilled spirits means ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whiskey, rum, brandy,\n               gin, and other distilled spirits, including all dilutions and mixtures thereof, for\n               non-industrial use containing not less than one-half of one percent of alcohol by\n               weight. License means a license issued pursuant to the provisions of SDCL Title 35. License Code includes the following: (1) 1PB, Off-Sale Malt Beverage License. (2) RB, On-Off Sale Malt Beverage License (Tavern). (3) PL, Off-Sale Package Liquor License. (4) RL, On-Premise Retail Sale Liquor License. (5) RW, On-Premise Retail Sale Light Wine License. Malt beverage means a beverage made by the alcoholic fermentation of an infusion or decoction,\n               or combination of both, in potable brewing…",
+          "sourceUrl": "https://library.municode.com/sd/madison/codes/code_of_ordinances?nodeId=REVISED_ORD_CH4ALBE"
+        },
+        {
+          "id": "sd:madison:1",
+          "prompt": "Can you drink beer, wine, or liquor on a public sidewalk, street, or in a park in Madison?",
+          "choices": [
+            "Yes, if it stays in the original bottle",
+            "No, you may not consume alcoholic beverages in any public place",
+            "Yes after 8 p.m.",
+            "Only malt beverages are allowed"
+          ],
+          "answer": "No, you may not consume alcoholic beverages in any public place",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL Title 35.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverage means any distilled spirits, wine, ciders, and malt beverages. Bulk container means any package, or any container within which container there are one or more\n               packages. Cider means any alcoholic beverage obtained by the fermentation of the juice of apples\n               or pears that contains not less than one-half of one percent of alcohol by weight\n               and not more than ten percent of alcohol by weight, including flavored, sparkling,\n               or carbonated cider. Dispenser means a duly licensed physician, dentist, veterinarian, osteopath, podiatrist, chiropractor,\n               or pharmacist; or a druggist, sanitarium, hospital, clinic, educational institution,\n               industrial company, or industrial corporation who purchases alcohol for scientific\n               and medicinal purposes only. Distilled spirits means ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whiskey, rum, brandy,\n               gin, and other distilled spirits, including all dilutions and mixtures thereof, for\n               non-industrial use containing not less than one-half of one percent of alcohol by\n               weight. License means a license issued pursuant to the provisions of SDCL Title 35. License Code includes the following: (1) 1PB, Off-Sale Malt Beverage License. (2) RB, On-Off Sale Malt Beverage License (Tavern). (3) PL, Off-Sale Package Liquor License. (4) RL, On-Premise Retail Sale Liquor License. (5) RW, On-Premise Retail Sale Light Wine License. Malt beverage means a beverage made by the alcoholic fermentation of an infusion or decoction,\n               or combination of both, in potable brewing…",
+          "sourceUrl": "https://library.municode.com/sd/madison/codes/code_of_ordinances?nodeId=REVISED_ORD_CH4ALBE"
+        },
+        {
+          "id": "sd:madison:2",
+          "prompt": "Under Madison’s rules, cider made from apples or pears may contain no more than how much alcohol?",
+          "choices": [
+            "Five percent by weight",
+            "Ten percent by weight",
+            "Twenty-four percent by volume",
+            "There is no maximum listed"
+          ],
+          "answer": "Ten percent by weight",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL Title 35.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverage means any distilled spirits, wine, ciders, and malt beverages. Bulk container means any package, or any container within which container there are one or more\n               packages. Cider means any alcoholic beverage obtained by the fermentation of the juice of apples\n               or pears that contains not less than one-half of one percent of alcohol by weight\n               and not more than ten percent of alcohol by weight, including flavored, sparkling,\n               or carbonated cider. Dispenser means a duly licensed physician, dentist, veterinarian, osteopath, podiatrist, chiropractor,\n               or pharmacist; or a druggist, sanitarium, hospital, clinic, educational institution,\n               industrial company, or industrial corporation who purchases alcohol for scientific\n               and medicinal purposes only. Distilled spirits means ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whiskey, rum, brandy,\n               gin, and other distilled spirits, including all dilutions and mixtures thereof, for\n               non-industrial use containing not less than one-half of one percent of alcohol by\n               weight. License means a license issued pursuant to the provisions of SDCL Title 35. License Code includes the following: (1) 1PB, Off-Sale Malt Beverage License. (2) RB, On-Off Sale Malt Beverage License (Tavern). (3) PL, Off-Sale Package Liquor License. (4) RL, On-Premise Retail Sale Liquor License. (5) RW, On-Premise Retail Sale Light Wine License. Malt beverage means a beverage made by the alcoholic fermentation of an infusion or decoction,\n               or combination of both, in potable brewing…",
+          "sourceUrl": "https://library.municode.com/sd/madison/codes/code_of_ordinances?nodeId=REVISED_ORD_CH4ALBE"
+        },
+        {
+          "id": "sd:madison:3",
+          "prompt": "What does a person need before they can sell alcoholic beverages in Madison?",
+          "choices": [
+            "A regular city business permit is enough",
+            "They must first obtain a license under state law",
+            "Nothing if they sell only to friends",
+            "Approval from a church"
+          ],
+          "answer": "They must first obtain a license under state law",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, SDCL Title 35.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverage means any distilled spirits, wine, ciders, and malt beverages. Bulk container means any package, or any container within which container there are one or more\n               packages. Cider means any alcoholic beverage obtained by the fermentation of the juice of apples\n               or pears that contains not less than one-half of one percent of alcohol by weight\n               and not more than ten percent of alcohol by weight, including flavored, sparkling,\n               or carbonated cider. Dispenser means a duly licensed physician, dentist, veterinarian, osteopath, podiatrist, chiropractor,\n               or pharmacist; or a druggist, sanitarium, hospital, clinic, educational institution,\n               industrial company, or industrial corporation who purchases alcohol for scientific\n               and medicinal purposes only. Distilled spirits means ethyl alcohol, hydrated oxide of ethyl, spirits of wine, whiskey, rum, brandy,\n               gin, and other distilled spirits, including all dilutions and mixtures thereof, for\n               non-industrial use containing not less than one-half of one percent of alcohol by\n               weight. License means a license issued pursuant to the provisions of SDCL Title 35. License Code includes the following: (1) 1PB, Off-Sale Malt Beverage License. (2) RB, On-Off Sale Malt Beverage License (Tavern). (3) PL, Off-Sale Package Liquor License. (4) RL, On-Premise Retail Sale Liquor License. (5) RW, On-Premise Retail Sale Light Wine License. Malt beverage means a beverage made by the alcoholic fermentation of an infusion or decoction,\n               or combination of both, in potable brewing…",
+          "sourceUrl": "https://library.municode.com/sd/madison/codes/code_of_ordinances?nodeId=REVISED_ORD_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "miller",
+      "name": "Miller",
+      "sourceIndex": "https://library.municode.com/sd/miller",
+      "questions": [
+        {
+          "id": "sd:miller:0",
+          "prompt": "Are glass beverage containers allowed in Miller city parks?",
+          "choices": [
+            "Yes, if you recycle them",
+            "No",
+            "Only at picnic tables",
+            "Yes, except near the pool"
+          ],
+          "answer": "No",
+          "excerpt": "City park is property owned, leased and/or maintain by the City of Miller for recreational\n               purposes, including Crystal Park, Kiwanis Park, Municipal Pool and the J.C. Terry\n               Complex. ( Ord. No. 694 , § 4.01, 7-16-2018)\n\nNo person shall injure or destroy any plant, shrub, tree, building or structure within\n               any city park. ( Ord. No. 694 , § 4.02, 7-16-2018)\n\nAny person, or group of persons, using any picnic areas, playground centers, or recreational\n               facility and equipment belonging to and located upon park premises, shall be responsible\n               for cleaning up all litter and refuse caused by their use before leaving the area. ( Ord. No. 694 , § 4.03, 7-16-2018)\n\nGlass beverage containers are not allowed in the city parks. ( Ord. No. 694 , § 4.04, 7-16-2018)\n\nQuiet time is from 11:00 p.m. to 6:00 a.m. Please be respectful of other park occupants. ( Ord. No. 694 , § 4.05, 7-16-2018)\n\nPets are allowed in the city park system. Pets must be on a leash at all times. Pet\n               waste must be picked up and disposed of properly. ( Ord. No. 694 , § 4.06, 7-16-2018)\n\n(a) Camping is on a first come, first served basis, in designated areas, with a free will\n               offering for the first three days. A daily fee will be charged for each day after\n               the three free will days as provided in the city fee schedule. (b) Self-registration will be required. Registration material is available at the campground\n               entrance. Nonregistered campers will be asked to leave. ( Ord. No. 694 , § 4.10, 7-16-2018; Ord. No. 741 , 1-3-2023)\n\nNo business shall be conducted from or within the city park camping area. ( Ord. No. 694 , § 4.11, 7-16-2018)\n\nOpen campfires are permitted in designated areas only. All fires shall be extinguished\n               when they are unattended. ( Ord. No. 694 , § 4.12, 7-16-2018)\n\nAny special events held within the city park system must have prior approval from\n     …",
+          "sourceUrl": "https://library.municode.com/sd/miller/codes/code_of_ordinances?nodeId=COOR_CH28PARE"
+        },
+        {
+          "id": "sd:miller:1",
+          "prompt": "What must you do if you bring a pet to a Miller city park?",
+          "choices": [
+            "Leave the pet in the car",
+            "Keep the pet on a leash at all times and pick up its waste",
+            "Let the pet run free if it is friendly",
+            "Pets are not allowed"
+          ],
+          "answer": "Keep the pet on a leash at all times and pick up its waste",
+          "excerpt": "City park is property owned, leased and/or maintain by the City of Miller for recreational\n               purposes, including Crystal Park, Kiwanis Park, Municipal Pool and the J.C. Terry\n               Complex. ( Ord. No. 694 , § 4.01, 7-16-2018)\n\nNo person shall injure or destroy any plant, shrub, tree, building or structure within\n               any city park. ( Ord. No. 694 , § 4.02, 7-16-2018)\n\nAny person, or group of persons, using any picnic areas, playground centers, or recreational\n               facility and equipment belonging to and located upon park premises, shall be responsible\n               for cleaning up all litter and refuse caused by their use before leaving the area. ( Ord. No. 694 , § 4.03, 7-16-2018)\n\nGlass beverage containers are not allowed in the city parks. ( Ord. No. 694 , § 4.04, 7-16-2018)\n\nQuiet time is from 11:00 p.m. to 6:00 a.m. Please be respectful of other park occupants. ( Ord. No. 694 , § 4.05, 7-16-2018)\n\nPets are allowed in the city park system. Pets must be on a leash at all times. Pet\n               waste must be picked up and disposed of properly. ( Ord. No. 694 , § 4.06, 7-16-2018)\n\n(a) Camping is on a first come, first served basis, in designated areas, with a free will\n               offering for the first three days. A daily fee will be charged for each day after\n               the three free will days as provided in the city fee schedule. (b) Self-registration will be required. Registration material is available at the campground\n               entrance. Nonregistered campers will be asked to leave. ( Ord. No. 694 , § 4.10, 7-16-2018; Ord. No. 741 , 1-3-2023)\n\nNo business shall be conducted from or within the city park camping area. ( Ord. No. 694 , § 4.11, 7-16-2018)\n\nOpen campfires are permitted in designated areas only. All fires shall be extinguished\n               when they are unattended. ( Ord. No. 694 , § 4.12, 7-16-2018)\n\nAny special events held within the city park system must have prior approval from\n     …",
+          "sourceUrl": "https://library.municode.com/sd/miller/codes/code_of_ordinances?nodeId=COOR_CH28PARE"
+        },
+        {
+          "id": "sd:miller:2",
+          "prompt": "When is quiet time in Miller city parks?",
+          "choices": [
+            "From 10:00 p.m. to 7:00 a.m.",
+            "From sunset to sunrise",
+            "From 11:00 p.m. to 6:00 a.m.",
+            "Quiet hours apply only on weekends"
+          ],
+          "answer": "From 11:00 p.m. to 6:00 a.m.",
+          "excerpt": "City park is property owned, leased and/or maintain by the City of Miller for recreational\n               purposes, including Crystal Park, Kiwanis Park, Municipal Pool and the J.C. Terry\n               Complex. ( Ord. No. 694 , § 4.01, 7-16-2018)\n\nNo person shall injure or destroy any plant, shrub, tree, building or structure within\n               any city park. ( Ord. No. 694 , § 4.02, 7-16-2018)\n\nAny person, or group of persons, using any picnic areas, playground centers, or recreational\n               facility and equipment belonging to and located upon park premises, shall be responsible\n               for cleaning up all litter and refuse caused by their use before leaving the area. ( Ord. No. 694 , § 4.03, 7-16-2018)\n\nGlass beverage containers are not allowed in the city parks. ( Ord. No. 694 , § 4.04, 7-16-2018)\n\nQuiet time is from 11:00 p.m. to 6:00 a.m. Please be respectful of other park occupants. ( Ord. No. 694 , § 4.05, 7-16-2018)\n\nPets are allowed in the city park system. Pets must be on a leash at all times. Pet\n               waste must be picked up and disposed of properly. ( Ord. No. 694 , § 4.06, 7-16-2018)\n\n(a) Camping is on a first come, first served basis, in designated areas, with a free will\n               offering for the first three days. A daily fee will be charged for each day after\n               the three free will days as provided in the city fee schedule. (b) Self-registration will be required. Registration material is available at the campground\n               entrance. Nonregistered campers will be asked to leave. ( Ord. No. 694 , § 4.10, 7-16-2018; Ord. No. 741 , 1-3-2023)\n\nNo business shall be conducted from or within the city park camping area. ( Ord. No. 694 , § 4.11, 7-16-2018)\n\nOpen campfires are permitted in designated areas only. All fires shall be extinguished\n               when they are unattended. ( Ord. No. 694 , § 4.12, 7-16-2018)\n\nAny special events held within the city park system must have prior approval from\n     …",
+          "sourceUrl": "https://library.municode.com/sd/miller/codes/code_of_ordinances?nodeId=COOR_CH28PARE"
+        },
+        {
+          "id": "sd:miller:3",
+          "prompt": "Which statement about camping in Miller city parks is true?",
+          "choices": [
+            "You must reserve a site weeks in advance",
+            "Camping is first come, first served in designated areas and you must self-register at the campground entrance",
+            "You can camp anywhere in the park",
+            "Businesses may operate from campsites"
+          ],
+          "answer": "Camping is first come, first served in designated areas and you must self-register at the campground entrance",
+          "excerpt": "City park is property owned, leased and/or maintain by the City of Miller for recreational\n               purposes, including Crystal Park, Kiwanis Park, Municipal Pool and the J.C. Terry\n               Complex. ( Ord. No. 694 , § 4.01, 7-16-2018)\n\nNo person shall injure or destroy any plant, shrub, tree, building or structure within\n               any city park. ( Ord. No. 694 , § 4.02, 7-16-2018)\n\nAny person, or group of persons, using any picnic areas, playground centers, or recreational\n               facility and equipment belonging to and located upon park premises, shall be responsible\n               for cleaning up all litter and refuse caused by their use before leaving the area. ( Ord. No. 694 , § 4.03, 7-16-2018)\n\nGlass beverage containers are not allowed in the city parks. ( Ord. No. 694 , § 4.04, 7-16-2018)\n\nQuiet time is from 11:00 p.m. to 6:00 a.m. Please be respectful of other park occupants. ( Ord. No. 694 , § 4.05, 7-16-2018)\n\nPets are allowed in the city park system. Pets must be on a leash at all times. Pet\n               waste must be picked up and disposed of properly. ( Ord. No. 694 , § 4.06, 7-16-2018)\n\n(a) Camping is on a first come, first served basis, in designated areas, with a free will\n               offering for the first three days. A daily fee will be charged for each day after\n               the three free will days as provided in the city fee schedule. (b) Self-registration will be required. Registration material is available at the campground\n               entrance. Nonregistered campers will be asked to leave. ( Ord. No. 694 , § 4.10, 7-16-2018; Ord. No. 741 , 1-3-2023)\n\nNo business shall be conducted from or within the city park camping area. ( Ord. No. 694 , § 4.11, 7-16-2018)\n\nOpen campfires are permitted in designated areas only. All fires shall be extinguished\n               when they are unattended. ( Ord. No. 694 , § 4.12, 7-16-2018)\n\nAny special events held within the city park system must have prior approval from\n     …",
+          "sourceUrl": "https://library.municode.com/sd/miller/codes/code_of_ordinances?nodeId=COOR_CH28PARE"
+        },
+        {
+          "id": "sd:miller:4",
+          "prompt": "Where can you have an open campfire in a Miller city park?",
+          "choices": [
+            "Anywhere that looks safe",
+            "Only in designated areas, and the fire must be put out if you leave it unattended",
+            "Fires are never allowed",
+            "Only if you buy a city permit"
+          ],
+          "answer": "Only in designated areas, and the fire must be put out if you leave it unattended",
+          "excerpt": "City park is property owned, leased and/or maintain by the City of Miller for recreational\n               purposes, including Crystal Park, Kiwanis Park, Municipal Pool and the J.C. Terry\n               Complex. ( Ord. No. 694 , § 4.01, 7-16-2018)\n\nNo person shall injure or destroy any plant, shrub, tree, building or structure within\n               any city park. ( Ord. No. 694 , § 4.02, 7-16-2018)\n\nAny person, or group of persons, using any picnic areas, playground centers, or recreational\n               facility and equipment belonging to and located upon park premises, shall be responsible\n               for cleaning up all litter and refuse caused by their use before leaving the area. ( Ord. No. 694 , § 4.03, 7-16-2018)\n\nGlass beverage containers are not allowed in the city parks. ( Ord. No. 694 , § 4.04, 7-16-2018)\n\nQuiet time is from 11:00 p.m. to 6:00 a.m. Please be respectful of other park occupants. ( Ord. No. 694 , § 4.05, 7-16-2018)\n\nPets are allowed in the city park system. Pets must be on a leash at all times. Pet\n               waste must be picked up and disposed of properly. ( Ord. No. 694 , § 4.06, 7-16-2018)\n\n(a) Camping is on a first come, first served basis, in designated areas, with a free will\n               offering for the first three days. A daily fee will be charged for each day after\n               the three free will days as provided in the city fee schedule. (b) Self-registration will be required. Registration material is available at the campground\n               entrance. Nonregistered campers will be asked to leave. ( Ord. No. 694 , § 4.10, 7-16-2018; Ord. No. 741 , 1-3-2023)\n\nNo business shall be conducted from or within the city park camping area. ( Ord. No. 694 , § 4.11, 7-16-2018)\n\nOpen campfires are permitted in designated areas only. All fires shall be extinguished\n               when they are unattended. ( Ord. No. 694 , § 4.12, 7-16-2018)\n\nAny special events held within the city park system must have prior approval from\n     …",
+          "sourceUrl": "https://library.municode.com/sd/miller/codes/code_of_ordinances?nodeId=COOR_CH28PARE"
+        }
+      ]
+    },
+    {
+      "id": "redfield",
+      "name": "Redfield",
+      "sourceIndex": "https://library.municode.com/sd/redfield",
+      "questions": [
+        {
+          "id": "sd:redfield:0",
+          "prompt": "Can you leave a car, wagon, truck, or sleigh sitting unused on a public street, alley, or sidewalk in Redfield?",
+          "choices": [
+            "Yes, overnight parking is allowed",
+            "No, vehicles may stay there only while they are in actual use",
+            "Only if it is a motor vehicle, not a wagon",
+            "Yes on public ground but not streets"
+          ],
+          "answer": "No, vehicles may stay there only while they are in actual use",
+          "excerpt": "Chapters:\n\nSections:\n\nNo person shall place, leave or keep on any public street, road, alley, sidewalk or\n               other public ground in the city, any wagon, automobile, cart, truck, sleigh or other\n               vehicle, except when the same shall be in actual use; nor shall any person place,\n               leave or keep on any public street, road, alley, sidewalk. or other public ground\n               in this city, any other article, substance or material which may obstruct the free\n               use of the street, road, alley, sidewalk or public ground, except as hereinafter provided. (Prior code § 11.0601)\n\nThe council is authorized to grant permission in writing to any person to deposit\n               and keep lumber, stone, brick or other materials for building, in any public sidewalk,\n               street, road or alley adjacent to the building to be erected or repaired, but such\n               permission shall not excuse the obstruction or occupancy with such materials of more\n               than one-third in width of any carriage way of any street or road. (Prior code § 11.0602)\n\nEvery person to whom permission may be granted, as provided in Section 12.04.020 , to place and keep building material in the street, road or alley, shall cause all\n               such material and the rubbish resulting therefrom, to be removed from such sidewalk,\n               street, road or alley at the expiration of the time limited in the permit, unless\n               the time shall for good cause be extended by the council; and any person depositing\n               and keeping any building material on such sidewalk or in such street, road or alley\n               under a permit from the council, shall during every night while the material shall\n               there remain, keep one or more lighted lanterns or flares so placed that such material\n               may be easily seen by persons passing along such sidewalk, street, road or alley. (Prior code § 11.0603)\n\nNo…",
+          "sourceUrl": "https://library.municode.com/sd/redfield/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:redfield:1",
+          "prompt": "May you ride, drive, or lead a horse, mule, cow, or other animal on a public sidewalk?",
+          "choices": [
+            "Yes, animals have the same rights as people",
+            "No, horses, mules, cows and other animals cannot be ridden, driven or led on sidewalks",
+            "Only if the sidewalk is wide",
+            "Yes for horses but not cows"
+          ],
+          "answer": "No, horses, mules, cows and other animals cannot be ridden, driven or led on sidewalks",
+          "excerpt": "Chapters:\n\nSections:\n\nNo person shall place, leave or keep on any public street, road, alley, sidewalk or\n               other public ground in the city, any wagon, automobile, cart, truck, sleigh or other\n               vehicle, except when the same shall be in actual use; nor shall any person place,\n               leave or keep on any public street, road, alley, sidewalk. or other public ground\n               in this city, any other article, substance or material which may obstruct the free\n               use of the street, road, alley, sidewalk or public ground, except as hereinafter provided. (Prior code § 11.0601)\n\nThe council is authorized to grant permission in writing to any person to deposit\n               and keep lumber, stone, brick or other materials for building, in any public sidewalk,\n               street, road or alley adjacent to the building to be erected or repaired, but such\n               permission shall not excuse the obstruction or occupancy with such materials of more\n               than one-third in width of any carriage way of any street or road. (Prior code § 11.0602)\n\nEvery person to whom permission may be granted, as provided in Section 12.04.020 , to place and keep building material in the street, road or alley, shall cause all\n               such material and the rubbish resulting therefrom, to be removed from such sidewalk,\n               street, road or alley at the expiration of the time limited in the permit, unless\n               the time shall for good cause be extended by the council; and any person depositing\n               and keeping any building material on such sidewalk or in such street, road or alley\n               under a permit from the council, shall during every night while the material shall\n               there remain, keep one or more lighted lanterns or flares so placed that such material\n               may be easily seen by persons passing along such sidewalk, street, road or alley. (Prior code § 11.0603)\n\nNo…",
+          "sourceUrl": "https://library.municode.com/sd/redfield/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:redfield:2",
+          "prompt": "Is it allowed to have water from your building's roof flow onto a public sidewalk?",
+          "choices": [
+            "Yes, gutters often do that",
+            "No, you cannot place pipes so roof water discharges onto or over the sidewalk",
+            "Only during heavy rain",
+            "Yes if you own the building"
+          ],
+          "answer": "No, you cannot place pipes so roof water discharges onto or over the sidewalk",
+          "excerpt": "Chapters:\n\nSections:\n\nNo person shall place, leave or keep on any public street, road, alley, sidewalk or\n               other public ground in the city, any wagon, automobile, cart, truck, sleigh or other\n               vehicle, except when the same shall be in actual use; nor shall any person place,\n               leave or keep on any public street, road, alley, sidewalk. or other public ground\n               in this city, any other article, substance or material which may obstruct the free\n               use of the street, road, alley, sidewalk or public ground, except as hereinafter provided. (Prior code § 11.0601)\n\nThe council is authorized to grant permission in writing to any person to deposit\n               and keep lumber, stone, brick or other materials for building, in any public sidewalk,\n               street, road or alley adjacent to the building to be erected or repaired, but such\n               permission shall not excuse the obstruction or occupancy with such materials of more\n               than one-third in width of any carriage way of any street or road. (Prior code § 11.0602)\n\nEvery person to whom permission may be granted, as provided in Section 12.04.020 , to place and keep building material in the street, road or alley, shall cause all\n               such material and the rubbish resulting therefrom, to be removed from such sidewalk,\n               street, road or alley at the expiration of the time limited in the permit, unless\n               the time shall for good cause be extended by the council; and any person depositing\n               and keeping any building material on such sidewalk or in such street, road or alley\n               under a permit from the council, shall during every night while the material shall\n               there remain, keep one or more lighted lanterns or flares so placed that such material\n               may be easily seen by persons passing along such sidewalk, street, road or alley. (Prior code § 11.0603)\n\nNo…",
+          "sourceUrl": "https://library.municode.com/sd/redfield/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:redfield:3",
+          "prompt": "Where is Redfield's zone of quiet around the city hospital?",
+          "choices": [
+            "Inside the hospital building only",
+            "All territory within 300 feet of the hospital",
+            "The block the hospital is on",
+            "Within 100 feet"
+          ],
+          "answer": "All territory within 300 feet of the hospital",
+          "excerpt": "Chapters:\n\nSections:\n\nNo person shall place, leave or keep on any public street, road, alley, sidewalk or\n               other public ground in the city, any wagon, automobile, cart, truck, sleigh or other\n               vehicle, except when the same shall be in actual use; nor shall any person place,\n               leave or keep on any public street, road, alley, sidewalk. or other public ground\n               in this city, any other article, substance or material which may obstruct the free\n               use of the street, road, alley, sidewalk or public ground, except as hereinafter provided. (Prior code § 11.0601)\n\nThe council is authorized to grant permission in writing to any person to deposit\n               and keep lumber, stone, brick or other materials for building, in any public sidewalk,\n               street, road or alley adjacent to the building to be erected or repaired, but such\n               permission shall not excuse the obstruction or occupancy with such materials of more\n               than one-third in width of any carriage way of any street or road. (Prior code § 11.0602)\n\nEvery person to whom permission may be granted, as provided in Section 12.04.020 , to place and keep building material in the street, road or alley, shall cause all\n               such material and the rubbish resulting therefrom, to be removed from such sidewalk,\n               street, road or alley at the expiration of the time limited in the permit, unless\n               the time shall for good cause be extended by the council; and any person depositing\n               and keeping any building material on such sidewalk or in such street, road or alley\n               under a permit from the council, shall during every night while the material shall\n               there remain, keep one or more lighted lanterns or flares so placed that such material\n               may be easily seen by persons passing along such sidewalk, street, road or alley. (Prior code § 11.0603)\n\nNo…",
+          "sourceUrl": "https://library.municode.com/sd/redfield/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:redfield:4",
+          "prompt": "If you have city permission to keep lumber or bricks on the street while building, what must you do at night?",
+          "choices": [
+            "Hire extra security",
+            "Keep one or more lighted lanterns or flares so the materials can be easily seen",
+            "Remove them every evening",
+            "Paint them bright orange"
+          ],
+          "answer": "Keep one or more lighted lanterns or flares so the materials can be easily seen",
+          "excerpt": "Chapters:\n\nSections:\n\nNo person shall place, leave or keep on any public street, road, alley, sidewalk or\n               other public ground in the city, any wagon, automobile, cart, truck, sleigh or other\n               vehicle, except when the same shall be in actual use; nor shall any person place,\n               leave or keep on any public street, road, alley, sidewalk. or other public ground\n               in this city, any other article, substance or material which may obstruct the free\n               use of the street, road, alley, sidewalk or public ground, except as hereinafter provided. (Prior code § 11.0601)\n\nThe council is authorized to grant permission in writing to any person to deposit\n               and keep lumber, stone, brick or other materials for building, in any public sidewalk,\n               street, road or alley adjacent to the building to be erected or repaired, but such\n               permission shall not excuse the obstruction or occupancy with such materials of more\n               than one-third in width of any carriage way of any street or road. (Prior code § 11.0602)\n\nEvery person to whom permission may be granted, as provided in Section 12.04.020 , to place and keep building material in the street, road or alley, shall cause all\n               such material and the rubbish resulting therefrom, to be removed from such sidewalk,\n               street, road or alley at the expiration of the time limited in the permit, unless\n               the time shall for good cause be extended by the council; and any person depositing\n               and keeping any building material on such sidewalk or in such street, road or alley\n               under a permit from the council, shall during every night while the material shall\n               there remain, keep one or more lighted lanterns or flares so placed that such material\n               may be easily seen by persons passing along such sidewalk, street, road or alley. (Prior code § 11.0603)\n\nNo…",
+          "sourceUrl": "https://library.municode.com/sd/redfield/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "salem",
+      "name": "Salem",
+      "sourceIndex": "https://library.municode.com/sd/salem",
+      "questions": [
+        {
+          "id": "sd:salem:0",
+          "prompt": "What is the minimum size for address numbers on a house or business in Salem?",
+          "choices": [
+            "Two inches",
+            "Three inches",
+            "Four inches"
+          ],
+          "answer": "Three inches",
+          "excerpt": "The names of all streets and avenues in the city shall be fixed and adopted in accordance\n               with the official map of the city on file in the finance office. All east-west thoroughfares\n               shall be designated as avenues and all north-south thoroughfares shall be designated\n               as streets. Any such act of naming establishing or vacating any street, alley or other\n               public way in the city shall be so designated on such map.\n\nEvery person who is or may hereafter become the owner or renter of any house, residence,\n               store, shop or other business building, situated on any lot fronting on any of the\n               streets or avenues of the City of Salem shall number with three-inch minimum numbers\n               effective January 1, 1993, the same over the main entrance thereof.\n\nEast and west shall be Main Street. The dividing line for numbering on all streets\n               and avenues running north and south shall be the railroad right-of-way. All streets\n               and parts of streets running west from Main Street shall be designated by prefixing\n               to the names thereof the word \"West\" and all streets and parts of streets running\n               east from Main Street shall be designated by prefixing to the names thereof the word\n               \"East\". In like manner all streets and parts of streets running south from the railroad\n               right-of-way shall be designated by prefixing to the names thereof the word \"South\"\n               and all streets and parts of streets running north from the railroad right-of-way\n               shall be designated by prefixing to the names thereof \"North\".\n\nOne number shall be apportioned to every subdivision of 25 feet along all the thoroughfares\n               of the city whether the same be occupied by buildings or not. Provided, however, that\n               in case any block or blocks or any lot or lots will not divide perfectly into…",
+          "sourceUrl": "https://library.municode.com/sd/salem/codes/code_of_ordinances?nodeId=CD_ORD_TIT6STSIPUPL"
+        },
+        {
+          "id": "sd:salem:1",
+          "prompt": "When is digging in Salem city streets usually not allowed?",
+          "choices": [
+            "October 15 through April 15",
+            "April 15 through October 15",
+            "December through February"
+          ],
+          "answer": "October 15 through April 15",
+          "excerpt": "The names of all streets and avenues in the city shall be fixed and adopted in accordance\n               with the official map of the city on file in the finance office. All east-west thoroughfares\n               shall be designated as avenues and all north-south thoroughfares shall be designated\n               as streets. Any such act of naming establishing or vacating any street, alley or other\n               public way in the city shall be so designated on such map.\n\nEvery person who is or may hereafter become the owner or renter of any house, residence,\n               store, shop or other business building, situated on any lot fronting on any of the\n               streets or avenues of the City of Salem shall number with three-inch minimum numbers\n               effective January 1, 1993, the same over the main entrance thereof.\n\nEast and west shall be Main Street. The dividing line for numbering on all streets\n               and avenues running north and south shall be the railroad right-of-way. All streets\n               and parts of streets running west from Main Street shall be designated by prefixing\n               to the names thereof the word \"West\" and all streets and parts of streets running\n               east from Main Street shall be designated by prefixing to the names thereof the word\n               \"East\". In like manner all streets and parts of streets running south from the railroad\n               right-of-way shall be designated by prefixing to the names thereof the word \"South\"\n               and all streets and parts of streets running north from the railroad right-of-way\n               shall be designated by prefixing to the names thereof \"North\".\n\nOne number shall be apportioned to every subdivision of 25 feet along all the thoroughfares\n               of the city whether the same be occupied by buildings or not. Provided, however, that\n               in case any block or blocks or any lot or lots will not divide perfectly into…",
+          "sourceUrl": "https://library.municode.com/sd/salem/codes/code_of_ordinances?nodeId=CD_ORD_TIT6STSIPUPL"
+        },
+        {
+          "id": "sd:salem:2",
+          "prompt": "In Salem, what are east-west roads called?",
+          "choices": [
+            "Streets",
+            "Avenues",
+            "Highways"
+          ],
+          "answer": "Avenues",
+          "excerpt": "The names of all streets and avenues in the city shall be fixed and adopted in accordance\n               with the official map of the city on file in the finance office. All east-west thoroughfares\n               shall be designated as avenues and all north-south thoroughfares shall be designated\n               as streets. Any such act of naming establishing or vacating any street, alley or other\n               public way in the city shall be so designated on such map.\n\nEvery person who is or may hereafter become the owner or renter of any house, residence,\n               store, shop or other business building, situated on any lot fronting on any of the\n               streets or avenues of the City of Salem shall number with three-inch minimum numbers\n               effective January 1, 1993, the same over the main entrance thereof.\n\nEast and west shall be Main Street. The dividing line for numbering on all streets\n               and avenues running north and south shall be the railroad right-of-way. All streets\n               and parts of streets running west from Main Street shall be designated by prefixing\n               to the names thereof the word \"West\" and all streets and parts of streets running\n               east from Main Street shall be designated by prefixing to the names thereof the word\n               \"East\". In like manner all streets and parts of streets running south from the railroad\n               right-of-way shall be designated by prefixing to the names thereof the word \"South\"\n               and all streets and parts of streets running north from the railroad right-of-way\n               shall be designated by prefixing to the names thereof \"North\".\n\nOne number shall be apportioned to every subdivision of 25 feet along all the thoroughfares\n               of the city whether the same be occupied by buildings or not. Provided, however, that\n               in case any block or blocks or any lot or lots will not divide perfectly into…",
+          "sourceUrl": "https://library.municode.com/sd/salem/codes/code_of_ordinances?nodeId=CD_ORD_TIT6STSIPUPL"
+        },
+        {
+          "id": "sd:salem:3",
+          "prompt": "To ask the city to improve an alley, owners of how much of the property along that alley must sign?",
+          "choices": [
+            "50 percent",
+            "75 percent",
+            "All of it"
+          ],
+          "answer": "75 percent",
+          "excerpt": "The names of all streets and avenues in the city shall be fixed and adopted in accordance\n               with the official map of the city on file in the finance office. All east-west thoroughfares\n               shall be designated as avenues and all north-south thoroughfares shall be designated\n               as streets. Any such act of naming establishing or vacating any street, alley or other\n               public way in the city shall be so designated on such map.\n\nEvery person who is or may hereafter become the owner or renter of any house, residence,\n               store, shop or other business building, situated on any lot fronting on any of the\n               streets or avenues of the City of Salem shall number with three-inch minimum numbers\n               effective January 1, 1993, the same over the main entrance thereof.\n\nEast and west shall be Main Street. The dividing line for numbering on all streets\n               and avenues running north and south shall be the railroad right-of-way. All streets\n               and parts of streets running west from Main Street shall be designated by prefixing\n               to the names thereof the word \"West\" and all streets and parts of streets running\n               east from Main Street shall be designated by prefixing to the names thereof the word\n               \"East\". In like manner all streets and parts of streets running south from the railroad\n               right-of-way shall be designated by prefixing to the names thereof the word \"South\"\n               and all streets and parts of streets running north from the railroad right-of-way\n               shall be designated by prefixing to the names thereof \"North\".\n\nOne number shall be apportioned to every subdivision of 25 feet along all the thoroughfares\n               of the city whether the same be occupied by buildings or not. Provided, however, that\n               in case any block or blocks or any lot or lots will not divide perfectly into…",
+          "sourceUrl": "https://library.municode.com/sd/salem/codes/code_of_ordinances?nodeId=CD_ORD_TIT6STSIPUPL"
+        },
+        {
+          "id": "sd:salem:4",
+          "prompt": "On east-west streets in Salem, which side of the street has odd house numbers?",
+          "choices": [
+            "North side",
+            "South side",
+            "Either side"
+          ],
+          "answer": "South side",
+          "excerpt": "The names of all streets and avenues in the city shall be fixed and adopted in accordance\n               with the official map of the city on file in the finance office. All east-west thoroughfares\n               shall be designated as avenues and all north-south thoroughfares shall be designated\n               as streets. Any such act of naming establishing or vacating any street, alley or other\n               public way in the city shall be so designated on such map.\n\nEvery person who is or may hereafter become the owner or renter of any house, residence,\n               store, shop or other business building, situated on any lot fronting on any of the\n               streets or avenues of the City of Salem shall number with three-inch minimum numbers\n               effective January 1, 1993, the same over the main entrance thereof.\n\nEast and west shall be Main Street. The dividing line for numbering on all streets\n               and avenues running north and south shall be the railroad right-of-way. All streets\n               and parts of streets running west from Main Street shall be designated by prefixing\n               to the names thereof the word \"West\" and all streets and parts of streets running\n               east from Main Street shall be designated by prefixing to the names thereof the word\n               \"East\". In like manner all streets and parts of streets running south from the railroad\n               right-of-way shall be designated by prefixing to the names thereof the word \"South\"\n               and all streets and parts of streets running north from the railroad right-of-way\n               shall be designated by prefixing to the names thereof \"North\".\n\nOne number shall be apportioned to every subdivision of 25 feet along all the thoroughfares\n               of the city whether the same be occupied by buildings or not. Provided, however, that\n               in case any block or blocks or any lot or lots will not divide perfectly into…",
+          "sourceUrl": "https://library.municode.com/sd/salem/codes/code_of_ordinances?nodeId=CD_ORD_TIT6STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "selby",
+      "name": "Selby",
+      "sourceIndex": "https://library.municode.com/sd/selby",
+      "questions": [
+        {
+          "id": "sd:selby:0",
+          "prompt": "In Selby, do you need a city license to keep a cat, the same as for a dog?",
+          "choices": [
+            "No, only dogs need licenses",
+            "Yes, both dogs and cats need licenses",
+            "Only outdoor cats need licenses"
+          ],
+          "answer": "Yes, both dogs and cats need licenses",
+          "excerpt": "It shall be unlawful for any person or persons within the City of Selby to keep, maintain\n               or have in his custody or under his control any dog or cat without first having obtained\n               a license so to do from the city finance officer, as hereafter provided, and without\n               having paid the license fee therefor. (Adopted by Ord. 1989 Municipal Code Book on 1/17/1990; Amended by Ord. 190 on 7/2/2007)\n\nAny person or persons desiring to keep, maintain or have in his custody by himself\n               or agent within the said City of Selby any dog or cat, shall on or before the 30th\n               day of April in each year make application to the city finance officer for a license\n               to keep such dog or cat. Such application shall be in writing stating the name, sex,\n               color and other distinguishing characteristics of said dog or cat and the name of\n               the owner thereof, and that the dog or cat has no vicious propensities so far as known\n               to said applicant or to any other interested party. Such application shall be made\n               on printed forms furnished by the city finance officer and shall be filed with the\n               city finance office. In addition, the person desiring to license the said dog or cat\n               shall furnish proof from a licensed veterinarian that the said dog or cat has been\n               immunized for rabies within the past 24 months. In the event the city finance officer has in his possession a signed complaint or\n               complaints verified by the chief of police that such dog or cat has vicious propensities,\n               such application shall be denied, and the owner or person having control of such dog\n               or cat shall cause the same to be removed from the corporate city limits. Any person violating the provisions of chapter 9.04 shall be fined in a sum not exceeding the amount of $100.00. Each day the violation\n             …",
+          "sourceUrl": "https://library.municode.com/sd/selby/codes/code_of_ordinances?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "sd:selby:1",
+          "prompt": "By what date each year must you apply for a dog or cat license in Selby?",
+          "choices": [
+            "January 1",
+            "April 30",
+            "July 4",
+            "December 31"
+          ],
+          "answer": "April 30",
+          "excerpt": "It shall be unlawful for any person or persons within the City of Selby to keep, maintain\n               or have in his custody or under his control any dog or cat without first having obtained\n               a license so to do from the city finance officer, as hereafter provided, and without\n               having paid the license fee therefor. (Adopted by Ord. 1989 Municipal Code Book on 1/17/1990; Amended by Ord. 190 on 7/2/2007)\n\nAny person or persons desiring to keep, maintain or have in his custody by himself\n               or agent within the said City of Selby any dog or cat, shall on or before the 30th\n               day of April in each year make application to the city finance officer for a license\n               to keep such dog or cat. Such application shall be in writing stating the name, sex,\n               color and other distinguishing characteristics of said dog or cat and the name of\n               the owner thereof, and that the dog or cat has no vicious propensities so far as known\n               to said applicant or to any other interested party. Such application shall be made\n               on printed forms furnished by the city finance officer and shall be filed with the\n               city finance office. In addition, the person desiring to license the said dog or cat\n               shall furnish proof from a licensed veterinarian that the said dog or cat has been\n               immunized for rabies within the past 24 months. In the event the city finance officer has in his possession a signed complaint or\n               complaints verified by the chief of police that such dog or cat has vicious propensities,\n               such application shall be denied, and the owner or person having control of such dog\n               or cat shall cause the same to be removed from the corporate city limits. Any person violating the provisions of chapter 9.04 shall be fined in a sum not exceeding the amount of $100.00. Each day the violation\n             …",
+          "sourceUrl": "https://library.municode.com/sd/selby/codes/code_of_ordinances?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "sd:selby:2",
+          "prompt": "How much is the license fee for each dog or cat in Selby?",
+          "choices": [
+            "$5.00",
+            "$10.00",
+            "$15.00",
+            "$25.00"
+          ],
+          "answer": "$10.00",
+          "excerpt": "It shall be unlawful for any person or persons within the City of Selby to keep, maintain\n               or have in his custody or under his control any dog or cat without first having obtained\n               a license so to do from the city finance officer, as hereafter provided, and without\n               having paid the license fee therefor. (Adopted by Ord. 1989 Municipal Code Book on 1/17/1990; Amended by Ord. 190 on 7/2/2007)\n\nAny person or persons desiring to keep, maintain or have in his custody by himself\n               or agent within the said City of Selby any dog or cat, shall on or before the 30th\n               day of April in each year make application to the city finance officer for a license\n               to keep such dog or cat. Such application shall be in writing stating the name, sex,\n               color and other distinguishing characteristics of said dog or cat and the name of\n               the owner thereof, and that the dog or cat has no vicious propensities so far as known\n               to said applicant or to any other interested party. Such application shall be made\n               on printed forms furnished by the city finance officer and shall be filed with the\n               city finance office. In addition, the person desiring to license the said dog or cat\n               shall furnish proof from a licensed veterinarian that the said dog or cat has been\n               immunized for rabies within the past 24 months. In the event the city finance officer has in his possession a signed complaint or\n               complaints verified by the chief of police that such dog or cat has vicious propensities,\n               such application shall be denied, and the owner or person having control of such dog\n               or cat shall cause the same to be removed from the corporate city limits. Any person violating the provisions of chapter 9.04 shall be fined in a sum not exceeding the amount of $100.00. Each day the violation\n             …",
+          "sourceUrl": "https://library.municode.com/sd/selby/codes/code_of_ordinances?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "sd:selby:3",
+          "prompt": "Besides the written application, what extra proof must you give the city to license a dog or cat?",
+          "choices": [
+            "A photo of the animal",
+            "Proof it was immunized for rabies within the past 24 months",
+            "A neighbor's written permission",
+            "Proof it is spayed or neutered"
+          ],
+          "answer": "Proof it was immunized for rabies within the past 24 months",
+          "excerpt": "It shall be unlawful for any person or persons within the City of Selby to keep, maintain\n               or have in his custody or under his control any dog or cat without first having obtained\n               a license so to do from the city finance officer, as hereafter provided, and without\n               having paid the license fee therefor. (Adopted by Ord. 1989 Municipal Code Book on 1/17/1990; Amended by Ord. 190 on 7/2/2007)\n\nAny person or persons desiring to keep, maintain or have in his custody by himself\n               or agent within the said City of Selby any dog or cat, shall on or before the 30th\n               day of April in each year make application to the city finance officer for a license\n               to keep such dog or cat. Such application shall be in writing stating the name, sex,\n               color and other distinguishing characteristics of said dog or cat and the name of\n               the owner thereof, and that the dog or cat has no vicious propensities so far as known\n               to said applicant or to any other interested party. Such application shall be made\n               on printed forms furnished by the city finance officer and shall be filed with the\n               city finance office. In addition, the person desiring to license the said dog or cat\n               shall furnish proof from a licensed veterinarian that the said dog or cat has been\n               immunized for rabies within the past 24 months. In the event the city finance officer has in his possession a signed complaint or\n               complaints verified by the chief of police that such dog or cat has vicious propensities,\n               such application shall be denied, and the owner or person having control of such dog\n               or cat shall cause the same to be removed from the corporate city limits. Any person violating the provisions of chapter 9.04 shall be fined in a sum not exceeding the amount of $100.00. Each day the violation\n             …",
+          "sourceUrl": "https://library.municode.com/sd/selby/codes/code_of_ordinances?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "sd:selby:4",
+          "prompt": "Who can order that all dogs in Selby must be muzzled, after 48 hours' notice in the official paper?",
+          "choices": [
+            "The chief of police",
+            "The mayor",
+            "The city finance officer",
+            "Any nearby resident"
+          ],
+          "answer": "The mayor",
+          "excerpt": "It shall be unlawful for any person or persons within the City of Selby to keep, maintain\n               or have in his custody or under his control any dog or cat without first having obtained\n               a license so to do from the city finance officer, as hereafter provided, and without\n               having paid the license fee therefor. (Adopted by Ord. 1989 Municipal Code Book on 1/17/1990; Amended by Ord. 190 on 7/2/2007)\n\nAny person or persons desiring to keep, maintain or have in his custody by himself\n               or agent within the said City of Selby any dog or cat, shall on or before the 30th\n               day of April in each year make application to the city finance officer for a license\n               to keep such dog or cat. Such application shall be in writing stating the name, sex,\n               color and other distinguishing characteristics of said dog or cat and the name of\n               the owner thereof, and that the dog or cat has no vicious propensities so far as known\n               to said applicant or to any other interested party. Such application shall be made\n               on printed forms furnished by the city finance officer and shall be filed with the\n               city finance office. In addition, the person desiring to license the said dog or cat\n               shall furnish proof from a licensed veterinarian that the said dog or cat has been\n               immunized for rabies within the past 24 months. In the event the city finance officer has in his possession a signed complaint or\n               complaints verified by the chief of police that such dog or cat has vicious propensities,\n               such application shall be denied, and the owner or person having control of such dog\n               or cat shall cause the same to be removed from the corporate city limits. Any person violating the provisions of chapter 9.04 shall be fined in a sum not exceeding the amount of $100.00. Each day the violation\n             …",
+          "sourceUrl": "https://library.municode.com/sd/selby/codes/code_of_ordinances?nodeId=TIT9ANSECO"
+        }
+      ]
+    },
+    {
+      "id": "sisseton",
+      "name": "Sisseton",
+      "sourceIndex": "https://library.municode.com/sd/sisseton",
+      "questions": [
+        {
+          "id": "sd:sisseton:0",
+          "prompt": "Where is Sisseton's official map of streets and street names kept?",
+          "choices": [
+            "At city hall",
+            "In the office of the register of deeds of Roberts County",
+            "With the finance officer",
+            "At the city engineer's desk"
+          ],
+          "answer": "In the office of the register of deeds of Roberts County",
+          "excerpt": "Those plats indicating the names of streets and avenues of the city now on file in\n               the office of the register of deeds of Roberts County, South Dakota are hereby incorporated\n               as a part of this chapter. (Prior code § 11-1-1)\n\nThe official map of the city shall be those maintained in the office of the register\n               of deeds of Roberts County, South Dakota. (Prior code § 11-1-2)\n\nThe official names of the streets and avenues in the city shall be those as shown\n               on the official map or maps maintained in the office of the register of deeds of Roberts\n               County, South Dakota. (Prior code § 11-1-3)\n\nSections:\n\nThe building and construction of all sidewalks and curbing within the limits of the\n               streets and alleys of the city shall be done under direct supervision of agents and\n               all such sidewalks shall be constructed on the grades as determined by the city. (Prior code § 11-2-1)\n\nThe construction of all sidewalks and curbing whether to be done by direct contract\n               with the city or by contract with the abutting property owners, shall be done strictly\n               in accordance with the specifications for sidewalks and curbing adopted by the council\n               and on file in the office of the finance officer. The council shall have full power\n               to condemn work and material not in accordance with the requirements of the specifications. (Prior code § 11-2-2)\n\nBefore any sidewalk or curbing is constructed within the limits of the streets and\n               alleys in the city by any contractor or person for the owner or owners of abutting\n               property, the contractor or person must first secure a permit therefore from the finance\n               officer. (Prior code § 11-2-3)\n\nBefore any such contractor or person shall receive a permit for the construction of\n               any sidewalk or curbing within the limits of the streets or alleys of…",
+          "sourceUrl": "https://library.municode.com/sd/sisseton/codes/municipal_code?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:sisseton:1",
+          "prompt": "How wide must sidewalks be in Sisseton's residential districts?",
+          "choices": [
+            "Four feet",
+            "Six feet",
+            "Eight feet",
+            "Whatever width the builder chooses"
+          ],
+          "answer": "Four feet",
+          "excerpt": "Those plats indicating the names of streets and avenues of the city now on file in\n               the office of the register of deeds of Roberts County, South Dakota are hereby incorporated\n               as a part of this chapter. (Prior code § 11-1-1)\n\nThe official map of the city shall be those maintained in the office of the register\n               of deeds of Roberts County, South Dakota. (Prior code § 11-1-2)\n\nThe official names of the streets and avenues in the city shall be those as shown\n               on the official map or maps maintained in the office of the register of deeds of Roberts\n               County, South Dakota. (Prior code § 11-1-3)\n\nSections:\n\nThe building and construction of all sidewalks and curbing within the limits of the\n               streets and alleys of the city shall be done under direct supervision of agents and\n               all such sidewalks shall be constructed on the grades as determined by the city. (Prior code § 11-2-1)\n\nThe construction of all sidewalks and curbing whether to be done by direct contract\n               with the city or by contract with the abutting property owners, shall be done strictly\n               in accordance with the specifications for sidewalks and curbing adopted by the council\n               and on file in the office of the finance officer. The council shall have full power\n               to condemn work and material not in accordance with the requirements of the specifications. (Prior code § 11-2-2)\n\nBefore any sidewalk or curbing is constructed within the limits of the streets and\n               alleys in the city by any contractor or person for the owner or owners of abutting\n               property, the contractor or person must first secure a permit therefore from the finance\n               officer. (Prior code § 11-2-3)\n\nBefore any such contractor or person shall receive a permit for the construction of\n               any sidewalk or curbing within the limits of the streets or alleys of…",
+          "sourceUrl": "https://library.municode.com/sd/sisseton/codes/municipal_code?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:sisseton:2",
+          "prompt": "If you build a sidewalk yourself next to your own property, do you need a guaranty bond?",
+          "choices": [
+            "Yes, equal to the cost of the work",
+            "Yes, covering three years of possible repairs",
+            "No, a bond is not required when the owner does their own work",
+            "Only if the sidewalk is in the business district"
+          ],
+          "answer": "No, a bond is not required when the owner does their own work",
+          "excerpt": "Those plats indicating the names of streets and avenues of the city now on file in\n               the office of the register of deeds of Roberts County, South Dakota are hereby incorporated\n               as a part of this chapter. (Prior code § 11-1-1)\n\nThe official map of the city shall be those maintained in the office of the register\n               of deeds of Roberts County, South Dakota. (Prior code § 11-1-2)\n\nThe official names of the streets and avenues in the city shall be those as shown\n               on the official map or maps maintained in the office of the register of deeds of Roberts\n               County, South Dakota. (Prior code § 11-1-3)\n\nSections:\n\nThe building and construction of all sidewalks and curbing within the limits of the\n               streets and alleys of the city shall be done under direct supervision of agents and\n               all such sidewalks shall be constructed on the grades as determined by the city. (Prior code § 11-2-1)\n\nThe construction of all sidewalks and curbing whether to be done by direct contract\n               with the city or by contract with the abutting property owners, shall be done strictly\n               in accordance with the specifications for sidewalks and curbing adopted by the council\n               and on file in the office of the finance officer. The council shall have full power\n               to condemn work and material not in accordance with the requirements of the specifications. (Prior code § 11-2-2)\n\nBefore any sidewalk or curbing is constructed within the limits of the streets and\n               alleys in the city by any contractor or person for the owner or owners of abutting\n               property, the contractor or person must first secure a permit therefore from the finance\n               officer. (Prior code § 11-2-3)\n\nBefore any such contractor or person shall receive a permit for the construction of\n               any sidewalk or curbing within the limits of the streets or alleys of…",
+          "sourceUrl": "https://library.municode.com/sd/sisseton/codes/municipal_code?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:sisseton:3",
+          "prompt": "May you ride, drive, or lead a horse on a public sidewalk in Sisseton?",
+          "choices": [
+            "Yes, if you stay to one side",
+            "No, horses, mules, cows, and other animals may not be ridden, driven, or led on public sidewalks",
+            "Only in residential areas",
+            "Yes, but cars may not use sidewalks"
+          ],
+          "answer": "No, horses, mules, cows, and other animals may not be ridden, driven, or led on public sidewalks",
+          "excerpt": "Those plats indicating the names of streets and avenues of the city now on file in\n               the office of the register of deeds of Roberts County, South Dakota are hereby incorporated\n               as a part of this chapter. (Prior code § 11-1-1)\n\nThe official map of the city shall be those maintained in the office of the register\n               of deeds of Roberts County, South Dakota. (Prior code § 11-1-2)\n\nThe official names of the streets and avenues in the city shall be those as shown\n               on the official map or maps maintained in the office of the register of deeds of Roberts\n               County, South Dakota. (Prior code § 11-1-3)\n\nSections:\n\nThe building and construction of all sidewalks and curbing within the limits of the\n               streets and alleys of the city shall be done under direct supervision of agents and\n               all such sidewalks shall be constructed on the grades as determined by the city. (Prior code § 11-2-1)\n\nThe construction of all sidewalks and curbing whether to be done by direct contract\n               with the city or by contract with the abutting property owners, shall be done strictly\n               in accordance with the specifications for sidewalks and curbing adopted by the council\n               and on file in the office of the finance officer. The council shall have full power\n               to condemn work and material not in accordance with the requirements of the specifications. (Prior code § 11-2-2)\n\nBefore any sidewalk or curbing is constructed within the limits of the streets and\n               alleys in the city by any contractor or person for the owner or owners of abutting\n               property, the contractor or person must first secure a permit therefore from the finance\n               officer. (Prior code § 11-2-3)\n\nBefore any such contractor or person shall receive a permit for the construction of\n               any sidewalk or curbing within the limits of the streets or alleys of…",
+          "sourceUrl": "https://library.municode.com/sd/sisseton/codes/municipal_code?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "sd:sisseton:4",
+          "prompt": "When may a motor vehicle be driven on a sidewalk in Sisseton?",
+          "choices": [
+            "Never",
+            "Anytime if driven slowly",
+            "Only when crossing the sidewalk to enter or leave a property",
+            "In the business district only"
+          ],
+          "answer": "Only when crossing the sidewalk to enter or leave a property",
+          "excerpt": "Those plats indicating the names of streets and avenues of the city now on file in\n               the office of the register of deeds of Roberts County, South Dakota are hereby incorporated\n               as a part of this chapter. (Prior code § 11-1-1)\n\nThe official map of the city shall be those maintained in the office of the register\n               of deeds of Roberts County, South Dakota. (Prior code § 11-1-2)\n\nThe official names of the streets and avenues in the city shall be those as shown\n               on the official map or maps maintained in the office of the register of deeds of Roberts\n               County, South Dakota. (Prior code § 11-1-3)\n\nSections:\n\nThe building and construction of all sidewalks and curbing within the limits of the\n               streets and alleys of the city shall be done under direct supervision of agents and\n               all such sidewalks shall be constructed on the grades as determined by the city. (Prior code § 11-2-1)\n\nThe construction of all sidewalks and curbing whether to be done by direct contract\n               with the city or by contract with the abutting property owners, shall be done strictly\n               in accordance with the specifications for sidewalks and curbing adopted by the council\n               and on file in the office of the finance officer. The council shall have full power\n               to condemn work and material not in accordance with the requirements of the specifications. (Prior code § 11-2-2)\n\nBefore any sidewalk or curbing is constructed within the limits of the streets and\n               alleys in the city by any contractor or person for the owner or owners of abutting\n               property, the contractor or person must first secure a permit therefore from the finance\n               officer. (Prior code § 11-2-3)\n\nBefore any such contractor or person shall receive a permit for the construction of\n               any sidewalk or curbing within the limits of the streets or alleys of…",
+          "sourceUrl": "https://library.municode.com/sd/sisseton/codes/municipal_code?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "yankton",
+      "name": "Yankton",
+      "sourceIndex": "https://library.municode.com/sd/yankton",
+      "questions": [
+        {
+          "id": "sd:yankton:0",
+          "prompt": "In Yankton, a site counts as a mobile home park only if it has at least this many mobile homes:",
+          "choices": [
+            "At least 5",
+            "At least 10",
+            "At least 20",
+            "At least 50"
+          ],
+          "answer": "At least 20",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate house trailers and trailer coaches, SDCL 1967, § 9-31-1.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 385, adopted Oct. 23, 1973, repealed former Art. II, relative to trailer\n               coach parks, and enacted in lieu thereof a new Art. II as set out in §§ 23-16—23-27.\n               Former Art. II was derived from Rev. Ords. 1949, §§ 6.2001—6.2016, and Ord. No. 178,\n               adopted June 15, 1953. Cross reference— Flood control for mobile homes, § 11-90(c).\n\nAs used in this article the following terms shall have the meanings ascribed to them: (a) Mobile home park shall mean any area, tract, site or plot of land whereupon a minimum of twenty (20)\n                  mobile homes as herein defined are placed, located or maintained or intended to be\n                  placed, located or maintained, for dwelling purposes on a permanent or semipermanent\n                  basis. (b) Licensee shall mean any person, firm, trust, partnership or corporation licensed to operate\n                  and maintain a mobile home park under the provisions of this article. (c) Manager or operator shall mean any person named in the license who is in charge of the daily operation\n                  and maintenance of the mobile home park. (d) Independent mobile home shall mean a mobile home which has a flush toilet and a bath or shower. (e) Dependent mobile home shall mean a mobile home which does not have a flush toilet and a bath or shower. (f) Mobile home is a detached residential dwelling unit designed for transportation, after fabrication,\n                  on streets or highways on its own wheels, on a flatbed, on another trailer or in another\n                  manner, and arriving at the site where it is to be occupied as a dwelling complete\n                  and ready for occupancy except for minor and incidental unpacking and assembly operations,\n                  location of jacks or other…",
+          "sourceUrl": "https://library.municode.com/sd/yankton/codes/code_of_ordinances?nodeId=CH23TRTRPA"
+        },
+        {
+          "id": "sd:yankton:1",
+          "prompt": "Each regular space in a new Yankton mobile home park must be at least this large:",
+          "choices": [
+            "1,500 square feet",
+            "2,200 square feet",
+            "3,000 square feet",
+            "5,000 square feet"
+          ],
+          "answer": "2,200 square feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate house trailers and trailer coaches, SDCL 1967, § 9-31-1.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 385, adopted Oct. 23, 1973, repealed former Art. II, relative to trailer\n               coach parks, and enacted in lieu thereof a new Art. II as set out in §§ 23-16—23-27.\n               Former Art. II was derived from Rev. Ords. 1949, §§ 6.2001—6.2016, and Ord. No. 178,\n               adopted June 15, 1953. Cross reference— Flood control for mobile homes, § 11-90(c).\n\nAs used in this article the following terms shall have the meanings ascribed to them: (a) Mobile home park shall mean any area, tract, site or plot of land whereupon a minimum of twenty (20)\n                  mobile homes as herein defined are placed, located or maintained or intended to be\n                  placed, located or maintained, for dwelling purposes on a permanent or semipermanent\n                  basis. (b) Licensee shall mean any person, firm, trust, partnership or corporation licensed to operate\n                  and maintain a mobile home park under the provisions of this article. (c) Manager or operator shall mean any person named in the license who is in charge of the daily operation\n                  and maintenance of the mobile home park. (d) Independent mobile home shall mean a mobile home which has a flush toilet and a bath or shower. (e) Dependent mobile home shall mean a mobile home which does not have a flush toilet and a bath or shower. (f) Mobile home is a detached residential dwelling unit designed for transportation, after fabrication,\n                  on streets or highways on its own wheels, on a flatbed, on another trailer or in another\n                  manner, and arriving at the site where it is to be occupied as a dwelling complete\n                  and ready for occupancy except for minor and incidental unpacking and assembly operations,\n                  location of jacks or other…",
+          "sourceUrl": "https://library.municode.com/sd/yankton/codes/code_of_ordinances?nodeId=CH23TRTRPA"
+        },
+        {
+          "id": "sd:yankton:2",
+          "prompt": "How much open space must sit between two mobile homes in a Yankton park?",
+          "choices": [
+            "At least 4 feet",
+            "At least 10 feet",
+            "At least 15 feet",
+            "At least 30 feet"
+          ],
+          "answer": "At least 15 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate house trailers and trailer coaches, SDCL 1967, § 9-31-1.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 385, adopted Oct. 23, 1973, repealed former Art. II, relative to trailer\n               coach parks, and enacted in lieu thereof a new Art. II as set out in §§ 23-16—23-27.\n               Former Art. II was derived from Rev. Ords. 1949, §§ 6.2001—6.2016, and Ord. No. 178,\n               adopted June 15, 1953. Cross reference— Flood control for mobile homes, § 11-90(c).\n\nAs used in this article the following terms shall have the meanings ascribed to them: (a) Mobile home park shall mean any area, tract, site or plot of land whereupon a minimum of twenty (20)\n                  mobile homes as herein defined are placed, located or maintained or intended to be\n                  placed, located or maintained, for dwelling purposes on a permanent or semipermanent\n                  basis. (b) Licensee shall mean any person, firm, trust, partnership or corporation licensed to operate\n                  and maintain a mobile home park under the provisions of this article. (c) Manager or operator shall mean any person named in the license who is in charge of the daily operation\n                  and maintenance of the mobile home park. (d) Independent mobile home shall mean a mobile home which has a flush toilet and a bath or shower. (e) Dependent mobile home shall mean a mobile home which does not have a flush toilet and a bath or shower. (f) Mobile home is a detached residential dwelling unit designed for transportation, after fabrication,\n                  on streets or highways on its own wheels, on a flatbed, on another trailer or in another\n                  manner, and arriving at the site where it is to be occupied as a dwelling complete\n                  and ready for occupancy except for minor and incidental unpacking and assembly operations,\n                  location of jacks or other…",
+          "sourceUrl": "https://library.municode.com/sd/yankton/codes/code_of_ordinances?nodeId=CH23TRTRPA"
+        },
+        {
+          "id": "sd:yankton:3",
+          "prompt": "How close to the park's outer property line may a mobile home sit in Yankton?",
+          "choices": [
+            "4 feet",
+            "10 feet",
+            "15 feet",
+            "20 feet"
+          ],
+          "answer": "4 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate house trailers and trailer coaches, SDCL 1967, § 9-31-1.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 385, adopted Oct. 23, 1973, repealed former Art. II, relative to trailer\n               coach parks, and enacted in lieu thereof a new Art. II as set out in §§ 23-16—23-27.\n               Former Art. II was derived from Rev. Ords. 1949, §§ 6.2001—6.2016, and Ord. No. 178,\n               adopted June 15, 1953. Cross reference— Flood control for mobile homes, § 11-90(c).\n\nAs used in this article the following terms shall have the meanings ascribed to them: (a) Mobile home park shall mean any area, tract, site or plot of land whereupon a minimum of twenty (20)\n                  mobile homes as herein defined are placed, located or maintained or intended to be\n                  placed, located or maintained, for dwelling purposes on a permanent or semipermanent\n                  basis. (b) Licensee shall mean any person, firm, trust, partnership or corporation licensed to operate\n                  and maintain a mobile home park under the provisions of this article. (c) Manager or operator shall mean any person named in the license who is in charge of the daily operation\n                  and maintenance of the mobile home park. (d) Independent mobile home shall mean a mobile home which has a flush toilet and a bath or shower. (e) Dependent mobile home shall mean a mobile home which does not have a flush toilet and a bath or shower. (f) Mobile home is a detached residential dwelling unit designed for transportation, after fabrication,\n                  on streets or highways on its own wheels, on a flatbed, on another trailer or in another\n                  manner, and arriving at the site where it is to be occupied as a dwelling complete\n                  and ready for occupancy except for minor and incidental unpacking and assembly operations,\n                  location of jacks or other…",
+          "sourceUrl": "https://library.municode.com/sd/yankton/codes/code_of_ordinances?nodeId=CH23TRTRPA"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "state": "nh",
+  "stateName": "New Hampshire",
+  "places": [
+    {
+      "id": "claremont",
+      "name": "Claremont",
+      "sourceIndex": "https://library.municode.com/nh/claremont",
+      "questions": [
+        {
+          "id": "nh:claremont:0",
+          "prompt": "In Claremont, every dog and cat must get a rabies vaccination starting at what age?",
+          "choices": [
+            "Three weeks old",
+            "Three months of age and older",
+            "When they get their first license",
+            "Only if they bite someone"
+          ],
+          "answer": "Three months of age and older",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Hunting, fishing and molesting wildlife prohibited in public parks and recreation\n               areas, § 12-69; dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73. State Law reference— Animals, RSA 435:1 et seq.; rabies control, RSA 436:99 et seq.; dogs, RSA 466:1 et\n               seq.; cruelty to animals, RSA 644:8; penalty for violation of certain offenses, RSA\n               466:31a.\n\n[The following term, when used in this chapter, shall have the meaning ascribed to\n               it herein, except where context clearly indicates a different meaning:] Vaccination against rabies shall mean the inoculation of a dog or cat with a rabies vaccine licensed by the\n               United States Department of Agriculture. Such vaccination shall be performed by a\n               veterinarian duly licensed to practice veterinary medicine. (Ord. No. 362, 10-12-94)\n\nEvery dog and cat three (3) months of age and older shall be vaccinated against rabies\n               in accordance with RSA 436 (Rabies Control Act). (Ord. No. 362, 10-12-94)\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises or property of the owner or responsible person, or not\n               confined within a vehicle, and not under the control of the owner or any person. Dog shall mean any canine animal, male or female, sexed or neutered. Immediate control shall mean restraint by leash or by vocal command. A dog shall be deemed out of immediate\n               control if the owner or custodian cannot restrain it from entering upon the property\n               of…",
+          "sourceUrl": "https://library.municode.com/nh/claremont/codes/code_of_ordinances?nodeId=PTIICLCO_CH4AN"
+        },
+        {
+          "id": "nh:claremont:1",
+          "prompt": "A dog in Claremont can be considered a nuisance dog if it:",
+          "choices": [
+            "Sleeps on the sidewalk",
+            "Goes to the bathroom on property that is not its owner's",
+            "Is not wearing a collar",
+            "Barks at squirrels"
+          ],
+          "answer": "Goes to the bathroom on property that is not its owner's",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Hunting, fishing and molesting wildlife prohibited in public parks and recreation\n               areas, § 12-69; dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73. State Law reference— Animals, RSA 435:1 et seq.; rabies control, RSA 436:99 et seq.; dogs, RSA 466:1 et\n               seq.; cruelty to animals, RSA 644:8; penalty for violation of certain offenses, RSA\n               466:31a.\n\n[The following term, when used in this chapter, shall have the meaning ascribed to\n               it herein, except where context clearly indicates a different meaning:] Vaccination against rabies shall mean the inoculation of a dog or cat with a rabies vaccine licensed by the\n               United States Department of Agriculture. Such vaccination shall be performed by a\n               veterinarian duly licensed to practice veterinary medicine. (Ord. No. 362, 10-12-94)\n\nEvery dog and cat three (3) months of age and older shall be vaccinated against rabies\n               in accordance with RSA 436 (Rabies Control Act). (Ord. No. 362, 10-12-94)\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises or property of the owner or responsible person, or not\n               confined within a vehicle, and not under the control of the owner or any person. Dog shall mean any canine animal, male or female, sexed or neutered. Immediate control shall mean restraint by leash or by vocal command. A dog shall be deemed out of immediate\n               control if the owner or custodian cannot restrain it from entering upon the property\n               of…",
+          "sourceUrl": "https://library.municode.com/nh/claremont/codes/code_of_ordinances?nodeId=PTIICLCO_CH4AN"
+        },
+        {
+          "id": "nh:claremont:2",
+          "prompt": "If a dog is not on its owner's property in Claremont, the owner must:",
+          "choices": [
+            "Let it run if it has a rabies tag",
+            "Keep it under immediate control (leash or voice command) or inside an enclosure",
+            "Have a city permit",
+            "Keep it muzzled"
+          ],
+          "answer": "Keep it under immediate control (leash or voice command) or inside an enclosure",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Hunting, fishing and molesting wildlife prohibited in public parks and recreation\n               areas, § 12-69; dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73. State Law reference— Animals, RSA 435:1 et seq.; rabies control, RSA 436:99 et seq.; dogs, RSA 466:1 et\n               seq.; cruelty to animals, RSA 644:8; penalty for violation of certain offenses, RSA\n               466:31a.\n\n[The following term, when used in this chapter, shall have the meaning ascribed to\n               it herein, except where context clearly indicates a different meaning:] Vaccination against rabies shall mean the inoculation of a dog or cat with a rabies vaccine licensed by the\n               United States Department of Agriculture. Such vaccination shall be performed by a\n               veterinarian duly licensed to practice veterinary medicine. (Ord. No. 362, 10-12-94)\n\nEvery dog and cat three (3) months of age and older shall be vaccinated against rabies\n               in accordance with RSA 436 (Rabies Control Act). (Ord. No. 362, 10-12-94)\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises or property of the owner or responsible person, or not\n               confined within a vehicle, and not under the control of the owner or any person. Dog shall mean any canine animal, male or female, sexed or neutered. Immediate control shall mean restraint by leash or by vocal command. A dog shall be deemed out of immediate\n               control if the owner or custodian cannot restrain it from entering upon the property\n               of…",
+          "sourceUrl": "https://library.municode.com/nh/claremont/codes/code_of_ordinances?nodeId=PTIICLCO_CH4AN"
+        },
+        {
+          "id": "nh:claremont:3",
+          "prompt": "You find a loose dog in Claremont and decide to hold it at your house. What must you do right away?",
+          "choices": [
+            "Take it to the city clerk",
+            "Immediately notify the police department",
+            "Wait three days then call animal control",
+            "Post a photo on social media"
+          ],
+          "answer": "Immediately notify the police department",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Hunting, fishing and molesting wildlife prohibited in public parks and recreation\n               areas, § 12-69; dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73. State Law reference— Animals, RSA 435:1 et seq.; rabies control, RSA 436:99 et seq.; dogs, RSA 466:1 et\n               seq.; cruelty to animals, RSA 644:8; penalty for violation of certain offenses, RSA\n               466:31a.\n\n[The following term, when used in this chapter, shall have the meaning ascribed to\n               it herein, except where context clearly indicates a different meaning:] Vaccination against rabies shall mean the inoculation of a dog or cat with a rabies vaccine licensed by the\n               United States Department of Agriculture. Such vaccination shall be performed by a\n               veterinarian duly licensed to practice veterinary medicine. (Ord. No. 362, 10-12-94)\n\nEvery dog and cat three (3) months of age and older shall be vaccinated against rabies\n               in accordance with RSA 436 (Rabies Control Act). (Ord. No. 362, 10-12-94)\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises or property of the owner or responsible person, or not\n               confined within a vehicle, and not under the control of the owner or any person. Dog shall mean any canine animal, male or female, sexed or neutered. Immediate control shall mean restraint by leash or by vocal command. A dog shall be deemed out of immediate\n               control if the owner or custodian cannot restrain it from entering upon the property\n               of…",
+          "sourceUrl": "https://library.municode.com/nh/claremont/codes/code_of_ordinances?nodeId=PTIICLCO_CH4AN"
+        },
+        {
+          "id": "nh:claremont:4",
+          "prompt": "How long must Claremont hold an impounded dog that is not wearing a valid rabies vaccination tag?",
+          "choices": [
+            "Until the owner is found",
+            "Not less than seven days",
+            "Forty-eight hours",
+            "It can be adopted out the same day"
+          ],
+          "answer": "Not less than seven days",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Hunting, fishing and molesting wildlife prohibited in public parks and recreation\n               areas, § 12-69; dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73. State Law reference— Animals, RSA 435:1 et seq.; rabies control, RSA 436:99 et seq.; dogs, RSA 466:1 et\n               seq.; cruelty to animals, RSA 644:8; penalty for violation of certain offenses, RSA\n               466:31a.\n\n[The following term, when used in this chapter, shall have the meaning ascribed to\n               it herein, except where context clearly indicates a different meaning:] Vaccination against rabies shall mean the inoculation of a dog or cat with a rabies vaccine licensed by the\n               United States Department of Agriculture. Such vaccination shall be performed by a\n               veterinarian duly licensed to practice veterinary medicine. (Ord. No. 362, 10-12-94)\n\nEvery dog and cat three (3) months of age and older shall be vaccinated against rabies\n               in accordance with RSA 436 (Rabies Control Act). (Ord. No. 362, 10-12-94)\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs, cats and other household pets restricted in public parks and recreation areas,\n               § 12-73.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises or property of the owner or responsible person, or not\n               confined within a vehicle, and not under the control of the owner or any person. Dog shall mean any canine animal, male or female, sexed or neutered. Immediate control shall mean restraint by leash or by vocal command. A dog shall be deemed out of immediate\n               control if the owner or custodian cannot restrain it from entering upon the property\n               of…",
+          "sourceUrl": "https://library.municode.com/nh/claremont/codes/code_of_ordinances?nodeId=PTIICLCO_CH4AN"
+        }
+      ]
+    },
+    {
+      "id": "concord",
+      "name": "Concord",
+      "sourceIndex": "https://library.municode.com/nh/concord",
+      "questions": [
+        {
+          "id": "nh:concord:0",
+          "prompt": "In Concord, using a vehicle for advertising is:",
+          "choices": [
+            "Allowed on any street",
+            "Prohibited",
+            "Allowed only after dark",
+            "Allowed if the radio is on"
+          ],
+          "answer": "Prohibited",
+          "excerpt": "TABLE OF CONTENTS Expand Chapter 17 . Vehicles and Traffic Article 17-1 Definitions Section 17-1-1 Vehicles. 17-1-2 Railroads. 17-1-3 Traffic. 17-1-4 Right-of-Way. 17-1-5 Traffic Movements. 17-1-6 Official Time. 17-1-7 Persons, Drivers, Pedestrians. 17-1-8 Police Officer. 17-1-9 Traveled Ways. 17-1-10 Intersection. 17-1-11 Crosswalk. 17-1-12 Safety Zone. 17-1-13 Traffic Control Devices. 17-1-14 Districts. 17-1-15 Fire Lanes. 17-1-16 Abandoned Vehicle. 17-1-17 Weekday. Article 17-2 Enforcement Section 17-2-1 Duty of Police Department. 17-2-2 Required Obedience to Traffic Regulations. 17-2-3 Obedience to Police. 17-2-4 Public Employees to Obey Traffic Regulations. 17-2-5 Exemption of Authorized Emergency Vehicles. 17-2-6 Persons Subject to Traffic Regulations. Article 17-3 Traffic Control Devices Section 17-3-1 Obedience to Traffic Control Devices. 17-3-2 Obedience to No Turns and Turning Markings. 17-3-3 Quiet Zones. 17-3-4 Traffic Control Signal Legend. 17-3-5 Flashing Signals. 17-3-6 Display of Unauthorized Signs, Signals or Markings. 17-3-7 Interference With Traffic Control Devices. Article 17-4 Operation of Motor Vehicles Section 17-4-1 Stop Required Before Entering a Through Street. 17-4-2 Stop Required When Traffic Obstructed. 17-4-3 One-Way Streets. 17-4-4 Driving Through and Passing Processions. 17-4-5 Funeral and Other Processions. 17-4-6 U-Turn Prohibited on Designated Streets. 17-4-7 Limitations on Backing and Movements From a Parked Position. 17-4-8 Emerging from Alley or Driveway. 17-4-9 Restrictions on the Use of Roller Skates, Bicycles, Skateboards and Similar Devices. 17-4-10 Overtaking Vehicle on Left. 17-4-11 When Overtaking on the Right is Permitted. 17-4-12 Limitations on Overtaking on the Left. 17-4-13 Driving on Roadways Lanes For Traffic. 17-4-14 Vehicular Traffic Restricted. 17-4-15 No Left Turn. 17-4-15.1 No Right Turn. 17-4-16 Speed Limits. 17-4-17 Alteration of Speed Limits. 17-4-18 Right Lane Must Yield. Article 17-5 Right-of-Way Rules…",
+          "sourceUrl": "https://library.municode.com/nh/concord/codes/code_of_ordinances?nodeId=TITIITRCO"
+        },
+        {
+          "id": "nh:concord:1",
+          "prompt": "Concord can prohibit parking during:",
+          "choices": [
+            "Only parade days",
+            "Winter, maintenance, and emergencies",
+            "Only the first week of school",
+            "Only Sundays"
+          ],
+          "answer": "Winter, maintenance, and emergencies",
+          "excerpt": "TABLE OF CONTENTS Expand Chapter 17 . Vehicles and Traffic Article 17-1 Definitions Section 17-1-1 Vehicles. 17-1-2 Railroads. 17-1-3 Traffic. 17-1-4 Right-of-Way. 17-1-5 Traffic Movements. 17-1-6 Official Time. 17-1-7 Persons, Drivers, Pedestrians. 17-1-8 Police Officer. 17-1-9 Traveled Ways. 17-1-10 Intersection. 17-1-11 Crosswalk. 17-1-12 Safety Zone. 17-1-13 Traffic Control Devices. 17-1-14 Districts. 17-1-15 Fire Lanes. 17-1-16 Abandoned Vehicle. 17-1-17 Weekday. Article 17-2 Enforcement Section 17-2-1 Duty of Police Department. 17-2-2 Required Obedience to Traffic Regulations. 17-2-3 Obedience to Police. 17-2-4 Public Employees to Obey Traffic Regulations. 17-2-5 Exemption of Authorized Emergency Vehicles. 17-2-6 Persons Subject to Traffic Regulations. Article 17-3 Traffic Control Devices Section 17-3-1 Obedience to Traffic Control Devices. 17-3-2 Obedience to No Turns and Turning Markings. 17-3-3 Quiet Zones. 17-3-4 Traffic Control Signal Legend. 17-3-5 Flashing Signals. 17-3-6 Display of Unauthorized Signs, Signals or Markings. 17-3-7 Interference With Traffic Control Devices. Article 17-4 Operation of Motor Vehicles Section 17-4-1 Stop Required Before Entering a Through Street. 17-4-2 Stop Required When Traffic Obstructed. 17-4-3 One-Way Streets. 17-4-4 Driving Through and Passing Processions. 17-4-5 Funeral and Other Processions. 17-4-6 U-Turn Prohibited on Designated Streets. 17-4-7 Limitations on Backing and Movements From a Parked Position. 17-4-8 Emerging from Alley or Driveway. 17-4-9 Restrictions on the Use of Roller Skates, Bicycles, Skateboards and Similar Devices. 17-4-10 Overtaking Vehicle on Left. 17-4-11 When Overtaking on the Right is Permitted. 17-4-12 Limitations on Overtaking on the Left. 17-4-13 Driving on Roadways Lanes For Traffic. 17-4-14 Vehicular Traffic Restricted. 17-4-15 No Left Turn. 17-4-15.1 No Right Turn. 17-4-16 Speed Limits. 17-4-17 Alteration of Speed Limits. 17-4-18 Right Lane Must Yield. Article 17-5 Right-of-Way Rules…",
+          "sourceUrl": "https://library.municode.com/nh/concord/codes/code_of_ordinances?nodeId=TITIITRCO"
+        },
+        {
+          "id": "nh:concord:2",
+          "prompt": "Concord has restrictions on using which of these?",
+          "choices": [
+            "Baby strollers",
+            "Roller skates, bicycles, skateboards, and similar devices",
+            "Umbrellas",
+            "Shopping carts only"
+          ],
+          "answer": "Roller skates, bicycles, skateboards, and similar devices",
+          "excerpt": "TABLE OF CONTENTS Expand Chapter 17 . Vehicles and Traffic Article 17-1 Definitions Section 17-1-1 Vehicles. 17-1-2 Railroads. 17-1-3 Traffic. 17-1-4 Right-of-Way. 17-1-5 Traffic Movements. 17-1-6 Official Time. 17-1-7 Persons, Drivers, Pedestrians. 17-1-8 Police Officer. 17-1-9 Traveled Ways. 17-1-10 Intersection. 17-1-11 Crosswalk. 17-1-12 Safety Zone. 17-1-13 Traffic Control Devices. 17-1-14 Districts. 17-1-15 Fire Lanes. 17-1-16 Abandoned Vehicle. 17-1-17 Weekday. Article 17-2 Enforcement Section 17-2-1 Duty of Police Department. 17-2-2 Required Obedience to Traffic Regulations. 17-2-3 Obedience to Police. 17-2-4 Public Employees to Obey Traffic Regulations. 17-2-5 Exemption of Authorized Emergency Vehicles. 17-2-6 Persons Subject to Traffic Regulations. Article 17-3 Traffic Control Devices Section 17-3-1 Obedience to Traffic Control Devices. 17-3-2 Obedience to No Turns and Turning Markings. 17-3-3 Quiet Zones. 17-3-4 Traffic Control Signal Legend. 17-3-5 Flashing Signals. 17-3-6 Display of Unauthorized Signs, Signals or Markings. 17-3-7 Interference With Traffic Control Devices. Article 17-4 Operation of Motor Vehicles Section 17-4-1 Stop Required Before Entering a Through Street. 17-4-2 Stop Required When Traffic Obstructed. 17-4-3 One-Way Streets. 17-4-4 Driving Through and Passing Processions. 17-4-5 Funeral and Other Processions. 17-4-6 U-Turn Prohibited on Designated Streets. 17-4-7 Limitations on Backing and Movements From a Parked Position. 17-4-8 Emerging from Alley or Driveway. 17-4-9 Restrictions on the Use of Roller Skates, Bicycles, Skateboards and Similar Devices. 17-4-10 Overtaking Vehicle on Left. 17-4-11 When Overtaking on the Right is Permitted. 17-4-12 Limitations on Overtaking on the Left. 17-4-13 Driving on Roadways Lanes For Traffic. 17-4-14 Vehicular Traffic Restricted. 17-4-15 No Left Turn. 17-4-15.1 No Right Turn. 17-4-16 Speed Limits. 17-4-17 Alteration of Speed Limits. 17-4-18 Right Lane Must Yield. Article 17-5 Right-of-Way Rules…",
+          "sourceUrl": "https://library.municode.com/nh/concord/codes/code_of_ordinances?nodeId=TITIITRCO"
+        },
+        {
+          "id": "nh:concord:3",
+          "prompt": "If your parking meter is about to expire in Concord, may you add more time so you can stay longer?",
+          "choices": [
+            "Yes, as often as you want",
+            "Yes, once per day",
+            "No, increasing parking meter time is unlawful",
+            "Only if you leave a note"
+          ],
+          "answer": "No, increasing parking meter time is unlawful",
+          "excerpt": "TABLE OF CONTENTS Expand Chapter 17 . Vehicles and Traffic Article 17-1 Definitions Section 17-1-1 Vehicles. 17-1-2 Railroads. 17-1-3 Traffic. 17-1-4 Right-of-Way. 17-1-5 Traffic Movements. 17-1-6 Official Time. 17-1-7 Persons, Drivers, Pedestrians. 17-1-8 Police Officer. 17-1-9 Traveled Ways. 17-1-10 Intersection. 17-1-11 Crosswalk. 17-1-12 Safety Zone. 17-1-13 Traffic Control Devices. 17-1-14 Districts. 17-1-15 Fire Lanes. 17-1-16 Abandoned Vehicle. 17-1-17 Weekday. Article 17-2 Enforcement Section 17-2-1 Duty of Police Department. 17-2-2 Required Obedience to Traffic Regulations. 17-2-3 Obedience to Police. 17-2-4 Public Employees to Obey Traffic Regulations. 17-2-5 Exemption of Authorized Emergency Vehicles. 17-2-6 Persons Subject to Traffic Regulations. Article 17-3 Traffic Control Devices Section 17-3-1 Obedience to Traffic Control Devices. 17-3-2 Obedience to No Turns and Turning Markings. 17-3-3 Quiet Zones. 17-3-4 Traffic Control Signal Legend. 17-3-5 Flashing Signals. 17-3-6 Display of Unauthorized Signs, Signals or Markings. 17-3-7 Interference With Traffic Control Devices. Article 17-4 Operation of Motor Vehicles Section 17-4-1 Stop Required Before Entering a Through Street. 17-4-2 Stop Required When Traffic Obstructed. 17-4-3 One-Way Streets. 17-4-4 Driving Through and Passing Processions. 17-4-5 Funeral and Other Processions. 17-4-6 U-Turn Prohibited on Designated Streets. 17-4-7 Limitations on Backing and Movements From a Parked Position. 17-4-8 Emerging from Alley or Driveway. 17-4-9 Restrictions on the Use of Roller Skates, Bicycles, Skateboards and Similar Devices. 17-4-10 Overtaking Vehicle on Left. 17-4-11 When Overtaking on the Right is Permitted. 17-4-12 Limitations on Overtaking on the Left. 17-4-13 Driving on Roadways Lanes For Traffic. 17-4-14 Vehicular Traffic Restricted. 17-4-15 No Left Turn. 17-4-15.1 No Right Turn. 17-4-16 Speed Limits. 17-4-17 Alteration of Speed Limits. 17-4-18 Right Lane Must Yield. Article 17-5 Right-of-Way Rules…",
+          "sourceUrl": "https://library.municode.com/nh/concord/codes/code_of_ordinances?nodeId=TITIITRCO"
+        },
+        {
+          "id": "nh:concord:4",
+          "prompt": "Concord prohibits parking adjacent to:",
+          "choices": [
+            "Any tree taller than 10 feet",
+            "Schools",
+            "Every mailbox",
+            "Only rivers"
+          ],
+          "answer": "Schools",
+          "excerpt": "TABLE OF CONTENTS Expand Chapter 17 . Vehicles and Traffic Article 17-1 Definitions Section 17-1-1 Vehicles. 17-1-2 Railroads. 17-1-3 Traffic. 17-1-4 Right-of-Way. 17-1-5 Traffic Movements. 17-1-6 Official Time. 17-1-7 Persons, Drivers, Pedestrians. 17-1-8 Police Officer. 17-1-9 Traveled Ways. 17-1-10 Intersection. 17-1-11 Crosswalk. 17-1-12 Safety Zone. 17-1-13 Traffic Control Devices. 17-1-14 Districts. 17-1-15 Fire Lanes. 17-1-16 Abandoned Vehicle. 17-1-17 Weekday. Article 17-2 Enforcement Section 17-2-1 Duty of Police Department. 17-2-2 Required Obedience to Traffic Regulations. 17-2-3 Obedience to Police. 17-2-4 Public Employees to Obey Traffic Regulations. 17-2-5 Exemption of Authorized Emergency Vehicles. 17-2-6 Persons Subject to Traffic Regulations. Article 17-3 Traffic Control Devices Section 17-3-1 Obedience to Traffic Control Devices. 17-3-2 Obedience to No Turns and Turning Markings. 17-3-3 Quiet Zones. 17-3-4 Traffic Control Signal Legend. 17-3-5 Flashing Signals. 17-3-6 Display of Unauthorized Signs, Signals or Markings. 17-3-7 Interference With Traffic Control Devices. Article 17-4 Operation of Motor Vehicles Section 17-4-1 Stop Required Before Entering a Through Street. 17-4-2 Stop Required When Traffic Obstructed. 17-4-3 One-Way Streets. 17-4-4 Driving Through and Passing Processions. 17-4-5 Funeral and Other Processions. 17-4-6 U-Turn Prohibited on Designated Streets. 17-4-7 Limitations on Backing and Movements From a Parked Position. 17-4-8 Emerging from Alley or Driveway. 17-4-9 Restrictions on the Use of Roller Skates, Bicycles, Skateboards and Similar Devices. 17-4-10 Overtaking Vehicle on Left. 17-4-11 When Overtaking on the Right is Permitted. 17-4-12 Limitations on Overtaking on the Left. 17-4-13 Driving on Roadways Lanes For Traffic. 17-4-14 Vehicular Traffic Restricted. 17-4-15 No Left Turn. 17-4-15.1 No Right Turn. 17-4-16 Speed Limits. 17-4-17 Alteration of Speed Limits. 17-4-18 Right Lane Must Yield. Article 17-5 Right-of-Way Rules…",
+          "sourceUrl": "https://library.municode.com/nh/concord/codes/code_of_ordinances?nodeId=TITIITRCO"
+        }
+      ]
+    },
+    {
+      "id": "keene",
+      "name": "Keene",
+      "sourceIndex": "https://library.municode.com/nh/keene",
+      "questions": [
+        {
+          "id": "nh:keene:0",
+          "prompt": "Can you drink a beer in a Keene city cemetery or on conservation land?",
+          "choices": [
+            "Yes, if you clean up afterward",
+            "No",
+            "Yes on weekends only",
+            "Only if it is under 6% alcohol"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Licenses and permits, ch. 46. State Law reference— Alcoholic beverages, RSA 175:1 et seq.; tobacco sales to minors, RSA 78:12.\n\nFootnotes: --- ( 2 ) --- State Law reference— Alcoholic beverages, RSA 175:1 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beverage means beer, lager beer, ale, porter, similar fermented malt or vinous liquors and\n               fruit juices, wine and any other liquid intended for human consumption as a beverage\n               having an alcoholic content of not less than one-half percent by volume and not more\n               than six percent alcohol by volume at 60 degrees Fahrenheit and specialty beer as\n               defined in RSA 175:1(LXIV-a). Liquor means all distilled and rectified spirits, alcohol, wines, fermented and malt liquors\n               and cider of over six percent alcoholic content by volume at 60 degrees Fahrenheit\n               and shall not include specialty beer as defined in RSA 175:1(LXIV-a). Public way includes but is not limited to the entire width between the boundary lines of any\n               public highway, street, avenue, road, alley, park, parking lot, parkway, sidewalk,\n               cemetery, conservation land, private way laid out under authority of state law, and\n               ways provided and maintained by public institutions to which state funds are appropriated\n               for public use, or any privately owned and maintained way open for public use, any\n               other city-owned land, and other places generally accessible to the public to where\n               the consumption of any alcoholic beverage or liquor is not expressly permitted by\n               law or by the lawful owner of such public place. (Code 1970, §§ 1604.1, 1604.2) Cross reference— Definitions…",
+          "sourceUrl": "https://library.municode.com/nh/keene/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBETO"
+        },
+        {
+          "id": "nh:keene:1",
+          "prompt": "Can you walk down a Keene sidewalk carrying an open can of beer?",
+          "choices": [
+            "Yes, if you are over 21",
+            "No",
+            "Yes, as long as you do not drink from it",
+            "Only downtown"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Licenses and permits, ch. 46. State Law reference— Alcoholic beverages, RSA 175:1 et seq.; tobacco sales to minors, RSA 78:12.\n\nFootnotes: --- ( 2 ) --- State Law reference— Alcoholic beverages, RSA 175:1 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beverage means beer, lager beer, ale, porter, similar fermented malt or vinous liquors and\n               fruit juices, wine and any other liquid intended for human consumption as a beverage\n               having an alcoholic content of not less than one-half percent by volume and not more\n               than six percent alcohol by volume at 60 degrees Fahrenheit and specialty beer as\n               defined in RSA 175:1(LXIV-a). Liquor means all distilled and rectified spirits, alcohol, wines, fermented and malt liquors\n               and cider of over six percent alcoholic content by volume at 60 degrees Fahrenheit\n               and shall not include specialty beer as defined in RSA 175:1(LXIV-a). Public way includes but is not limited to the entire width between the boundary lines of any\n               public highway, street, avenue, road, alley, park, parking lot, parkway, sidewalk,\n               cemetery, conservation land, private way laid out under authority of state law, and\n               ways provided and maintained by public institutions to which state funds are appropriated\n               for public use, or any privately owned and maintained way open for public use, any\n               other city-owned land, and other places generally accessible to the public to where\n               the consumption of any alcoholic beverage or liquor is not expressly permitted by\n               law or by the lawful owner of such public place. (Code 1970, §§ 1604.1, 1604.2) Cross reference— Definitions…",
+          "sourceUrl": "https://library.municode.com/nh/keene/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBETO"
+        },
+        {
+          "id": "nh:keene:2",
+          "prompt": "May a bar or restaurant in Keene put an outdoor sign advertising cheap drinks or reduced-price liquor?",
+          "choices": [
+            "Yes",
+            "No",
+            "Yes if the sign is not lit",
+            "Only for beer, not liquor"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Licenses and permits, ch. 46. State Law reference— Alcoholic beverages, RSA 175:1 et seq.; tobacco sales to minors, RSA 78:12.\n\nFootnotes: --- ( 2 ) --- State Law reference— Alcoholic beverages, RSA 175:1 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beverage means beer, lager beer, ale, porter, similar fermented malt or vinous liquors and\n               fruit juices, wine and any other liquid intended for human consumption as a beverage\n               having an alcoholic content of not less than one-half percent by volume and not more\n               than six percent alcohol by volume at 60 degrees Fahrenheit and specialty beer as\n               defined in RSA 175:1(LXIV-a). Liquor means all distilled and rectified spirits, alcohol, wines, fermented and malt liquors\n               and cider of over six percent alcoholic content by volume at 60 degrees Fahrenheit\n               and shall not include specialty beer as defined in RSA 175:1(LXIV-a). Public way includes but is not limited to the entire width between the boundary lines of any\n               public highway, street, avenue, road, alley, park, parking lot, parkway, sidewalk,\n               cemetery, conservation land, private way laid out under authority of state law, and\n               ways provided and maintained by public institutions to which state funds are appropriated\n               for public use, or any privately owned and maintained way open for public use, any\n               other city-owned land, and other places generally accessible to the public to where\n               the consumption of any alcoholic beverage or liquor is not expressly permitted by\n               law or by the lawful owner of such public place. (Code 1970, §§ 1604.1, 1604.2) Cross reference— Definitions…",
+          "sourceUrl": "https://library.municode.com/nh/keene/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBETO"
+        },
+        {
+          "id": "nh:keene:3",
+          "prompt": "In Keene, may a 20-year-old possess or use an e-cigarette or liquid nicotine?",
+          "choices": [
+            "Yes, they just cannot buy it themselves",
+            "No",
+            "Yes if a parent gives it to them",
+            "Only inside their own home"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Licenses and permits, ch. 46. State Law reference— Alcoholic beverages, RSA 175:1 et seq.; tobacco sales to minors, RSA 78:12.\n\nFootnotes: --- ( 2 ) --- State Law reference— Alcoholic beverages, RSA 175:1 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beverage means beer, lager beer, ale, porter, similar fermented malt or vinous liquors and\n               fruit juices, wine and any other liquid intended for human consumption as a beverage\n               having an alcoholic content of not less than one-half percent by volume and not more\n               than six percent alcohol by volume at 60 degrees Fahrenheit and specialty beer as\n               defined in RSA 175:1(LXIV-a). Liquor means all distilled and rectified spirits, alcohol, wines, fermented and malt liquors\n               and cider of over six percent alcoholic content by volume at 60 degrees Fahrenheit\n               and shall not include specialty beer as defined in RSA 175:1(LXIV-a). Public way includes but is not limited to the entire width between the boundary lines of any\n               public highway, street, avenue, road, alley, park, parking lot, parkway, sidewalk,\n               cemetery, conservation land, private way laid out under authority of state law, and\n               ways provided and maintained by public institutions to which state funds are appropriated\n               for public use, or any privately owned and maintained way open for public use, any\n               other city-owned land, and other places generally accessible to the public to where\n               the consumption of any alcoholic beverage or liquor is not expressly permitted by\n               law or by the lawful owner of such public place. (Code 1970, §§ 1604.1, 1604.2) Cross reference— Definitions…",
+          "sourceUrl": "https://library.municode.com/nh/keene/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBETO"
+        }
+      ]
+    },
+    {
+      "id": "meredith",
+      "name": "Meredith",
+      "sourceIndex": "https://library.municode.com/nh/meredith",
+      "questions": [
+        {
+          "id": "nh:meredith:0",
+          "prompt": "When were Meredith’s zoning and land use regulations first adopted?",
+          "choices": [
+            "August 27, 1971",
+            "March 8, 2022",
+            "At a later town meeting after 2022"
+          ],
+          "answer": "August 27, 1971",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein are the zoning and land use regulations of the Town of Meredith, New\n               Hampshire, as adopted in the town meeting of August 27, 1971, as amended through March\n               8, 2022. Subsequent amendments are indicated by parenthetical history notes. The organization,\n               numbering, style and expression of numbers has been retained as in the original ordinance.\n               Obvious misspelled words have been corrected without notation and words added for\n               clarification have been enclosed in brackets. Otherwise the ordinance is printed as\n               adopted and amended. State Law reference— Planning and zoning, RSA 672—677; local land use boards and regulations, RSA 673:1\n               et seq.; land use planning powers, RSA 674:1 et seq.; enactment and adoption of subdivision\n               and zoning regulations, RSA 675:1 et seq.; administration and enforcement, RSA 676:1\n               et seq.; hearings and appeals, RSA 677:1 et seq.",
+          "sourceUrl": "https://library.municode.com/nh/meredith/codes/code_of_ordinances?nodeId=PTIIZOLAUSRE"
+        },
+        {
+          "id": "nh:meredith:1",
+          "prompt": "The printed zoning rules include later changes through which date?",
+          "choices": [
+            "August 27, 1971",
+            "March 8, 2022",
+            "The date each reader last looked them up"
+          ],
+          "answer": "March 8, 2022",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein are the zoning and land use regulations of the Town of Meredith, New\n               Hampshire, as adopted in the town meeting of August 27, 1971, as amended through March\n               8, 2022. Subsequent amendments are indicated by parenthetical history notes. The organization,\n               numbering, style and expression of numbers has been retained as in the original ordinance.\n               Obvious misspelled words have been corrected without notation and words added for\n               clarification have been enclosed in brackets. Otherwise the ordinance is printed as\n               adopted and amended. State Law reference— Planning and zoning, RSA 672—677; local land use boards and regulations, RSA 673:1\n               et seq.; land use planning powers, RSA 674:1 et seq.; enactment and adoption of subdivision\n               and zoning regulations, RSA 675:1 et seq.; administration and enforcement, RSA 676:1\n               et seq.; hearings and appeals, RSA 677:1 et seq.",
+          "sourceUrl": "https://library.municode.com/nh/meredith/codes/code_of_ordinances?nodeId=PTIIZOLAUSRE"
+        },
+        {
+          "id": "nh:meredith:2",
+          "prompt": "How are later amendments shown in the printed ordinance?",
+          "choices": [
+            "With parenthetical history notes",
+            "In a separate unmarked appendix",
+            "Only by changing the title page"
+          ],
+          "answer": "With parenthetical history notes",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein are the zoning and land use regulations of the Town of Meredith, New\n               Hampshire, as adopted in the town meeting of August 27, 1971, as amended through March\n               8, 2022. Subsequent amendments are indicated by parenthetical history notes. The organization,\n               numbering, style and expression of numbers has been retained as in the original ordinance.\n               Obvious misspelled words have been corrected without notation and words added for\n               clarification have been enclosed in brackets. Otherwise the ordinance is printed as\n               adopted and amended. State Law reference— Planning and zoning, RSA 672—677; local land use boards and regulations, RSA 673:1\n               et seq.; land use planning powers, RSA 674:1 et seq.; enactment and adoption of subdivision\n               and zoning regulations, RSA 675:1 et seq.; administration and enforcement, RSA 676:1\n               et seq.; hearings and appeals, RSA 677:1 et seq.",
+          "sourceUrl": "https://library.municode.com/nh/meredith/codes/code_of_ordinances?nodeId=PTIIZOLAUSRE"
+        },
+        {
+          "id": "nh:meredith:3",
+          "prompt": "Words added just to make the text clearer are shown how?",
+          "choices": [
+            "Enclosed in brackets",
+            "Printed in all capital letters",
+            "Left out of the official copy"
+          ],
+          "answer": "Enclosed in brackets",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein are the zoning and land use regulations of the Town of Meredith, New\n               Hampshire, as adopted in the town meeting of August 27, 1971, as amended through March\n               8, 2022. Subsequent amendments are indicated by parenthetical history notes. The organization,\n               numbering, style and expression of numbers has been retained as in the original ordinance.\n               Obvious misspelled words have been corrected without notation and words added for\n               clarification have been enclosed in brackets. Otherwise the ordinance is printed as\n               adopted and amended. State Law reference— Planning and zoning, RSA 672—677; local land use boards and regulations, RSA 673:1\n               et seq.; land use planning powers, RSA 674:1 et seq.; enactment and adoption of subdivision\n               and zoning regulations, RSA 675:1 et seq.; administration and enforcement, RSA 676:1\n               et seq.; hearings and appeals, RSA 677:1 et seq.",
+          "sourceUrl": "https://library.municode.com/nh/meredith/codes/code_of_ordinances?nodeId=PTIIZOLAUSRE"
+        }
+      ]
+    },
+    {
+      "id": "newmarket",
+      "name": "Newmarket",
+      "sourceIndex": "https://library.municode.com/nh/newmarket",
+      "questions": [
+        {
+          "id": "nh:newmarket:0",
+          "prompt": "In Newmarket, a dog off the owner’s property is not “at large” if it is on a retractable leash no longer than:",
+          "choices": [
+            "8 feet",
+            "10 feet",
+            "15 feet",
+            "25 feet"
+          ],
+          "answer": "15 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Animals, RSA 466—470.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs and cats, RSA 466.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large means off the premises or property of the owner while not on a fixed leash of eight\n               feet or less or a retractable leash of 15 feet or less, not under the physical control\n               of a responsible person, and/or not confined within a vehicle. Dog includes both male and female of the canine species. The term \"dog\" shall also mean\n               any animal, which is considered to be a wolf-hybrid as defined in RSA 466-A. Enclosure means any structure, fenced or otherwise, which is secure on all sides so as to prevent\n               the exiting of the dog or entrance of young children. Said enclosure shall be of a\n               proper size as regulated by state law. Enforcement official means any animal control officer, police officer, or other individual authorized\n               to enforce the provisions of this article and such state statutes pertaining to animals. Owner means any person, group, association or organization responsible for maintaining,\n               keeping, caring for, harboring or owning a dog. Threatening means an indication of a dog's imminent attack, usually accompanied by the baring\n               of teeth and the fur on its back standing up. (Guttural threatening sounds made by\n               an angry animal; low guttural menacing sound of a dog; a deep, angry, throaty noise\n               as of a dog.) Vicious dog. (1) The term \"vicious dog\" means any dog which snaps at, bites or chases any person while\n                  on foot or on any propelled vehicle. It shall also include any dog which has attacked\n                  any animal, as domestic or wild.…",
+          "sourceUrl": "https://library.municode.com/nh/newmarket/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN"
+        },
+        {
+          "id": "nh:newmarket:1",
+          "prompt": "A proper dog enclosure must be secure on all sides so a dog cannot get out and so that who cannot get in?",
+          "choices": [
+            "other pets",
+            "young children",
+            "stray animals",
+            "wildlife"
+          ],
+          "answer": "young children",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Animals, RSA 466—470.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs and cats, RSA 466.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large means off the premises or property of the owner while not on a fixed leash of eight\n               feet or less or a retractable leash of 15 feet or less, not under the physical control\n               of a responsible person, and/or not confined within a vehicle. Dog includes both male and female of the canine species. The term \"dog\" shall also mean\n               any animal, which is considered to be a wolf-hybrid as defined in RSA 466-A. Enclosure means any structure, fenced or otherwise, which is secure on all sides so as to prevent\n               the exiting of the dog or entrance of young children. Said enclosure shall be of a\n               proper size as regulated by state law. Enforcement official means any animal control officer, police officer, or other individual authorized\n               to enforce the provisions of this article and such state statutes pertaining to animals. Owner means any person, group, association or organization responsible for maintaining,\n               keeping, caring for, harboring or owning a dog. Threatening means an indication of a dog's imminent attack, usually accompanied by the baring\n               of teeth and the fur on its back standing up. (Guttural threatening sounds made by\n               an angry animal; low guttural menacing sound of a dog; a deep, angry, throaty noise\n               as of a dog.) Vicious dog. (1) The term \"vicious dog\" means any dog which snaps at, bites or chases any person while\n                  on foot or on any propelled vehicle. It shall also include any dog which has attacked\n                  any animal, as domestic or wild.…",
+          "sourceUrl": "https://library.municode.com/nh/newmarket/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN"
+        },
+        {
+          "id": "nh:newmarket:2",
+          "prompt": "If police pick up a dog running at large, they may hold it in a shelter for no more than:",
+          "choices": [
+            "3 days",
+            "7 days",
+            "10 days",
+            "14 days"
+          ],
+          "answer": "7 days",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Animals, RSA 466—470.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs and cats, RSA 466.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large means off the premises or property of the owner while not on a fixed leash of eight\n               feet or less or a retractable leash of 15 feet or less, not under the physical control\n               of a responsible person, and/or not confined within a vehicle. Dog includes both male and female of the canine species. The term \"dog\" shall also mean\n               any animal, which is considered to be a wolf-hybrid as defined in RSA 466-A. Enclosure means any structure, fenced or otherwise, which is secure on all sides so as to prevent\n               the exiting of the dog or entrance of young children. Said enclosure shall be of a\n               proper size as regulated by state law. Enforcement official means any animal control officer, police officer, or other individual authorized\n               to enforce the provisions of this article and such state statutes pertaining to animals. Owner means any person, group, association or organization responsible for maintaining,\n               keeping, caring for, harboring or owning a dog. Threatening means an indication of a dog's imminent attack, usually accompanied by the baring\n               of teeth and the fur on its back standing up. (Guttural threatening sounds made by\n               an angry animal; low guttural menacing sound of a dog; a deep, angry, throaty noise\n               as of a dog.) Vicious dog. (1) The term \"vicious dog\" means any dog which snaps at, bites or chases any person while\n                  on foot or on any propelled vehicle. It shall also include any dog which has attacked\n                  any animal, as domestic or wild.…",
+          "sourceUrl": "https://library.municode.com/nh/newmarket/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN"
+        },
+        {
+          "id": "nh:newmarket:3",
+          "prompt": "To get an impounded dog back from the town, you must pay a fee of:",
+          "choices": [
+            "$10.00",
+            "$20.00",
+            "$50.00",
+            "$100.00"
+          ],
+          "answer": "$20.00",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Animals, RSA 466—470.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs and cats, RSA 466.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large means off the premises or property of the owner while not on a fixed leash of eight\n               feet or less or a retractable leash of 15 feet or less, not under the physical control\n               of a responsible person, and/or not confined within a vehicle. Dog includes both male and female of the canine species. The term \"dog\" shall also mean\n               any animal, which is considered to be a wolf-hybrid as defined in RSA 466-A. Enclosure means any structure, fenced or otherwise, which is secure on all sides so as to prevent\n               the exiting of the dog or entrance of young children. Said enclosure shall be of a\n               proper size as regulated by state law. Enforcement official means any animal control officer, police officer, or other individual authorized\n               to enforce the provisions of this article and such state statutes pertaining to animals. Owner means any person, group, association or organization responsible for maintaining,\n               keeping, caring for, harboring or owning a dog. Threatening means an indication of a dog's imminent attack, usually accompanied by the baring\n               of teeth and the fur on its back standing up. (Guttural threatening sounds made by\n               an angry animal; low guttural menacing sound of a dog; a deep, angry, throaty noise\n               as of a dog.) Vicious dog. (1) The term \"vicious dog\" means any dog which snaps at, bites or chases any person while\n                  on foot or on any propelled vehicle. It shall also include any dog which has attacked\n                  any animal, as domestic or wild.…",
+          "sourceUrl": "https://library.municode.com/nh/newmarket/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN"
+        },
+        {
+          "id": "nh:newmarket:4",
+          "prompt": "After an officer gives notice of an at-large or nuisance violation, the civil forfeiture must be paid to the town clerk within:",
+          "choices": [
+            "24 hours",
+            "48 hours",
+            "72 hours",
+            "96 hours"
+          ],
+          "answer": "96 hours",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Animals, RSA 466—470.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs and cats, RSA 466.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large means off the premises or property of the owner while not on a fixed leash of eight\n               feet or less or a retractable leash of 15 feet or less, not under the physical control\n               of a responsible person, and/or not confined within a vehicle. Dog includes both male and female of the canine species. The term \"dog\" shall also mean\n               any animal, which is considered to be a wolf-hybrid as defined in RSA 466-A. Enclosure means any structure, fenced or otherwise, which is secure on all sides so as to prevent\n               the exiting of the dog or entrance of young children. Said enclosure shall be of a\n               proper size as regulated by state law. Enforcement official means any animal control officer, police officer, or other individual authorized\n               to enforce the provisions of this article and such state statutes pertaining to animals. Owner means any person, group, association or organization responsible for maintaining,\n               keeping, caring for, harboring or owning a dog. Threatening means an indication of a dog's imminent attack, usually accompanied by the baring\n               of teeth and the fur on its back standing up. (Guttural threatening sounds made by\n               an angry animal; low guttural menacing sound of a dog; a deep, angry, throaty noise\n               as of a dog.) Vicious dog. (1) The term \"vicious dog\" means any dog which snaps at, bites or chases any person while\n                  on foot or on any propelled vehicle. It shall also include any dog which has attacked\n                  any animal, as domestic or wild.…",
+          "sourceUrl": "https://library.municode.com/nh/newmarket/codes/code_of_ordinances?nodeId=PTIICOOR_CH4AN"
+        }
+      ]
+    }
+  ]
+}

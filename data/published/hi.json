@@ -1,0 +1,78 @@
+{
+  "state": "hi",
+  "stateName": "Hawaii",
+  "places": [
+    {
+      "id": "county-of-maui",
+      "name": "County of Maui",
+      "sourceIndex": "https://library.municode.com/hi/county_of_maui",
+      "questions": [
+        {
+          "id": "hi:county-of-maui:0",
+          "prompt": "Your property sits next to a Maui County street. You usually must keep the sidewalk or shoulder free of weeds. Which owners are left out of this duty?",
+          "choices": [
+            "Owners of lots bigger than 15 acres in agricultural districts",
+            "People who rent instead of own",
+            "Owners of oceanfront lots",
+            "Anyone whose lot is smaller than one acre"
+          ],
+          "answer": "Owners of lots bigger than 15 acres in agricultural districts",
+          "excerpt": "Unless otherwise expressly stated, whenever used in this chapter the following terms\n               shall be taken to have the following meanings: \"Owner\" means the fee simple owner, lessee of record, administrator, administratrix,\n               executor, executrix, receiver, trustee, property management agent, or any other individual,\n               corporation, partnership, or association who has control or possession of privately\n               owned real property; provided, however, that this term shall not include the owners\n               of real property within agricultural districts whose lots exceed fifteen acres. \"Sidewalk\" means that portion of a street between a curbline or the pavement of a\n               road, and the adjacent property line, including any setback area acquired by the county\n               for road-widening purposes. \"Weeds\" means vegetation of such nature, which has reached such growth, and is present\n               in such quantity, that it constitutes a substantial risk of one or more of the following\n               hazards: 1. The vegetation, when dry, is or will be a fire hazard; 2. The vegetation is, or is naturally suited as sheltering or breeding place for rats,\n                  mice, mosquitoes, or other vermin or noxious insects; or 3. The vegetation overgrows or spreads upon or over any road, alley, path, or sidewalk\n                  owned or open to the public, to such extent as to obstruct, impede, or interfere with\n                  the safe or convenient use or maintenance thereof. (Ord. 3493 § 1, 2007: Ord. 1392 § 1 (part), 1984)\n\nEvery property owner whose land abuts or adjoins a County street shall continually\n               maintain, and keep clean, passable and free from weeds and noxious growths, the sidewalk\n               or shoulder areas which abut or adjoin the owner's property. (Ord. 3493 § 2, 2007: Ord. 1392 § 1 (part), 1984)\n\nIf any such owner, after receiving notice from the county fails, within twenty…",
+          "sourceUrl": "https://library.municode.com/hi/county_of_maui/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "hi:county-of-maui:1",
+          "prompt": "When can overgrown plants be treated as \"weeds\" under these sidewalk rules?",
+          "choices": [
+            "When they are a fire hazard when dry, a hiding place for rats, mice or mosquitoes, or they block a public road or sidewalk",
+            "Whenever they grow taller than the curb",
+            "Only if a neighbor complains about how they look",
+            "Only if they are plants that are not native to Hawaii"
+          ],
+          "answer": "When they are a fire hazard when dry, a hiding place for rats, mice or mosquitoes, or they block a public road or sidewalk",
+          "excerpt": "Unless otherwise expressly stated, whenever used in this chapter the following terms\n               shall be taken to have the following meanings: \"Owner\" means the fee simple owner, lessee of record, administrator, administratrix,\n               executor, executrix, receiver, trustee, property management agent, or any other individual,\n               corporation, partnership, or association who has control or possession of privately\n               owned real property; provided, however, that this term shall not include the owners\n               of real property within agricultural districts whose lots exceed fifteen acres. \"Sidewalk\" means that portion of a street between a curbline or the pavement of a\n               road, and the adjacent property line, including any setback area acquired by the county\n               for road-widening purposes. \"Weeds\" means vegetation of such nature, which has reached such growth, and is present\n               in such quantity, that it constitutes a substantial risk of one or more of the following\n               hazards: 1. The vegetation, when dry, is or will be a fire hazard; 2. The vegetation is, or is naturally suited as sheltering or breeding place for rats,\n                  mice, mosquitoes, or other vermin or noxious insects; or 3. The vegetation overgrows or spreads upon or over any road, alley, path, or sidewalk\n                  owned or open to the public, to such extent as to obstruct, impede, or interfere with\n                  the safe or convenient use or maintenance thereof. (Ord. 3493 § 1, 2007: Ord. 1392 § 1 (part), 1984)\n\nEvery property owner whose land abuts or adjoins a County street shall continually\n               maintain, and keep clean, passable and free from weeds and noxious growths, the sidewalk\n               or shoulder areas which abut or adjoin the owner's property. (Ord. 3493 § 2, 2007: Ord. 1392 § 1 (part), 1984)\n\nIf any such owner, after receiving notice from the county fails, within twenty…",
+          "sourceUrl": "https://library.municode.com/hi/county_of_maui/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "hi:county-of-maui:2",
+          "prompt": "If the County sends notice that you must clean weeds off the sidewalk next to your property, how long do you have before the County may do the work and bill you?",
+          "choices": [
+            "20 days",
+            "7 days",
+            "30 days",
+            "48 hours"
+          ],
+          "answer": "20 days",
+          "excerpt": "Unless otherwise expressly stated, whenever used in this chapter the following terms\n               shall be taken to have the following meanings: \"Owner\" means the fee simple owner, lessee of record, administrator, administratrix,\n               executor, executrix, receiver, trustee, property management agent, or any other individual,\n               corporation, partnership, or association who has control or possession of privately\n               owned real property; provided, however, that this term shall not include the owners\n               of real property within agricultural districts whose lots exceed fifteen acres. \"Sidewalk\" means that portion of a street between a curbline or the pavement of a\n               road, and the adjacent property line, including any setback area acquired by the county\n               for road-widening purposes. \"Weeds\" means vegetation of such nature, which has reached such growth, and is present\n               in such quantity, that it constitutes a substantial risk of one or more of the following\n               hazards: 1. The vegetation, when dry, is or will be a fire hazard; 2. The vegetation is, or is naturally suited as sheltering or breeding place for rats,\n                  mice, mosquitoes, or other vermin or noxious insects; or 3. The vegetation overgrows or spreads upon or over any road, alley, path, or sidewalk\n                  owned or open to the public, to such extent as to obstruct, impede, or interfere with\n                  the safe or convenient use or maintenance thereof. (Ord. 3493 § 1, 2007: Ord. 1392 § 1 (part), 1984)\n\nEvery property owner whose land abuts or adjoins a County street shall continually\n               maintain, and keep clean, passable and free from weeds and noxious growths, the sidewalk\n               or shoulder areas which abut or adjoin the owner's property. (Ord. 3493 § 2, 2007: Ord. 1392 § 1 (part), 1984)\n\nIf any such owner, after receiving notice from the county fails, within twenty…",
+          "sourceUrl": "https://library.municode.com/hi/county_of_maui/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "hi:county-of-maui:3",
+          "prompt": "How must the County send the official notice to clean the sidewalk?",
+          "choices": [
+            "By certified mail to the owner's last known address",
+            "By regular first-class mail",
+            "By hanging a tag on the mailbox",
+            "By posting a sign on the sidewalk"
+          ],
+          "answer": "By certified mail to the owner's last known address",
+          "excerpt": "Unless otherwise expressly stated, whenever used in this chapter the following terms\n               shall be taken to have the following meanings: \"Owner\" means the fee simple owner, lessee of record, administrator, administratrix,\n               executor, executrix, receiver, trustee, property management agent, or any other individual,\n               corporation, partnership, or association who has control or possession of privately\n               owned real property; provided, however, that this term shall not include the owners\n               of real property within agricultural districts whose lots exceed fifteen acres. \"Sidewalk\" means that portion of a street between a curbline or the pavement of a\n               road, and the adjacent property line, including any setback area acquired by the county\n               for road-widening purposes. \"Weeds\" means vegetation of such nature, which has reached such growth, and is present\n               in such quantity, that it constitutes a substantial risk of one or more of the following\n               hazards: 1. The vegetation, when dry, is or will be a fire hazard; 2. The vegetation is, or is naturally suited as sheltering or breeding place for rats,\n                  mice, mosquitoes, or other vermin or noxious insects; or 3. The vegetation overgrows or spreads upon or over any road, alley, path, or sidewalk\n                  owned or open to the public, to such extent as to obstruct, impede, or interfere with\n                  the safe or convenient use or maintenance thereof. (Ord. 3493 § 1, 2007: Ord. 1392 § 1 (part), 1984)\n\nEvery property owner whose land abuts or adjoins a County street shall continually\n               maintain, and keep clean, passable and free from weeds and noxious growths, the sidewalk\n               or shoulder areas which abut or adjoin the owner's property. (Ord. 3493 § 2, 2007: Ord. 1392 § 1 (part), 1984)\n\nIf any such owner, after receiving notice from the county fails, within twenty…",
+          "sourceUrl": "https://library.municode.com/hi/county_of_maui/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "hi:county-of-maui:4",
+          "prompt": "To dig up a County street or sidewalk you generally need a written permit from the department of public works and waste management plus 8 hours' notice to police. What work may start without that permit and notice?",
+          "choices": [
+            "Emergency repairs of sewer lines or water mains",
+            "Planting street trees",
+            "Fixing a pothole in front of your house",
+            "Installing a new driveway"
+          ],
+          "answer": "Emergency repairs of sewer lines or water mains",
+          "excerpt": "Unless otherwise expressly stated, whenever used in this chapter the following terms\n               shall be taken to have the following meanings: \"Owner\" means the fee simple owner, lessee of record, administrator, administratrix,\n               executor, executrix, receiver, trustee, property management agent, or any other individual,\n               corporation, partnership, or association who has control or possession of privately\n               owned real property; provided, however, that this term shall not include the owners\n               of real property within agricultural districts whose lots exceed fifteen acres. \"Sidewalk\" means that portion of a street between a curbline or the pavement of a\n               road, and the adjacent property line, including any setback area acquired by the county\n               for road-widening purposes. \"Weeds\" means vegetation of such nature, which has reached such growth, and is present\n               in such quantity, that it constitutes a substantial risk of one or more of the following\n               hazards: 1. The vegetation, when dry, is or will be a fire hazard; 2. The vegetation is, or is naturally suited as sheltering or breeding place for rats,\n                  mice, mosquitoes, or other vermin or noxious insects; or 3. The vegetation overgrows or spreads upon or over any road, alley, path, or sidewalk\n                  owned or open to the public, to such extent as to obstruct, impede, or interfere with\n                  the safe or convenient use or maintenance thereof. (Ord. 3493 § 1, 2007: Ord. 1392 § 1 (part), 1984)\n\nEvery property owner whose land abuts or adjoins a County street shall continually\n               maintain, and keep clean, passable and free from weeds and noxious growths, the sidewalk\n               or shoulder areas which abut or adjoin the owner's property. (Ord. 3493 § 2, 2007: Ord. 1392 § 1 (part), 1984)\n\nIf any such owner, after receiving notice from the county fails, within twenty…",
+          "sourceUrl": "https://library.municode.com/hi/county_of_maui/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    }
+  ]
+}

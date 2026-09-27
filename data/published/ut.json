@@ -1,0 +1,1311 @@
+{
+  "state": "ut",
+  "stateName": "Utah",
+  "places": [
+    {
+      "id": "alpine",
+      "name": "Alpine",
+      "sourceIndex": "https://library.municode.com/ut/alpine",
+      "questions": []
+    },
+    {
+      "id": "american-fork",
+      "name": "American Fork",
+      "sourceIndex": "https://library.municode.com/ut/american_fork",
+      "questions": []
+    },
+    {
+      "id": "apple-valley",
+      "name": "Apple Valley",
+      "sourceIndex": "https://library.municode.com/ut/apple_valley",
+      "questions": []
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "sourceIndex": "https://library.municode.com/ut/aurora",
+      "questions": []
+    },
+    {
+      "id": "ballard",
+      "name": "Ballard",
+      "sourceIndex": "https://library.municode.com/ut/ballard",
+      "questions": []
+    },
+    {
+      "id": "big-water",
+      "name": "Big Water",
+      "sourceIndex": "https://library.municode.com/ut/big_water",
+      "questions": []
+    },
+    {
+      "id": "bluff",
+      "name": "Bluff",
+      "sourceIndex": "https://library.municode.com/ut/bluff",
+      "questions": []
+    },
+    {
+      "id": "bluffdale",
+      "name": "Bluffdale",
+      "sourceIndex": "https://library.municode.com/ut/bluffdale",
+      "questions": []
+    },
+    {
+      "id": "brighton",
+      "name": "Brighton",
+      "sourceIndex": "https://library.municode.com/ut/brighton",
+      "questions": []
+    },
+    {
+      "id": "cache-county",
+      "name": "Cache County",
+      "sourceIndex": "https://library.municode.com/ut/cache_county",
+      "questions": []
+    },
+    {
+      "id": "cedar-city",
+      "name": "Cedar City",
+      "sourceIndex": "https://library.municode.com/ut/cedar_city",
+      "questions": []
+    },
+    {
+      "id": "centerville",
+      "name": "Centerville",
+      "sourceIndex": "https://library.municode.com/ut/centerville_",
+      "questions": []
+    },
+    {
+      "id": "coalville",
+      "name": "Coalville",
+      "sourceIndex": "https://library.municode.com/ut/coalville",
+      "questions": [
+        {
+          "id": "ut:coalville:0",
+          "prompt": "What's the largest a Recreational Park Model Trailer can be in Coalville?",
+          "choices": [
+            "400 square feet",
+            "600 square feet",
+            "800 square feet",
+            "No size limit if it is self-contained"
+          ],
+          "answer": "400 square feet",
+          "excerpt": "The purpose of this section is the governance of Temporary Dwelling Units, including\n               installation and occupancy.\n\nRecreational Park Model Trailer. Shall not exceed an area of four hundred (400) square feet and shall follow all standards\n               set forth in ANSI 119.5. The unit must be self-contained or connected to the City\n               public sewer system. Temporary Dwelling. A Manufactured mobile unit (other than a mobile home) designed and permitted by its\n               manufacturer as a temporary dwelling for travel, recreational, and vacation use, including\n               recreational vehicles, such as: travel trailers recreational park model trailers,\n               camp trailers, motor homes, truck campers and vans. Travel Trailer. A travel trailer shall not require special highway movement permits when towed on\n               public highways and shall not exceed eight feet (8') in width or forty feet (40')\n               in length.\n\nA. No person or firm shall install a Recreational Park Trailer in the City without complying\n               with the standards adopted herein or prior to obtaining an installation permit from\n               the City. Such permits shall be granted only after proper application by the owner\n               or installer made upon forms provided by the City and the payment of a fee set by\n               the City Council. The following standards will be applied to all installation permit\n               requests: 1. A working smoke detector shall be installed. a. Per NFPA 1192 current edition, Section 6.3 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-3 for recreational park trailers. 2. A working carbon monoxide (CO) alarm shall be installed. a. Per NFPA 1192 Current Edition, Section 6.4.6 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-5 for recreational park trailers. 3. There shall be egress directly from the sleeping area consisting of a door, or an\n …",
+          "sourceUrl": "https://library.municode.com/ut/coalville/codes/development_code?nodeId=CH25REPAMOTR"
+        },
+        {
+          "id": "ut:coalville:1",
+          "prompt": "Where can Recreational Park Model Trailers be used in Coalville?",
+          "choices": [
+            "On any residential lot with a permit",
+            "Only in a designated recreational vehicle park and campground area",
+            "Anywhere they can hook up to city sewer",
+            "In any zone as a second home"
+          ],
+          "answer": "Only in a designated recreational vehicle park and campground area",
+          "excerpt": "The purpose of this section is the governance of Temporary Dwelling Units, including\n               installation and occupancy.\n\nRecreational Park Model Trailer. Shall not exceed an area of four hundred (400) square feet and shall follow all standards\n               set forth in ANSI 119.5. The unit must be self-contained or connected to the City\n               public sewer system. Temporary Dwelling. A Manufactured mobile unit (other than a mobile home) designed and permitted by its\n               manufacturer as a temporary dwelling for travel, recreational, and vacation use, including\n               recreational vehicles, such as: travel trailers recreational park model trailers,\n               camp trailers, motor homes, truck campers and vans. Travel Trailer. A travel trailer shall not require special highway movement permits when towed on\n               public highways and shall not exceed eight feet (8') in width or forty feet (40')\n               in length.\n\nA. No person or firm shall install a Recreational Park Trailer in the City without complying\n               with the standards adopted herein or prior to obtaining an installation permit from\n               the City. Such permits shall be granted only after proper application by the owner\n               or installer made upon forms provided by the City and the payment of a fee set by\n               the City Council. The following standards will be applied to all installation permit\n               requests: 1. A working smoke detector shall be installed. a. Per NFPA 1192 current edition, Section 6.3 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-3 for recreational park trailers. 2. A working carbon monoxide (CO) alarm shall be installed. a. Per NFPA 1192 Current Edition, Section 6.4.6 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-5 for recreational park trailers. 3. There shall be egress directly from the sleeping area consisting of a door, or an\n …",
+          "sourceUrl": "https://library.municode.com/ut/coalville/codes/development_code?nodeId=CH25REPAMOTR"
+        },
+        {
+          "id": "ut:coalville:2",
+          "prompt": "How long can the same person stay in a Recreational Park Model Trailer or RV?",
+          "choices": [
+            "No more than 14 consecutive days",
+            "No more than 30 consecutive days",
+            "No more than 90 consecutive days",
+            "There is no time limit in an RV park"
+          ],
+          "answer": "No more than 30 consecutive days",
+          "excerpt": "The purpose of this section is the governance of Temporary Dwelling Units, including\n               installation and occupancy.\n\nRecreational Park Model Trailer. Shall not exceed an area of four hundred (400) square feet and shall follow all standards\n               set forth in ANSI 119.5. The unit must be self-contained or connected to the City\n               public sewer system. Temporary Dwelling. A Manufactured mobile unit (other than a mobile home) designed and permitted by its\n               manufacturer as a temporary dwelling for travel, recreational, and vacation use, including\n               recreational vehicles, such as: travel trailers recreational park model trailers,\n               camp trailers, motor homes, truck campers and vans. Travel Trailer. A travel trailer shall not require special highway movement permits when towed on\n               public highways and shall not exceed eight feet (8') in width or forty feet (40')\n               in length.\n\nA. No person or firm shall install a Recreational Park Trailer in the City without complying\n               with the standards adopted herein or prior to obtaining an installation permit from\n               the City. Such permits shall be granted only after proper application by the owner\n               or installer made upon forms provided by the City and the payment of a fee set by\n               the City Council. The following standards will be applied to all installation permit\n               requests: 1. A working smoke detector shall be installed. a. Per NFPA 1192 current edition, Section 6.3 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-3 for recreational park trailers. 2. A working carbon monoxide (CO) alarm shall be installed. a. Per NFPA 1192 Current Edition, Section 6.4.6 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-5 for recreational park trailers. 3. There shall be egress directly from the sleeping area consisting of a door, or an\n …",
+          "sourceUrl": "https://library.municode.com/ut/coalville/codes/development_code?nodeId=CH25REPAMOTR"
+        },
+        {
+          "id": "ut:coalville:3",
+          "prompt": "Can a Recreational Park Model Trailer be used as someone's main home or second home?",
+          "choices": [
+            "Yes, after a city inspection",
+            "Yes, if it stays under 400 square feet",
+            "No",
+            "Only during the summer months"
+          ],
+          "answer": "No",
+          "excerpt": "The purpose of this section is the governance of Temporary Dwelling Units, including\n               installation and occupancy.\n\nRecreational Park Model Trailer. Shall not exceed an area of four hundred (400) square feet and shall follow all standards\n               set forth in ANSI 119.5. The unit must be self-contained or connected to the City\n               public sewer system. Temporary Dwelling. A Manufactured mobile unit (other than a mobile home) designed and permitted by its\n               manufacturer as a temporary dwelling for travel, recreational, and vacation use, including\n               recreational vehicles, such as: travel trailers recreational park model trailers,\n               camp trailers, motor homes, truck campers and vans. Travel Trailer. A travel trailer shall not require special highway movement permits when towed on\n               public highways and shall not exceed eight feet (8') in width or forty feet (40')\n               in length.\n\nA. No person or firm shall install a Recreational Park Trailer in the City without complying\n               with the standards adopted herein or prior to obtaining an installation permit from\n               the City. Such permits shall be granted only after proper application by the owner\n               or installer made upon forms provided by the City and the payment of a fee set by\n               the City Council. The following standards will be applied to all installation permit\n               requests: 1. A working smoke detector shall be installed. a. Per NFPA 1192 current edition, Section 6.3 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-3 for recreational park trailers. 2. A working carbon monoxide (CO) alarm shall be installed. a. Per NFPA 1192 Current Edition, Section 6.4.6 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-5 for recreational park trailers. 3. There shall be egress directly from the sleeping area consisting of a door, or an\n …",
+          "sourceUrl": "https://library.municode.com/ut/coalville/codes/development_code?nodeId=CH25REPAMOTR"
+        },
+        {
+          "id": "ut:coalville:4",
+          "prompt": "When can people start living in a Recreational Park Trailer after it is installed?",
+          "choices": [
+            "Right after the permit fee is paid",
+            "As soon as it is connected to water and sewer",
+            "Only after the City inspects it and gives approval",
+            "Once a working smoke detector is in place"
+          ],
+          "answer": "Only after the City inspects it and gives approval",
+          "excerpt": "The purpose of this section is the governance of Temporary Dwelling Units, including\n               installation and occupancy.\n\nRecreational Park Model Trailer. Shall not exceed an area of four hundred (400) square feet and shall follow all standards\n               set forth in ANSI 119.5. The unit must be self-contained or connected to the City\n               public sewer system. Temporary Dwelling. A Manufactured mobile unit (other than a mobile home) designed and permitted by its\n               manufacturer as a temporary dwelling for travel, recreational, and vacation use, including\n               recreational vehicles, such as: travel trailers recreational park model trailers,\n               camp trailers, motor homes, truck campers and vans. Travel Trailer. A travel trailer shall not require special highway movement permits when towed on\n               public highways and shall not exceed eight feet (8') in width or forty feet (40')\n               in length.\n\nA. No person or firm shall install a Recreational Park Trailer in the City without complying\n               with the standards adopted herein or prior to obtaining an installation permit from\n               the City. Such permits shall be granted only after proper application by the owner\n               or installer made upon forms provided by the City and the payment of a fee set by\n               the City Council. The following standards will be applied to all installation permit\n               requests: 1. A working smoke detector shall be installed. a. Per NFPA 1192 current edition, Section 6.3 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-3 for recreational park trailers. 2. A working carbon monoxide (CO) alarm shall be installed. a. Per NFPA 1192 Current Edition, Section 6.4.6 for recreational vehicles; or b. Per ANSI A119.5 Current Edition Section 3-5 for recreational park trailers. 3. There shall be egress directly from the sleeping area consisting of a door, or an\n …",
+          "sourceUrl": "https://library.municode.com/ut/coalville/codes/development_code?nodeId=CH25REPAMOTR"
+        }
+      ]
+    },
+    {
+      "id": "copperton-metro-township",
+      "name": "Copperton Metro Township",
+      "sourceIndex": "https://library.municode.com/ut/copperton_metro_township",
+      "questions": []
+    },
+    {
+      "id": "cottonwood-heights",
+      "name": "Cottonwood Heights",
+      "sourceIndex": "https://library.municode.com/ut/cottonwood_heights",
+      "questions": []
+    },
+    {
+      "id": "davis-county",
+      "name": "Davis County",
+      "sourceIndex": "https://library.municode.com/ut/davis_county",
+      "questions": []
+    },
+    {
+      "id": "delta",
+      "name": "Delta",
+      "sourceIndex": "https://library.municode.com/ut/delta",
+      "questions": []
+    },
+    {
+      "id": "emigration-canyon-metro-township",
+      "name": "Emigration Canyon Metro Township",
+      "sourceIndex": "https://library.municode.com/ut/emigration_canyon_metro_township",
+      "questions": []
+    },
+    {
+      "id": "ephraim",
+      "name": "Ephraim",
+      "sourceIndex": "https://library.municode.com/ut/ephraim",
+      "questions": []
+    },
+    {
+      "id": "escalante",
+      "name": "Escalante",
+      "sourceIndex": "https://library.municode.com/ut/escalante",
+      "questions": []
+    },
+    {
+      "id": "grantsville",
+      "name": "Grantsville",
+      "sourceIndex": "https://library.municode.com/ut/grantsville",
+      "questions": []
+    },
+    {
+      "id": "gunnison",
+      "name": "Gunnison",
+      "sourceIndex": "https://library.municode.com/ut/gunnison",
+      "questions": []
+    },
+    {
+      "id": "harrisville",
+      "name": "Harrisville",
+      "sourceIndex": "https://library.municode.com/ut/harrisville",
+      "questions": []
+    },
+    {
+      "id": "heber",
+      "name": "Heber",
+      "sourceIndex": "https://library.municode.com/ut/heber",
+      "questions": []
+    },
+    {
+      "id": "herriman",
+      "name": "Herriman",
+      "sourceIndex": "https://library.municode.com/ut/herriman",
+      "questions": []
+    },
+    {
+      "id": "hideout",
+      "name": "Hideout",
+      "sourceIndex": "https://library.municode.com/ut/hideout",
+      "questions": []
+    },
+    {
+      "id": "highland-city",
+      "name": "Highland City",
+      "sourceIndex": "https://library.municode.com/ut/highland_city",
+      "questions": []
+    },
+    {
+      "id": "hildale",
+      "name": "Hildale",
+      "sourceIndex": "https://library.municode.com/ut/hildale",
+      "questions": []
+    },
+    {
+      "id": "honeyville",
+      "name": "Honeyville",
+      "sourceIndex": "https://library.municode.com/ut/honeyville",
+      "questions": [
+        {
+          "id": "ut:honeyville:0",
+          "prompt": "On Honeyville streets with no speed limit sign, what is the speed limit?",
+          "choices": [
+            "25 miles per hour",
+            "20 miles per hour",
+            "35 miles per hour",
+            "15 miles per hour"
+          ],
+          "answer": "25 miles per hour",
+          "excerpt": "A. Traffic Code Adopted: The Uniform Traffic Code, current edition, as compiled, prepared\n               and published as a code in book form by the Utah Department of Public Safety and the\n               Utah Municipal League (Utah League of Cities and Towns), three (3) copies of which\n               have been filed for use and examination by the public in the office of the city recorder,\n               hereby is approved and adopted as the traffic code for the city, except as such code\n               may be altered or modified by the ordinances of the city. B. Definitions: Unless the context otherwise requires, all references in the traffic\n               code to: 1. The \"State Road Commission or State Department of Transportation\" shall mean the city\n               and its officers, departments, agencies and agents. 2. \"Local authorities\" shall mean the city council. 3. The \"Department of Public Safety of the State of Utah\" shall mean the city's law enforcement\n               agency or its agents. C. Prima Facie Speed: 1. Streets Posted: When appropriate traffic-control or regulatory signs giving notice\n               of speeds are posted, the prima facie maximum speed limits designated upon said signs\n               shall apply to the appropriate streets or portions of streets so posted. 2. Streets Not Posted: In the absence of any speed limit sign designating a speed limit\n               applicable thereto, the prima facie speed limit shall be twenty-five (25) miles per\n               hour. D. Through Streets Designated; Stop or Yield Intersections: When appropriate traffic-control\n               or regulatory signs are posted at entrances to intersections identifying them as stop\n               or yield entrances, such streets are hereby declared to be stop entrances and yield\n               entrances as designated by said signs. E. Angle Parking: When appropriate traffic-control or regulatory signs are posted permitting\n               angle parking, angle…",
+          "sourceUrl": "https://library.municode.com/ut/honeyville/codes/code_of_ordinances?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:honeyville:1",
+          "prompt": "On 6900 North between Highway 38 and the canal, how many trucks over 10,000 pounds can be on the street at the same time?",
+          "choices": [
+            "Only one",
+            "Two, one in each direction",
+            "As many as can fit",
+            "None; they must stay on the highway"
+          ],
+          "answer": "Only one",
+          "excerpt": "A. Traffic Code Adopted: The Uniform Traffic Code, current edition, as compiled, prepared\n               and published as a code in book form by the Utah Department of Public Safety and the\n               Utah Municipal League (Utah League of Cities and Towns), three (3) copies of which\n               have been filed for use and examination by the public in the office of the city recorder,\n               hereby is approved and adopted as the traffic code for the city, except as such code\n               may be altered or modified by the ordinances of the city. B. Definitions: Unless the context otherwise requires, all references in the traffic\n               code to: 1. The \"State Road Commission or State Department of Transportation\" shall mean the city\n               and its officers, departments, agencies and agents. 2. \"Local authorities\" shall mean the city council. 3. The \"Department of Public Safety of the State of Utah\" shall mean the city's law enforcement\n               agency or its agents. C. Prima Facie Speed: 1. Streets Posted: When appropriate traffic-control or regulatory signs giving notice\n               of speeds are posted, the prima facie maximum speed limits designated upon said signs\n               shall apply to the appropriate streets or portions of streets so posted. 2. Streets Not Posted: In the absence of any speed limit sign designating a speed limit\n               applicable thereto, the prima facie speed limit shall be twenty-five (25) miles per\n               hour. D. Through Streets Designated; Stop or Yield Intersections: When appropriate traffic-control\n               or regulatory signs are posted at entrances to intersections identifying them as stop\n               or yield entrances, such streets are hereby declared to be stop entrances and yield\n               entrances as designated by said signs. E. Angle Parking: When appropriate traffic-control or regulatory signs are posted permitting\n               angle parking, angle…",
+          "sourceUrl": "https://library.municode.com/ut/honeyville/codes/code_of_ordinances?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:honeyville:2",
+          "prompt": "When parking parallel to the curb (except on one-way streets), how close must the two right wheels be to the curb?",
+          "choices": [
+            "Within 12 inches",
+            "Within 18 inches",
+            "Within 24 inches",
+            "Touching the curb"
+          ],
+          "answer": "Within 12 inches",
+          "excerpt": "A. Traffic Code Adopted: The Uniform Traffic Code, current edition, as compiled, prepared\n               and published as a code in book form by the Utah Department of Public Safety and the\n               Utah Municipal League (Utah League of Cities and Towns), three (3) copies of which\n               have been filed for use and examination by the public in the office of the city recorder,\n               hereby is approved and adopted as the traffic code for the city, except as such code\n               may be altered or modified by the ordinances of the city. B. Definitions: Unless the context otherwise requires, all references in the traffic\n               code to: 1. The \"State Road Commission or State Department of Transportation\" shall mean the city\n               and its officers, departments, agencies and agents. 2. \"Local authorities\" shall mean the city council. 3. The \"Department of Public Safety of the State of Utah\" shall mean the city's law enforcement\n               agency or its agents. C. Prima Facie Speed: 1. Streets Posted: When appropriate traffic-control or regulatory signs giving notice\n               of speeds are posted, the prima facie maximum speed limits designated upon said signs\n               shall apply to the appropriate streets or portions of streets so posted. 2. Streets Not Posted: In the absence of any speed limit sign designating a speed limit\n               applicable thereto, the prima facie speed limit shall be twenty-five (25) miles per\n               hour. D. Through Streets Designated; Stop or Yield Intersections: When appropriate traffic-control\n               or regulatory signs are posted at entrances to intersections identifying them as stop\n               or yield entrances, such streets are hereby declared to be stop entrances and yield\n               entrances as designated by said signs. E. Angle Parking: When appropriate traffic-control or regulatory signs are posted permitting\n               angle parking, angle…",
+          "sourceUrl": "https://library.municode.com/ut/honeyville/codes/code_of_ordinances?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:honeyville:3",
+          "prompt": "Is it allowed to park a vehicle on a Honeyville street just to display it for sale?",
+          "choices": [
+            "No, it is not allowed",
+            "Yes, for up to 24 hours",
+            "Yes, if a for-sale sign is in the window",
+            "Only on weekends"
+          ],
+          "answer": "No, it is not allowed",
+          "excerpt": "A. Traffic Code Adopted: The Uniform Traffic Code, current edition, as compiled, prepared\n               and published as a code in book form by the Utah Department of Public Safety and the\n               Utah Municipal League (Utah League of Cities and Towns), three (3) copies of which\n               have been filed for use and examination by the public in the office of the city recorder,\n               hereby is approved and adopted as the traffic code for the city, except as such code\n               may be altered or modified by the ordinances of the city. B. Definitions: Unless the context otherwise requires, all references in the traffic\n               code to: 1. The \"State Road Commission or State Department of Transportation\" shall mean the city\n               and its officers, departments, agencies and agents. 2. \"Local authorities\" shall mean the city council. 3. The \"Department of Public Safety of the State of Utah\" shall mean the city's law enforcement\n               agency or its agents. C. Prima Facie Speed: 1. Streets Posted: When appropriate traffic-control or regulatory signs giving notice\n               of speeds are posted, the prima facie maximum speed limits designated upon said signs\n               shall apply to the appropriate streets or portions of streets so posted. 2. Streets Not Posted: In the absence of any speed limit sign designating a speed limit\n               applicable thereto, the prima facie speed limit shall be twenty-five (25) miles per\n               hour. D. Through Streets Designated; Stop or Yield Intersections: When appropriate traffic-control\n               or regulatory signs are posted at entrances to intersections identifying them as stop\n               or yield entrances, such streets are hereby declared to be stop entrances and yield\n               entrances as designated by said signs. E. Angle Parking: When appropriate traffic-control or regulatory signs are posted permitting\n               angle parking, angle…",
+          "sourceUrl": "https://library.municode.com/ut/honeyville/codes/code_of_ordinances?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:honeyville:4",
+          "prompt": "If you park in an alley, how much of the alley must stay open for other vehicles?",
+          "choices": [
+            "At least 10 feet",
+            "At least 8 feet",
+            "At least 12 feet",
+            "Enough for one car to squeeze by"
+          ],
+          "answer": "At least 10 feet",
+          "excerpt": "A. Traffic Code Adopted: The Uniform Traffic Code, current edition, as compiled, prepared\n               and published as a code in book form by the Utah Department of Public Safety and the\n               Utah Municipal League (Utah League of Cities and Towns), three (3) copies of which\n               have been filed for use and examination by the public in the office of the city recorder,\n               hereby is approved and adopted as the traffic code for the city, except as such code\n               may be altered or modified by the ordinances of the city. B. Definitions: Unless the context otherwise requires, all references in the traffic\n               code to: 1. The \"State Road Commission or State Department of Transportation\" shall mean the city\n               and its officers, departments, agencies and agents. 2. \"Local authorities\" shall mean the city council. 3. The \"Department of Public Safety of the State of Utah\" shall mean the city's law enforcement\n               agency or its agents. C. Prima Facie Speed: 1. Streets Posted: When appropriate traffic-control or regulatory signs giving notice\n               of speeds are posted, the prima facie maximum speed limits designated upon said signs\n               shall apply to the appropriate streets or portions of streets so posted. 2. Streets Not Posted: In the absence of any speed limit sign designating a speed limit\n               applicable thereto, the prima facie speed limit shall be twenty-five (25) miles per\n               hour. D. Through Streets Designated; Stop or Yield Intersections: When appropriate traffic-control\n               or regulatory signs are posted at entrances to intersections identifying them as stop\n               or yield entrances, such streets are hereby declared to be stop entrances and yield\n               entrances as designated by said signs. E. Angle Parking: When appropriate traffic-control or regulatory signs are posted permitting\n               angle parking, angle…",
+          "sourceUrl": "https://library.municode.com/ut/honeyville/codes/code_of_ordinances?nodeId=TIT6MOVETR"
+        }
+      ]
+    },
+    {
+      "id": "hooper-city",
+      "name": "Hooper City",
+      "sourceIndex": "https://library.municode.com/ut/hooper_city",
+      "questions": []
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "sourceIndex": "https://library.municode.com/ut/hurricane",
+      "questions": [
+        {
+          "id": "ut:hurricane:0",
+          "prompt": "Can you park a vehicle on a Hurricane public street mainly to advertise that it is for sale?",
+          "choices": [
+            "Yes, if a for-sale sign is in the window",
+            "No",
+            "Yes, for up to 24 hours",
+            "Only on weekends"
+          ],
+          "answer": "No",
+          "excerpt": "A. Traffic rules and regulations. The State of Utah Traffic Codes (41) and any subsequent amendments or changes adopted\n               by the State of Utah, are hereby approved, adopted and incorporated by reference as\n               the traffic code for this City, except as such code may be altered or modified by\n               the ordinances of this City. B. Definitions contained in code. Unless the context otherwise requires, the following references in the traffic code\n               shall mean: Local authorities means the City Council of this City. Magistrate means the Justice of the Peace or Judge of this City. (Ord. 2017-02, 1-5-2017)\n\nA. Prima facie speed; designated streets. 1. Streets with signs. When appropriate street signs giving notice of the maximum permitted speed thereon\n               are erected, the prima facie speed limits designated upon said signs shall apply to\n               the appropriate streets or portions of streets so posted. B. Authority to erect stop or yield signs. Whenever any ordinance of this City designates and describes a through street, it\n               shall be the duty of the Chief Law Enforcement Officer or the Superintendent of Streets\n               to place and maintain a stop sign or, where safety and efficiency require at any intersection,\n               a yield sign on each and every street intersecting such through street, unless traffic\n               at such intersection is controlled at all times by traffic control signals. However,\n               at the intersection of two through streets or at the intersection of a through street\n               and a heavily traveled street, stop signs shall be erected at approaches to either\n               streets as determined by the Chief Law Enforcement Officer on the basis of an engineering\n               and traffic study. C. Penalty. Any person violating, causing or permitting violation of any provisions of this section\n               shall be guilty of an offense as…",
+          "sourceUrl": "https://library.municode.com/ut/hurricane/codes/code_of_ordinances?nodeId=TIT6VETR"
+        },
+        {
+          "id": "ut:hurricane:1",
+          "prompt": "If you park in an alley in Hurricane, how much of the alley roadway must stay open for other vehicles?",
+          "choices": [
+            "At least 10 feet",
+            "At least 6 feet",
+            "The entire alley must stay clear",
+            "There is no width rule"
+          ],
+          "answer": "At least 10 feet",
+          "excerpt": "A. Traffic rules and regulations. The State of Utah Traffic Codes (41) and any subsequent amendments or changes adopted\n               by the State of Utah, are hereby approved, adopted and incorporated by reference as\n               the traffic code for this City, except as such code may be altered or modified by\n               the ordinances of this City. B. Definitions contained in code. Unless the context otherwise requires, the following references in the traffic code\n               shall mean: Local authorities means the City Council of this City. Magistrate means the Justice of the Peace or Judge of this City. (Ord. 2017-02, 1-5-2017)\n\nA. Prima facie speed; designated streets. 1. Streets with signs. When appropriate street signs giving notice of the maximum permitted speed thereon\n               are erected, the prima facie speed limits designated upon said signs shall apply to\n               the appropriate streets or portions of streets so posted. B. Authority to erect stop or yield signs. Whenever any ordinance of this City designates and describes a through street, it\n               shall be the duty of the Chief Law Enforcement Officer or the Superintendent of Streets\n               to place and maintain a stop sign or, where safety and efficiency require at any intersection,\n               a yield sign on each and every street intersecting such through street, unless traffic\n               at such intersection is controlled at all times by traffic control signals. However,\n               at the intersection of two through streets or at the intersection of a through street\n               and a heavily traveled street, stop signs shall be erected at approaches to either\n               streets as determined by the Chief Law Enforcement Officer on the basis of an engineering\n               and traffic study. C. Penalty. Any person violating, causing or permitting violation of any provisions of this section\n               shall be guilty of an offense as…",
+          "sourceUrl": "https://library.municode.com/ut/hurricane/codes/code_of_ordinances?nodeId=TIT6VETR"
+        },
+        {
+          "id": "ut:hurricane:2",
+          "prompt": "On private property that is not a licensed auto sales lot, how many vehicles may be left mainly to advertise they are for sale if the property owner consents?",
+          "choices": [
+            "Unlimited",
+            "No more than two at a time",
+            "One",
+            "None"
+          ],
+          "answer": "No more than two at a time",
+          "excerpt": "A. Traffic rules and regulations. The State of Utah Traffic Codes (41) and any subsequent amendments or changes adopted\n               by the State of Utah, are hereby approved, adopted and incorporated by reference as\n               the traffic code for this City, except as such code may be altered or modified by\n               the ordinances of this City. B. Definitions contained in code. Unless the context otherwise requires, the following references in the traffic code\n               shall mean: Local authorities means the City Council of this City. Magistrate means the Justice of the Peace or Judge of this City. (Ord. 2017-02, 1-5-2017)\n\nA. Prima facie speed; designated streets. 1. Streets with signs. When appropriate street signs giving notice of the maximum permitted speed thereon\n               are erected, the prima facie speed limits designated upon said signs shall apply to\n               the appropriate streets or portions of streets so posted. B. Authority to erect stop or yield signs. Whenever any ordinance of this City designates and describes a through street, it\n               shall be the duty of the Chief Law Enforcement Officer or the Superintendent of Streets\n               to place and maintain a stop sign or, where safety and efficiency require at any intersection,\n               a yield sign on each and every street intersecting such through street, unless traffic\n               at such intersection is controlled at all times by traffic control signals. However,\n               at the intersection of two through streets or at the intersection of a through street\n               and a heavily traveled street, stop signs shall be erected at approaches to either\n               streets as determined by the Chief Law Enforcement Officer on the basis of an engineering\n               and traffic study. C. Penalty. Any person violating, causing or permitting violation of any provisions of this section\n               shall be guilty of an offense as…",
+          "sourceUrl": "https://library.municode.com/ut/hurricane/codes/code_of_ordinances?nodeId=TIT6VETR"
+        },
+        {
+          "id": "ut:hurricane:3",
+          "prompt": "How long may an ordinary semitruck or trailer (not carrying hazardous cargo and not running a noisy fridge unit) stay parked on a Hurricane public street?",
+          "choices": [
+            "Overnight if the driver stays with it",
+            "No more than one hour in any 24-hour period, except while loading or unloading",
+            "As long as it is not blocking a driveway",
+            "Up to 24 hours"
+          ],
+          "answer": "No more than one hour in any 24-hour period, except while loading or unloading",
+          "excerpt": "A. Traffic rules and regulations. The State of Utah Traffic Codes (41) and any subsequent amendments or changes adopted\n               by the State of Utah, are hereby approved, adopted and incorporated by reference as\n               the traffic code for this City, except as such code may be altered or modified by\n               the ordinances of this City. B. Definitions contained in code. Unless the context otherwise requires, the following references in the traffic code\n               shall mean: Local authorities means the City Council of this City. Magistrate means the Justice of the Peace or Judge of this City. (Ord. 2017-02, 1-5-2017)\n\nA. Prima facie speed; designated streets. 1. Streets with signs. When appropriate street signs giving notice of the maximum permitted speed thereon\n               are erected, the prima facie speed limits designated upon said signs shall apply to\n               the appropriate streets or portions of streets so posted. B. Authority to erect stop or yield signs. Whenever any ordinance of this City designates and describes a through street, it\n               shall be the duty of the Chief Law Enforcement Officer or the Superintendent of Streets\n               to place and maintain a stop sign or, where safety and efficiency require at any intersection,\n               a yield sign on each and every street intersecting such through street, unless traffic\n               at such intersection is controlled at all times by traffic control signals. However,\n               at the intersection of two through streets or at the intersection of a through street\n               and a heavily traveled street, stop signs shall be erected at approaches to either\n               streets as determined by the Chief Law Enforcement Officer on the basis of an engineering\n               and traffic study. C. Penalty. Any person violating, causing or permitting violation of any provisions of this section\n               shall be guilty of an offense as…",
+          "sourceUrl": "https://library.municode.com/ut/hurricane/codes/code_of_ordinances?nodeId=TIT6VETR"
+        }
+      ]
+    },
+    {
+      "id": "hyrum",
+      "name": "Hyrum",
+      "sourceIndex": "https://library.municode.com/ut/hyrum",
+      "questions": []
+    },
+    {
+      "id": "iron-county",
+      "name": "Iron County",
+      "sourceIndex": "https://library.municode.com/ut/iron_county",
+      "questions": [
+        {
+          "id": "ut:iron-county:0",
+          "prompt": "If you own land next to a road intersection in Iron County, how far along the through road must you keep trees and other objects from blocking the view?",
+          "choices": [
+            "100 feet on either side",
+            "300 feet on either side",
+            "Only from your property line to the pavement",
+            "There is no set distance"
+          ],
+          "answer": "300 feet on either side",
+          "excerpt": "The county commissioners of Iron County may, with reference to highways under their\n               jurisdiction, prohibit the operation of vehicles upon any highway or impose restrictions\n               as to weight of vehicles, for a total period of not to exceed ninety days in any one\n               calendar year, when operated upon any highway under the jurisdiction of the county\n               commissioners and for the maintenance of which they are responsible, whenever any\n               such highway by reason of deterioration, rain, snow or other climatic conditions will\n               be seriously damaged or destroyed unless the use of vehicles thereon is prohibited\n               or the permissible weights thereon reduced; provided, however, that before the regulation\n               of the road, either as to prohibiting traffic or limiting the permissible weight of\n               any vehicle shall be effective, the county commissioners shall erect or cause to be\n               erected and maintained signs designating the restriction at each end of that portion\n               of any highway affected thereby and the restrictions shall not be effective until\n               or unless such signs are erected and maintained. The county commissioners may also\n               prohibit the operation of trucks or other commercial vehicles, or impose limitations\n               as to the weight thereof, on designated highways, which prohibitions and limitations\n               shall be designated by appropriate signs placed on such highways. (Ord. 30 § 1, 1958)\n\nAny person who shall violate any prohibition or limitation as shall be imposed by\n               the county commissioners as provided for by Section 12.04.010 shall be guilty of a misdemeanor. (Ord. 30 § 2, 1958)\n\nA. No property owner who owns property adjacent to any road intersection in Iron County,\n               Utah, shall allow foliage or other objects to obscure visibility for three hundred\n              …",
+          "sourceUrl": "https://library.municode.com/ut/iron_county/codes/code_of_ordinances?nodeId=TIT12ROSIPUPL"
+        },
+        {
+          "id": "ut:iron-county:1",
+          "prompt": "If Iron County sends you a written notice that plants or objects on your property block the view at an intersection, how long do you have to clear them before the county may clear them and bill you?",
+          "choices": [
+            "48 hours",
+            "10 days",
+            "30 days",
+            "Until the next growing season"
+          ],
+          "answer": "10 days",
+          "excerpt": "The county commissioners of Iron County may, with reference to highways under their\n               jurisdiction, prohibit the operation of vehicles upon any highway or impose restrictions\n               as to weight of vehicles, for a total period of not to exceed ninety days in any one\n               calendar year, when operated upon any highway under the jurisdiction of the county\n               commissioners and for the maintenance of which they are responsible, whenever any\n               such highway by reason of deterioration, rain, snow or other climatic conditions will\n               be seriously damaged or destroyed unless the use of vehicles thereon is prohibited\n               or the permissible weights thereon reduced; provided, however, that before the regulation\n               of the road, either as to prohibiting traffic or limiting the permissible weight of\n               any vehicle shall be effective, the county commissioners shall erect or cause to be\n               erected and maintained signs designating the restriction at each end of that portion\n               of any highway affected thereby and the restrictions shall not be effective until\n               or unless such signs are erected and maintained. The county commissioners may also\n               prohibit the operation of trucks or other commercial vehicles, or impose limitations\n               as to the weight thereof, on designated highways, which prohibitions and limitations\n               shall be designated by appropriate signs placed on such highways. (Ord. 30 § 1, 1958)\n\nAny person who shall violate any prohibition or limitation as shall be imposed by\n               the county commissioners as provided for by Section 12.04.010 shall be guilty of a misdemeanor. (Ord. 30 § 2, 1958)\n\nA. No property owner who owns property adjacent to any road intersection in Iron County,\n               Utah, shall allow foliage or other objects to obscure visibility for three hundred\n              …",
+          "sourceUrl": "https://library.municode.com/ut/iron_county/codes/code_of_ordinances?nodeId=TIT12ROSIPUPL"
+        },
+        {
+          "id": "ut:iron-county:2",
+          "prompt": "Before Iron County will accept a road outside a subdivision for county maintenance, what right-of-way must first be deeded to the county?",
+          "choices": [
+            "A 33-foot-wide right-of-way",
+            "A 50-foot-wide right-of-way",
+            "A continuous 66-foot-wide right-of-way",
+            "Whatever width the developer already used"
+          ],
+          "answer": "A continuous 66-foot-wide right-of-way",
+          "excerpt": "The county commissioners of Iron County may, with reference to highways under their\n               jurisdiction, prohibit the operation of vehicles upon any highway or impose restrictions\n               as to weight of vehicles, for a total period of not to exceed ninety days in any one\n               calendar year, when operated upon any highway under the jurisdiction of the county\n               commissioners and for the maintenance of which they are responsible, whenever any\n               such highway by reason of deterioration, rain, snow or other climatic conditions will\n               be seriously damaged or destroyed unless the use of vehicles thereon is prohibited\n               or the permissible weights thereon reduced; provided, however, that before the regulation\n               of the road, either as to prohibiting traffic or limiting the permissible weight of\n               any vehicle shall be effective, the county commissioners shall erect or cause to be\n               erected and maintained signs designating the restriction at each end of that portion\n               of any highway affected thereby and the restrictions shall not be effective until\n               or unless such signs are erected and maintained. The county commissioners may also\n               prohibit the operation of trucks or other commercial vehicles, or impose limitations\n               as to the weight thereof, on designated highways, which prohibitions and limitations\n               shall be designated by appropriate signs placed on such highways. (Ord. 30 § 1, 1958)\n\nAny person who shall violate any prohibition or limitation as shall be imposed by\n               the county commissioners as provided for by Section 12.04.010 shall be guilty of a misdemeanor. (Ord. 30 § 2, 1958)\n\nA. No property owner who owns property adjacent to any road intersection in Iron County,\n               Utah, shall allow foliage or other objects to obscure visibility for three hundred\n              …",
+          "sourceUrl": "https://library.municode.com/ut/iron_county/codes/code_of_ordinances?nodeId=TIT12ROSIPUPL"
+        },
+        {
+          "id": "ut:iron-county:3",
+          "prompt": "When will Iron County even consider taking over maintenance of roads inside a subdivision?",
+          "choices": [
+            "As soon as the roads are paved",
+            "After at least half of the platted lots have habitable homes",
+            "After every lot is sold",
+            "After homeowners form a petition"
+          ],
+          "answer": "After at least half of the platted lots have habitable homes",
+          "excerpt": "The county commissioners of Iron County may, with reference to highways under their\n               jurisdiction, prohibit the operation of vehicles upon any highway or impose restrictions\n               as to weight of vehicles, for a total period of not to exceed ninety days in any one\n               calendar year, when operated upon any highway under the jurisdiction of the county\n               commissioners and for the maintenance of which they are responsible, whenever any\n               such highway by reason of deterioration, rain, snow or other climatic conditions will\n               be seriously damaged or destroyed unless the use of vehicles thereon is prohibited\n               or the permissible weights thereon reduced; provided, however, that before the regulation\n               of the road, either as to prohibiting traffic or limiting the permissible weight of\n               any vehicle shall be effective, the county commissioners shall erect or cause to be\n               erected and maintained signs designating the restriction at each end of that portion\n               of any highway affected thereby and the restrictions shall not be effective until\n               or unless such signs are erected and maintained. The county commissioners may also\n               prohibit the operation of trucks or other commercial vehicles, or impose limitations\n               as to the weight thereof, on designated highways, which prohibitions and limitations\n               shall be designated by appropriate signs placed on such highways. (Ord. 30 § 1, 1958)\n\nAny person who shall violate any prohibition or limitation as shall be imposed by\n               the county commissioners as provided for by Section 12.04.010 shall be guilty of a misdemeanor. (Ord. 30 § 2, 1958)\n\nA. No property owner who owns property adjacent to any road intersection in Iron County,\n               Utah, shall allow foliage or other objects to obscure visibility for three hundred\n              …",
+          "sourceUrl": "https://library.municode.com/ut/iron_county/codes/code_of_ordinances?nodeId=TIT12ROSIPUPL"
+        },
+        {
+          "id": "ut:iron-county:4",
+          "prompt": "Which roads will Iron County not accept for winter maintenance?",
+          "choices": [
+            "Any unpaved road",
+            "Roads that school buses do not use",
+            "Roads above a ten percent grade",
+            "Roads outside city limits"
+          ],
+          "answer": "Roads above a ten percent grade",
+          "excerpt": "The county commissioners of Iron County may, with reference to highways under their\n               jurisdiction, prohibit the operation of vehicles upon any highway or impose restrictions\n               as to weight of vehicles, for a total period of not to exceed ninety days in any one\n               calendar year, when operated upon any highway under the jurisdiction of the county\n               commissioners and for the maintenance of which they are responsible, whenever any\n               such highway by reason of deterioration, rain, snow or other climatic conditions will\n               be seriously damaged or destroyed unless the use of vehicles thereon is prohibited\n               or the permissible weights thereon reduced; provided, however, that before the regulation\n               of the road, either as to prohibiting traffic or limiting the permissible weight of\n               any vehicle shall be effective, the county commissioners shall erect or cause to be\n               erected and maintained signs designating the restriction at each end of that portion\n               of any highway affected thereby and the restrictions shall not be effective until\n               or unless such signs are erected and maintained. The county commissioners may also\n               prohibit the operation of trucks or other commercial vehicles, or impose limitations\n               as to the weight thereof, on designated highways, which prohibitions and limitations\n               shall be designated by appropriate signs placed on such highways. (Ord. 30 § 1, 1958)\n\nAny person who shall violate any prohibition or limitation as shall be imposed by\n               the county commissioners as provided for by Section 12.04.010 shall be guilty of a misdemeanor. (Ord. 30 § 2, 1958)\n\nA. No property owner who owns property adjacent to any road intersection in Iron County,\n               Utah, shall allow foliage or other objects to obscure visibility for three hundred\n              …",
+          "sourceUrl": "https://library.municode.com/ut/iron_county/codes/code_of_ordinances?nodeId=TIT12ROSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "kamas",
+      "name": "Kamas",
+      "sourceIndex": "https://library.municode.com/ut/kamas",
+      "questions": [
+        {
+          "id": "ut:kamas:0",
+          "prompt": "In Kamas, when is a dog considered under its owner’s control?",
+          "choices": [
+            "When it is on a leash, confined in a vehicle, or on the owner’s property",
+            "Anytime it is wearing a license tag",
+            "Only if it never leaves the house",
+            "When it is trained to come when called"
+          ],
+          "answer": "When it is on a leash, confined in a vehicle, or on the owner’s property",
+          "excerpt": "Animal at large. Any domesticated animal, whether or not licensed, not under restraint as defined\n               below. Animal boarding establishment. Any establishment that takes in animals for boarding for profit. Animal grooming parlor. Any establishment maintained for the purpose of offering cosmetology services for\n               animals for profit. Animal shelter. A facility owned and/or operated by a governmental entity or any animal welfare organization\n               that is incorporated within the State of Utah under U.C.A., 1953, § 76-9-302, as amended,\n               and used for the care and custody of seized, stray homeless, quarantined, abandoned\n               or unwanted dogs, cats, or domestic animals. Animal under restraint. Any animal under the control of its owner or person having charge, care, custody\n               or control. A dog shall be considered under control of the owner when on a leash or\n               lead, confined within a vehicle or within the real property limits of the owner. Bite. An actual puncture, tear, or abrasion of the skin inflicted by the teeth of an animal. Cats. Any age feline of the domesticated types. Cattery. An establishment for boarding, breeding, buying, grooming, or selling cats for profit. Dog. Any canis over four months of age. Any canis under four months of age is a puppy. Domesticated animals. Animals accustomed to live in or about the habitation of man, including but not limited\n               to cats, dogs, fowl, horses, swine, goats and cattle. Guard dog. A working dog which must be kept in a fenced run or other suitable enclosure during\n               business hours or on a leash or wider absolute control while working, so it cannot\n               come into contact with the public. This restriction does not apply to service dogs\n               for people and governmental entitles and dogs used for agricultural purposes. Holding facility. Any pet shop kennel cattery, groomery, animal shelter, humane…",
+          "sourceUrl": "https://library.municode.com/ut/kamas/codes/municipal_code?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "ut:kamas:1",
+          "prompt": "How old does a canine have to be in Kamas to count as a “dog” rather than a puppy?",
+          "choices": [
+            "Over four months of age",
+            "Over six months of age",
+            "Over eight weeks of age",
+            "Fully grown"
+          ],
+          "answer": "Over four months of age",
+          "excerpt": "Animal at large. Any domesticated animal, whether or not licensed, not under restraint as defined\n               below. Animal boarding establishment. Any establishment that takes in animals for boarding for profit. Animal grooming parlor. Any establishment maintained for the purpose of offering cosmetology services for\n               animals for profit. Animal shelter. A facility owned and/or operated by a governmental entity or any animal welfare organization\n               that is incorporated within the State of Utah under U.C.A., 1953, § 76-9-302, as amended,\n               and used for the care and custody of seized, stray homeless, quarantined, abandoned\n               or unwanted dogs, cats, or domestic animals. Animal under restraint. Any animal under the control of its owner or person having charge, care, custody\n               or control. A dog shall be considered under control of the owner when on a leash or\n               lead, confined within a vehicle or within the real property limits of the owner. Bite. An actual puncture, tear, or abrasion of the skin inflicted by the teeth of an animal. Cats. Any age feline of the domesticated types. Cattery. An establishment for boarding, breeding, buying, grooming, or selling cats for profit. Dog. Any canis over four months of age. Any canis under four months of age is a puppy. Domesticated animals. Animals accustomed to live in or about the habitation of man, including but not limited\n               to cats, dogs, fowl, horses, swine, goats and cattle. Guard dog. A working dog which must be kept in a fenced run or other suitable enclosure during\n               business hours or on a leash or wider absolute control while working, so it cannot\n               come into contact with the public. This restriction does not apply to service dogs\n               for people and governmental entitles and dogs used for agricultural purposes. Holding facility. Any pet shop kennel cattery, groomery, animal shelter, humane…",
+          "sourceUrl": "https://library.municode.com/ut/kamas/codes/municipal_code?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "ut:kamas:2",
+          "prompt": "If a licensed dog in Kamas is not under restraint, what is it considered?",
+          "choices": [
+            "An animal at large (a stray), even though it is licensed",
+            "A legal pet as long as the license is current",
+            "A guard dog",
+            "Allowed if it stays in the neighborhood"
+          ],
+          "answer": "An animal at large (a stray), even though it is licensed",
+          "excerpt": "Animal at large. Any domesticated animal, whether or not licensed, not under restraint as defined\n               below. Animal boarding establishment. Any establishment that takes in animals for boarding for profit. Animal grooming parlor. Any establishment maintained for the purpose of offering cosmetology services for\n               animals for profit. Animal shelter. A facility owned and/or operated by a governmental entity or any animal welfare organization\n               that is incorporated within the State of Utah under U.C.A., 1953, § 76-9-302, as amended,\n               and used for the care and custody of seized, stray homeless, quarantined, abandoned\n               or unwanted dogs, cats, or domestic animals. Animal under restraint. Any animal under the control of its owner or person having charge, care, custody\n               or control. A dog shall be considered under control of the owner when on a leash or\n               lead, confined within a vehicle or within the real property limits of the owner. Bite. An actual puncture, tear, or abrasion of the skin inflicted by the teeth of an animal. Cats. Any age feline of the domesticated types. Cattery. An establishment for boarding, breeding, buying, grooming, or selling cats for profit. Dog. Any canis over four months of age. Any canis under four months of age is a puppy. Domesticated animals. Animals accustomed to live in or about the habitation of man, including but not limited\n               to cats, dogs, fowl, horses, swine, goats and cattle. Guard dog. A working dog which must be kept in a fenced run or other suitable enclosure during\n               business hours or on a leash or wider absolute control while working, so it cannot\n               come into contact with the public. This restriction does not apply to service dogs\n               for people and governmental entitles and dogs used for agricultural purposes. Holding facility. Any pet shop kennel cattery, groomery, animal shelter, humane…",
+          "sourceUrl": "https://library.municode.com/ut/kamas/codes/municipal_code?nodeId=TIT9ANSECO"
+        },
+        {
+          "id": "ut:kamas:3",
+          "prompt": "In Kamas, what counts as a kennel?",
+          "choices": [
+            "An establishment with four or more dogs for boarding, breeding, selling, or similar purposes",
+            "Any home that has a doghouse",
+            "A shop that only sells pet food",
+            "A yard with two pet dogs"
+          ],
+          "answer": "An establishment with four or more dogs for boarding, breeding, selling, or similar purposes",
+          "excerpt": "Animal at large. Any domesticated animal, whether or not licensed, not under restraint as defined\n               below. Animal boarding establishment. Any establishment that takes in animals for boarding for profit. Animal grooming parlor. Any establishment maintained for the purpose of offering cosmetology services for\n               animals for profit. Animal shelter. A facility owned and/or operated by a governmental entity or any animal welfare organization\n               that is incorporated within the State of Utah under U.C.A., 1953, § 76-9-302, as amended,\n               and used for the care and custody of seized, stray homeless, quarantined, abandoned\n               or unwanted dogs, cats, or domestic animals. Animal under restraint. Any animal under the control of its owner or person having charge, care, custody\n               or control. A dog shall be considered under control of the owner when on a leash or\n               lead, confined within a vehicle or within the real property limits of the owner. Bite. An actual puncture, tear, or abrasion of the skin inflicted by the teeth of an animal. Cats. Any age feline of the domesticated types. Cattery. An establishment for boarding, breeding, buying, grooming, or selling cats for profit. Dog. Any canis over four months of age. Any canis under four months of age is a puppy. Domesticated animals. Animals accustomed to live in or about the habitation of man, including but not limited\n               to cats, dogs, fowl, horses, swine, goats and cattle. Guard dog. A working dog which must be kept in a fenced run or other suitable enclosure during\n               business hours or on a leash or wider absolute control while working, so it cannot\n               come into contact with the public. This restriction does not apply to service dogs\n               for people and governmental entitles and dogs used for agricultural purposes. Holding facility. Any pet shop kennel cattery, groomery, animal shelter, humane…",
+          "sourceUrl": "https://library.municode.com/ut/kamas/codes/municipal_code?nodeId=TIT9ANSECO"
+        }
+      ]
+    },
+    {
+      "id": "kaysville",
+      "name": "Kaysville",
+      "sourceIndex": "https://library.municode.com/ut/kaysville",
+      "questions": []
+    },
+    {
+      "id": "kearns-metro-township",
+      "name": "Kearns Metro Township",
+      "sourceIndex": "https://library.municode.com/ut/kearns_metro_township",
+      "questions": []
+    },
+    {
+      "id": "levan",
+      "name": "Levan",
+      "sourceIndex": "https://library.municode.com/ut/levan",
+      "questions": []
+    },
+    {
+      "id": "lynndyl",
+      "name": "Lynndyl",
+      "sourceIndex": "https://library.municode.com/ut/lynndyl",
+      "questions": []
+    },
+    {
+      "id": "magna-metro-township",
+      "name": "Magna Metro Township",
+      "sourceIndex": "https://library.municode.com/ut/magna_metro_township",
+      "questions": []
+    },
+    {
+      "id": "manti",
+      "name": "Manti",
+      "sourceIndex": "https://library.municode.com/ut/manti",
+      "questions": []
+    },
+    {
+      "id": "marriott-slaterville",
+      "name": "Marriott-Slaterville",
+      "sourceIndex": "https://library.municode.com/ut/marriott-slaterville",
+      "questions": []
+    },
+    {
+      "id": "mendon",
+      "name": "Mendon",
+      "sourceIndex": "https://library.municode.com/ut/mendon",
+      "questions": []
+    },
+    {
+      "id": "midway",
+      "name": "Midway",
+      "sourceIndex": "https://library.municode.com/ut/midway",
+      "questions": []
+    },
+    {
+      "id": "milford",
+      "name": "Milford",
+      "sourceIndex": "https://library.municode.com/ut/milford",
+      "questions": []
+    },
+    {
+      "id": "millcreek",
+      "name": "Millcreek",
+      "sourceIndex": "https://library.municode.com/ut/millcreek",
+      "questions": []
+    },
+    {
+      "id": "minersville",
+      "name": "Minersville",
+      "sourceIndex": "https://library.municode.com/ut/minersville",
+      "questions": [
+        {
+          "id": "ut:minersville:0",
+          "prompt": "After a storm between 5:00 p.m. and 6:00 a.m., when must hail, snow, or sleet be cleared from the paved sidewalk next to your property?",
+          "choices": [
+            "Before 9:00 a.m. of the same day",
+            "Within 48 hours",
+            "Only after the town sends a notice",
+            "By sunset the next day"
+          ],
+          "answer": "Before 9:00 a.m. of the same day",
+          "excerpt": "(a) There is hereby created a department of streets which shall have general supervision\n               of streets, sidewalks, bridges, and other public ways. (b) The department shall be under the direction and control of the superintendent of streets. (Code 1981, § 11-311)\n\nThe street department shall: (1) Have charge of the construction, maintenance and repair of streets, sidewalks, bridges,\n                  curbs, gutters, culverts, drains, waterways and other public ways. It shall have control\n                  of all waters flowing on the streets, sidewalks and public ways whether originating\n                  from stormwater or flood, drainage or irrigation waters. (2) Keep a record of and promptly investigate all complaints of defective streets, culverts,\n                  drains, ditches, sidewalks, and other public ways and, when proper, repair, replace\n                  or take such action as deemed best, and shall record the action taken on each complaint. (3) Enforce the provisions of this chapter and all other ordinances relating to the maintenance\n                  and use of streets, culverts, drains, ditches, waterways, curbs, gutters, sidewalks\n                  and other public ways. (4) Repair, or cause to be repaired, all defects coming to the department's attention\n                  and take reasonable precautions to protect the public from injuries due to such defects\n                  pending their repair. (Code 1981, § 11-312)\n\nIt shall be unlawful for any person either as owner, agent, servant, contractor, or\n               employee to construct a street or sidewalk which does not conform to specifications\n               established by the town engineer or other authorized representative of the town, unless\n               special permission to deviate from such specification is first obtained from the town\n               council. (Code 1981, § 11-351)\n\n(a) No person, either as owner, agent, servant, contractor, or employee, shall…",
+          "sourceUrl": "https://library.municode.com/ut/minersville/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "ut:minersville:1",
+          "prompt": "When you shovel a sidewalk, where is it unlawful to dump the snow?",
+          "choices": [
+            "In the gutter, if it clogs the flow of water",
+            "On your own yard",
+            "On an unpaved area you control",
+            "In a pile at the end of your driveway"
+          ],
+          "answer": "In the gutter, if it clogs the flow of water",
+          "excerpt": "(a) There is hereby created a department of streets which shall have general supervision\n               of streets, sidewalks, bridges, and other public ways. (b) The department shall be under the direction and control of the superintendent of streets. (Code 1981, § 11-311)\n\nThe street department shall: (1) Have charge of the construction, maintenance and repair of streets, sidewalks, bridges,\n                  curbs, gutters, culverts, drains, waterways and other public ways. It shall have control\n                  of all waters flowing on the streets, sidewalks and public ways whether originating\n                  from stormwater or flood, drainage or irrigation waters. (2) Keep a record of and promptly investigate all complaints of defective streets, culverts,\n                  drains, ditches, sidewalks, and other public ways and, when proper, repair, replace\n                  or take such action as deemed best, and shall record the action taken on each complaint. (3) Enforce the provisions of this chapter and all other ordinances relating to the maintenance\n                  and use of streets, culverts, drains, ditches, waterways, curbs, gutters, sidewalks\n                  and other public ways. (4) Repair, or cause to be repaired, all defects coming to the department's attention\n                  and take reasonable precautions to protect the public from injuries due to such defects\n                  pending their repair. (Code 1981, § 11-312)\n\nIt shall be unlawful for any person either as owner, agent, servant, contractor, or\n               employee to construct a street or sidewalk which does not conform to specifications\n               established by the town engineer or other authorized representative of the town, unless\n               special permission to deviate from such specification is first obtained from the town\n               council. (Code 1981, § 11-351)\n\n(a) No person, either as owner, agent, servant, contractor, or employee, shall…",
+          "sourceUrl": "https://library.municode.com/ut/minersville/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "ut:minersville:2",
+          "prompt": "Without a permit from the superintendent of streets, what may you not do on a paved street or sidewalk?",
+          "choices": [
+            "Pile or mix sand, gravel, cement, mortar, plaster, or concrete",
+            "Park a bicycle for a few minutes",
+            "Sweep dirt into a dustpan",
+            "Set out a trash can on collection day"
+          ],
+          "answer": "Pile or mix sand, gravel, cement, mortar, plaster, or concrete",
+          "excerpt": "(a) There is hereby created a department of streets which shall have general supervision\n               of streets, sidewalks, bridges, and other public ways. (b) The department shall be under the direction and control of the superintendent of streets. (Code 1981, § 11-311)\n\nThe street department shall: (1) Have charge of the construction, maintenance and repair of streets, sidewalks, bridges,\n                  curbs, gutters, culverts, drains, waterways and other public ways. It shall have control\n                  of all waters flowing on the streets, sidewalks and public ways whether originating\n                  from stormwater or flood, drainage or irrigation waters. (2) Keep a record of and promptly investigate all complaints of defective streets, culverts,\n                  drains, ditches, sidewalks, and other public ways and, when proper, repair, replace\n                  or take such action as deemed best, and shall record the action taken on each complaint. (3) Enforce the provisions of this chapter and all other ordinances relating to the maintenance\n                  and use of streets, culverts, drains, ditches, waterways, curbs, gutters, sidewalks\n                  and other public ways. (4) Repair, or cause to be repaired, all defects coming to the department's attention\n                  and take reasonable precautions to protect the public from injuries due to such defects\n                  pending their repair. (Code 1981, § 11-312)\n\nIt shall be unlawful for any person either as owner, agent, servant, contractor, or\n               employee to construct a street or sidewalk which does not conform to specifications\n               established by the town engineer or other authorized representative of the town, unless\n               special permission to deviate from such specification is first obtained from the town\n               council. (Code 1981, § 11-351)\n\n(a) No person, either as owner, agent, servant, contractor, or employee, shall…",
+          "sourceUrl": "https://library.municode.com/ut/minersville/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "ut:minersville:3",
+          "prompt": "If your lot needs irrigation water from a main ditch, who must install and maintain the ditches, pipes, flumes, or culverts that carry it under the sidewalk?",
+          "choices": [
+            "The owner or occupant of the lot",
+            "The street department",
+            "The town engineer",
+            "The clerk/recorder"
+          ],
+          "answer": "The owner or occupant of the lot",
+          "excerpt": "(a) There is hereby created a department of streets which shall have general supervision\n               of streets, sidewalks, bridges, and other public ways. (b) The department shall be under the direction and control of the superintendent of streets. (Code 1981, § 11-311)\n\nThe street department shall: (1) Have charge of the construction, maintenance and repair of streets, sidewalks, bridges,\n                  curbs, gutters, culverts, drains, waterways and other public ways. It shall have control\n                  of all waters flowing on the streets, sidewalks and public ways whether originating\n                  from stormwater or flood, drainage or irrigation waters. (2) Keep a record of and promptly investigate all complaints of defective streets, culverts,\n                  drains, ditches, sidewalks, and other public ways and, when proper, repair, replace\n                  or take such action as deemed best, and shall record the action taken on each complaint. (3) Enforce the provisions of this chapter and all other ordinances relating to the maintenance\n                  and use of streets, culverts, drains, ditches, waterways, curbs, gutters, sidewalks\n                  and other public ways. (4) Repair, or cause to be repaired, all defects coming to the department's attention\n                  and take reasonable precautions to protect the public from injuries due to such defects\n                  pending their repair. (Code 1981, § 11-312)\n\nIt shall be unlawful for any person either as owner, agent, servant, contractor, or\n               employee to construct a street or sidewalk which does not conform to specifications\n               established by the town engineer or other authorized representative of the town, unless\n               special permission to deviate from such specification is first obtained from the town\n               council. (Code 1981, § 11-351)\n\n(a) No person, either as owner, agent, servant, contractor, or employee, shall…",
+          "sourceUrl": "https://library.municode.com/ut/minersville/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "ut:minersville:4",
+          "prompt": "What do you need before you may build a driveway across a sidewalk, or cut or change a sidewalk, curb, or gutter?",
+          "choices": [
+            "A written permit from the clerk/recorder",
+            "Only verbal OK from a neighbor",
+            "A permit from the county sheriff",
+            "Nothing, if the work is on your side of the property line"
+          ],
+          "answer": "A written permit from the clerk/recorder",
+          "excerpt": "(a) There is hereby created a department of streets which shall have general supervision\n               of streets, sidewalks, bridges, and other public ways. (b) The department shall be under the direction and control of the superintendent of streets. (Code 1981, § 11-311)\n\nThe street department shall: (1) Have charge of the construction, maintenance and repair of streets, sidewalks, bridges,\n                  curbs, gutters, culverts, drains, waterways and other public ways. It shall have control\n                  of all waters flowing on the streets, sidewalks and public ways whether originating\n                  from stormwater or flood, drainage or irrigation waters. (2) Keep a record of and promptly investigate all complaints of defective streets, culverts,\n                  drains, ditches, sidewalks, and other public ways and, when proper, repair, replace\n                  or take such action as deemed best, and shall record the action taken on each complaint. (3) Enforce the provisions of this chapter and all other ordinances relating to the maintenance\n                  and use of streets, culverts, drains, ditches, waterways, curbs, gutters, sidewalks\n                  and other public ways. (4) Repair, or cause to be repaired, all defects coming to the department's attention\n                  and take reasonable precautions to protect the public from injuries due to such defects\n                  pending their repair. (Code 1981, § 11-312)\n\nIt shall be unlawful for any person either as owner, agent, servant, contractor, or\n               employee to construct a street or sidewalk which does not conform to specifications\n               established by the town engineer or other authorized representative of the town, unless\n               special permission to deviate from such specification is first obtained from the town\n               council. (Code 1981, § 11-351)\n\n(a) No person, either as owner, agent, servant, contractor, or employee, shall…",
+          "sourceUrl": "https://library.municode.com/ut/minersville/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        }
+      ]
+    },
+    {
+      "id": "mona",
+      "name": "Mona",
+      "sourceIndex": "https://library.municode.com/ut/mona",
+      "questions": []
+    },
+    {
+      "id": "morgan-city",
+      "name": "Morgan City",
+      "sourceIndex": "https://library.municode.com/ut/morgan_city",
+      "questions": []
+    },
+    {
+      "id": "nibley",
+      "name": "Nibley",
+      "sourceIndex": "https://library.municode.com/ut/nibley",
+      "questions": []
+    },
+    {
+      "id": "north-logan",
+      "name": "North Logan",
+      "sourceIndex": "https://library.municode.com/ut/north_logan",
+      "questions": []
+    },
+    {
+      "id": "north-ogden",
+      "name": "North Ogden",
+      "sourceIndex": "https://library.municode.com/ut/north_ogden",
+      "questions": []
+    },
+    {
+      "id": "oakley",
+      "name": "Oakley",
+      "sourceIndex": "https://library.municode.com/ut/oakley",
+      "questions": []
+    },
+    {
+      "id": "panguitch",
+      "name": "Panguitch",
+      "sourceIndex": "https://library.municode.com/ut/panguitch",
+      "questions": []
+    },
+    {
+      "id": "park-city",
+      "name": "Park City",
+      "sourceIndex": "https://library.municode.com/ut/park_city",
+      "questions": []
+    },
+    {
+      "id": "parowan",
+      "name": "Parowan",
+      "sourceIndex": "https://library.municode.com/ut/parowan",
+      "questions": []
+    },
+    {
+      "id": "payson",
+      "name": "Payson",
+      "sourceIndex": "https://library.municode.com/ut/payson",
+      "questions": []
+    },
+    {
+      "id": "providence-city",
+      "name": "Providence City",
+      "sourceIndex": "https://library.municode.com/ut/providence_city",
+      "questions": []
+    },
+    {
+      "id": "richmond",
+      "name": "Richmond",
+      "sourceIndex": "https://library.municode.com/ut/richmond",
+      "questions": []
+    },
+    {
+      "id": "riverdale-city",
+      "name": "Riverdale City",
+      "sourceIndex": "https://library.municode.com/ut/riverdale_city",
+      "questions": [
+        {
+          "id": "ut:riverdale-city:0",
+          "prompt": "When may a driver use a Jake brake (engine compression brake) in Riverdale City?",
+          "choices": [
+            "Anytime the vehicle is going downhill",
+            "Only in an emergency or when needed for safe operation",
+            "Only on streets posted 45 mph or higher",
+            "Never, even for firetrucks"
+          ],
+          "answer": "Only in an emergency or when needed for safe operation",
+          "excerpt": "Except insofar as the application thereof is clearly impractical or inappropriate,\n               in view of the context of purposes or penalty as provided, all of the definitions,\n               requirements, regulations, prohibitions, provisions and sections of the Utah traffic\n               code (title 41), as amended, are hereby adopted by the city. Any and all violations\n               thereof shall be considered violations of this chapter and each such violation shall\n               subject the violator thereof to penalty provisions under this chapter if proceeded\n               hereunder. (1985 Code § 12-1-1; amd. 2001 Code)\n\nThe words \"motor vehicle\", as used in this title, shall be defined as every self-propelled\n               device in, upon, or by which any person or property is or may be transported. (1985 Code § 12-1-6)\n\nA. Approving Authority: The approving authority shall be invested in city administration\n               and staff for any changes to Riverdale City traffic regulations and shall be consistent\n               with the state traffic code referenced in this code. B. Proper Lookout Required: No person shall drive a motor vehicle within the corporate\n               limits of the city in such manner as to endanger life or property by failing to keep\n               a safe and proper lookout for other traffic, objects or persons. C. Reasonable Care Required When Driving: It shall be unlawful for any person to drive\n               a vehicle without the care and caution of a reasonable, prudent person under the circumstances\n               then and there existing, or in a manner so as to endanger or be likely to endanger\n               any person or property. D. Use of Compression Release Engine Braking Systems or \"Jake Brakes\" Restricted: It\n               is unlawful for any person to use, operate or engage any compression release engine\n               braking system within the city which is designed to slow the speed of a vehicle by\n        …",
+          "sourceUrl": "https://library.municode.com/ut/riverdale_city/codes/city_code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:riverdale-city:1",
+          "prompt": "A person younger than 16 may use the motor on a motor-assisted scooter on a two-lane city street posted 25 mph or less if they stay within how many feet of a parent or guardian?",
+          "choices": [
+            "25 feet",
+            "50 feet",
+            "100 feet",
+            "They may not use the motor at all"
+          ],
+          "answer": "50 feet",
+          "excerpt": "Except insofar as the application thereof is clearly impractical or inappropriate,\n               in view of the context of purposes or penalty as provided, all of the definitions,\n               requirements, regulations, prohibitions, provisions and sections of the Utah traffic\n               code (title 41), as amended, are hereby adopted by the city. Any and all violations\n               thereof shall be considered violations of this chapter and each such violation shall\n               subject the violator thereof to penalty provisions under this chapter if proceeded\n               hereunder. (1985 Code § 12-1-1; amd. 2001 Code)\n\nThe words \"motor vehicle\", as used in this title, shall be defined as every self-propelled\n               device in, upon, or by which any person or property is or may be transported. (1985 Code § 12-1-6)\n\nA. Approving Authority: The approving authority shall be invested in city administration\n               and staff for any changes to Riverdale City traffic regulations and shall be consistent\n               with the state traffic code referenced in this code. B. Proper Lookout Required: No person shall drive a motor vehicle within the corporate\n               limits of the city in such manner as to endanger life or property by failing to keep\n               a safe and proper lookout for other traffic, objects or persons. C. Reasonable Care Required When Driving: It shall be unlawful for any person to drive\n               a vehicle without the care and caution of a reasonable, prudent person under the circumstances\n               then and there existing, or in a manner so as to endanger or be likely to endanger\n               any person or property. D. Use of Compression Release Engine Braking Systems or \"Jake Brakes\" Restricted: It\n               is unlawful for any person to use, operate or engage any compression release engine\n               braking system within the city which is designed to slow the speed of a vehicle by\n        …",
+          "sourceUrl": "https://library.municode.com/ut/riverdale_city/codes/city_code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:riverdale-city:2",
+          "prompt": "When is it legal to drive a motor vehicle in a Riverdale City public park?",
+          "choices": [
+            "Anywhere in the park if you drive slowly",
+            "On hard-surfaced roadways and parking areas designated for vehicles",
+            "If you have a picnic or recreation permit",
+            "Only on weekends"
+          ],
+          "answer": "On hard-surfaced roadways and parking areas designated for vehicles",
+          "excerpt": "Except insofar as the application thereof is clearly impractical or inappropriate,\n               in view of the context of purposes or penalty as provided, all of the definitions,\n               requirements, regulations, prohibitions, provisions and sections of the Utah traffic\n               code (title 41), as amended, are hereby adopted by the city. Any and all violations\n               thereof shall be considered violations of this chapter and each such violation shall\n               subject the violator thereof to penalty provisions under this chapter if proceeded\n               hereunder. (1985 Code § 12-1-1; amd. 2001 Code)\n\nThe words \"motor vehicle\", as used in this title, shall be defined as every self-propelled\n               device in, upon, or by which any person or property is or may be transported. (1985 Code § 12-1-6)\n\nA. Approving Authority: The approving authority shall be invested in city administration\n               and staff for any changes to Riverdale City traffic regulations and shall be consistent\n               with the state traffic code referenced in this code. B. Proper Lookout Required: No person shall drive a motor vehicle within the corporate\n               limits of the city in such manner as to endanger life or property by failing to keep\n               a safe and proper lookout for other traffic, objects or persons. C. Reasonable Care Required When Driving: It shall be unlawful for any person to drive\n               a vehicle without the care and caution of a reasonable, prudent person under the circumstances\n               then and there existing, or in a manner so as to endanger or be likely to endanger\n               any person or property. D. Use of Compression Release Engine Braking Systems or \"Jake Brakes\" Restricted: It\n               is unlawful for any person to use, operate or engage any compression release engine\n               braking system within the city which is designed to slow the speed of a vehicle by\n        …",
+          "sourceUrl": "https://library.municode.com/ut/riverdale_city/codes/city_code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:riverdale-city:3",
+          "prompt": "Riverdale police may impound a vehicle if its registration has been expired for more than:",
+          "choices": [
+            "30 days",
+            "3 months",
+            "6 months",
+            "1 year"
+          ],
+          "answer": "3 months",
+          "excerpt": "Except insofar as the application thereof is clearly impractical or inappropriate,\n               in view of the context of purposes or penalty as provided, all of the definitions,\n               requirements, regulations, prohibitions, provisions and sections of the Utah traffic\n               code (title 41), as amended, are hereby adopted by the city. Any and all violations\n               thereof shall be considered violations of this chapter and each such violation shall\n               subject the violator thereof to penalty provisions under this chapter if proceeded\n               hereunder. (1985 Code § 12-1-1; amd. 2001 Code)\n\nThe words \"motor vehicle\", as used in this title, shall be defined as every self-propelled\n               device in, upon, or by which any person or property is or may be transported. (1985 Code § 12-1-6)\n\nA. Approving Authority: The approving authority shall be invested in city administration\n               and staff for any changes to Riverdale City traffic regulations and shall be consistent\n               with the state traffic code referenced in this code. B. Proper Lookout Required: No person shall drive a motor vehicle within the corporate\n               limits of the city in such manner as to endanger life or property by failing to keep\n               a safe and proper lookout for other traffic, objects or persons. C. Reasonable Care Required When Driving: It shall be unlawful for any person to drive\n               a vehicle without the care and caution of a reasonable, prudent person under the circumstances\n               then and there existing, or in a manner so as to endanger or be likely to endanger\n               any person or property. D. Use of Compression Release Engine Braking Systems or \"Jake Brakes\" Restricted: It\n               is unlawful for any person to use, operate or engage any compression release engine\n               braking system within the city which is designed to slow the speed of a vehicle by\n        …",
+          "sourceUrl": "https://library.municode.com/ut/riverdale_city/codes/city_code?nodeId=TIT6MOVETR"
+        }
+      ]
+    },
+    {
+      "id": "rocky-ridge",
+      "name": "Rocky Ridge",
+      "sourceIndex": "https://library.municode.com/ut/rocky_ridge",
+      "questions": []
+    },
+    {
+      "id": "roy",
+      "name": "Roy",
+      "sourceIndex": "https://library.municode.com/ut/roy",
+      "questions": []
+    },
+    {
+      "id": "salina",
+      "name": "Salina",
+      "sourceIndex": "https://library.municode.com/ut/salina",
+      "questions": []
+    },
+    {
+      "id": "salt-lake-county",
+      "name": "Salt Lake County",
+      "sourceIndex": "https://library.municode.com/ut/salt_lake_county",
+      "questions": [
+        {
+          "id": "ut:salt-lake-county:0",
+          "prompt": "It is against Salt Lake County law for a food store to let refuse or waste remain on the premises longer than:",
+          "choices": [
+            "12 hours",
+            "24 hours",
+            "48 hours",
+            "one week"
+          ],
+          "answer": "24 hours",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 1796, § III, adopted May 24, 2016, amended the Code by, in effect, repealing\n               and replacing former Title 6. Former Title 6 pertained to similar subject matter and\n               consisted of Chapters 6.04—6.48. For a complete list of ordinances from which former\n               Title 6 derived, please see the Condensed Ordinance List and Disposition Table, the\n               Ordinance List and Disposition Table, and the Code Comparative Table.\n\nThe provisions of the Salt Lake County Health Department, Health Regulations, entitled\n               \"Food Establishments\" and \"Food Service Establishments\" respectively, as currently\n               adopted by the Salt Lake County Health Department Board of Health under authority\n               of Section 26A-1-121, Utah Code Annotated (1953), as amended including administrative\n               rules adopted by the Utah Department of Agriculture, are hereby incorporated in their\n               entirety by reference. Three copies of the current regulations shall be filed with\n               and retained by the county clerk and with the health department for examination by\n               any person. (Ord. No. 1796, § III, 5-24-2016)\n\nViolation of any of the foregoing health regulations shall constitute a Class B misdemeanor.\n               Each day such violation is permitted to continue shall constitute a separate offense. (Ord. No. 1796, § III, 5-24-2016)\n\n\"Food,\" means any raw, cooked, or processed edible substance, beverage, or ingredient\n               used or intended for use or for sale in whole or in part for human consumption. \"Food dealer,\" as used in this title, means and includes every person, firm or corporation\n               engaged in the business of selling food at retail for human consumption. \"Mayor\" means the county mayor or a designee. (Ord. No. 1796, § III, 5-24-2016)\n\nA. It is unlawful for any food dealer to engage in or do business without…",
+          "sourceUrl": "https://library.municode.com/ut/salt_lake_county/codes/code_of_ordinances?nodeId=TIT6FOBECO"
+        },
+        {
+          "id": "ut:salt-lake-county:1",
+          "prompt": "A Salt Lake County store selling meat that was frozen and later thawed must put labels:",
+          "choices": [
+            "only on a sign in the window",
+            "on the display counter and on each package",
+            "only if the meat looks different",
+            "in the store's weekly ad"
+          ],
+          "answer": "on the display counter and on each package",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 1796, § III, adopted May 24, 2016, amended the Code by, in effect, repealing\n               and replacing former Title 6. Former Title 6 pertained to similar subject matter and\n               consisted of Chapters 6.04—6.48. For a complete list of ordinances from which former\n               Title 6 derived, please see the Condensed Ordinance List and Disposition Table, the\n               Ordinance List and Disposition Table, and the Code Comparative Table.\n\nThe provisions of the Salt Lake County Health Department, Health Regulations, entitled\n               \"Food Establishments\" and \"Food Service Establishments\" respectively, as currently\n               adopted by the Salt Lake County Health Department Board of Health under authority\n               of Section 26A-1-121, Utah Code Annotated (1953), as amended including administrative\n               rules adopted by the Utah Department of Agriculture, are hereby incorporated in their\n               entirety by reference. Three copies of the current regulations shall be filed with\n               and retained by the county clerk and with the health department for examination by\n               any person. (Ord. No. 1796, § III, 5-24-2016)\n\nViolation of any of the foregoing health regulations shall constitute a Class B misdemeanor.\n               Each day such violation is permitted to continue shall constitute a separate offense. (Ord. No. 1796, § III, 5-24-2016)\n\n\"Food,\" means any raw, cooked, or processed edible substance, beverage, or ingredient\n               used or intended for use or for sale in whole or in part for human consumption. \"Food dealer,\" as used in this title, means and includes every person, firm or corporation\n               engaged in the business of selling food at retail for human consumption. \"Mayor\" means the county mayor or a designee. (Ord. No. 1796, § III, 5-24-2016)\n\nA. It is unlawful for any food dealer to engage in or do business without…",
+          "sourceUrl": "https://library.municode.com/ut/salt_lake_county/codes/code_of_ordinances?nodeId=TIT6FOBECO"
+        },
+        {
+          "id": "ut:salt-lake-county:2",
+          "prompt": "Places in Salt Lake County used to store, prepare or sell food must be kept free from:",
+          "choices": [
+            "flies, vermin and rodents",
+            "all customers after 9 p.m.",
+            "any wooden shelves",
+            "plastic bags"
+          ],
+          "answer": "flies, vermin and rodents",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 1796, § III, adopted May 24, 2016, amended the Code by, in effect, repealing\n               and replacing former Title 6. Former Title 6 pertained to similar subject matter and\n               consisted of Chapters 6.04—6.48. For a complete list of ordinances from which former\n               Title 6 derived, please see the Condensed Ordinance List and Disposition Table, the\n               Ordinance List and Disposition Table, and the Code Comparative Table.\n\nThe provisions of the Salt Lake County Health Department, Health Regulations, entitled\n               \"Food Establishments\" and \"Food Service Establishments\" respectively, as currently\n               adopted by the Salt Lake County Health Department Board of Health under authority\n               of Section 26A-1-121, Utah Code Annotated (1953), as amended including administrative\n               rules adopted by the Utah Department of Agriculture, are hereby incorporated in their\n               entirety by reference. Three copies of the current regulations shall be filed with\n               and retained by the county clerk and with the health department for examination by\n               any person. (Ord. No. 1796, § III, 5-24-2016)\n\nViolation of any of the foregoing health regulations shall constitute a Class B misdemeanor.\n               Each day such violation is permitted to continue shall constitute a separate offense. (Ord. No. 1796, § III, 5-24-2016)\n\n\"Food,\" means any raw, cooked, or processed edible substance, beverage, or ingredient\n               used or intended for use or for sale in whole or in part for human consumption. \"Food dealer,\" as used in this title, means and includes every person, firm or corporation\n               engaged in the business of selling food at retail for human consumption. \"Mayor\" means the county mayor or a designee. (Ord. No. 1796, § III, 5-24-2016)\n\nA. It is unlawful for any food dealer to engage in or do business without…",
+          "sourceUrl": "https://library.municode.com/ut/salt_lake_county/codes/code_of_ordinances?nodeId=TIT6FOBECO"
+        },
+        {
+          "id": "ut:salt-lake-county:3",
+          "prompt": "In Salt Lake County it is unlawful for a person with an infectious or contagious disease to:",
+          "choices": [
+            "enter a grocery store",
+            "handle or prepare food meant for sale",
+            "buy take-out food",
+            "work any night shift"
+          ],
+          "answer": "handle or prepare food meant for sale",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 1796, § III, adopted May 24, 2016, amended the Code by, in effect, repealing\n               and replacing former Title 6. Former Title 6 pertained to similar subject matter and\n               consisted of Chapters 6.04—6.48. For a complete list of ordinances from which former\n               Title 6 derived, please see the Condensed Ordinance List and Disposition Table, the\n               Ordinance List and Disposition Table, and the Code Comparative Table.\n\nThe provisions of the Salt Lake County Health Department, Health Regulations, entitled\n               \"Food Establishments\" and \"Food Service Establishments\" respectively, as currently\n               adopted by the Salt Lake County Health Department Board of Health under authority\n               of Section 26A-1-121, Utah Code Annotated (1953), as amended including administrative\n               rules adopted by the Utah Department of Agriculture, are hereby incorporated in their\n               entirety by reference. Three copies of the current regulations shall be filed with\n               and retained by the county clerk and with the health department for examination by\n               any person. (Ord. No. 1796, § III, 5-24-2016)\n\nViolation of any of the foregoing health regulations shall constitute a Class B misdemeanor.\n               Each day such violation is permitted to continue shall constitute a separate offense. (Ord. No. 1796, § III, 5-24-2016)\n\n\"Food,\" means any raw, cooked, or processed edible substance, beverage, or ingredient\n               used or intended for use or for sale in whole or in part for human consumption. \"Food dealer,\" as used in this title, means and includes every person, firm or corporation\n               engaged in the business of selling food at retail for human consumption. \"Mayor\" means the county mayor or a designee. (Ord. No. 1796, § III, 5-24-2016)\n\nA. It is unlawful for any food dealer to engage in or do business without…",
+          "sourceUrl": "https://library.municode.com/ut/salt_lake_county/codes/code_of_ordinances?nodeId=TIT6FOBECO"
+        },
+        {
+          "id": "ut:salt-lake-county:4",
+          "prompt": "People in Salt Lake County who handle food intended for sale must keep clean:",
+          "choices": [
+            "only the kitchen floor",
+            "both themselves and their clothing",
+            "only the delivery truck",
+            "just their fingernails"
+          ],
+          "answer": "both themselves and their clothing",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 1796, § III, adopted May 24, 2016, amended the Code by, in effect, repealing\n               and replacing former Title 6. Former Title 6 pertained to similar subject matter and\n               consisted of Chapters 6.04—6.48. For a complete list of ordinances from which former\n               Title 6 derived, please see the Condensed Ordinance List and Disposition Table, the\n               Ordinance List and Disposition Table, and the Code Comparative Table.\n\nThe provisions of the Salt Lake County Health Department, Health Regulations, entitled\n               \"Food Establishments\" and \"Food Service Establishments\" respectively, as currently\n               adopted by the Salt Lake County Health Department Board of Health under authority\n               of Section 26A-1-121, Utah Code Annotated (1953), as amended including administrative\n               rules adopted by the Utah Department of Agriculture, are hereby incorporated in their\n               entirety by reference. Three copies of the current regulations shall be filed with\n               and retained by the county clerk and with the health department for examination by\n               any person. (Ord. No. 1796, § III, 5-24-2016)\n\nViolation of any of the foregoing health regulations shall constitute a Class B misdemeanor.\n               Each day such violation is permitted to continue shall constitute a separate offense. (Ord. No. 1796, § III, 5-24-2016)\n\n\"Food,\" means any raw, cooked, or processed edible substance, beverage, or ingredient\n               used or intended for use or for sale in whole or in part for human consumption. \"Food dealer,\" as used in this title, means and includes every person, firm or corporation\n               engaged in the business of selling food at retail for human consumption. \"Mayor\" means the county mayor or a designee. (Ord. No. 1796, § III, 5-24-2016)\n\nA. It is unlawful for any food dealer to engage in or do business without…",
+          "sourceUrl": "https://library.municode.com/ut/salt_lake_county/codes/code_of_ordinances?nodeId=TIT6FOBECO"
+        }
+      ]
+    },
+    {
+      "id": "sandy",
+      "name": "Sandy",
+      "sourceIndex": "https://library.municode.com/ut/sandy",
+      "questions": []
+    },
+    {
+      "id": "santaquin",
+      "name": "Santaquin",
+      "sourceIndex": "https://library.municode.com/ut/santaquin",
+      "questions": []
+    },
+    {
+      "id": "sigurd",
+      "name": "Sigurd",
+      "sourceIndex": "https://library.municode.com/ut/sigurd",
+      "questions": []
+    },
+    {
+      "id": "smithfield",
+      "name": "Smithfield",
+      "sourceIndex": "https://library.municode.com/ut/smithfield",
+      "questions": []
+    },
+    {
+      "id": "south-jordan",
+      "name": "South Jordan",
+      "sourceIndex": "https://library.municode.com/ut/south_jordan",
+      "questions": []
+    },
+    {
+      "id": "south-ogden",
+      "name": "South Ogden",
+      "sourceIndex": "https://library.municode.com/ut/south_ogden",
+      "questions": []
+    },
+    {
+      "id": "south-salt-lake",
+      "name": "South Salt Lake",
+      "sourceIndex": "https://library.municode.com/ut/south_salt_lake",
+      "questions": [
+        {
+          "id": "ut:south-salt-lake:0",
+          "prompt": "On a night when streets may need snow plowed, how long can you leave a vehicle parked on the street between 2 a.m. and 6 a.m.?",
+          "choices": [
+            "No more than one hour",
+            "Up to six hours",
+            "All night if your lights are on",
+            "Until 8 a.m."
+          ],
+          "answer": "No more than one hour",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2019-04, § I, adopted Apr. 3, 2019, repealed the former Tit. 10, Chs. 10.04,\n               10.08, 10.10, 10.12, 10.12, 10.18, and enacted a new Tit. 10 as set out herein. The\n               former Tit. 10 pertained to similar subject matter. See Code Comparative Table and\n               Disposition List for complete derivation.\n\nSections:\n\nFor purposes of this title, the following terms are defined: \"Driveway\" means any path used primarily for vehicles, leading from a street or road\n               to a garage or house. \"Enforcement official\" has the same definition as that in Section 8.14.100 of this\n               code. \"Impound\" means the towing and/or storing of a vehicle by a wrecker service as authorized\n               by the city, or other lawful transport of a vehicle by the police department for temporary\n               storage. \"Impoundment charges\" includes costs for both towing and storing of the inoperable\n               vehicle, and administrative impound fees. \"Inoperable vehicle\" means a vehicle to which any of the following apply: 1. For a period of at least thirty (30) consecutive days: a. The engine, wheels, tires, or other parts are removed; b. The engine, wheels, tires or other parts have been altered, damaged or otherwise so\n                  treated that the vehicle is incapable of being driven under its own motor power; or c. The vehicle has one or more flat tires, has one or more missing windshield or window,\n                  or has one or more windshield or window broken to the extent that visibility is limited\n                  so as to make driving the vehicle unsafe; 2. The vehicle is currently incapable of being registered, and for a period of one year\n                  either registration has not been obtained by the owner, or registration has been expired\n                  for longer than one year; or 3. The vehicle is a junked, wrecked, or salvaged vehicle. \"Large vehicle\"…",
+          "sourceUrl": "https://library.municode.com/ut/south_salt_lake/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:south-salt-lake:1",
+          "prompt": "Where and when may you not park in front of or within 10 feet of a mailbox?",
+          "choices": [
+            "7 a.m. to 7 p.m. Monday through Saturday",
+            "Midnight to noon every day",
+            "Only on federal holidays",
+            "Anytime a postal truck is nearby"
+          ],
+          "answer": "7 a.m. to 7 p.m. Monday through Saturday",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2019-04, § I, adopted Apr. 3, 2019, repealed the former Tit. 10, Chs. 10.04,\n               10.08, 10.10, 10.12, 10.12, 10.18, and enacted a new Tit. 10 as set out herein. The\n               former Tit. 10 pertained to similar subject matter. See Code Comparative Table and\n               Disposition List for complete derivation.\n\nSections:\n\nFor purposes of this title, the following terms are defined: \"Driveway\" means any path used primarily for vehicles, leading from a street or road\n               to a garage or house. \"Enforcement official\" has the same definition as that in Section 8.14.100 of this\n               code. \"Impound\" means the towing and/or storing of a vehicle by a wrecker service as authorized\n               by the city, or other lawful transport of a vehicle by the police department for temporary\n               storage. \"Impoundment charges\" includes costs for both towing and storing of the inoperable\n               vehicle, and administrative impound fees. \"Inoperable vehicle\" means a vehicle to which any of the following apply: 1. For a period of at least thirty (30) consecutive days: a. The engine, wheels, tires, or other parts are removed; b. The engine, wheels, tires or other parts have been altered, damaged or otherwise so\n                  treated that the vehicle is incapable of being driven under its own motor power; or c. The vehicle has one or more flat tires, has one or more missing windshield or window,\n                  or has one or more windshield or window broken to the extent that visibility is limited\n                  so as to make driving the vehicle unsafe; 2. The vehicle is currently incapable of being registered, and for a period of one year\n                  either registration has not been obtained by the owner, or registration has been expired\n                  for longer than one year; or 3. The vehicle is a junked, wrecked, or salvaged vehicle. \"Large vehicle\"…",
+          "sourceUrl": "https://library.municode.com/ut/south_salt_lake/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:south-salt-lake:2",
+          "prompt": "How long can a typical vehicle stay parked on a street or alley in a row?",
+          "choices": [
+            "72 consecutive hours",
+            "24 consecutive hours",
+            "One full week",
+            "Until the next trash day"
+          ],
+          "answer": "72 consecutive hours",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2019-04, § I, adopted Apr. 3, 2019, repealed the former Tit. 10, Chs. 10.04,\n               10.08, 10.10, 10.12, 10.12, 10.18, and enacted a new Tit. 10 as set out herein. The\n               former Tit. 10 pertained to similar subject matter. See Code Comparative Table and\n               Disposition List for complete derivation.\n\nSections:\n\nFor purposes of this title, the following terms are defined: \"Driveway\" means any path used primarily for vehicles, leading from a street or road\n               to a garage or house. \"Enforcement official\" has the same definition as that in Section 8.14.100 of this\n               code. \"Impound\" means the towing and/or storing of a vehicle by a wrecker service as authorized\n               by the city, or other lawful transport of a vehicle by the police department for temporary\n               storage. \"Impoundment charges\" includes costs for both towing and storing of the inoperable\n               vehicle, and administrative impound fees. \"Inoperable vehicle\" means a vehicle to which any of the following apply: 1. For a period of at least thirty (30) consecutive days: a. The engine, wheels, tires, or other parts are removed; b. The engine, wheels, tires or other parts have been altered, damaged or otherwise so\n                  treated that the vehicle is incapable of being driven under its own motor power; or c. The vehicle has one or more flat tires, has one or more missing windshield or window,\n                  or has one or more windshield or window broken to the extent that visibility is limited\n                  so as to make driving the vehicle unsafe; 2. The vehicle is currently incapable of being registered, and for a period of one year\n                  either registration has not been obtained by the owner, or registration has been expired\n                  for longer than one year; or 3. The vehicle is a junked, wrecked, or salvaged vehicle. \"Large vehicle\"…",
+          "sourceUrl": "https://library.municode.com/ut/south_salt_lake/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:south-salt-lake:3",
+          "prompt": "Which of these generally counts as a large vehicle that may not travel on residential streets?",
+          "choices": [
+            "A vehicle more than 35 feet long",
+            "Any pickup truck",
+            "A car with a roof rack",
+            "A motorcycle with a sidecar"
+          ],
+          "answer": "A vehicle more than 35 feet long",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2019-04, § I, adopted Apr. 3, 2019, repealed the former Tit. 10, Chs. 10.04,\n               10.08, 10.10, 10.12, 10.12, 10.18, and enacted a new Tit. 10 as set out herein. The\n               former Tit. 10 pertained to similar subject matter. See Code Comparative Table and\n               Disposition List for complete derivation.\n\nSections:\n\nFor purposes of this title, the following terms are defined: \"Driveway\" means any path used primarily for vehicles, leading from a street or road\n               to a garage or house. \"Enforcement official\" has the same definition as that in Section 8.14.100 of this\n               code. \"Impound\" means the towing and/or storing of a vehicle by a wrecker service as authorized\n               by the city, or other lawful transport of a vehicle by the police department for temporary\n               storage. \"Impoundment charges\" includes costs for both towing and storing of the inoperable\n               vehicle, and administrative impound fees. \"Inoperable vehicle\" means a vehicle to which any of the following apply: 1. For a period of at least thirty (30) consecutive days: a. The engine, wheels, tires, or other parts are removed; b. The engine, wheels, tires or other parts have been altered, damaged or otherwise so\n                  treated that the vehicle is incapable of being driven under its own motor power; or c. The vehicle has one or more flat tires, has one or more missing windshield or window,\n                  or has one or more windshield or window broken to the extent that visibility is limited\n                  so as to make driving the vehicle unsafe; 2. The vehicle is currently incapable of being registered, and for a period of one year\n                  either registration has not been obtained by the owner, or registration has been expired\n                  for longer than one year; or 3. The vehicle is a junked, wrecked, or salvaged vehicle. \"Large vehicle\"…",
+          "sourceUrl": "https://library.municode.com/ut/south_salt_lake/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:south-salt-lake:4",
+          "prompt": "What may you not run from a house or business across the park strip or sidewalk to a recreational vehicle?",
+          "choices": [
+            "Electrical cords, hoses, cables, or similar items",
+            "A folded lawn chair",
+            "A paper note under the wiper",
+            "Nothing is restricted"
+          ],
+          "answer": "Electrical cords, hoses, cables, or similar items",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2019-04, § I, adopted Apr. 3, 2019, repealed the former Tit. 10, Chs. 10.04,\n               10.08, 10.10, 10.12, 10.12, 10.18, and enacted a new Tit. 10 as set out herein. The\n               former Tit. 10 pertained to similar subject matter. See Code Comparative Table and\n               Disposition List for complete derivation.\n\nSections:\n\nFor purposes of this title, the following terms are defined: \"Driveway\" means any path used primarily for vehicles, leading from a street or road\n               to a garage or house. \"Enforcement official\" has the same definition as that in Section 8.14.100 of this\n               code. \"Impound\" means the towing and/or storing of a vehicle by a wrecker service as authorized\n               by the city, or other lawful transport of a vehicle by the police department for temporary\n               storage. \"Impoundment charges\" includes costs for both towing and storing of the inoperable\n               vehicle, and administrative impound fees. \"Inoperable vehicle\" means a vehicle to which any of the following apply: 1. For a period of at least thirty (30) consecutive days: a. The engine, wheels, tires, or other parts are removed; b. The engine, wheels, tires or other parts have been altered, damaged or otherwise so\n                  treated that the vehicle is incapable of being driven under its own motor power; or c. The vehicle has one or more flat tires, has one or more missing windshield or window,\n                  or has one or more windshield or window broken to the extent that visibility is limited\n                  so as to make driving the vehicle unsafe; 2. The vehicle is currently incapable of being registered, and for a period of one year\n                  either registration has not been obtained by the owner, or registration has been expired\n                  for longer than one year; or 3. The vehicle is a junked, wrecked, or salvaged vehicle. \"Large vehicle\"…",
+          "sourceUrl": "https://library.municode.com/ut/south_salt_lake/codes/code_of_ordinances?nodeId=TIT10VETR"
+        }
+      ]
+    },
+    {
+      "id": "spanish-fork",
+      "name": "Spanish Fork",
+      "sourceIndex": "https://library.municode.com/ut/spanish_fork",
+      "questions": []
+    },
+    {
+      "id": "spring-city",
+      "name": "Spring City",
+      "sourceIndex": "https://library.municode.com/ut/spring_city",
+      "questions": []
+    },
+    {
+      "id": "summit-county",
+      "name": "Summit County",
+      "sourceIndex": "https://library.municode.com/ut/summit_county",
+      "questions": [
+        {
+          "id": "ut:summit-county:0",
+          "prompt": "In unincorporated Summit County, can an illegally parked car be towed without first warning the owner?",
+          "choices": [
+            "No, the owner must always get notice first",
+            "Yes, because those cars can block emergency vehicles, snowplows, and neighbors",
+            "Only after a ticket has sat on the windshield for 48 hours"
+          ],
+          "answer": "Yes, because those cars can block emergency vehicles, snowplows, and neighbors",
+          "excerpt": "A. Proper Lookout: No person shall drive a vehicle on the streets of this county without\n               keeping a reasonable and proper lookout for other traffic. B. Control by Driver: No driver shall engage in any activity that interferes with the\n               safe control of his vehicle while the same is in motion, nor drive upon any road or\n               street in the county when his senses are so impaired by fatigue, medicine or other\n               causes that will not allow safe control of his vehicle when it is in motion. C. Operation Without Due Care and in Negligent Manner: 1. Definitions: The following words and phrases, when used in this subsection, shall\n               have the following meanings: VEHICLE: Every device in, upon or by which a person or property is or may be transported\n               or drawn upon a highway, excepting devices moved by the human power or used exclusively\n               upon stationary rails or tracks. WITH SUCH LACK OF DUE CARE AND IN SUCH A NEGLIGENT MANNER: The failure to exercise\n               that degree of care which ordinary reasonable and prudent persons exercise under like\n               or similar circumstances. 2. Unlawful Operation: It shall be unlawful to operate a vehicle with such lack of due\n               care and in such negligent manner as to cause the same to collide with any vehicle,\n               person or object. (Ord. 710, 12-17-2008, eff. 1-1-2009)\n\nA. Restrictions upon Use of Highways and Roads: The county engineer may prohibit the\n               operation of all vehicles upon any highway or road of the county or impose restrictions\n               as to the weight of vehicles thereon for a period of up to ninety (90) days in a calendar\n               year, whenever a highway or road might otherwise be seriously damaged by deterioration\n               or climatic conditions. Equally, a governing board of any county service area may\n               prohibit the operation of all vehicles upon any…",
+          "sourceUrl": "https://library.municode.com/ut/summit_county/codes/code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:summit-county:1",
+          "prompt": "If a vehicle is parked illegally on a county street, who is generally treated as responsible?",
+          "choices": [
+            "The registered owner of the vehicle",
+            "Whoever lives in the nearest house",
+            "The last person seen driving it"
+          ],
+          "answer": "The registered owner of the vehicle",
+          "excerpt": "A. Proper Lookout: No person shall drive a vehicle on the streets of this county without\n               keeping a reasonable and proper lookout for other traffic. B. Control by Driver: No driver shall engage in any activity that interferes with the\n               safe control of his vehicle while the same is in motion, nor drive upon any road or\n               street in the county when his senses are so impaired by fatigue, medicine or other\n               causes that will not allow safe control of his vehicle when it is in motion. C. Operation Without Due Care and in Negligent Manner: 1. Definitions: The following words and phrases, when used in this subsection, shall\n               have the following meanings: VEHICLE: Every device in, upon or by which a person or property is or may be transported\n               or drawn upon a highway, excepting devices moved by the human power or used exclusively\n               upon stationary rails or tracks. WITH SUCH LACK OF DUE CARE AND IN SUCH A NEGLIGENT MANNER: The failure to exercise\n               that degree of care which ordinary reasonable and prudent persons exercise under like\n               or similar circumstances. 2. Unlawful Operation: It shall be unlawful to operate a vehicle with such lack of due\n               care and in such negligent manner as to cause the same to collide with any vehicle,\n               person or object. (Ord. 710, 12-17-2008, eff. 1-1-2009)\n\nA. Restrictions upon Use of Highways and Roads: The county engineer may prohibit the\n               operation of all vehicles upon any highway or road of the county or impose restrictions\n               as to the weight of vehicles thereon for a period of up to ninety (90) days in a calendar\n               year, whenever a highway or road might otherwise be seriously damaged by deterioration\n               or climatic conditions. Equally, a governing board of any county service area may\n               prohibit the operation of all vehicles upon any…",
+          "sourceUrl": "https://library.municode.com/ut/summit_county/codes/code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:summit-county:2",
+          "prompt": "If weather or wear might seriously damage a county road, how long can officials ban vehicles or limit their weight, and when does that rule actually start?",
+          "choices": [
+            "Up to 90 days in a calendar year, and only after signs are posted at each end of the stretch",
+            "All winter, with no signs required",
+            "Up to 30 days, starting the moment the engineer decides"
+          ],
+          "answer": "Up to 90 days in a calendar year, and only after signs are posted at each end of the stretch",
+          "excerpt": "A. Proper Lookout: No person shall drive a vehicle on the streets of this county without\n               keeping a reasonable and proper lookout for other traffic. B. Control by Driver: No driver shall engage in any activity that interferes with the\n               safe control of his vehicle while the same is in motion, nor drive upon any road or\n               street in the county when his senses are so impaired by fatigue, medicine or other\n               causes that will not allow safe control of his vehicle when it is in motion. C. Operation Without Due Care and in Negligent Manner: 1. Definitions: The following words and phrases, when used in this subsection, shall\n               have the following meanings: VEHICLE: Every device in, upon or by which a person or property is or may be transported\n               or drawn upon a highway, excepting devices moved by the human power or used exclusively\n               upon stationary rails or tracks. WITH SUCH LACK OF DUE CARE AND IN SUCH A NEGLIGENT MANNER: The failure to exercise\n               that degree of care which ordinary reasonable and prudent persons exercise under like\n               or similar circumstances. 2. Unlawful Operation: It shall be unlawful to operate a vehicle with such lack of due\n               care and in such negligent manner as to cause the same to collide with any vehicle,\n               person or object. (Ord. 710, 12-17-2008, eff. 1-1-2009)\n\nA. Restrictions upon Use of Highways and Roads: The county engineer may prohibit the\n               operation of all vehicles upon any highway or road of the county or impose restrictions\n               as to the weight of vehicles thereon for a period of up to ninety (90) days in a calendar\n               year, whenever a highway or road might otherwise be seriously damaged by deterioration\n               or climatic conditions. Equally, a governing board of any county service area may\n               prohibit the operation of all vehicles upon any…",
+          "sourceUrl": "https://library.municode.com/ut/summit_county/codes/code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:summit-county:3",
+          "prompt": "Is it against county driving rules to get behind the wheel when you are so tired, or so affected by medicine, that you cannot safely control the car?",
+          "choices": [
+            "Yes",
+            "Only if you are a commercial truck driver",
+            "Only after you have already been in a crash"
+          ],
+          "answer": "Yes",
+          "excerpt": "A. Proper Lookout: No person shall drive a vehicle on the streets of this county without\n               keeping a reasonable and proper lookout for other traffic. B. Control by Driver: No driver shall engage in any activity that interferes with the\n               safe control of his vehicle while the same is in motion, nor drive upon any road or\n               street in the county when his senses are so impaired by fatigue, medicine or other\n               causes that will not allow safe control of his vehicle when it is in motion. C. Operation Without Due Care and in Negligent Manner: 1. Definitions: The following words and phrases, when used in this subsection, shall\n               have the following meanings: VEHICLE: Every device in, upon or by which a person or property is or may be transported\n               or drawn upon a highway, excepting devices moved by the human power or used exclusively\n               upon stationary rails or tracks. WITH SUCH LACK OF DUE CARE AND IN SUCH A NEGLIGENT MANNER: The failure to exercise\n               that degree of care which ordinary reasonable and prudent persons exercise under like\n               or similar circumstances. 2. Unlawful Operation: It shall be unlawful to operate a vehicle with such lack of due\n               care and in such negligent manner as to cause the same to collide with any vehicle,\n               person or object. (Ord. 710, 12-17-2008, eff. 1-1-2009)\n\nA. Restrictions upon Use of Highways and Roads: The county engineer may prohibit the\n               operation of all vehicles upon any highway or road of the county or impose restrictions\n               as to the weight of vehicles thereon for a period of up to ninety (90) days in a calendar\n               year, whenever a highway or road might otherwise be seriously damaged by deterioration\n               or climatic conditions. Equally, a governing board of any county service area may\n               prohibit the operation of all vehicles upon any…",
+          "sourceUrl": "https://library.municode.com/ut/summit_county/codes/code?nodeId=TIT6MOVETR"
+        },
+        {
+          "id": "ut:summit-county:4",
+          "prompt": "Under the county parking rules, which of these counts as a motor vehicle?",
+          "choices": [
+            "A backhoe, loader, or other piece of construction machinery",
+            "A bicycle",
+            "A shopping cart"
+          ],
+          "answer": "A backhoe, loader, or other piece of construction machinery",
+          "excerpt": "A. Proper Lookout: No person shall drive a vehicle on the streets of this county without\n               keeping a reasonable and proper lookout for other traffic. B. Control by Driver: No driver shall engage in any activity that interferes with the\n               safe control of his vehicle while the same is in motion, nor drive upon any road or\n               street in the county when his senses are so impaired by fatigue, medicine or other\n               causes that will not allow safe control of his vehicle when it is in motion. C. Operation Without Due Care and in Negligent Manner: 1. Definitions: The following words and phrases, when used in this subsection, shall\n               have the following meanings: VEHICLE: Every device in, upon or by which a person or property is or may be transported\n               or drawn upon a highway, excepting devices moved by the human power or used exclusively\n               upon stationary rails or tracks. WITH SUCH LACK OF DUE CARE AND IN SUCH A NEGLIGENT MANNER: The failure to exercise\n               that degree of care which ordinary reasonable and prudent persons exercise under like\n               or similar circumstances. 2. Unlawful Operation: It shall be unlawful to operate a vehicle with such lack of due\n               care and in such negligent manner as to cause the same to collide with any vehicle,\n               person or object. (Ord. 710, 12-17-2008, eff. 1-1-2009)\n\nA. Restrictions upon Use of Highways and Roads: The county engineer may prohibit the\n               operation of all vehicles upon any highway or road of the county or impose restrictions\n               as to the weight of vehicles thereon for a period of up to ninety (90) days in a calendar\n               year, whenever a highway or road might otherwise be seriously damaged by deterioration\n               or climatic conditions. Equally, a governing board of any county service area may\n               prohibit the operation of all vehicles upon any…",
+          "sourceUrl": "https://library.municode.com/ut/summit_county/codes/code?nodeId=TIT6MOVETR"
+        }
+      ]
+    },
+    {
+      "id": "tremonton",
+      "name": "Tremonton",
+      "sourceIndex": "https://library.municode.com/ut/tremonton",
+      "questions": [
+        {
+          "id": "ut:tremonton:0",
+          "prompt": "Which set of rules did Tremonton adopt as its criminal and traffic codes?",
+          "choices": [
+            "The Utah Criminal and Traffic Code, 1990 edition and later updates",
+            "Only a city-written criminal code with no state book",
+            "The federal criminal and traffic code",
+            "The 1980 edition with no later updates"
+          ],
+          "answer": "The Utah Criminal and Traffic Code, 1990 edition and later updates",
+          "excerpt": "The Utah Criminal and Traffic Code, 1990 edition, and subsequent additions, as compiled,\n               prepared and published as a code in book form by the Utah Department of Public Safety\n               and as said uniform code may be subsequently amended by legislative act, executive\n               order or otherwise, is hereby approved and adopted as the Criminal and Traffic Codes\n               for this municipality, except as such codes may be altered or modified by the Ordinances\n               of this municipality. One (1) copy of any subsequent editions shall be filed for use\n               and examination by the public in the office of the municipal Recorder upon receipt\n               by the City, and upon such filing, said subsequent editions shall thereupon become\n               effective and shall thereafter be the Criminal and Traffic Codes for Tremonton City. (ORD 10-05)\n\nAny person violating, causing or permitting violation of any provision of the Code\n               hereby adopted shall be guilty of an offense classified as provided in said Code,\n               provided that in the event said Code does not provide the appropriate classification,\n               the same shall be determined by reference to the Revised Ordinances of Tremonton City\n               Corporation. In the event neither of said Codes provide for the classification of\n               such an offense, then any person violating, causing or permitting violation of any\n               provision of the Code adopted hereby shall be guilty of a class B misdemeanor. Any\n               such violator, upon conviction, unless otherwise provided in said Codes, shall be\n               punished by a fine of not more than the maximum allowed by Utah State Code for a class\n               B misdemeanor, class C misdemeanor and/or infraction, or by a jail sentence not to\n               exceed the maximum allowed by Utah State Code, or by both a fine and jail sentence,\n               provided…",
+          "sourceUrl": "https://library.municode.com/ut/tremonton/codes/revised_ordinances?nodeId=TIT17UNUTCRTRCO"
+        },
+        {
+          "id": "ut:tremonton:1",
+          "prompt": "Where must a copy of later editions of that code be kept so the public can look at it?",
+          "choices": [
+            "In the office of the municipal Recorder",
+            "At the county courthouse only",
+            "In every police vehicle",
+            "Posted on every street corner"
+          ],
+          "answer": "In the office of the municipal Recorder",
+          "excerpt": "The Utah Criminal and Traffic Code, 1990 edition, and subsequent additions, as compiled,\n               prepared and published as a code in book form by the Utah Department of Public Safety\n               and as said uniform code may be subsequently amended by legislative act, executive\n               order or otherwise, is hereby approved and adopted as the Criminal and Traffic Codes\n               for this municipality, except as such codes may be altered or modified by the Ordinances\n               of this municipality. One (1) copy of any subsequent editions shall be filed for use\n               and examination by the public in the office of the municipal Recorder upon receipt\n               by the City, and upon such filing, said subsequent editions shall thereupon become\n               effective and shall thereafter be the Criminal and Traffic Codes for Tremonton City. (ORD 10-05)\n\nAny person violating, causing or permitting violation of any provision of the Code\n               hereby adopted shall be guilty of an offense classified as provided in said Code,\n               provided that in the event said Code does not provide the appropriate classification,\n               the same shall be determined by reference to the Revised Ordinances of Tremonton City\n               Corporation. In the event neither of said Codes provide for the classification of\n               such an offense, then any person violating, causing or permitting violation of any\n               provision of the Code adopted hereby shall be guilty of a class B misdemeanor. Any\n               such violator, upon conviction, unless otherwise provided in said Codes, shall be\n               punished by a fine of not more than the maximum allowed by Utah State Code for a class\n               B misdemeanor, class C misdemeanor and/or infraction, or by a jail sentence not to\n               exceed the maximum allowed by Utah State Code, or by both a fine and jail sentence,\n               provided…",
+          "sourceUrl": "https://library.municode.com/ut/tremonton/codes/revised_ordinances?nodeId=TIT17UNUTCRTRCO"
+        },
+        {
+          "id": "ut:tremonton:2",
+          "prompt": "If neither the adopted code nor Tremonton’s own ordinances say how to classify a violation, what is it treated as?",
+          "choices": [
+            "A class B misdemeanor",
+            "A felony",
+            "Not a crime at all",
+            "An infraction only, with no other option"
+          ],
+          "answer": "A class B misdemeanor",
+          "excerpt": "The Utah Criminal and Traffic Code, 1990 edition, and subsequent additions, as compiled,\n               prepared and published as a code in book form by the Utah Department of Public Safety\n               and as said uniform code may be subsequently amended by legislative act, executive\n               order or otherwise, is hereby approved and adopted as the Criminal and Traffic Codes\n               for this municipality, except as such codes may be altered or modified by the Ordinances\n               of this municipality. One (1) copy of any subsequent editions shall be filed for use\n               and examination by the public in the office of the municipal Recorder upon receipt\n               by the City, and upon such filing, said subsequent editions shall thereupon become\n               effective and shall thereafter be the Criminal and Traffic Codes for Tremonton City. (ORD 10-05)\n\nAny person violating, causing or permitting violation of any provision of the Code\n               hereby adopted shall be guilty of an offense classified as provided in said Code,\n               provided that in the event said Code does not provide the appropriate classification,\n               the same shall be determined by reference to the Revised Ordinances of Tremonton City\n               Corporation. In the event neither of said Codes provide for the classification of\n               such an offense, then any person violating, causing or permitting violation of any\n               provision of the Code adopted hereby shall be guilty of a class B misdemeanor. Any\n               such violator, upon conviction, unless otherwise provided in said Codes, shall be\n               punished by a fine of not more than the maximum allowed by Utah State Code for a class\n               B misdemeanor, class C misdemeanor and/or infraction, or by a jail sentence not to\n               exceed the maximum allowed by Utah State Code, or by both a fine and jail sentence,\n               provided…",
+          "sourceUrl": "https://library.municode.com/ut/tremonton/codes/revised_ordinances?nodeId=TIT17UNUTCRTRCO"
+        },
+        {
+          "id": "ut:tremonton:3",
+          "prompt": "If a court finds one part of this ordinance or the adopted codes invalid, what happens to the rest?",
+          "choices": [
+            "The rest stays valid",
+            "The whole ordinance is thrown out",
+            "Traffic rules stay but criminal rules are canceled",
+            "The city must stop enforcing all of it"
+          ],
+          "answer": "The rest stays valid",
+          "excerpt": "The Utah Criminal and Traffic Code, 1990 edition, and subsequent additions, as compiled,\n               prepared and published as a code in book form by the Utah Department of Public Safety\n               and as said uniform code may be subsequently amended by legislative act, executive\n               order or otherwise, is hereby approved and adopted as the Criminal and Traffic Codes\n               for this municipality, except as such codes may be altered or modified by the Ordinances\n               of this municipality. One (1) copy of any subsequent editions shall be filed for use\n               and examination by the public in the office of the municipal Recorder upon receipt\n               by the City, and upon such filing, said subsequent editions shall thereupon become\n               effective and shall thereafter be the Criminal and Traffic Codes for Tremonton City. (ORD 10-05)\n\nAny person violating, causing or permitting violation of any provision of the Code\n               hereby adopted shall be guilty of an offense classified as provided in said Code,\n               provided that in the event said Code does not provide the appropriate classification,\n               the same shall be determined by reference to the Revised Ordinances of Tremonton City\n               Corporation. In the event neither of said Codes provide for the classification of\n               such an offense, then any person violating, causing or permitting violation of any\n               provision of the Code adopted hereby shall be guilty of a class B misdemeanor. Any\n               such violator, upon conviction, unless otherwise provided in said Codes, shall be\n               punished by a fine of not more than the maximum allowed by Utah State Code for a class\n               B misdemeanor, class C misdemeanor and/or infraction, or by a jail sentence not to\n               exceed the maximum allowed by Utah State Code, or by both a fine and jail sentence,\n               provided…",
+          "sourceUrl": "https://library.municode.com/ut/tremonton/codes/revised_ordinances?nodeId=TIT17UNUTCRTRCO"
+        },
+        {
+          "id": "ut:tremonton:4",
+          "prompt": "What happens to older Tremonton traffic and criminal rules that the newly adopted code does not cover?",
+          "choices": [
+            "Those older rules stay in effect",
+            "Those older rules are all repealed",
+            "They apply only to visitors",
+            "They become optional guidelines"
+          ],
+          "answer": "Those older rules stay in effect",
+          "excerpt": "The Utah Criminal and Traffic Code, 1990 edition, and subsequent additions, as compiled,\n               prepared and published as a code in book form by the Utah Department of Public Safety\n               and as said uniform code may be subsequently amended by legislative act, executive\n               order or otherwise, is hereby approved and adopted as the Criminal and Traffic Codes\n               for this municipality, except as such codes may be altered or modified by the Ordinances\n               of this municipality. One (1) copy of any subsequent editions shall be filed for use\n               and examination by the public in the office of the municipal Recorder upon receipt\n               by the City, and upon such filing, said subsequent editions shall thereupon become\n               effective and shall thereafter be the Criminal and Traffic Codes for Tremonton City. (ORD 10-05)\n\nAny person violating, causing or permitting violation of any provision of the Code\n               hereby adopted shall be guilty of an offense classified as provided in said Code,\n               provided that in the event said Code does not provide the appropriate classification,\n               the same shall be determined by reference to the Revised Ordinances of Tremonton City\n               Corporation. In the event neither of said Codes provide for the classification of\n               such an offense, then any person violating, causing or permitting violation of any\n               provision of the Code adopted hereby shall be guilty of a class B misdemeanor. Any\n               such violator, upon conviction, unless otherwise provided in said Codes, shall be\n               punished by a fine of not more than the maximum allowed by Utah State Code for a class\n               B misdemeanor, class C misdemeanor and/or infraction, or by a jail sentence not to\n               exceed the maximum allowed by Utah State Code, or by both a fine and jail sentence,\n               provided…",
+          "sourceUrl": "https://library.municode.com/ut/tremonton/codes/revised_ordinances?nodeId=TIT17UNUTCRTRCO"
+        }
+      ]
+    },
+    {
+      "id": "uintah-county",
+      "name": "Uintah County",
+      "sourceIndex": "https://library.municode.com/ut/uintah_county",
+      "questions": [
+        {
+          "id": "ut:uintah-county:0",
+          "prompt": "Besides cars and trucks, who else must follow Uintah County traffic rules that apply to drivers while on a roadway?",
+          "choices": [
+            "Only motorcycle riders",
+            "Anyone pushing a pushcart or riding an animal",
+            "Pedestrians on sidewalks",
+            "Farm workers on private land"
+          ],
+          "answer": "Anyone pushing a pushcart or riding an animal",
+          "excerpt": "The contents of Chapter 6, Title 41, Utah Code Annotated, 1953, as amended, three\n               copies of which have been filed for use and examination by the public in the office\n               of the county clerk, are approved and adopted as the traffic code for Uintah County\n               except as such code may be altered or modified by the ordinances of the county. (Ord. 3-19-84 Art. 1 § 1)\n\nUnless the context otherwise requires, all references in Chapter 6 adopted in Section 10.04.010 shall mean as follows: \"Department of public safety of the state of Utah\" means the sheriff or his agents,\n               unless the context otherwise requires. \"Local authorities\" means the board of county commissioners. \"Magistrate\" means the appropriate judicial officer of the county, unless the context\n               otherwise requires. \"Recorder\" means the county clerk. \"State Road Commission\" or \"State Department of Transportation\" means Uintah County\n               and its officers, departments, agencies and agents, unless the context otherwise requires. (Ord. 3-19-84 Art. 1 § 2)\n\nAll vehicles of every sort using the roads and highways of the county shall be subject\n               to the provisions of this title. Every person propelling any pushcart or riding an\n               animal upon a roadway, and every person driving an animal-drawn vehicle, shall be\n               subject to such provisions as are applicable to the drivers of vehicles, except those\n               which by their very nature can have no application. (Ord. 3-19-84 Art. 1 § 3)\n\nThe state of Utah Motor Vehicle Registration and Motor Vehicle Business Administration\n               Laws and Regulations, 1972, as amended, is adopted by the county to the same extent\n               and effect as though the statute and regulations were copies word for word in full. (Ord. 3-19-84 Art. 1 § 4)\n\nThe sheriff is vested with each and every power necessary to the effective discharge\n               of his duty to…",
+          "sourceUrl": "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:uintah-county:1",
+          "prompt": "Except in an emergency, who may legally direct traffic in Uintah County?",
+          "choices": [
+            "Any adult resident",
+            "A person authorized by law",
+            "Anyone wearing a reflective vest",
+            "Neighborhood watch volunteers"
+          ],
+          "answer": "A person authorized by law",
+          "excerpt": "The contents of Chapter 6, Title 41, Utah Code Annotated, 1953, as amended, three\n               copies of which have been filed for use and examination by the public in the office\n               of the county clerk, are approved and adopted as the traffic code for Uintah County\n               except as such code may be altered or modified by the ordinances of the county. (Ord. 3-19-84 Art. 1 § 1)\n\nUnless the context otherwise requires, all references in Chapter 6 adopted in Section 10.04.010 shall mean as follows: \"Department of public safety of the state of Utah\" means the sheriff or his agents,\n               unless the context otherwise requires. \"Local authorities\" means the board of county commissioners. \"Magistrate\" means the appropriate judicial officer of the county, unless the context\n               otherwise requires. \"Recorder\" means the county clerk. \"State Road Commission\" or \"State Department of Transportation\" means Uintah County\n               and its officers, departments, agencies and agents, unless the context otherwise requires. (Ord. 3-19-84 Art. 1 § 2)\n\nAll vehicles of every sort using the roads and highways of the county shall be subject\n               to the provisions of this title. Every person propelling any pushcart or riding an\n               animal upon a roadway, and every person driving an animal-drawn vehicle, shall be\n               subject to such provisions as are applicable to the drivers of vehicles, except those\n               which by their very nature can have no application. (Ord. 3-19-84 Art. 1 § 3)\n\nThe state of Utah Motor Vehicle Registration and Motor Vehicle Business Administration\n               Laws and Regulations, 1972, as amended, is adopted by the county to the same extent\n               and effect as though the statute and regulations were copies word for word in full. (Ord. 3-19-84 Art. 1 § 4)\n\nThe sheriff is vested with each and every power necessary to the effective discharge\n               of his duty to…",
+          "sourceUrl": "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:uintah-county:2",
+          "prompt": "What can officials do with an unauthorized highway sign that looks like an official traffic sign?",
+          "choices": [
+            "Leave it if it helps tourists",
+            "Remove it without giving notice",
+            "Give the owner 30 days to take it down",
+            "Require it to be painted a different color"
+          ],
+          "answer": "Remove it without giving notice",
+          "excerpt": "The contents of Chapter 6, Title 41, Utah Code Annotated, 1953, as amended, three\n               copies of which have been filed for use and examination by the public in the office\n               of the county clerk, are approved and adopted as the traffic code for Uintah County\n               except as such code may be altered or modified by the ordinances of the county. (Ord. 3-19-84 Art. 1 § 1)\n\nUnless the context otherwise requires, all references in Chapter 6 adopted in Section 10.04.010 shall mean as follows: \"Department of public safety of the state of Utah\" means the sheriff or his agents,\n               unless the context otherwise requires. \"Local authorities\" means the board of county commissioners. \"Magistrate\" means the appropriate judicial officer of the county, unless the context\n               otherwise requires. \"Recorder\" means the county clerk. \"State Road Commission\" or \"State Department of Transportation\" means Uintah County\n               and its officers, departments, agencies and agents, unless the context otherwise requires. (Ord. 3-19-84 Art. 1 § 2)\n\nAll vehicles of every sort using the roads and highways of the county shall be subject\n               to the provisions of this title. Every person propelling any pushcart or riding an\n               animal upon a roadway, and every person driving an animal-drawn vehicle, shall be\n               subject to such provisions as are applicable to the drivers of vehicles, except those\n               which by their very nature can have no application. (Ord. 3-19-84 Art. 1 § 3)\n\nThe state of Utah Motor Vehicle Registration and Motor Vehicle Business Administration\n               Laws and Regulations, 1972, as amended, is adopted by the county to the same extent\n               and effect as though the statute and regulations were copies word for word in full. (Ord. 3-19-84 Art. 1 § 4)\n\nThe sheriff is vested with each and every power necessary to the effective discharge\n               of his duty to…",
+          "sourceUrl": "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:uintah-county:3",
+          "prompt": "May commercial advertising appear on a traffic sign along a Uintah County highway?",
+          "choices": [
+            "Yes, to help pay for the signs",
+            "No, it is not allowed",
+            "Only for local businesses",
+            "Yes, if it is on the back of the sign"
+          ],
+          "answer": "No, it is not allowed",
+          "excerpt": "The contents of Chapter 6, Title 41, Utah Code Annotated, 1953, as amended, three\n               copies of which have been filed for use and examination by the public in the office\n               of the county clerk, are approved and adopted as the traffic code for Uintah County\n               except as such code may be altered or modified by the ordinances of the county. (Ord. 3-19-84 Art. 1 § 1)\n\nUnless the context otherwise requires, all references in Chapter 6 adopted in Section 10.04.010 shall mean as follows: \"Department of public safety of the state of Utah\" means the sheriff or his agents,\n               unless the context otherwise requires. \"Local authorities\" means the board of county commissioners. \"Magistrate\" means the appropriate judicial officer of the county, unless the context\n               otherwise requires. \"Recorder\" means the county clerk. \"State Road Commission\" or \"State Department of Transportation\" means Uintah County\n               and its officers, departments, agencies and agents, unless the context otherwise requires. (Ord. 3-19-84 Art. 1 § 2)\n\nAll vehicles of every sort using the roads and highways of the county shall be subject\n               to the provisions of this title. Every person propelling any pushcart or riding an\n               animal upon a roadway, and every person driving an animal-drawn vehicle, shall be\n               subject to such provisions as are applicable to the drivers of vehicles, except those\n               which by their very nature can have no application. (Ord. 3-19-84 Art. 1 § 3)\n\nThe state of Utah Motor Vehicle Registration and Motor Vehicle Business Administration\n               Laws and Regulations, 1972, as amended, is adopted by the county to the same extent\n               and effect as though the statute and regulations were copies word for word in full. (Ord. 3-19-84 Art. 1 § 4)\n\nThe sheriff is vested with each and every power necessary to the effective discharge\n               of his duty to…",
+          "sourceUrl": "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ut:uintah-county:4",
+          "prompt": "A traffic sign says one thing, but a police officer directing traffic says another. What should a driver do?",
+          "choices": [
+            "Always follow the sign",
+            "Follow the officer's direction",
+            "Ignore both and use your own judgment",
+            "Stop and wait until they agree"
+          ],
+          "answer": "Follow the officer's direction",
+          "excerpt": "The contents of Chapter 6, Title 41, Utah Code Annotated, 1953, as amended, three\n               copies of which have been filed for use and examination by the public in the office\n               of the county clerk, are approved and adopted as the traffic code for Uintah County\n               except as such code may be altered or modified by the ordinances of the county. (Ord. 3-19-84 Art. 1 § 1)\n\nUnless the context otherwise requires, all references in Chapter 6 adopted in Section 10.04.010 shall mean as follows: \"Department of public safety of the state of Utah\" means the sheriff or his agents,\n               unless the context otherwise requires. \"Local authorities\" means the board of county commissioners. \"Magistrate\" means the appropriate judicial officer of the county, unless the context\n               otherwise requires. \"Recorder\" means the county clerk. \"State Road Commission\" or \"State Department of Transportation\" means Uintah County\n               and its officers, departments, agencies and agents, unless the context otherwise requires. (Ord. 3-19-84 Art. 1 § 2)\n\nAll vehicles of every sort using the roads and highways of the county shall be subject\n               to the provisions of this title. Every person propelling any pushcart or riding an\n               animal upon a roadway, and every person driving an animal-drawn vehicle, shall be\n               subject to such provisions as are applicable to the drivers of vehicles, except those\n               which by their very nature can have no application. (Ord. 3-19-84 Art. 1 § 3)\n\nThe state of Utah Motor Vehicle Registration and Motor Vehicle Business Administration\n               Laws and Regulations, 1972, as amended, is adopted by the county to the same extent\n               and effect as though the statute and regulations were copies word for word in full. (Ord. 3-19-84 Art. 1 § 4)\n\nThe sheriff is vested with each and every power necessary to the effective discharge\n               of his duty to…",
+          "sourceUrl": "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        }
+      ]
+    },
+    {
+      "id": "utah-county",
+      "name": "Utah County",
+      "sourceIndex": "https://library.municode.com/ut/utah_county",
+      "questions": []
+    },
+    {
+      "id": "vernal-city",
+      "name": "Vernal City",
+      "sourceIndex": "https://library.municode.com/ut/vernal_city",
+      "questions": []
+    },
+    {
+      "id": "vineyard",
+      "name": "Vineyard",
+      "sourceIndex": "https://library.municode.com/ut/vineyard",
+      "questions": []
+    },
+    {
+      "id": "virgin",
+      "name": "Virgin",
+      "sourceIndex": "https://library.municode.com/ut/virgin",
+      "questions": [
+        {
+          "id": "ut:virgin:0",
+          "prompt": "In Virgin, an animal is not at large if it is penned, leashed, or:",
+          "choices": [
+            "Under voice command",
+            "Wearing a current license tag",
+            "Kept in any backyard",
+            "Microchipped"
+          ],
+          "answer": "Under voice command",
+          "excerpt": "Animal Control Officer: The custodian selected by the Town Council to be responsible all aspects of animal\n               control. At Large: Shall be intended to mean that every person who has in his/her possession or under\n               his/her control any animal within this Town shall keep any such animal securely penned,\n               leashed or under voice command at all times. Dog: Any male, female or spayed female dog of any age. Impounded: Having been received into the custody of the Town pound or into the custody of any\n               authorized agent or representative of the Town. Owner: When applied to the proprietorship of a dog, shall mean any person or persons, firm,\n               association or corporation owning, keeping or harboring a dog. Pound: An animal shelter, lot, premises or building maintained by or authorized or employed\n               by the Town for the confinement or care of dogs seized either under the provisions\n               of this Title or otherwise. Unlicensed Dog: A dog for which the license for the current year has not been paid, or to which the\n               tag provided for in this Title is not attached. Vicious Dog: A dog that has bitten a person without provocation or a dog that has a known propensity\n               to attack or bite human beings or other animals.\n\nThe position of Town Animal Control Officer is hereby created. The Town Mayor shall\n               appoint the animal control officer with the advice and consent of the Town Council.\n               The Animal Control Officer shall be empowered to designate assistants, with the approval\n               of the Mayor, to administer and enforce the provisions of this Title.\n\nThe Animal Control Officer shall perform the following duties: A. Carry out and enforce the provisions of this Title. B. Take into his possession and impound all strays running at large and dispose of the\n                  same as hereinafter provided. C. Enforce the licensing of and control of…",
+          "sourceUrl": "https://library.municode.com/ut/virgin/codes/code_of_ordinances?nodeId=TI9ANSECO"
+        },
+        {
+          "id": "ut:virgin:1",
+          "prompt": "How many dogs over four months old count as running a kennel in Virgin (so you need a kennel license plus a license for each dog)?",
+          "choices": [
+            "Two or more",
+            "Three or more",
+            "Five or more",
+            "Ten or more"
+          ],
+          "answer": "Three or more",
+          "excerpt": "Animal Control Officer: The custodian selected by the Town Council to be responsible all aspects of animal\n               control. At Large: Shall be intended to mean that every person who has in his/her possession or under\n               his/her control any animal within this Town shall keep any such animal securely penned,\n               leashed or under voice command at all times. Dog: Any male, female or spayed female dog of any age. Impounded: Having been received into the custody of the Town pound or into the custody of any\n               authorized agent or representative of the Town. Owner: When applied to the proprietorship of a dog, shall mean any person or persons, firm,\n               association or corporation owning, keeping or harboring a dog. Pound: An animal shelter, lot, premises or building maintained by or authorized or employed\n               by the Town for the confinement or care of dogs seized either under the provisions\n               of this Title or otherwise. Unlicensed Dog: A dog for which the license for the current year has not been paid, or to which the\n               tag provided for in this Title is not attached. Vicious Dog: A dog that has bitten a person without provocation or a dog that has a known propensity\n               to attack or bite human beings or other animals.\n\nThe position of Town Animal Control Officer is hereby created. The Town Mayor shall\n               appoint the animal control officer with the advice and consent of the Town Council.\n               The Animal Control Officer shall be empowered to designate assistants, with the approval\n               of the Mayor, to administer and enforce the provisions of this Title.\n\nThe Animal Control Officer shall perform the following duties: A. Carry out and enforce the provisions of this Title. B. Take into his possession and impound all strays running at large and dispose of the\n                  same as hereinafter provided. C. Enforce the licensing of and control of…",
+          "sourceUrl": "https://library.municode.com/ut/virgin/codes/code_of_ordinances?nodeId=TI9ANSECO"
+        },
+        {
+          "id": "ut:virgin:2",
+          "prompt": "A Virgin dog license is late, and a 50% penalty is added, after which date?",
+          "choices": [
+            "January 1",
+            "January 31",
+            "April 15",
+            "July 1"
+          ],
+          "answer": "January 31",
+          "excerpt": "Animal Control Officer: The custodian selected by the Town Council to be responsible all aspects of animal\n               control. At Large: Shall be intended to mean that every person who has in his/her possession or under\n               his/her control any animal within this Town shall keep any such animal securely penned,\n               leashed or under voice command at all times. Dog: Any male, female or spayed female dog of any age. Impounded: Having been received into the custody of the Town pound or into the custody of any\n               authorized agent or representative of the Town. Owner: When applied to the proprietorship of a dog, shall mean any person or persons, firm,\n               association or corporation owning, keeping or harboring a dog. Pound: An animal shelter, lot, premises or building maintained by or authorized or employed\n               by the Town for the confinement or care of dogs seized either under the provisions\n               of this Title or otherwise. Unlicensed Dog: A dog for which the license for the current year has not been paid, or to which the\n               tag provided for in this Title is not attached. Vicious Dog: A dog that has bitten a person without provocation or a dog that has a known propensity\n               to attack or bite human beings or other animals.\n\nThe position of Town Animal Control Officer is hereby created. The Town Mayor shall\n               appoint the animal control officer with the advice and consent of the Town Council.\n               The Animal Control Officer shall be empowered to designate assistants, with the approval\n               of the Mayor, to administer and enforce the provisions of this Title.\n\nThe Animal Control Officer shall perform the following duties: A. Carry out and enforce the provisions of this Title. B. Take into his possession and impound all strays running at large and dispose of the\n                  same as hereinafter provided. C. Enforce the licensing of and control of…",
+          "sourceUrl": "https://library.municode.com/ut/virgin/codes/code_of_ordinances?nodeId=TI9ANSECO"
+        },
+        {
+          "id": "ut:virgin:3",
+          "prompt": "If a Virgin dog license tag is lost or destroyed, a duplicate costs:",
+          "choices": [
+            "$1.00",
+            "$5.00",
+            "$10.00",
+            "Nothing if you show the old receipt"
+          ],
+          "answer": "$5.00",
+          "excerpt": "Animal Control Officer: The custodian selected by the Town Council to be responsible all aspects of animal\n               control. At Large: Shall be intended to mean that every person who has in his/her possession or under\n               his/her control any animal within this Town shall keep any such animal securely penned,\n               leashed or under voice command at all times. Dog: Any male, female or spayed female dog of any age. Impounded: Having been received into the custody of the Town pound or into the custody of any\n               authorized agent or representative of the Town. Owner: When applied to the proprietorship of a dog, shall mean any person or persons, firm,\n               association or corporation owning, keeping or harboring a dog. Pound: An animal shelter, lot, premises or building maintained by or authorized or employed\n               by the Town for the confinement or care of dogs seized either under the provisions\n               of this Title or otherwise. Unlicensed Dog: A dog for which the license for the current year has not been paid, or to which the\n               tag provided for in this Title is not attached. Vicious Dog: A dog that has bitten a person without provocation or a dog that has a known propensity\n               to attack or bite human beings or other animals.\n\nThe position of Town Animal Control Officer is hereby created. The Town Mayor shall\n               appoint the animal control officer with the advice and consent of the Town Council.\n               The Animal Control Officer shall be empowered to designate assistants, with the approval\n               of the Mayor, to administer and enforce the provisions of this Title.\n\nThe Animal Control Officer shall perform the following duties: A. Carry out and enforce the provisions of this Title. B. Take into his possession and impound all strays running at large and dispose of the\n                  same as hereinafter provided. C. Enforce the licensing of and control of…",
+          "sourceUrl": "https://library.municode.com/ut/virgin/codes/code_of_ordinances?nodeId=TI9ANSECO"
+        }
+      ]
+    },
+    {
+      "id": "wasatch-county",
+      "name": "Wasatch County",
+      "sourceIndex": "https://library.municode.com/ut/wasatch_county",
+      "questions": []
+    },
+    {
+      "id": "washington-terrace",
+      "name": "Washington Terrace",
+      "sourceIndex": "https://library.municode.com/ut/washington_terrace",
+      "questions": []
+    },
+    {
+      "id": "weber-county",
+      "name": "Weber County",
+      "sourceIndex": "https://library.municode.com/ut/weber_county",
+      "questions": []
+    },
+    {
+      "id": "west-bountiful",
+      "name": "West Bountiful",
+      "sourceIndex": "https://library.municode.com/ut/west_bountiful",
+      "questions": []
+    },
+    {
+      "id": "white-city-metro-township",
+      "name": "White City Metro Township",
+      "sourceIndex": "https://library.municode.com/ut/white_city_metro_township",
+      "questions": []
+    }
+  ]
+}

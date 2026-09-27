@@ -1,0 +1,979 @@
+{
+  "state": "ny",
+  "stateName": "New York",
+  "places": [
+    {
+      "id": "bellport",
+      "name": "Bellport",
+      "sourceIndex": "https://library.municode.com/ny/bellport",
+      "questions": [
+        {
+          "id": "ny:bellport:0",
+          "prompt": "After it stops snowing in Bellport, how soon must you clear snow and ice from the sidewalk next to your property?",
+          "choices": [
+            "Within 12 hours",
+            "Within 24 hours",
+            "Within 48 hours",
+            "Before the next village workday"
+          ],
+          "answer": "Within 24 hours",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Restrictions on liability for defective streets, etc., § 2-96; moving of buildings, § 5-26 et seq.; alcoholic beverages on streets, § 11-56; motor vehicles and traffic, ch. 12; streets in subdivisions, §§ 18-106 et seq., 18-141 et seq.; zoning, ch. 21. State Law reference— Streets and sidewalks generally, Village Law, § 6-600 et seq. Police power of village,\n               Village Law, § 4-412, subdiv. 1.; Municipal Home Rule Law, § 10, subd. 1.(ii)a.(11).\n\nIt shall be the duty of every property owner or occupant to keep the sidewalk and\n               curb adjoining his premises in a safe, passable condition. For failure, upon notice\n               by the village clerk of not less than twenty-four (24) hours, to make such repairs\n               as are specified as to place and manner, the board of trustees may cause the repairs\n               to be done and assess the expense of such repairs upon the adjoining land. (Code 1975, § 76-35)\n\nThe owner or occupant of any premises shall keep the contiguous sidewalks free from\n               dirt, filth, weeds and other obstructions or encumbrances and shall cause such sidewalks\n               to be cleared of snow and ice within twenty-four (24) hours after such snowfall shall\n               have ceased or ice has formed. (Code 1975, § 76-36)\n\nAny person owning, leasing or in possession of lands in the village shall maintain\n               such lands at a level or grade not lower than the level established for the adjoining\n               sidewalk or sidewalk line, as fixed by the planning board, to a distance of not less\n               than six (6) feet from the sidewalk line unless he shall have protected or walled\n               off such lands from the sidewalk or street by a fence of such height and construction\n               as shall have been approved by the planning board. (Code 1975, § 76-34)\n\n(a) It shall be the duty of every owner or occupant to keep the trees and…",
+          "sourceUrl": "https://library.municode.com/ny/bellport/codes/code_of_ordinances?nodeId=VICO_CH17STSI"
+        },
+        {
+          "id": "ny:bellport:1",
+          "prompt": "How high must overhanging tree limbs be kept so they do not interfere with people on Bellport sidewalks and streets?",
+          "choices": [
+            "At least 6 feet above the sidewalk and 10 feet above the road",
+            "At least 8 feet above the center of the sidewalk and 13 feet above the roadway",
+            "At least 10 feet above both the sidewalk and the road",
+            "Any height is fine if the tree is on private property"
+          ],
+          "answer": "At least 8 feet above the center of the sidewalk and 13 feet above the roadway",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Restrictions on liability for defective streets, etc., § 2-96; moving of buildings, § 5-26 et seq.; alcoholic beverages on streets, § 11-56; motor vehicles and traffic, ch. 12; streets in subdivisions, §§ 18-106 et seq., 18-141 et seq.; zoning, ch. 21. State Law reference— Streets and sidewalks generally, Village Law, § 6-600 et seq. Police power of village,\n               Village Law, § 4-412, subdiv. 1.; Municipal Home Rule Law, § 10, subd. 1.(ii)a.(11).\n\nIt shall be the duty of every property owner or occupant to keep the sidewalk and\n               curb adjoining his premises in a safe, passable condition. For failure, upon notice\n               by the village clerk of not less than twenty-four (24) hours, to make such repairs\n               as are specified as to place and manner, the board of trustees may cause the repairs\n               to be done and assess the expense of such repairs upon the adjoining land. (Code 1975, § 76-35)\n\nThe owner or occupant of any premises shall keep the contiguous sidewalks free from\n               dirt, filth, weeds and other obstructions or encumbrances and shall cause such sidewalks\n               to be cleared of snow and ice within twenty-four (24) hours after such snowfall shall\n               have ceased or ice has formed. (Code 1975, § 76-36)\n\nAny person owning, leasing or in possession of lands in the village shall maintain\n               such lands at a level or grade not lower than the level established for the adjoining\n               sidewalk or sidewalk line, as fixed by the planning board, to a distance of not less\n               than six (6) feet from the sidewalk line unless he shall have protected or walled\n               off such lands from the sidewalk or street by a fence of such height and construction\n               as shall have been approved by the planning board. (Code 1975, § 76-34)\n\n(a) It shall be the duty of every owner or occupant to keep the trees and…",
+          "sourceUrl": "https://library.municode.com/ny/bellport/codes/code_of_ordinances?nodeId=VICO_CH17STSI"
+        },
+        {
+          "id": "ny:bellport:2",
+          "prompt": "At a Bellport street corner, how tall can hedges, bushes, or other plants be so they do not block a driver's view?",
+          "choices": [
+            "No higher than 3 feet",
+            "A maximum of 4 feet from the level of the road",
+            "No higher than 6 feet",
+            "There is no height limit"
+          ],
+          "answer": "A maximum of 4 feet from the level of the road",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Restrictions on liability for defective streets, etc., § 2-96; moving of buildings, § 5-26 et seq.; alcoholic beverages on streets, § 11-56; motor vehicles and traffic, ch. 12; streets in subdivisions, §§ 18-106 et seq., 18-141 et seq.; zoning, ch. 21. State Law reference— Streets and sidewalks generally, Village Law, § 6-600 et seq. Police power of village,\n               Village Law, § 4-412, subdiv. 1.; Municipal Home Rule Law, § 10, subd. 1.(ii)a.(11).\n\nIt shall be the duty of every property owner or occupant to keep the sidewalk and\n               curb adjoining his premises in a safe, passable condition. For failure, upon notice\n               by the village clerk of not less than twenty-four (24) hours, to make such repairs\n               as are specified as to place and manner, the board of trustees may cause the repairs\n               to be done and assess the expense of such repairs upon the adjoining land. (Code 1975, § 76-35)\n\nThe owner or occupant of any premises shall keep the contiguous sidewalks free from\n               dirt, filth, weeds and other obstructions or encumbrances and shall cause such sidewalks\n               to be cleared of snow and ice within twenty-four (24) hours after such snowfall shall\n               have ceased or ice has formed. (Code 1975, § 76-36)\n\nAny person owning, leasing or in possession of lands in the village shall maintain\n               such lands at a level or grade not lower than the level established for the adjoining\n               sidewalk or sidewalk line, as fixed by the planning board, to a distance of not less\n               than six (6) feet from the sidewalk line unless he shall have protected or walled\n               off such lands from the sidewalk or street by a fence of such height and construction\n               as shall have been approved by the planning board. (Code 1975, § 76-34)\n\n(a) It shall be the duty of every owner or occupant to keep the trees and…",
+          "sourceUrl": "https://library.municode.com/ny/bellport/codes/code_of_ordinances?nodeId=VICO_CH17STSI"
+        },
+        {
+          "id": "ny:bellport:3",
+          "prompt": "If an awning or canopy hangs over a Bellport sidewalk, how high must the bottom of it be?",
+          "choices": [
+            "At least 6 feet above the sidewalk",
+            "At least 7 feet above the sidewalk",
+            "At least 8 feet above the sidewalk",
+            "Any height is allowed"
+          ],
+          "answer": "At least 7 feet above the sidewalk",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Restrictions on liability for defective streets, etc., § 2-96; moving of buildings, § 5-26 et seq.; alcoholic beverages on streets, § 11-56; motor vehicles and traffic, ch. 12; streets in subdivisions, §§ 18-106 et seq., 18-141 et seq.; zoning, ch. 21. State Law reference— Streets and sidewalks generally, Village Law, § 6-600 et seq. Police power of village,\n               Village Law, § 4-412, subdiv. 1.; Municipal Home Rule Law, § 10, subd. 1.(ii)a.(11).\n\nIt shall be the duty of every property owner or occupant to keep the sidewalk and\n               curb adjoining his premises in a safe, passable condition. For failure, upon notice\n               by the village clerk of not less than twenty-four (24) hours, to make such repairs\n               as are specified as to place and manner, the board of trustees may cause the repairs\n               to be done and assess the expense of such repairs upon the adjoining land. (Code 1975, § 76-35)\n\nThe owner or occupant of any premises shall keep the contiguous sidewalks free from\n               dirt, filth, weeds and other obstructions or encumbrances and shall cause such sidewalks\n               to be cleared of snow and ice within twenty-four (24) hours after such snowfall shall\n               have ceased or ice has formed. (Code 1975, § 76-36)\n\nAny person owning, leasing or in possession of lands in the village shall maintain\n               such lands at a level or grade not lower than the level established for the adjoining\n               sidewalk or sidewalk line, as fixed by the planning board, to a distance of not less\n               than six (6) feet from the sidewalk line unless he shall have protected or walled\n               off such lands from the sidewalk or street by a fence of such height and construction\n               as shall have been approved by the planning board. (Code 1975, § 76-34)\n\n(a) It shall be the duty of every owner or occupant to keep the trees and…",
+          "sourceUrl": "https://library.municode.com/ny/bellport/codes/code_of_ordinances?nodeId=VICO_CH17STSI"
+        },
+        {
+          "id": "ny:bellport:4",
+          "prompt": "What may happen if a Bellport store leaves unused shopping carts on the sidewalk or street?",
+          "choices": [
+            "The village clerk will send a 24-hour notice first",
+            "Police may seize the carts without notice",
+            "Neighbors may legally take them",
+            "They are allowed if they stay near the store"
+          ],
+          "answer": "Police may seize the carts without notice",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Restrictions on liability for defective streets, etc., § 2-96; moving of buildings, § 5-26 et seq.; alcoholic beverages on streets, § 11-56; motor vehicles and traffic, ch. 12; streets in subdivisions, §§ 18-106 et seq., 18-141 et seq.; zoning, ch. 21. State Law reference— Streets and sidewalks generally, Village Law, § 6-600 et seq. Police power of village,\n               Village Law, § 4-412, subdiv. 1.; Municipal Home Rule Law, § 10, subd. 1.(ii)a.(11).\n\nIt shall be the duty of every property owner or occupant to keep the sidewalk and\n               curb adjoining his premises in a safe, passable condition. For failure, upon notice\n               by the village clerk of not less than twenty-four (24) hours, to make such repairs\n               as are specified as to place and manner, the board of trustees may cause the repairs\n               to be done and assess the expense of such repairs upon the adjoining land. (Code 1975, § 76-35)\n\nThe owner or occupant of any premises shall keep the contiguous sidewalks free from\n               dirt, filth, weeds and other obstructions or encumbrances and shall cause such sidewalks\n               to be cleared of snow and ice within twenty-four (24) hours after such snowfall shall\n               have ceased or ice has formed. (Code 1975, § 76-36)\n\nAny person owning, leasing or in possession of lands in the village shall maintain\n               such lands at a level or grade not lower than the level established for the adjoining\n               sidewalk or sidewalk line, as fixed by the planning board, to a distance of not less\n               than six (6) feet from the sidewalk line unless he shall have protected or walled\n               off such lands from the sidewalk or street by a fence of such height and construction\n               as shall have been approved by the planning board. (Code 1975, § 76-34)\n\n(a) It shall be the duty of every owner or occupant to keep the trees and…",
+          "sourceUrl": "https://library.municode.com/ny/bellport/codes/code_of_ordinances?nodeId=VICO_CH17STSI"
+        }
+      ]
+    },
+    {
+      "id": "big-flats",
+      "name": "Big Flats",
+      "sourceIndex": "https://library.municode.com/ny/big_flats",
+      "questions": [
+        {
+          "id": "ny:big-flats:0",
+          "prompt": "What does Big Flats mainly regulate before new collector and local roads can become town public roads?",
+          "choices": [
+            "Their planning, alignment, and construction",
+            "Only the names of the streets",
+            "Who can park on them after they open",
+            "How often they get plowed in winter"
+          ],
+          "answer": "Their planning, alignment, and construction",
+          "excerpt": "The purpose of this chapter is to regulate the planning, alignment and construction\n               of collector and local roads prior to their dedication to the town as public roads.\n               It is intended that this chapter be utilized as a technical supplement to Chapter 16.12 and Chapter 17.32 , site plan review and approval procedure for the town, with all addenda and revisions\n               thereto. (Res. 142-89 § 100)\n\nFor the purpose of this chapter, certain words and terms used in this chapter are\n               defined as follows: Applicant is any developer or subdivider. Developer is a subdivider or his or her agent, who shall lay out, propose, contract or perform\n               the development of subdivided land, either immediate or future. Easements are written authorization by a property owner for use by another party, and for a\n               specified purpose, of any designated part of his or her property. Road is any street, boulevard, avenue, lane, parkway, alley or other way which is an existing\n               state, county or town road or a proposed road shown on the town general plan or a\n               road shown on a plot to be filed or duly filed and recorded in the office of the county\n               clerk. roads include all land between rights-of-way, whether improved or unimproved.\n               For coordination with the American Association of State Highway and Transportation\n               Officials (AASHTO) functional system names, roads shall be classified as principal\n               and minor arterials, major and minor collectors, and local. Following the AASHTO name, the road designations currently utilized in the town standards\n               referenced in Section 12.04.010 will be given to aid the applicant's engineering consultant when researching the specified design standards listed in\n               subsection 12.04.050 (A)(3). The names for each classification shall be considered synonymous. road classifications\n      …",
+          "sourceUrl": "https://library.municode.com/ny/big_flats/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ny:big-flats:1",
+          "prompt": "How many copies of the construction drawings, technical specifications, and engineering report must be submitted with a road construction application?",
+          "choices": [
+            "One copy",
+            "Two copies",
+            "Three copies",
+            "Five copies"
+          ],
+          "answer": "Three copies",
+          "excerpt": "The purpose of this chapter is to regulate the planning, alignment and construction\n               of collector and local roads prior to their dedication to the town as public roads.\n               It is intended that this chapter be utilized as a technical supplement to Chapter 16.12 and Chapter 17.32 , site plan review and approval procedure for the town, with all addenda and revisions\n               thereto. (Res. 142-89 § 100)\n\nFor the purpose of this chapter, certain words and terms used in this chapter are\n               defined as follows: Applicant is any developer or subdivider. Developer is a subdivider or his or her agent, who shall lay out, propose, contract or perform\n               the development of subdivided land, either immediate or future. Easements are written authorization by a property owner for use by another party, and for a\n               specified purpose, of any designated part of his or her property. Road is any street, boulevard, avenue, lane, parkway, alley or other way which is an existing\n               state, county or town road or a proposed road shown on the town general plan or a\n               road shown on a plot to be filed or duly filed and recorded in the office of the county\n               clerk. roads include all land between rights-of-way, whether improved or unimproved.\n               For coordination with the American Association of State Highway and Transportation\n               Officials (AASHTO) functional system names, roads shall be classified as principal\n               and minor arterials, major and minor collectors, and local. Following the AASHTO name, the road designations currently utilized in the town standards\n               referenced in Section 12.04.010 will be given to aid the applicant's engineering consultant when researching the specified design standards listed in\n               subsection 12.04.050 (A)(3). The names for each classification shall be considered synonymous. road classifications\n      …",
+          "sourceUrl": "https://library.municode.com/ny/big_flats/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ny:big-flats:2",
+          "prompt": "Who must prepare, stamp, and sign the final construction drawings, technical specifications, and engineering report?",
+          "choices": [
+            "A licensed professional engineer with a current New York registration",
+            "Any licensed contractor working in town",
+            "The town planning board itself",
+            "The property owner's attorney"
+          ],
+          "answer": "A licensed professional engineer with a current New York registration",
+          "excerpt": "The purpose of this chapter is to regulate the planning, alignment and construction\n               of collector and local roads prior to their dedication to the town as public roads.\n               It is intended that this chapter be utilized as a technical supplement to Chapter 16.12 and Chapter 17.32 , site plan review and approval procedure for the town, with all addenda and revisions\n               thereto. (Res. 142-89 § 100)\n\nFor the purpose of this chapter, certain words and terms used in this chapter are\n               defined as follows: Applicant is any developer or subdivider. Developer is a subdivider or his or her agent, who shall lay out, propose, contract or perform\n               the development of subdivided land, either immediate or future. Easements are written authorization by a property owner for use by another party, and for a\n               specified purpose, of any designated part of his or her property. Road is any street, boulevard, avenue, lane, parkway, alley or other way which is an existing\n               state, county or town road or a proposed road shown on the town general plan or a\n               road shown on a plot to be filed or duly filed and recorded in the office of the county\n               clerk. roads include all land between rights-of-way, whether improved or unimproved.\n               For coordination with the American Association of State Highway and Transportation\n               Officials (AASHTO) functional system names, roads shall be classified as principal\n               and minor arterials, major and minor collectors, and local. Following the AASHTO name, the road designations currently utilized in the town standards\n               referenced in Section 12.04.010 will be given to aid the applicant's engineering consultant when researching the specified design standards listed in\n               subsection 12.04.050 (A)(3). The names for each classification shall be considered synonymous. road classifications\n      …",
+          "sourceUrl": "https://library.municode.com/ny/big_flats/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ny:big-flats:3",
+          "prompt": "If a proposed new road would intersect a state or county road, what must the applicant get before officially submitting the application?",
+          "choices": [
+            "Endorsement and approval from the New York State Department of Transportation and Chemung County department of public works",
+            "A signed letter from every nearby neighbor",
+            "Permission only from the town clerk",
+            "Nothing extra beyond the town application"
+          ],
+          "answer": "Endorsement and approval from the New York State Department of Transportation and Chemung County department of public works",
+          "excerpt": "The purpose of this chapter is to regulate the planning, alignment and construction\n               of collector and local roads prior to their dedication to the town as public roads.\n               It is intended that this chapter be utilized as a technical supplement to Chapter 16.12 and Chapter 17.32 , site plan review and approval procedure for the town, with all addenda and revisions\n               thereto. (Res. 142-89 § 100)\n\nFor the purpose of this chapter, certain words and terms used in this chapter are\n               defined as follows: Applicant is any developer or subdivider. Developer is a subdivider or his or her agent, who shall lay out, propose, contract or perform\n               the development of subdivided land, either immediate or future. Easements are written authorization by a property owner for use by another party, and for a\n               specified purpose, of any designated part of his or her property. Road is any street, boulevard, avenue, lane, parkway, alley or other way which is an existing\n               state, county or town road or a proposed road shown on the town general plan or a\n               road shown on a plot to be filed or duly filed and recorded in the office of the county\n               clerk. roads include all land between rights-of-way, whether improved or unimproved.\n               For coordination with the American Association of State Highway and Transportation\n               Officials (AASHTO) functional system names, roads shall be classified as principal\n               and minor arterials, major and minor collectors, and local. Following the AASHTO name, the road designations currently utilized in the town standards\n               referenced in Section 12.04.010 will be given to aid the applicant's engineering consultant when researching the specified design standards listed in\n               subsection 12.04.050 (A)(3). The names for each classification shall be considered synonymous. road classifications\n      …",
+          "sourceUrl": "https://library.municode.com/ny/big_flats/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ny:big-flats:4",
+          "prompt": "Who must attend the planning board meeting to discuss a road construction application?",
+          "choices": [
+            "The applicant or an authorized representative",
+            "Every homeowner on the new street",
+            "A representative from the fire department only",
+            "No one has to attend in person"
+          ],
+          "answer": "The applicant or an authorized representative",
+          "excerpt": "The purpose of this chapter is to regulate the planning, alignment and construction\n               of collector and local roads prior to their dedication to the town as public roads.\n               It is intended that this chapter be utilized as a technical supplement to Chapter 16.12 and Chapter 17.32 , site plan review and approval procedure for the town, with all addenda and revisions\n               thereto. (Res. 142-89 § 100)\n\nFor the purpose of this chapter, certain words and terms used in this chapter are\n               defined as follows: Applicant is any developer or subdivider. Developer is a subdivider or his or her agent, who shall lay out, propose, contract or perform\n               the development of subdivided land, either immediate or future. Easements are written authorization by a property owner for use by another party, and for a\n               specified purpose, of any designated part of his or her property. Road is any street, boulevard, avenue, lane, parkway, alley or other way which is an existing\n               state, county or town road or a proposed road shown on the town general plan or a\n               road shown on a plot to be filed or duly filed and recorded in the office of the county\n               clerk. roads include all land between rights-of-way, whether improved or unimproved.\n               For coordination with the American Association of State Highway and Transportation\n               Officials (AASHTO) functional system names, roads shall be classified as principal\n               and minor arterials, major and minor collectors, and local. Following the AASHTO name, the road designations currently utilized in the town standards\n               referenced in Section 12.04.010 will be given to aid the applicant's engineering consultant when researching the specified design standards listed in\n               subsection 12.04.050 (A)(3). The names for each classification shall be considered synonymous. road classifications\n      …",
+          "sourceUrl": "https://library.municode.com/ny/big_flats/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "elmira",
+      "name": "Elmira",
+      "sourceIndex": "https://library.municode.com/ny/elmira",
+      "questions": [
+        {
+          "id": "ny:elmira:0",
+          "prompt": "How is Elmira city government set up under Plan C?",
+          "choices": [
+            "A mayor who runs everything with no council",
+            "A limited council with a city manager",
+            "An elected county board that runs the city",
+            "A town meeting of all residents"
+          ],
+          "answer": "A limited council with a city manager",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein as part I are four subparts. Subpart A contains the Charter of the\n               city, Laws 1906, ch. 477, as amended. The arrangement, format, article headings and\n               section catchlines of the Charter have been retained. The section catchlines which\n               have been added are enclosed in brackets. Amendments have been included in their proper\n               places as amended and repealed provisions have been deleted. Original and amendatory\n               laws, from which the sections are derived, are cited in parentheses following such\n               amended sections. Subpart B contains plan \"C,\" arts. III and V, under a separate tab for the user's\n               convenience, which has been included at the request of the city. Such plan C, adopted\n               by the electorate May 5, 1932, and effective January 1, 1934, consists of government\n               by limited council with the city manager as provided by Laws of 1914, ch. 444. Subpart C contains special acts of the state legislature applicable to the city which\n               did not expressly amend the Charter. This subpart has been organized into articles\n               and article headings have been added. All articles have been arranged chronologically\n               commencing with the earliest enacted special act. Subpart D contains the local laws of the city which did not expressly amend the Charter\n               or the Code. This subpart has been organized into articles and article headings have\n               been added. The articles have been arranged chronologically commencing with the earliest\n               enacted local law. Section catchlines have been added and are enclosed in brackets. Obvious misspellings have been corrected without notation. Material enclosed in brackets\n               has been added to the text where necessary to correct obvious errors or to clarify\n               the meaning where the…",
+          "sourceUrl": "https://library.municode.com/ny/elmira/codes/code_of_ordinances?nodeId=PTICHRELE"
+        },
+        {
+          "id": "ny:elmira:1",
+          "prompt": "When did Elmira voters adopt Plan C?",
+          "choices": [
+            "May 5, 1932",
+            "January 1, 1934",
+            "1906",
+            "1914"
+          ],
+          "answer": "May 5, 1932",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein as part I are four subparts. Subpart A contains the Charter of the\n               city, Laws 1906, ch. 477, as amended. The arrangement, format, article headings and\n               section catchlines of the Charter have been retained. The section catchlines which\n               have been added are enclosed in brackets. Amendments have been included in their proper\n               places as amended and repealed provisions have been deleted. Original and amendatory\n               laws, from which the sections are derived, are cited in parentheses following such\n               amended sections. Subpart B contains plan \"C,\" arts. III and V, under a separate tab for the user's\n               convenience, which has been included at the request of the city. Such plan C, adopted\n               by the electorate May 5, 1932, and effective January 1, 1934, consists of government\n               by limited council with the city manager as provided by Laws of 1914, ch. 444. Subpart C contains special acts of the state legislature applicable to the city which\n               did not expressly amend the Charter. This subpart has been organized into articles\n               and article headings have been added. All articles have been arranged chronologically\n               commencing with the earliest enacted special act. Subpart D contains the local laws of the city which did not expressly amend the Charter\n               or the Code. This subpart has been organized into articles and article headings have\n               been added. The articles have been arranged chronologically commencing with the earliest\n               enacted local law. Section catchlines have been added and are enclosed in brackets. Obvious misspellings have been corrected without notation. Material enclosed in brackets\n               has been added to the text where necessary to correct obvious errors or to clarify\n               the meaning where the…",
+          "sourceUrl": "https://library.municode.com/ny/elmira/codes/code_of_ordinances?nodeId=PTICHRELE"
+        },
+        {
+          "id": "ny:elmira:2",
+          "prompt": "When did Plan C take effect in Elmira?",
+          "choices": [
+            "May 5, 1932",
+            "January 1, 1934",
+            "1906",
+            "1914"
+          ],
+          "answer": "January 1, 1934",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein as part I are four subparts. Subpart A contains the Charter of the\n               city, Laws 1906, ch. 477, as amended. The arrangement, format, article headings and\n               section catchlines of the Charter have been retained. The section catchlines which\n               have been added are enclosed in brackets. Amendments have been included in their proper\n               places as amended and repealed provisions have been deleted. Original and amendatory\n               laws, from which the sections are derived, are cited in parentheses following such\n               amended sections. Subpart B contains plan \"C,\" arts. III and V, under a separate tab for the user's\n               convenience, which has been included at the request of the city. Such plan C, adopted\n               by the electorate May 5, 1932, and effective January 1, 1934, consists of government\n               by limited council with the city manager as provided by Laws of 1914, ch. 444. Subpart C contains special acts of the state legislature applicable to the city which\n               did not expressly amend the Charter. This subpart has been organized into articles\n               and article headings have been added. All articles have been arranged chronologically\n               commencing with the earliest enacted special act. Subpart D contains the local laws of the city which did not expressly amend the Charter\n               or the Code. This subpart has been organized into articles and article headings have\n               been added. The articles have been arranged chronologically commencing with the earliest\n               enacted local law. Section catchlines have been added and are enclosed in brackets. Obvious misspellings have been corrected without notation. Material enclosed in brackets\n               has been added to the text where necessary to correct obvious errors or to clarify\n               the meaning where the…",
+          "sourceUrl": "https://library.municode.com/ny/elmira/codes/code_of_ordinances?nodeId=PTICHRELE"
+        },
+        {
+          "id": "ny:elmira:3",
+          "prompt": "What does Subpart A of the published city volume contain?",
+          "choices": [
+            "The city Charter from 1906, as amended",
+            "Only special state laws",
+            "Only later local laws",
+            "The city manager’s contract"
+          ],
+          "answer": "The city Charter from 1906, as amended",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein as part I are four subparts. Subpart A contains the Charter of the\n               city, Laws 1906, ch. 477, as amended. The arrangement, format, article headings and\n               section catchlines of the Charter have been retained. The section catchlines which\n               have been added are enclosed in brackets. Amendments have been included in their proper\n               places as amended and repealed provisions have been deleted. Original and amendatory\n               laws, from which the sections are derived, are cited in parentheses following such\n               amended sections. Subpart B contains plan \"C,\" arts. III and V, under a separate tab for the user's\n               convenience, which has been included at the request of the city. Such plan C, adopted\n               by the electorate May 5, 1932, and effective January 1, 1934, consists of government\n               by limited council with the city manager as provided by Laws of 1914, ch. 444. Subpart C contains special acts of the state legislature applicable to the city which\n               did not expressly amend the Charter. This subpart has been organized into articles\n               and article headings have been added. All articles have been arranged chronologically\n               commencing with the earliest enacted special act. Subpart D contains the local laws of the city which did not expressly amend the Charter\n               or the Code. This subpart has been organized into articles and article headings have\n               been added. The articles have been arranged chronologically commencing with the earliest\n               enacted local law. Section catchlines have been added and are enclosed in brackets. Obvious misspellings have been corrected without notation. Material enclosed in brackets\n               has been added to the text where necessary to correct obvious errors or to clarify\n               the meaning where the…",
+          "sourceUrl": "https://library.municode.com/ny/elmira/codes/code_of_ordinances?nodeId=PTICHRELE"
+        },
+        {
+          "id": "ny:elmira:4",
+          "prompt": "How were obvious misspellings in the original text handled in this printed code?",
+          "choices": [
+            "Corrected without notation",
+            "Left as originally written",
+            "Marked with footnotes",
+            "Shown in brackets"
+          ],
+          "answer": "Corrected without notation",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed herein as part I are four subparts. Subpart A contains the Charter of the\n               city, Laws 1906, ch. 477, as amended. The arrangement, format, article headings and\n               section catchlines of the Charter have been retained. The section catchlines which\n               have been added are enclosed in brackets. Amendments have been included in their proper\n               places as amended and repealed provisions have been deleted. Original and amendatory\n               laws, from which the sections are derived, are cited in parentheses following such\n               amended sections. Subpart B contains plan \"C,\" arts. III and V, under a separate tab for the user's\n               convenience, which has been included at the request of the city. Such plan C, adopted\n               by the electorate May 5, 1932, and effective January 1, 1934, consists of government\n               by limited council with the city manager as provided by Laws of 1914, ch. 444. Subpart C contains special acts of the state legislature applicable to the city which\n               did not expressly amend the Charter. This subpart has been organized into articles\n               and article headings have been added. All articles have been arranged chronologically\n               commencing with the earliest enacted special act. Subpart D contains the local laws of the city which did not expressly amend the Charter\n               or the Code. This subpart has been organized into articles and article headings have\n               been added. The articles have been arranged chronologically commencing with the earliest\n               enacted local law. Section catchlines have been added and are enclosed in brackets. Obvious misspellings have been corrected without notation. Material enclosed in brackets\n               has been added to the text where necessary to correct obvious errors or to clarify\n               the meaning where the…",
+          "sourceUrl": "https://library.municode.com/ny/elmira/codes/code_of_ordinances?nodeId=PTICHRELE"
+        }
+      ]
+    },
+    {
+      "id": "goshen",
+      "name": "Goshen",
+      "sourceIndex": "https://library.municode.com/ny/goshen",
+      "questions": [
+        {
+          "id": "ny:goshen:0",
+          "prompt": "In Goshen, which trees are you not allowed to plant within 100 feet of a public street, alley, sewer, or water main?",
+          "choices": [
+            "Oak or maple trees",
+            "Poplar trees or willow trees",
+            "Any tree taller than 20 feet",
+            "Fruit trees near sidewalks"
+          ],
+          "answer": "Poplar trees or willow trees",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Recreation areas of the village, § 2-79; prior notice required for claims against the village regarding defects in highways,\n               bridges, culverts, streets, sidewalks, etc., § 2-196; fishing in reservoirs restricted, § 6-1; animals prohibited from running at large, § 6-2; maintenance of enclosures for horses, cattle, etc., § 6-4; buildings and building regulations, ch. 10; moving buildings, § 10-29; solicitors, peddlers, itinerant vendors, § 14-26 set seq.; fire lanes on private property, § 22-59; deposits in streams, drains, ditches, sewers, etc., prohibited, § 30-56; regulations regarding littering, § 30-81 et seq.; litter in parks prohibited, § 30-91; posting of unauthorized notices in public places prohibited, § 30-92; removal of weeds and other vegetation, § 30-116 et seq.; subdivisions, ch. 46; public streets and recreation areas required in subdivision plats, § 46-113. State Law reference— Streets and sidewalks, Village Law § 6-600 et seq.\n\n(a) Approval of plans. No person shall hereafter construct any drain, culvert or other conduit in any of\n               the streets or other public places in the village without first submitting the plans\n               for such construction to the superintendent of public works for approval. (b) Permit. No culvert, drain or other conduit shall be constructed in any of the streets or\n               other public places in the village until written permission for such construction\n               has been granted by the superintendent of public works. (c) Obstruction prohibited. No person shall permit any drain, culvert or other conduit constructed and maintained\n               in the streets or other public places in the village in front of or adjacent to premises\n               owned or occupied by him to become clogged with dirt, leaves or other material so\n               as to obstruct the free passage of water. (d) Cleaning required. It shall be the duty of every…",
+          "sourceUrl": "https://library.municode.com/ny/goshen/codes/code_of_ordinances?nodeId=CO_CH42STSIOTPUPL"
+        },
+        {
+          "id": "ny:goshen:1",
+          "prompt": "If you get a notice that the drain or culvert in front of your property is clogged with dirt or leaves, how soon must you clean it?",
+          "choices": [
+            "Within 24 hours",
+            "Within 48 hours",
+            "Within 7 days",
+            "Before the next rainstorm"
+          ],
+          "answer": "Within 24 hours",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Recreation areas of the village, § 2-79; prior notice required for claims against the village regarding defects in highways,\n               bridges, culverts, streets, sidewalks, etc., § 2-196; fishing in reservoirs restricted, § 6-1; animals prohibited from running at large, § 6-2; maintenance of enclosures for horses, cattle, etc., § 6-4; buildings and building regulations, ch. 10; moving buildings, § 10-29; solicitors, peddlers, itinerant vendors, § 14-26 set seq.; fire lanes on private property, § 22-59; deposits in streams, drains, ditches, sewers, etc., prohibited, § 30-56; regulations regarding littering, § 30-81 et seq.; litter in parks prohibited, § 30-91; posting of unauthorized notices in public places prohibited, § 30-92; removal of weeds and other vegetation, § 30-116 et seq.; subdivisions, ch. 46; public streets and recreation areas required in subdivision plats, § 46-113. State Law reference— Streets and sidewalks, Village Law § 6-600 et seq.\n\n(a) Approval of plans. No person shall hereafter construct any drain, culvert or other conduit in any of\n               the streets or other public places in the village without first submitting the plans\n               for such construction to the superintendent of public works for approval. (b) Permit. No culvert, drain or other conduit shall be constructed in any of the streets or\n               other public places in the village until written permission for such construction\n               has been granted by the superintendent of public works. (c) Obstruction prohibited. No person shall permit any drain, culvert or other conduit constructed and maintained\n               in the streets or other public places in the village in front of or adjacent to premises\n               owned or occupied by him to become clogged with dirt, leaves or other material so\n               as to obstruct the free passage of water. (d) Cleaning required. It shall be the duty of every…",
+          "sourceUrl": "https://library.municode.com/ny/goshen/codes/code_of_ordinances?nodeId=CO_CH42STSIOTPUPL"
+        },
+        {
+          "id": "ny:goshen:2",
+          "prompt": "What do you need before constructing a drain, culvert, or other conduit in a Goshen street or other public place?",
+          "choices": [
+            "Written permission from the superintendent of public works",
+            "A permit from the police department",
+            "Only an agreement with your neighbor",
+            "Approval from the county"
+          ],
+          "answer": "Written permission from the superintendent of public works",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Recreation areas of the village, § 2-79; prior notice required for claims against the village regarding defects in highways,\n               bridges, culverts, streets, sidewalks, etc., § 2-196; fishing in reservoirs restricted, § 6-1; animals prohibited from running at large, § 6-2; maintenance of enclosures for horses, cattle, etc., § 6-4; buildings and building regulations, ch. 10; moving buildings, § 10-29; solicitors, peddlers, itinerant vendors, § 14-26 set seq.; fire lanes on private property, § 22-59; deposits in streams, drains, ditches, sewers, etc., prohibited, § 30-56; regulations regarding littering, § 30-81 et seq.; litter in parks prohibited, § 30-91; posting of unauthorized notices in public places prohibited, § 30-92; removal of weeds and other vegetation, § 30-116 et seq.; subdivisions, ch. 46; public streets and recreation areas required in subdivision plats, § 46-113. State Law reference— Streets and sidewalks, Village Law § 6-600 et seq.\n\n(a) Approval of plans. No person shall hereafter construct any drain, culvert or other conduit in any of\n               the streets or other public places in the village without first submitting the plans\n               for such construction to the superintendent of public works for approval. (b) Permit. No culvert, drain or other conduit shall be constructed in any of the streets or\n               other public places in the village until written permission for such construction\n               has been granted by the superintendent of public works. (c) Obstruction prohibited. No person shall permit any drain, culvert or other conduit constructed and maintained\n               in the streets or other public places in the village in front of or adjacent to premises\n               owned or occupied by him to become clogged with dirt, leaves or other material so\n               as to obstruct the free passage of water. (d) Cleaning required. It shall be the duty of every…",
+          "sourceUrl": "https://library.municode.com/ny/goshen/codes/code_of_ordinances?nodeId=CO_CH42STSIOTPUPL"
+        },
+        {
+          "id": "ny:goshen:3",
+          "prompt": "Whose permission is required before anyone puts up a new pole or strings wires in Goshen’s public streets?",
+          "choices": [
+            "The board of trustees",
+            "The mayor only",
+            "The electric company",
+            "No permission is needed"
+          ],
+          "answer": "The board of trustees",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Recreation areas of the village, § 2-79; prior notice required for claims against the village regarding defects in highways,\n               bridges, culverts, streets, sidewalks, etc., § 2-196; fishing in reservoirs restricted, § 6-1; animals prohibited from running at large, § 6-2; maintenance of enclosures for horses, cattle, etc., § 6-4; buildings and building regulations, ch. 10; moving buildings, § 10-29; solicitors, peddlers, itinerant vendors, § 14-26 set seq.; fire lanes on private property, § 22-59; deposits in streams, drains, ditches, sewers, etc., prohibited, § 30-56; regulations regarding littering, § 30-81 et seq.; litter in parks prohibited, § 30-91; posting of unauthorized notices in public places prohibited, § 30-92; removal of weeds and other vegetation, § 30-116 et seq.; subdivisions, ch. 46; public streets and recreation areas required in subdivision plats, § 46-113. State Law reference— Streets and sidewalks, Village Law § 6-600 et seq.\n\n(a) Approval of plans. No person shall hereafter construct any drain, culvert or other conduit in any of\n               the streets or other public places in the village without first submitting the plans\n               for such construction to the superintendent of public works for approval. (b) Permit. No culvert, drain or other conduit shall be constructed in any of the streets or\n               other public places in the village until written permission for such construction\n               has been granted by the superintendent of public works. (c) Obstruction prohibited. No person shall permit any drain, culvert or other conduit constructed and maintained\n               in the streets or other public places in the village in front of or adjacent to premises\n               owned or occupied by him to become clogged with dirt, leaves or other material so\n               as to obstruct the free passage of water. (d) Cleaning required. It shall be the duty of every…",
+          "sourceUrl": "https://library.municode.com/ny/goshen/codes/code_of_ordinances?nodeId=CO_CH42STSIOTPUPL"
+        },
+        {
+          "id": "ny:goshen:4",
+          "prompt": "If a tree’s roots have clogged a village sewer or water main, how long does the owner have to remove the tree after getting notice?",
+          "choices": [
+            "24 hours",
+            "10 days",
+            "30 days",
+            "90 days"
+          ],
+          "answer": "30 days",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Recreation areas of the village, § 2-79; prior notice required for claims against the village regarding defects in highways,\n               bridges, culverts, streets, sidewalks, etc., § 2-196; fishing in reservoirs restricted, § 6-1; animals prohibited from running at large, § 6-2; maintenance of enclosures for horses, cattle, etc., § 6-4; buildings and building regulations, ch. 10; moving buildings, § 10-29; solicitors, peddlers, itinerant vendors, § 14-26 set seq.; fire lanes on private property, § 22-59; deposits in streams, drains, ditches, sewers, etc., prohibited, § 30-56; regulations regarding littering, § 30-81 et seq.; litter in parks prohibited, § 30-91; posting of unauthorized notices in public places prohibited, § 30-92; removal of weeds and other vegetation, § 30-116 et seq.; subdivisions, ch. 46; public streets and recreation areas required in subdivision plats, § 46-113. State Law reference— Streets and sidewalks, Village Law § 6-600 et seq.\n\n(a) Approval of plans. No person shall hereafter construct any drain, culvert or other conduit in any of\n               the streets or other public places in the village without first submitting the plans\n               for such construction to the superintendent of public works for approval. (b) Permit. No culvert, drain or other conduit shall be constructed in any of the streets or\n               other public places in the village until written permission for such construction\n               has been granted by the superintendent of public works. (c) Obstruction prohibited. No person shall permit any drain, culvert or other conduit constructed and maintained\n               in the streets or other public places in the village in front of or adjacent to premises\n               owned or occupied by him to become clogged with dirt, leaves or other material so\n               as to obstruct the free passage of water. (d) Cleaning required. It shall be the duty of every…",
+          "sourceUrl": "https://library.municode.com/ny/goshen/codes/code_of_ordinances?nodeId=CO_CH42STSIOTPUPL"
+        }
+      ]
+    },
+    {
+      "id": "kenmore",
+      "name": "Kenmore",
+      "sourceIndex": "https://library.municode.com/ny/kenmore",
+      "questions": [
+        {
+          "id": "ny:kenmore:0",
+          "prompt": "Can you keep chickens, ducks, geese, or pigeons at a home in Kenmore?",
+          "choices": [
+            "Yes, if they stay in a fenced yard",
+            "Yes, as long as they do not run at large",
+            "No, it is not allowed to house those animals in the village",
+            "Only if you live on a corner lot"
+          ],
+          "answer": "No, it is not allowed to house those animals in the village",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Police power of village, Village Law, § 4-412, subdiv. 1; Municipal Home Rule Law,\n               § 10, subdiv. 1, para. (ii) a. (11).\n\nIt shall be unlawful for the owner or person having the care, custody, or control\n               of any horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeon to suffer\n               or permit them to run at large. (Comp. Ords. 1918, § 6)\n\nNo person shall use any premises within the village for the purpose of housing any\n               horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeons, and the owner\n               and occupant of any premises within the village shall not permit the use of any premises\n               for the purpose of housing same. (Comp. Ords. 1918, § 6)\n\nThis article shall be known as the \"Kenmore Cat Regulation Law\". (L.L. No. 3-1977, § 1, 10-4-77; L.L. No. 7-1979, § 1, 12-18-79)\n\nThe purpose and intent of this article shall be to preserve the public peace and good\n               order in the village and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the village by\n               declaring and enforcing certain regulations and restrictions of activities of cats\n               and owners of cats within the village. (L.L. No. 3-1977, § 2, 10-4-77; L.L. No. 7-1979, § 1, 12-5-79)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal warden shall mean any peace officer or other person authorized by the village board to enforce\n               the provisions of this article. At-large shall mean elsewhere than on the premises of the owner or on the premises of another\n               person without the knowledge, consent and approval of said other person. Cat shall mean both male…",
+          "sourceUrl": "https://library.municode.com/ny/kenmore/codes/code_of_ordinances?nodeId=MUCO_CH4ANFO"
+        },
+        {
+          "id": "ny:kenmore:1",
+          "prompt": "If a cat is off its owner's property in Kenmore, what must it have?",
+          "choices": [
+            "A village-issued cat license",
+            "An easy-to-read tag or collar with the owner's name and address",
+            "A leash at all times",
+            "A microchip only"
+          ],
+          "answer": "An easy-to-read tag or collar with the owner's name and address",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Police power of village, Village Law, § 4-412, subdiv. 1; Municipal Home Rule Law,\n               § 10, subdiv. 1, para. (ii) a. (11).\n\nIt shall be unlawful for the owner or person having the care, custody, or control\n               of any horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeon to suffer\n               or permit them to run at large. (Comp. Ords. 1918, § 6)\n\nNo person shall use any premises within the village for the purpose of housing any\n               horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeons, and the owner\n               and occupant of any premises within the village shall not permit the use of any premises\n               for the purpose of housing same. (Comp. Ords. 1918, § 6)\n\nThis article shall be known as the \"Kenmore Cat Regulation Law\". (L.L. No. 3-1977, § 1, 10-4-77; L.L. No. 7-1979, § 1, 12-18-79)\n\nThe purpose and intent of this article shall be to preserve the public peace and good\n               order in the village and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the village by\n               declaring and enforcing certain regulations and restrictions of activities of cats\n               and owners of cats within the village. (L.L. No. 3-1977, § 2, 10-4-77; L.L. No. 7-1979, § 1, 12-5-79)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal warden shall mean any peace officer or other person authorized by the village board to enforce\n               the provisions of this article. At-large shall mean elsewhere than on the premises of the owner or on the premises of another\n               person without the knowledge, consent and approval of said other person. Cat shall mean both male…",
+          "sourceUrl": "https://library.municode.com/ny/kenmore/codes/code_of_ordinances?nodeId=MUCO_CH4ANFO"
+        },
+        {
+          "id": "ny:kenmore:2",
+          "prompt": "What must happen when a female cat is in heat?",
+          "choices": [
+            "She may roam if she has a collar",
+            "She must be confined to the owner's premises",
+            "She must be taken to the animal warden",
+            "She may go out only at night"
+          ],
+          "answer": "She must be confined to the owner's premises",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Police power of village, Village Law, § 4-412, subdiv. 1; Municipal Home Rule Law,\n               § 10, subdiv. 1, para. (ii) a. (11).\n\nIt shall be unlawful for the owner or person having the care, custody, or control\n               of any horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeon to suffer\n               or permit them to run at large. (Comp. Ords. 1918, § 6)\n\nNo person shall use any premises within the village for the purpose of housing any\n               horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeons, and the owner\n               and occupant of any premises within the village shall not permit the use of any premises\n               for the purpose of housing same. (Comp. Ords. 1918, § 6)\n\nThis article shall be known as the \"Kenmore Cat Regulation Law\". (L.L. No. 3-1977, § 1, 10-4-77; L.L. No. 7-1979, § 1, 12-18-79)\n\nThe purpose and intent of this article shall be to preserve the public peace and good\n               order in the village and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the village by\n               declaring and enforcing certain regulations and restrictions of activities of cats\n               and owners of cats within the village. (L.L. No. 3-1977, § 2, 10-4-77; L.L. No. 7-1979, § 1, 12-5-79)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal warden shall mean any peace officer or other person authorized by the village board to enforce\n               the provisions of this article. At-large shall mean elsewhere than on the premises of the owner or on the premises of another\n               person without the knowledge, consent and approval of said other person. Cat shall mean both male…",
+          "sourceUrl": "https://library.municode.com/ny/kenmore/codes/code_of_ordinances?nodeId=MUCO_CH4ANFO"
+        },
+        {
+          "id": "ny:kenmore:3",
+          "prompt": "Kenmore may treat you as having too many cats if you keep more than how many at one home?",
+          "choices": [
+            "Two",
+            "Four",
+            "Six",
+            "Eight"
+          ],
+          "answer": "Four",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Police power of village, Village Law, § 4-412, subdiv. 1; Municipal Home Rule Law,\n               § 10, subdiv. 1, para. (ii) a. (11).\n\nIt shall be unlawful for the owner or person having the care, custody, or control\n               of any horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeon to suffer\n               or permit them to run at large. (Comp. Ords. 1918, § 6)\n\nNo person shall use any premises within the village for the purpose of housing any\n               horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeons, and the owner\n               and occupant of any premises within the village shall not permit the use of any premises\n               for the purpose of housing same. (Comp. Ords. 1918, § 6)\n\nThis article shall be known as the \"Kenmore Cat Regulation Law\". (L.L. No. 3-1977, § 1, 10-4-77; L.L. No. 7-1979, § 1, 12-18-79)\n\nThe purpose and intent of this article shall be to preserve the public peace and good\n               order in the village and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the village by\n               declaring and enforcing certain regulations and restrictions of activities of cats\n               and owners of cats within the village. (L.L. No. 3-1977, § 2, 10-4-77; L.L. No. 7-1979, § 1, 12-5-79)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal warden shall mean any peace officer or other person authorized by the village board to enforce\n               the provisions of this article. At-large shall mean elsewhere than on the premises of the owner or on the premises of another\n               person without the knowledge, consent and approval of said other person. Cat shall mean both male…",
+          "sourceUrl": "https://library.municode.com/ny/kenmore/codes/code_of_ordinances?nodeId=MUCO_CH4ANFO"
+        },
+        {
+          "id": "ny:kenmore:4",
+          "prompt": "If the village seizes a cat that was running at large and the owner does not pick it up, who is still responsible for the S.P.C.A. boarding cost?",
+          "choices": [
+            "The village",
+            "The person who reported the cat",
+            "The cat's owner",
+            "No one; the cost is waived"
+          ],
+          "answer": "The cat's owner",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Police power of village, Village Law, § 4-412, subdiv. 1; Municipal Home Rule Law,\n               § 10, subdiv. 1, para. (ii) a. (11).\n\nIt shall be unlawful for the owner or person having the care, custody, or control\n               of any horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeon to suffer\n               or permit them to run at large. (Comp. Ords. 1918, § 6)\n\nNo person shall use any premises within the village for the purpose of housing any\n               horses, cattle, sheep, hogs, goats, chickens, ducks, geese or pigeons, and the owner\n               and occupant of any premises within the village shall not permit the use of any premises\n               for the purpose of housing same. (Comp. Ords. 1918, § 6)\n\nThis article shall be known as the \"Kenmore Cat Regulation Law\". (L.L. No. 3-1977, § 1, 10-4-77; L.L. No. 7-1979, § 1, 12-18-79)\n\nThe purpose and intent of this article shall be to preserve the public peace and good\n               order in the village and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the village by\n               declaring and enforcing certain regulations and restrictions of activities of cats\n               and owners of cats within the village. (L.L. No. 3-1977, § 2, 10-4-77; L.L. No. 7-1979, § 1, 12-5-79)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal warden shall mean any peace officer or other person authorized by the village board to enforce\n               the provisions of this article. At-large shall mean elsewhere than on the premises of the owner or on the premises of another\n               person without the knowledge, consent and approval of said other person. Cat shall mean both male…",
+          "sourceUrl": "https://library.municode.com/ny/kenmore/codes/code_of_ordinances?nodeId=MUCO_CH4ANFO"
+        }
+      ]
+    },
+    {
+      "id": "lewiston",
+      "name": "Lewiston",
+      "sourceIndex": "https://library.municode.com/ny/lewiston",
+      "questions": [
+        {
+          "id": "ny:lewiston:0",
+          "prompt": "If Lewiston sends you a notice about dangerous refuse or litter on your property, how soon must you clean it up after you receive that notice?",
+          "choices": [
+            "10 days",
+            "24 hours",
+            "30 days",
+            "Until the next tax bill"
+          ],
+          "answer": "10 days",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Solid waste generally, Environmental Conservation Law § 27-0101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Authorized private receptacle means a solid waste storage collection receptacle as required and authorized by the\n               director of public works. Commercial premises means any privately owned lot and any dwelling, house, building or other structure\n               not included within the definition of private premises. Dump means a place used for the disposal and leaving of solid or liquid waste by the public\n               or by any person. Garbage means putrescible animal and vegetable wastes resulting from the handling, preparation,\n               cooking and consumption of food. Hazardous waste includes, but is not limited to, the following products and their empty containers:\n               insecticides, herbicides, petroleum products, caustic chemicals, paint, batteries,\n               explosives, infected materials. Hazardous wastes generally display one or more of\n               the qualities of ignitability, corrosivity, reactivity or toxicity. Litter means garbage, refuse, and rubbish as defined herein and all other waste materials\n               if thrown or deposited as herein prohibited, which tend to create a danger to public\n               health, safety and welfare. Nonrecyclables means that portion of the wastestream not included under recyclables, and not treated\n               separately as: (1) Hazardous waste under Environmental Conservation Law § 27-0903; (2) Source, special nuclear or by-product material as defined in the United States Atomic\n                  Energy Act of 1954; or (3) Low level radioactive waste as defined in Environmental Conservation Law § 29-0101. Nonrecyclables includes, but is…",
+          "sourceUrl": "https://library.municode.com/ny/lewiston/codes/code_of_ordinances?nodeId=CO_CH9GATRRE"
+        },
+        {
+          "id": "ny:lewiston:1",
+          "prompt": "If the village has to remove dangerous litter from your property, how can it collect the cost?",
+          "choices": [
+            "The actual cost plus 6% interest per year is added to your next tax bill",
+            "You get a separate invoice due in 90 days with no interest",
+            "The charge is waived if you recycle the following month",
+            "Only a criminal court can order you to pay"
+          ],
+          "answer": "The actual cost plus 6% interest per year is added to your next tax bill",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Solid waste generally, Environmental Conservation Law § 27-0101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Authorized private receptacle means a solid waste storage collection receptacle as required and authorized by the\n               director of public works. Commercial premises means any privately owned lot and any dwelling, house, building or other structure\n               not included within the definition of private premises. Dump means a place used for the disposal and leaving of solid or liquid waste by the public\n               or by any person. Garbage means putrescible animal and vegetable wastes resulting from the handling, preparation,\n               cooking and consumption of food. Hazardous waste includes, but is not limited to, the following products and their empty containers:\n               insecticides, herbicides, petroleum products, caustic chemicals, paint, batteries,\n               explosives, infected materials. Hazardous wastes generally display one or more of\n               the qualities of ignitability, corrosivity, reactivity or toxicity. Litter means garbage, refuse, and rubbish as defined herein and all other waste materials\n               if thrown or deposited as herein prohibited, which tend to create a danger to public\n               health, safety and welfare. Nonrecyclables means that portion of the wastestream not included under recyclables, and not treated\n               separately as: (1) Hazardous waste under Environmental Conservation Law § 27-0903; (2) Source, special nuclear or by-product material as defined in the United States Atomic\n                  Energy Act of 1954; or (3) Low level radioactive waste as defined in Environmental Conservation Law § 29-0101. Nonrecyclables includes, but is…",
+          "sourceUrl": "https://library.municode.com/ny/lewiston/codes/code_of_ordinances?nodeId=CO_CH9GATRRE"
+        },
+        {
+          "id": "ny:lewiston:2",
+          "prompt": "For a first offense under this garbage and litter chapter, the civil fine is not more than:",
+          "choices": [
+            "$10",
+            "$25",
+            "$100",
+            "$1,000"
+          ],
+          "answer": "$10",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Solid waste generally, Environmental Conservation Law § 27-0101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Authorized private receptacle means a solid waste storage collection receptacle as required and authorized by the\n               director of public works. Commercial premises means any privately owned lot and any dwelling, house, building or other structure\n               not included within the definition of private premises. Dump means a place used for the disposal and leaving of solid or liquid waste by the public\n               or by any person. Garbage means putrescible animal and vegetable wastes resulting from the handling, preparation,\n               cooking and consumption of food. Hazardous waste includes, but is not limited to, the following products and their empty containers:\n               insecticides, herbicides, petroleum products, caustic chemicals, paint, batteries,\n               explosives, infected materials. Hazardous wastes generally display one or more of\n               the qualities of ignitability, corrosivity, reactivity or toxicity. Litter means garbage, refuse, and rubbish as defined herein and all other waste materials\n               if thrown or deposited as herein prohibited, which tend to create a danger to public\n               health, safety and welfare. Nonrecyclables means that portion of the wastestream not included under recyclables, and not treated\n               separately as: (1) Hazardous waste under Environmental Conservation Law § 27-0903; (2) Source, special nuclear or by-product material as defined in the United States Atomic\n                  Energy Act of 1954; or (3) Low level radioactive waste as defined in Environmental Conservation Law § 29-0101. Nonrecyclables includes, but is…",
+          "sourceUrl": "https://library.municode.com/ny/lewiston/codes/code_of_ordinances?nodeId=CO_CH9GATRRE"
+        },
+        {
+          "id": "ny:lewiston:3",
+          "prompt": "Which of these does Lewiston list as hazardous waste, including empty containers?",
+          "choices": [
+            "Insecticides, paint, and batteries",
+            "Grass clippings and leaves",
+            "Newspapers and cardboard boxes",
+            "Only food scraps from cooking"
+          ],
+          "answer": "Insecticides, paint, and batteries",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Solid waste generally, Environmental Conservation Law § 27-0101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Authorized private receptacle means a solid waste storage collection receptacle as required and authorized by the\n               director of public works. Commercial premises means any privately owned lot and any dwelling, house, building or other structure\n               not included within the definition of private premises. Dump means a place used for the disposal and leaving of solid or liquid waste by the public\n               or by any person. Garbage means putrescible animal and vegetable wastes resulting from the handling, preparation,\n               cooking and consumption of food. Hazardous waste includes, but is not limited to, the following products and their empty containers:\n               insecticides, herbicides, petroleum products, caustic chemicals, paint, batteries,\n               explosives, infected materials. Hazardous wastes generally display one or more of\n               the qualities of ignitability, corrosivity, reactivity or toxicity. Litter means garbage, refuse, and rubbish as defined herein and all other waste materials\n               if thrown or deposited as herein prohibited, which tend to create a danger to public\n               health, safety and welfare. Nonrecyclables means that portion of the wastestream not included under recyclables, and not treated\n               separately as: (1) Hazardous waste under Environmental Conservation Law § 27-0903; (2) Source, special nuclear or by-product material as defined in the United States Atomic\n                  Energy Act of 1954; or (3) Low level radioactive waste as defined in Environmental Conservation Law § 29-0101. Nonrecyclables includes, but is…",
+          "sourceUrl": "https://library.municode.com/ny/lewiston/codes/code_of_ordinances?nodeId=CO_CH9GATRRE"
+        },
+        {
+          "id": "ny:lewiston:4",
+          "prompt": "If a litter or refuse violation keeps going without stopping, how does Lewiston count the offenses?",
+          "choices": [
+            "Each 24 hours is a separate offense",
+            "It counts as one offense no matter how long it lasts",
+            "A new offense starts only after a court date",
+            "Only weekdays count"
+          ],
+          "answer": "Each 24 hours is a separate offense",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Solid waste generally, Environmental Conservation Law § 27-0101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Authorized private receptacle means a solid waste storage collection receptacle as required and authorized by the\n               director of public works. Commercial premises means any privately owned lot and any dwelling, house, building or other structure\n               not included within the definition of private premises. Dump means a place used for the disposal and leaving of solid or liquid waste by the public\n               or by any person. Garbage means putrescible animal and vegetable wastes resulting from the handling, preparation,\n               cooking and consumption of food. Hazardous waste includes, but is not limited to, the following products and their empty containers:\n               insecticides, herbicides, petroleum products, caustic chemicals, paint, batteries,\n               explosives, infected materials. Hazardous wastes generally display one or more of\n               the qualities of ignitability, corrosivity, reactivity or toxicity. Litter means garbage, refuse, and rubbish as defined herein and all other waste materials\n               if thrown or deposited as herein prohibited, which tend to create a danger to public\n               health, safety and welfare. Nonrecyclables means that portion of the wastestream not included under recyclables, and not treated\n               separately as: (1) Hazardous waste under Environmental Conservation Law § 27-0903; (2) Source, special nuclear or by-product material as defined in the United States Atomic\n                  Energy Act of 1954; or (3) Low level radioactive waste as defined in Environmental Conservation Law § 29-0101. Nonrecyclables includes, but is…",
+          "sourceUrl": "https://library.municode.com/ny/lewiston/codes/code_of_ordinances?nodeId=CO_CH9GATRRE"
+        }
+      ]
+    },
+    {
+      "id": "orange-county",
+      "name": "Orange County",
+      "sourceIndex": "https://library.municode.com/ny/orange_county",
+      "questions": [
+        {
+          "id": "ny:orange-county:0",
+          "prompt": "How many people serve on Orange County’s Parks, Recreation and Conservation Board?",
+          "choices": [
+            "Five",
+            "Seven",
+            "Nine",
+            "Eleven"
+          ],
+          "answer": "Seven",
+          "excerpt": "There shall be a Department of Parks, Recreation and Conservation under the direction\n               of a Commissioner of Parks, Recreation and Conservation, who shall be appointed in\n               the manner and subject to the conditions prescribed in Section 12.01 of the Charter. He shall be directly responsible to, and serve at the pleasure of,\n               the County Executive.\n\nAmong his powers and duties, and in addition to those prescribed in Section 12.02 of the Charter, the Commissioner of Parks, Recreation and Conservation shall: (a) Oversee the construction, maintenance, supervision, repair, alteration and demolition\n                  of all County parks and recreational facilities; (b) Promote the use of recreational facilities within the County; (c) Promote and organize recreational activities within the County in cooperation with,\n                  and supplemental to, the recreational programs and services of the various local governments\n                  and districts within the County; (d) Assist such local governments and districts in acquiring and developing parks and\n                  recreational facilities; (e) Conduct recreational leadership training programs for personnel employed by local\n                  governments and districts within the County; (f) Cooperate with Federal and State agencies in the development of the County's recreational\n                  resources; and (g) Except as may otherwise be provided in the Charter or this Code, have all the powers\n                  and perform all the duties now or hereafter conferred or imposed upon him by law,\n                  together with such other and related duties required by the County Executive.\n\nThere shall be within the Department of Parks, Recreation and Conservation a Parks,\n               Recreation and Conservation Board consisting of seven members, who shall be appointed\n               by the County Executive. All members shall reside within the County and not more than\n…",
+          "sourceUrl": "https://library.municode.com/ny/orange_county/codes/code_of_ordinances?nodeId=PAIIORCOADCO_ART12DEPARECO"
+        },
+        {
+          "id": "ny:orange-county:1",
+          "prompt": "Who appoints the members of that board?",
+          "choices": [
+            "County voters",
+            "The County Legislature",
+            "The County Executive",
+            "The parks Commissioner"
+          ],
+          "answer": "The County Executive",
+          "excerpt": "There shall be a Department of Parks, Recreation and Conservation under the direction\n               of a Commissioner of Parks, Recreation and Conservation, who shall be appointed in\n               the manner and subject to the conditions prescribed in Section 12.01 of the Charter. He shall be directly responsible to, and serve at the pleasure of,\n               the County Executive.\n\nAmong his powers and duties, and in addition to those prescribed in Section 12.02 of the Charter, the Commissioner of Parks, Recreation and Conservation shall: (a) Oversee the construction, maintenance, supervision, repair, alteration and demolition\n                  of all County parks and recreational facilities; (b) Promote the use of recreational facilities within the County; (c) Promote and organize recreational activities within the County in cooperation with,\n                  and supplemental to, the recreational programs and services of the various local governments\n                  and districts within the County; (d) Assist such local governments and districts in acquiring and developing parks and\n                  recreational facilities; (e) Conduct recreational leadership training programs for personnel employed by local\n                  governments and districts within the County; (f) Cooperate with Federal and State agencies in the development of the County's recreational\n                  resources; and (g) Except as may otherwise be provided in the Charter or this Code, have all the powers\n                  and perform all the duties now or hereafter conferred or imposed upon him by law,\n                  together with such other and related duties required by the County Executive.\n\nThere shall be within the Department of Parks, Recreation and Conservation a Parks,\n               Recreation and Conservation Board consisting of seven members, who shall be appointed\n               by the County Executive. All members shall reside within the County and not more than\n…",
+          "sourceUrl": "https://library.municode.com/ny/orange_county/codes/code_of_ordinances?nodeId=PAIIORCOADCO_ART12DEPARECO"
+        },
+        {
+          "id": "ny:orange-county:2",
+          "prompt": "What is the limit on political parties for board members?",
+          "choices": [
+            "All members must be from different parties",
+            "No more than four members can be from the same party",
+            "Members cannot belong to a political party",
+            "There is no party limit"
+          ],
+          "answer": "No more than four members can be from the same party",
+          "excerpt": "There shall be a Department of Parks, Recreation and Conservation under the direction\n               of a Commissioner of Parks, Recreation and Conservation, who shall be appointed in\n               the manner and subject to the conditions prescribed in Section 12.01 of the Charter. He shall be directly responsible to, and serve at the pleasure of,\n               the County Executive.\n\nAmong his powers and duties, and in addition to those prescribed in Section 12.02 of the Charter, the Commissioner of Parks, Recreation and Conservation shall: (a) Oversee the construction, maintenance, supervision, repair, alteration and demolition\n                  of all County parks and recreational facilities; (b) Promote the use of recreational facilities within the County; (c) Promote and organize recreational activities within the County in cooperation with,\n                  and supplemental to, the recreational programs and services of the various local governments\n                  and districts within the County; (d) Assist such local governments and districts in acquiring and developing parks and\n                  recreational facilities; (e) Conduct recreational leadership training programs for personnel employed by local\n                  governments and districts within the County; (f) Cooperate with Federal and State agencies in the development of the County's recreational\n                  resources; and (g) Except as may otherwise be provided in the Charter or this Code, have all the powers\n                  and perform all the duties now or hereafter conferred or imposed upon him by law,\n                  together with such other and related duties required by the County Executive.\n\nThere shall be within the Department of Parks, Recreation and Conservation a Parks,\n               Recreation and Conservation Board consisting of seven members, who shall be appointed\n               by the County Executive. All members shall reside within the County and not more than\n…",
+          "sourceUrl": "https://library.municode.com/ny/orange_county/codes/code_of_ordinances?nodeId=PAIIORCOADCO_ART12DEPARECO"
+        },
+        {
+          "id": "ny:orange-county:3",
+          "prompt": "Do members of the parks board get paid a salary?",
+          "choices": [
+            "Yes, they are full-time county employees",
+            "They serve without pay, though the Legislature may repay actual expenses",
+            "They are paid only for meetings they attend",
+            "They receive a stipend from park fees"
+          ],
+          "answer": "They serve without pay, though the Legislature may repay actual expenses",
+          "excerpt": "There shall be a Department of Parks, Recreation and Conservation under the direction\n               of a Commissioner of Parks, Recreation and Conservation, who shall be appointed in\n               the manner and subject to the conditions prescribed in Section 12.01 of the Charter. He shall be directly responsible to, and serve at the pleasure of,\n               the County Executive.\n\nAmong his powers and duties, and in addition to those prescribed in Section 12.02 of the Charter, the Commissioner of Parks, Recreation and Conservation shall: (a) Oversee the construction, maintenance, supervision, repair, alteration and demolition\n                  of all County parks and recreational facilities; (b) Promote the use of recreational facilities within the County; (c) Promote and organize recreational activities within the County in cooperation with,\n                  and supplemental to, the recreational programs and services of the various local governments\n                  and districts within the County; (d) Assist such local governments and districts in acquiring and developing parks and\n                  recreational facilities; (e) Conduct recreational leadership training programs for personnel employed by local\n                  governments and districts within the County; (f) Cooperate with Federal and State agencies in the development of the County's recreational\n                  resources; and (g) Except as may otherwise be provided in the Charter or this Code, have all the powers\n                  and perform all the duties now or hereafter conferred or imposed upon him by law,\n                  together with such other and related duties required by the County Executive.\n\nThere shall be within the Department of Parks, Recreation and Conservation a Parks,\n               Recreation and Conservation Board consisting of seven members, who shall be appointed\n               by the County Executive. All members shall reside within the County and not more than\n…",
+          "sourceUrl": "https://library.municode.com/ny/orange_county/codes/code_of_ordinances?nodeId=PAIIORCOADCO_ART12DEPARECO"
+        },
+        {
+          "id": "ny:orange-county:4",
+          "prompt": "After the first round of appointments, how long is a regular term on the board?",
+          "choices": [
+            "One year",
+            "Two years",
+            "Three years",
+            "Seven years"
+          ],
+          "answer": "Three years",
+          "excerpt": "There shall be a Department of Parks, Recreation and Conservation under the direction\n               of a Commissioner of Parks, Recreation and Conservation, who shall be appointed in\n               the manner and subject to the conditions prescribed in Section 12.01 of the Charter. He shall be directly responsible to, and serve at the pleasure of,\n               the County Executive.\n\nAmong his powers and duties, and in addition to those prescribed in Section 12.02 of the Charter, the Commissioner of Parks, Recreation and Conservation shall: (a) Oversee the construction, maintenance, supervision, repair, alteration and demolition\n                  of all County parks and recreational facilities; (b) Promote the use of recreational facilities within the County; (c) Promote and organize recreational activities within the County in cooperation with,\n                  and supplemental to, the recreational programs and services of the various local governments\n                  and districts within the County; (d) Assist such local governments and districts in acquiring and developing parks and\n                  recreational facilities; (e) Conduct recreational leadership training programs for personnel employed by local\n                  governments and districts within the County; (f) Cooperate with Federal and State agencies in the development of the County's recreational\n                  resources; and (g) Except as may otherwise be provided in the Charter or this Code, have all the powers\n                  and perform all the duties now or hereafter conferred or imposed upon him by law,\n                  together with such other and related duties required by the County Executive.\n\nThere shall be within the Department of Parks, Recreation and Conservation a Parks,\n               Recreation and Conservation Board consisting of seven members, who shall be appointed\n               by the County Executive. All members shall reside within the County and not more than\n…",
+          "sourceUrl": "https://library.municode.com/ny/orange_county/codes/code_of_ordinances?nodeId=PAIIORCOADCO_ART12DEPARECO"
+        }
+      ]
+    },
+    {
+      "id": "rome",
+      "name": "Rome",
+      "sourceIndex": "https://library.municode.com/ny/rome",
+      "questions": [
+        {
+          "id": "ny:rome:0",
+          "prompt": "In Rome's corporation tax district, which animals are allowed to run at large?",
+          "choices": [
+            "Dogs",
+            "Cats",
+            "Horses",
+            "Goats"
+          ],
+          "answer": "Cats",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General city powers and powers of council, § 25 et seq.; general police powers of\n               city, § 25(15); power to regulate use of streets, sidewalks and public places by animals,\n               § 25(22). Cross reference— Environment, ch. 26; animals in public parks and squares, § 58-201. State Law reference— \"Animal\" defined, Agriculture and Markets Law, § 350; overdriving, torturing, injuring\n               animals, Agriculture and Markets Law, § 353; authority of police, Agriculture and\n               Markets Law, § 371; seizure of lost, strayed, abandoned, improperly kept animals,\n               Agriculture and Markets Law, § 373.\n\nFootnotes: --- ( 2 ) --- Charter reference— Corporation tax district, § 4. Cross reference— Taxation, ch. 66.\n\nNo owner, custodian or harborer of any animal, except cats, shall permit such animal\n               to run at large within the corporation tax district. (Code 1966, § 7-1)\n\nNo person shall keep cattle, horses, goats, sheep or other livestock on any land within\n               1,000 feet of any residence within the corporation tax district. (Code 1966, § 7-2)\n\nNo person shall keep, house, or maintain goats or sheep within the corporation tax\n               district, unless permitted in the zoning ordinance in appendix A to this Code. (Code 1966, § 7-3)\n\nNo person shall ride any horse in any street, alley or lane within the corporation\n               tax district faster than at the rate of ten miles per hour. (Code 1966, § 7-4)\n\nFootnotes: --- ( 3 ) --- Charter reference— Power to restrain the running at large of animals and fowl, § 25(35). State Law reference— Dog licenses, Agriculture and Markets Law, § 106 et seq.; seizure of dogs, Agriculture\n               and Markets Law, § 117; violations, Agriculture and Markets Law, § 118.\n\nThe purpose of this article shall be to promote the health, safety, morals and general\n               welfare of the city, including the protection…",
+          "sourceUrl": "https://library.municode.com/ny/rome/codes/code_of_ordinances?nodeId=PTIICICO_CH10AN"
+        },
+        {
+          "id": "ny:rome:1",
+          "prompt": "What is the speed limit for riding a horse on a street, alley, or lane in the corporation tax district?",
+          "choices": [
+            "5 miles per hour",
+            "10 miles per hour",
+            "15 miles per hour",
+            "There is no speed limit"
+          ],
+          "answer": "10 miles per hour",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General city powers and powers of council, § 25 et seq.; general police powers of\n               city, § 25(15); power to regulate use of streets, sidewalks and public places by animals,\n               § 25(22). Cross reference— Environment, ch. 26; animals in public parks and squares, § 58-201. State Law reference— \"Animal\" defined, Agriculture and Markets Law, § 350; overdriving, torturing, injuring\n               animals, Agriculture and Markets Law, § 353; authority of police, Agriculture and\n               Markets Law, § 371; seizure of lost, strayed, abandoned, improperly kept animals,\n               Agriculture and Markets Law, § 373.\n\nFootnotes: --- ( 2 ) --- Charter reference— Corporation tax district, § 4. Cross reference— Taxation, ch. 66.\n\nNo owner, custodian or harborer of any animal, except cats, shall permit such animal\n               to run at large within the corporation tax district. (Code 1966, § 7-1)\n\nNo person shall keep cattle, horses, goats, sheep or other livestock on any land within\n               1,000 feet of any residence within the corporation tax district. (Code 1966, § 7-2)\n\nNo person shall keep, house, or maintain goats or sheep within the corporation tax\n               district, unless permitted in the zoning ordinance in appendix A to this Code. (Code 1966, § 7-3)\n\nNo person shall ride any horse in any street, alley or lane within the corporation\n               tax district faster than at the rate of ten miles per hour. (Code 1966, § 7-4)\n\nFootnotes: --- ( 3 ) --- Charter reference— Power to restrain the running at large of animals and fowl, § 25(35). State Law reference— Dog licenses, Agriculture and Markets Law, § 106 et seq.; seizure of dogs, Agriculture\n               and Markets Law, § 117; violations, Agriculture and Markets Law, § 118.\n\nThe purpose of this article shall be to promote the health, safety, morals and general\n               welfare of the city, including the protection…",
+          "sourceUrl": "https://library.municode.com/ny/rome/codes/code_of_ordinances?nodeId=PTIICICO_CH10AN"
+        },
+        {
+          "id": "ny:rome:2",
+          "prompt": "Livestock such as cattle, horses, goats, or sheep cannot be kept on land within how many feet of a residence in the corporation tax district?",
+          "choices": [
+            "100 feet",
+            "500 feet",
+            "1,000 feet",
+            "2,000 feet"
+          ],
+          "answer": "1,000 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General city powers and powers of council, § 25 et seq.; general police powers of\n               city, § 25(15); power to regulate use of streets, sidewalks and public places by animals,\n               § 25(22). Cross reference— Environment, ch. 26; animals in public parks and squares, § 58-201. State Law reference— \"Animal\" defined, Agriculture and Markets Law, § 350; overdriving, torturing, injuring\n               animals, Agriculture and Markets Law, § 353; authority of police, Agriculture and\n               Markets Law, § 371; seizure of lost, strayed, abandoned, improperly kept animals,\n               Agriculture and Markets Law, § 373.\n\nFootnotes: --- ( 2 ) --- Charter reference— Corporation tax district, § 4. Cross reference— Taxation, ch. 66.\n\nNo owner, custodian or harborer of any animal, except cats, shall permit such animal\n               to run at large within the corporation tax district. (Code 1966, § 7-1)\n\nNo person shall keep cattle, horses, goats, sheep or other livestock on any land within\n               1,000 feet of any residence within the corporation tax district. (Code 1966, § 7-2)\n\nNo person shall keep, house, or maintain goats or sheep within the corporation tax\n               district, unless permitted in the zoning ordinance in appendix A to this Code. (Code 1966, § 7-3)\n\nNo person shall ride any horse in any street, alley or lane within the corporation\n               tax district faster than at the rate of ten miles per hour. (Code 1966, § 7-4)\n\nFootnotes: --- ( 3 ) --- Charter reference— Power to restrain the running at large of animals and fowl, § 25(35). State Law reference— Dog licenses, Agriculture and Markets Law, § 106 et seq.; seizure of dogs, Agriculture\n               and Markets Law, § 117; violations, Agriculture and Markets Law, § 118.\n\nThe purpose of this article shall be to promote the health, safety, morals and general\n               welfare of the city, including the protection…",
+          "sourceUrl": "https://library.municode.com/ny/rome/codes/code_of_ordinances?nodeId=PTIICICO_CH10AN"
+        },
+        {
+          "id": "ny:rome:3",
+          "prompt": "Keeping, housing, or maintaining goats or sheep in the corporation tax district is allowed only if:",
+          "choices": [
+            "You have a farm of any size",
+            "The zoning ordinance permits it",
+            "They stay inside a fenced yard",
+            "They are licensed like dogs"
+          ],
+          "answer": "The zoning ordinance permits it",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General city powers and powers of council, § 25 et seq.; general police powers of\n               city, § 25(15); power to regulate use of streets, sidewalks and public places by animals,\n               § 25(22). Cross reference— Environment, ch. 26; animals in public parks and squares, § 58-201. State Law reference— \"Animal\" defined, Agriculture and Markets Law, § 350; overdriving, torturing, injuring\n               animals, Agriculture and Markets Law, § 353; authority of police, Agriculture and\n               Markets Law, § 371; seizure of lost, strayed, abandoned, improperly kept animals,\n               Agriculture and Markets Law, § 373.\n\nFootnotes: --- ( 2 ) --- Charter reference— Corporation tax district, § 4. Cross reference— Taxation, ch. 66.\n\nNo owner, custodian or harborer of any animal, except cats, shall permit such animal\n               to run at large within the corporation tax district. (Code 1966, § 7-1)\n\nNo person shall keep cattle, horses, goats, sheep or other livestock on any land within\n               1,000 feet of any residence within the corporation tax district. (Code 1966, § 7-2)\n\nNo person shall keep, house, or maintain goats or sheep within the corporation tax\n               district, unless permitted in the zoning ordinance in appendix A to this Code. (Code 1966, § 7-3)\n\nNo person shall ride any horse in any street, alley or lane within the corporation\n               tax district faster than at the rate of ten miles per hour. (Code 1966, § 7-4)\n\nFootnotes: --- ( 3 ) --- Charter reference— Power to restrain the running at large of animals and fowl, § 25(35). State Law reference— Dog licenses, Agriculture and Markets Law, § 106 et seq.; seizure of dogs, Agriculture\n               and Markets Law, § 117; violations, Agriculture and Markets Law, § 118.\n\nThe purpose of this article shall be to promote the health, safety, morals and general\n               welfare of the city, including the protection…",
+          "sourceUrl": "https://library.municode.com/ny/rome/codes/code_of_ordinances?nodeId=PTIICICO_CH10AN"
+        },
+        {
+          "id": "ny:rome:4",
+          "prompt": "A dog is under restraint in Rome if it is controlled by a leash no longer than:",
+          "choices": [
+            "4 feet",
+            "6 feet",
+            "8 feet",
+            "12 feet"
+          ],
+          "answer": "8 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General city powers and powers of council, § 25 et seq.; general police powers of\n               city, § 25(15); power to regulate use of streets, sidewalks and public places by animals,\n               § 25(22). Cross reference— Environment, ch. 26; animals in public parks and squares, § 58-201. State Law reference— \"Animal\" defined, Agriculture and Markets Law, § 350; overdriving, torturing, injuring\n               animals, Agriculture and Markets Law, § 353; authority of police, Agriculture and\n               Markets Law, § 371; seizure of lost, strayed, abandoned, improperly kept animals,\n               Agriculture and Markets Law, § 373.\n\nFootnotes: --- ( 2 ) --- Charter reference— Corporation tax district, § 4. Cross reference— Taxation, ch. 66.\n\nNo owner, custodian or harborer of any animal, except cats, shall permit such animal\n               to run at large within the corporation tax district. (Code 1966, § 7-1)\n\nNo person shall keep cattle, horses, goats, sheep or other livestock on any land within\n               1,000 feet of any residence within the corporation tax district. (Code 1966, § 7-2)\n\nNo person shall keep, house, or maintain goats or sheep within the corporation tax\n               district, unless permitted in the zoning ordinance in appendix A to this Code. (Code 1966, § 7-3)\n\nNo person shall ride any horse in any street, alley or lane within the corporation\n               tax district faster than at the rate of ten miles per hour. (Code 1966, § 7-4)\n\nFootnotes: --- ( 3 ) --- Charter reference— Power to restrain the running at large of animals and fowl, § 25(35). State Law reference— Dog licenses, Agriculture and Markets Law, § 106 et seq.; seizure of dogs, Agriculture\n               and Markets Law, § 117; violations, Agriculture and Markets Law, § 118.\n\nThe purpose of this article shall be to promote the health, safety, morals and general\n               welfare of the city, including the protection…",
+          "sourceUrl": "https://library.municode.com/ny/rome/codes/code_of_ordinances?nodeId=PTIICICO_CH10AN"
+        }
+      ]
+    },
+    {
+      "id": "syracuse",
+      "name": "Syracuse",
+      "sourceIndex": "https://library.municode.com/ny/syracuse",
+      "questions": [
+        {
+          "id": "ny:syracuse:0",
+          "prompt": "When Syracuse adopted its Revised General Ordinances in 1961, which older city rules were kept and not repealed?",
+          "choices": [
+            "Rules for municipal parking facilities and the fees to use them",
+            "A requirement to print the full code in the council’s yearly proceedings book",
+            "Every general ordinance that existed on January 1, 1961, even if it was left out of the new book"
+          ],
+          "answer": "Rules for municipal parking facilities and the fees to use them",
+          "excerpt": "AN ORDINANCE ADOPTING A REVISION AND CODIFICATION OF THE GENERAL ORDINANCES OF THE\n            CITY OF SYRACUSE, IN THE COUNTY OF ONONDAGA, NEW YORK, PROVIDING FOR THE REPEAL OF\n            CERTAIN GENERAL ORDINANCES NOT INCLUDED THEREIN AND THE SAVING FROM REPEAL OF CERTAIN\n            OTHER GENERAL ORDINANCES NOT INCLUDED THEREIN, AND FOR OTHER PURPOSES RELATING THERETO\n            AND CONNECTED THEREWITH. Whereas, the Common Council of the City of Syracuse, in the County of Onondaga, State of New\n            York (hereinafter referred to as the \"Common Council\") has caused certain of its general\n            ordinances to be compiled and revised and the same embodied in a revision and codification\n            thereof known as \"Revised General Ordinances of the City of Syracuse—1961.\" Now, Therefore, Be It Ordained, by the Common Council of the City of Syracuse, New\n               York, as follows: Section 1. The general ordinances of the city of Syracuse as embraced and codified in the following\n            chapters, namely, chapters 1 to 26, both inclusive, therein designated \"Revised General\n            Ordinances of the City of Syracuse—1961\" annexed hereto and before this common council\n            on the adoption hereof, are hereby ordained as general ordinances and are adopted\n            as \"Revised General Ordinances of the City of Syracuse—1961.\" The printing of such\n            \"Revised General Ordinances of the City of Syracuse—1961\" embracing chapters 1 to\n            26, both inclusive in the annual book of proceedings of the common council is hereby\n            dispensed with pursuant to the provisions of Local Law No. 16 adopted by the Common\n            Council September 25, 1961 and now in effect. Section 2. All the provisions of the \"Revised General Ordinances of the City of Syracuse—1961\"\n            shall be in force and effect on and after the effective date of this ordinance as\n            provided in section 6 hereof. Section 3. All general…",
+          "sourceUrl": "https://library.municode.com/ny/syracuse/codes/code_of_ordinances?nodeId=PTOREGEORSY1961"
+        },
+        {
+          "id": "ny:syracuse:1",
+          "prompt": "Syracuse’s 1961 update left standing the city’s older ordinances and fees for which public recreation spots?",
+          "choices": [
+            "Municipal skating rinks, golf courses, parks, and playgrounds",
+            "Private country clubs only",
+            "County-owned lakes outside city limits"
+          ],
+          "answer": "Municipal skating rinks, golf courses, parks, and playgrounds",
+          "excerpt": "AN ORDINANCE ADOPTING A REVISION AND CODIFICATION OF THE GENERAL ORDINANCES OF THE\n            CITY OF SYRACUSE, IN THE COUNTY OF ONONDAGA, NEW YORK, PROVIDING FOR THE REPEAL OF\n            CERTAIN GENERAL ORDINANCES NOT INCLUDED THEREIN AND THE SAVING FROM REPEAL OF CERTAIN\n            OTHER GENERAL ORDINANCES NOT INCLUDED THEREIN, AND FOR OTHER PURPOSES RELATING THERETO\n            AND CONNECTED THEREWITH. Whereas, the Common Council of the City of Syracuse, in the County of Onondaga, State of New\n            York (hereinafter referred to as the \"Common Council\") has caused certain of its general\n            ordinances to be compiled and revised and the same embodied in a revision and codification\n            thereof known as \"Revised General Ordinances of the City of Syracuse—1961.\" Now, Therefore, Be It Ordained, by the Common Council of the City of Syracuse, New\n               York, as follows: Section 1. The general ordinances of the city of Syracuse as embraced and codified in the following\n            chapters, namely, chapters 1 to 26, both inclusive, therein designated \"Revised General\n            Ordinances of the City of Syracuse—1961\" annexed hereto and before this common council\n            on the adoption hereof, are hereby ordained as general ordinances and are adopted\n            as \"Revised General Ordinances of the City of Syracuse—1961.\" The printing of such\n            \"Revised General Ordinances of the City of Syracuse—1961\" embracing chapters 1 to\n            26, both inclusive in the annual book of proceedings of the common council is hereby\n            dispensed with pursuant to the provisions of Local Law No. 16 adopted by the Common\n            Council September 25, 1961 and now in effect. Section 2. All the provisions of the \"Revised General Ordinances of the City of Syracuse—1961\"\n            shall be in force and effect on and after the effective date of this ordinance as\n            provided in section 6 hereof. Section 3. All general…",
+          "sourceUrl": "https://library.municode.com/ny/syracuse/codes/code_of_ordinances?nodeId=PTOREGEORSY1961"
+        },
+        {
+          "id": "ny:syracuse:2",
+          "prompt": "The city saved from repeal its ordinance that uses New York state law to fight which tree problem?",
+          "choices": [
+            "Dutch Elm Disease",
+            "Chestnut blight",
+            "Emerald ash borer"
+          ],
+          "answer": "Dutch Elm Disease",
+          "excerpt": "AN ORDINANCE ADOPTING A REVISION AND CODIFICATION OF THE GENERAL ORDINANCES OF THE\n            CITY OF SYRACUSE, IN THE COUNTY OF ONONDAGA, NEW YORK, PROVIDING FOR THE REPEAL OF\n            CERTAIN GENERAL ORDINANCES NOT INCLUDED THEREIN AND THE SAVING FROM REPEAL OF CERTAIN\n            OTHER GENERAL ORDINANCES NOT INCLUDED THEREIN, AND FOR OTHER PURPOSES RELATING THERETO\n            AND CONNECTED THEREWITH. Whereas, the Common Council of the City of Syracuse, in the County of Onondaga, State of New\n            York (hereinafter referred to as the \"Common Council\") has caused certain of its general\n            ordinances to be compiled and revised and the same embodied in a revision and codification\n            thereof known as \"Revised General Ordinances of the City of Syracuse—1961.\" Now, Therefore, Be It Ordained, by the Common Council of the City of Syracuse, New\n               York, as follows: Section 1. The general ordinances of the city of Syracuse as embraced and codified in the following\n            chapters, namely, chapters 1 to 26, both inclusive, therein designated \"Revised General\n            Ordinances of the City of Syracuse—1961\" annexed hereto and before this common council\n            on the adoption hereof, are hereby ordained as general ordinances and are adopted\n            as \"Revised General Ordinances of the City of Syracuse—1961.\" The printing of such\n            \"Revised General Ordinances of the City of Syracuse—1961\" embracing chapters 1 to\n            26, both inclusive in the annual book of proceedings of the common council is hereby\n            dispensed with pursuant to the provisions of Local Law No. 16 adopted by the Common\n            Council September 25, 1961 and now in effect. Section 2. All the provisions of the \"Revised General Ordinances of the City of Syracuse—1961\"\n            shall be in force and effect on and after the effective date of this ordinance as\n            provided in section 6 hereof. Section 3. All general…",
+          "sourceUrl": "https://library.municode.com/ny/syracuse/codes/code_of_ordinances?nodeId=PTOREGEORSY1961"
+        },
+        {
+          "id": "ny:syracuse:3",
+          "prompt": "Syracuse kept its 1930 Building Code, including 1949 additions that covered which of these?",
+          "choices": [
+            "Advertising signs and outdoor display structures",
+            "Residential snow-shoveling duties",
+            "Rules for backyard chickens"
+          ],
+          "answer": "Advertising signs and outdoor display structures",
+          "excerpt": "AN ORDINANCE ADOPTING A REVISION AND CODIFICATION OF THE GENERAL ORDINANCES OF THE\n            CITY OF SYRACUSE, IN THE COUNTY OF ONONDAGA, NEW YORK, PROVIDING FOR THE REPEAL OF\n            CERTAIN GENERAL ORDINANCES NOT INCLUDED THEREIN AND THE SAVING FROM REPEAL OF CERTAIN\n            OTHER GENERAL ORDINANCES NOT INCLUDED THEREIN, AND FOR OTHER PURPOSES RELATING THERETO\n            AND CONNECTED THEREWITH. Whereas, the Common Council of the City of Syracuse, in the County of Onondaga, State of New\n            York (hereinafter referred to as the \"Common Council\") has caused certain of its general\n            ordinances to be compiled and revised and the same embodied in a revision and codification\n            thereof known as \"Revised General Ordinances of the City of Syracuse—1961.\" Now, Therefore, Be It Ordained, by the Common Council of the City of Syracuse, New\n               York, as follows: Section 1. The general ordinances of the city of Syracuse as embraced and codified in the following\n            chapters, namely, chapters 1 to 26, both inclusive, therein designated \"Revised General\n            Ordinances of the City of Syracuse—1961\" annexed hereto and before this common council\n            on the adoption hereof, are hereby ordained as general ordinances and are adopted\n            as \"Revised General Ordinances of the City of Syracuse—1961.\" The printing of such\n            \"Revised General Ordinances of the City of Syracuse—1961\" embracing chapters 1 to\n            26, both inclusive in the annual book of proceedings of the common council is hereby\n            dispensed with pursuant to the provisions of Local Law No. 16 adopted by the Common\n            Council September 25, 1961 and now in effect. Section 2. All the provisions of the \"Revised General Ordinances of the City of Syracuse—1961\"\n            shall be in force and effect on and after the effective date of this ordinance as\n            provided in section 6 hereof. Section 3. All general…",
+          "sourceUrl": "https://library.municode.com/ny/syracuse/codes/code_of_ordinances?nodeId=PTOREGEORSY1961"
+        }
+      ]
+    },
+    {
+      "id": "tonawanda",
+      "name": "Tonawanda",
+      "sourceIndex": "https://library.municode.com/ny/tonawanda",
+      "questions": [
+        {
+          "id": "ny:tonawanda:0",
+          "prompt": "How many dogs four months old or older can you keep in a single-family house in Tonawanda?",
+          "choices": [
+            "One",
+            "Two",
+            "Three",
+            "There is no limit"
+          ],
+          "answer": "Three",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Environment, ch. 26; hunting in parks, § 42-42; horses in parks, § 42-44; feeding of wild waterfowl in Niawanda Park, § 42-52; tying animals to trees, § 70-72; keeping livestock or fowl, § 82-441. State Law reference— Authority to legislate for the public peace, health, safety and welfare, General City\n               Law § 20(13); rabies control, Public Health Law § 2140 et seq.; cruelty to animals\n               and related offenses, Agriculture and Markets Law § 350 et seq.\n\nExcept as stated in this article, violations of this article are punishable as provided\n               in section 1-7 .\n\nNo person shall permit or suffer any animal to run at large or to be pastured or herded\n               in or upon any of the streets, lanes or public places within the city. (Code 1989, § 78-1) Cross reference— Streets, sidewalks and other public places, ch. 54 .\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs in parks, § 42-41. State Law reference— Dogs generally, Agriculture and Markets Law § 106 et seq.; local dog control ordinance,\n               Agriculture and Markets Law § 124.\n\n(a) Except as provided in subsection (b) of this section, violations of this article are\n               punishable as provided in section 1-7 . (b) Except as otherwise provided by Agriculture and Markets Law § 119, violations of section 10-37 (a) are punishable by a civil penalty as provided in Agriculture and Markets Law §\n               119(2). (Code 1989, § 145-9)\n\nThe purpose and intent of this article shall be to preserve the public peace and the\n               good order in the city and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the city by declaring\n               and enforcing certain regulations and restrictions on the activities of dogs and owners\n               of dogs within the city. (Code 1989, § 145-1)\n\n(a) All dogs within the City of…",
+          "sourceUrl": "https://library.municode.com/ny/tonawanda/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN"
+        },
+        {
+          "id": "ny:tonawanda:1",
+          "prompt": "How many dogs four months old or older can you keep in one unit of a multiple-dwelling building?",
+          "choices": [
+            "One",
+            "Two",
+            "Three",
+            "The same number as in a house"
+          ],
+          "answer": "Two",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Environment, ch. 26; hunting in parks, § 42-42; horses in parks, § 42-44; feeding of wild waterfowl in Niawanda Park, § 42-52; tying animals to trees, § 70-72; keeping livestock or fowl, § 82-441. State Law reference— Authority to legislate for the public peace, health, safety and welfare, General City\n               Law § 20(13); rabies control, Public Health Law § 2140 et seq.; cruelty to animals\n               and related offenses, Agriculture and Markets Law § 350 et seq.\n\nExcept as stated in this article, violations of this article are punishable as provided\n               in section 1-7 .\n\nNo person shall permit or suffer any animal to run at large or to be pastured or herded\n               in or upon any of the streets, lanes or public places within the city. (Code 1989, § 78-1) Cross reference— Streets, sidewalks and other public places, ch. 54 .\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs in parks, § 42-41. State Law reference— Dogs generally, Agriculture and Markets Law § 106 et seq.; local dog control ordinance,\n               Agriculture and Markets Law § 124.\n\n(a) Except as provided in subsection (b) of this section, violations of this article are\n               punishable as provided in section 1-7 . (b) Except as otherwise provided by Agriculture and Markets Law § 119, violations of section 10-37 (a) are punishable by a civil penalty as provided in Agriculture and Markets Law §\n               119(2). (Code 1989, § 145-9)\n\nThe purpose and intent of this article shall be to preserve the public peace and the\n               good order in the city and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the city by declaring\n               and enforcing certain regulations and restrictions on the activities of dogs and owners\n               of dogs within the city. (Code 1989, § 145-1)\n\n(a) All dogs within the City of…",
+          "sourceUrl": "https://library.municode.com/ny/tonawanda/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN"
+        },
+        {
+          "id": "ny:tonawanda:2",
+          "prompt": "If your dog is out in public, how long may the leash be?",
+          "choices": [
+            "No longer than six feet",
+            "No longer than nine feet",
+            "No longer than fifteen feet",
+            "Any length as long as you control the dog"
+          ],
+          "answer": "No longer than nine feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Environment, ch. 26; hunting in parks, § 42-42; horses in parks, § 42-44; feeding of wild waterfowl in Niawanda Park, § 42-52; tying animals to trees, § 70-72; keeping livestock or fowl, § 82-441. State Law reference— Authority to legislate for the public peace, health, safety and welfare, General City\n               Law § 20(13); rabies control, Public Health Law § 2140 et seq.; cruelty to animals\n               and related offenses, Agriculture and Markets Law § 350 et seq.\n\nExcept as stated in this article, violations of this article are punishable as provided\n               in section 1-7 .\n\nNo person shall permit or suffer any animal to run at large or to be pastured or herded\n               in or upon any of the streets, lanes or public places within the city. (Code 1989, § 78-1) Cross reference— Streets, sidewalks and other public places, ch. 54 .\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs in parks, § 42-41. State Law reference— Dogs generally, Agriculture and Markets Law § 106 et seq.; local dog control ordinance,\n               Agriculture and Markets Law § 124.\n\n(a) Except as provided in subsection (b) of this section, violations of this article are\n               punishable as provided in section 1-7 . (b) Except as otherwise provided by Agriculture and Markets Law § 119, violations of section 10-37 (a) are punishable by a civil penalty as provided in Agriculture and Markets Law §\n               119(2). (Code 1989, § 145-9)\n\nThe purpose and intent of this article shall be to preserve the public peace and the\n               good order in the city and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the city by declaring\n               and enforcing certain regulations and restrictions on the activities of dogs and owners\n               of dogs within the city. (Code 1989, § 145-1)\n\n(a) All dogs within the City of…",
+          "sourceUrl": "https://library.municode.com/ny/tonawanda/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN"
+        },
+        {
+          "id": "ny:tonawanda:3",
+          "prompt": "Can you take a dog, even on a leash, onto a city ballfield, playground, or park?",
+          "choices": [
+            "Yes, if the dog is licensed",
+            "Yes, if you pick up after it",
+            "No",
+            "Only before 8 a.m."
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Environment, ch. 26; hunting in parks, § 42-42; horses in parks, § 42-44; feeding of wild waterfowl in Niawanda Park, § 42-52; tying animals to trees, § 70-72; keeping livestock or fowl, § 82-441. State Law reference— Authority to legislate for the public peace, health, safety and welfare, General City\n               Law § 20(13); rabies control, Public Health Law § 2140 et seq.; cruelty to animals\n               and related offenses, Agriculture and Markets Law § 350 et seq.\n\nExcept as stated in this article, violations of this article are punishable as provided\n               in section 1-7 .\n\nNo person shall permit or suffer any animal to run at large or to be pastured or herded\n               in or upon any of the streets, lanes or public places within the city. (Code 1989, § 78-1) Cross reference— Streets, sidewalks and other public places, ch. 54 .\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs in parks, § 42-41. State Law reference— Dogs generally, Agriculture and Markets Law § 106 et seq.; local dog control ordinance,\n               Agriculture and Markets Law § 124.\n\n(a) Except as provided in subsection (b) of this section, violations of this article are\n               punishable as provided in section 1-7 . (b) Except as otherwise provided by Agriculture and Markets Law § 119, violations of section 10-37 (a) are punishable by a civil penalty as provided in Agriculture and Markets Law §\n               119(2). (Code 1989, § 145-9)\n\nThe purpose and intent of this article shall be to preserve the public peace and the\n               good order in the city and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the city by declaring\n               and enforcing certain regulations and restrictions on the activities of dogs and owners\n               of dogs within the city. (Code 1989, § 145-1)\n\n(a) All dogs within the City of…",
+          "sourceUrl": "https://library.municode.com/ny/tonawanda/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN"
+        },
+        {
+          "id": "ny:tonawanda:4",
+          "prompt": "Are dogs allowed at Canal Fest, the Farmer's Market, or Food Truck Thursdays?",
+          "choices": [
+            "Yes, if they stay on a short leash",
+            "Yes, if they are licensed",
+            "No",
+            "Only small dogs"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Environment, ch. 26; hunting in parks, § 42-42; horses in parks, § 42-44; feeding of wild waterfowl in Niawanda Park, § 42-52; tying animals to trees, § 70-72; keeping livestock or fowl, § 82-441. State Law reference— Authority to legislate for the public peace, health, safety and welfare, General City\n               Law § 20(13); rabies control, Public Health Law § 2140 et seq.; cruelty to animals\n               and related offenses, Agriculture and Markets Law § 350 et seq.\n\nExcept as stated in this article, violations of this article are punishable as provided\n               in section 1-7 .\n\nNo person shall permit or suffer any animal to run at large or to be pastured or herded\n               in or upon any of the streets, lanes or public places within the city. (Code 1989, § 78-1) Cross reference— Streets, sidewalks and other public places, ch. 54 .\n\nFootnotes: --- ( 2 ) --- Cross reference— Dogs in parks, § 42-41. State Law reference— Dogs generally, Agriculture and Markets Law § 106 et seq.; local dog control ordinance,\n               Agriculture and Markets Law § 124.\n\n(a) Except as provided in subsection (b) of this section, violations of this article are\n               punishable as provided in section 1-7 . (b) Except as otherwise provided by Agriculture and Markets Law § 119, violations of section 10-37 (a) are punishable by a civil penalty as provided in Agriculture and Markets Law §\n               119(2). (Code 1989, § 145-9)\n\nThe purpose and intent of this article shall be to preserve the public peace and the\n               good order in the city and to contribute to the public welfare and the preservation\n               and protection of the property and the person of the inhabitants of the city by declaring\n               and enforcing certain regulations and restrictions on the activities of dogs and owners\n               of dogs within the city. (Code 1989, § 145-1)\n\n(a) All dogs within the City of…",
+          "sourceUrl": "https://library.municode.com/ny/tonawanda/codes/code_of_ordinances?nodeId=PTIICOOR_CH10AN"
+        }
+      ]
+    },
+    {
+      "id": "upper-nyack",
+      "name": "Upper Nyack",
+      "sourceIndex": "https://library.municode.com/ny/upper_nyack",
+      "questions": [
+        {
+          "id": "ny:upper-nyack:0",
+          "prompt": "Who was Mayor of Upper Nyack when this village code book was published?",
+          "choices": [
+            "Karen Tarapata",
+            "Georgia Grandstaff",
+            "R. Michael Esmay",
+            "Alyce A. Whitson"
+          ],
+          "answer": "Karen Tarapata",
+          "excerpt": "____________ Published in 2024 by Order of the Mayor and Village Board of Trustees ____________\n\n____________ Karen Tarapata Mayor ____________ R. Michael Esmay Deputy Mayor ____________ Alison Crowther Jeffrey Epstein Kennon Rothchild III Village Board of Trustees ____________ Georgia Grandstaff Village Clerk\n\nThis Code constitutes a recodification of the general and permanent local laws of\n            the Village of Upper Nyack, New York. Source materials used in the preparation of the Code were the 1965 Code, as supplemented\n            through June 6, 2016, and local laws subsequently adopted by the board of trustees.\n            The source of each section is included in the history note appearing in parentheses\n            at the end thereof. The absence of such a note indicates that the section is new and\n            was adopted for the first time with the adoption of the Code. By use of the comparative\n            tables appearing in the back of this Code, the reader can locate any section of the\n            1965 Code, as supplemented, and any subsequent local laws included herein. Acknowledgments This publication was under the direct supervision of Alyce A. Whitson, Senior Code\n            Attorney, Julie E. Lovelace, Code Department Director, and Stephanie Benesh, Editor,\n            of CivicPlus, LLC, Tallahassee, Florida. Credit is gratefully given to the other members\n            of the publisher's staff for their sincere interest and able assistance throughout\n            the project. The publisher is most grateful to Mayor Karen Tarapata and Georgia Grandstaff, Village\n            Clerk, for their cooperation and assistance during the progress of the work on this\n            publication. It is hoped that their efforts and those of the publisher have resulted\n            in a Code of Local Laws which will make the active law of the village readily accessible\n            to all citizens and which will be a valuable tool in the day-to-day administration\n…",
+          "sourceUrl": "https://library.municode.com/ny/upper_nyack/codes/code_of_ordinances?nodeId=COVIUPNYNEYO"
+        },
+        {
+          "id": "ny:upper-nyack:1",
+          "prompt": "In what year was Upper Nyack’s recodified code of local laws published?",
+          "choices": [
+            "1965",
+            "2016",
+            "2024"
+          ],
+          "answer": "2024",
+          "excerpt": "____________ Published in 2024 by Order of the Mayor and Village Board of Trustees ____________\n\n____________ Karen Tarapata Mayor ____________ R. Michael Esmay Deputy Mayor ____________ Alison Crowther Jeffrey Epstein Kennon Rothchild III Village Board of Trustees ____________ Georgia Grandstaff Village Clerk\n\nThis Code constitutes a recodification of the general and permanent local laws of\n            the Village of Upper Nyack, New York. Source materials used in the preparation of the Code were the 1965 Code, as supplemented\n            through June 6, 2016, and local laws subsequently adopted by the board of trustees.\n            The source of each section is included in the history note appearing in parentheses\n            at the end thereof. The absence of such a note indicates that the section is new and\n            was adopted for the first time with the adoption of the Code. By use of the comparative\n            tables appearing in the back of this Code, the reader can locate any section of the\n            1965 Code, as supplemented, and any subsequent local laws included herein. Acknowledgments This publication was under the direct supervision of Alyce A. Whitson, Senior Code\n            Attorney, Julie E. Lovelace, Code Department Director, and Stephanie Benesh, Editor,\n            of CivicPlus, LLC, Tallahassee, Florida. Credit is gratefully given to the other members\n            of the publisher's staff for their sincere interest and able assistance throughout\n            the project. The publisher is most grateful to Mayor Karen Tarapata and Georgia Grandstaff, Village\n            Clerk, for their cooperation and assistance during the progress of the work on this\n            publication. It is hoped that their efforts and those of the publisher have resulted\n            in a Code of Local Laws which will make the active law of the village readily accessible\n            to all citizens and which will be a valuable tool in the day-to-day administration\n…",
+          "sourceUrl": "https://library.municode.com/ny/upper_nyack/codes/code_of_ordinances?nodeId=COVIUPNYNEYO"
+        },
+        {
+          "id": "ny:upper-nyack:2",
+          "prompt": "This code recodifies village laws that started with a code from which year?",
+          "choices": [
+            "1965",
+            "2016",
+            "2024"
+          ],
+          "answer": "1965",
+          "excerpt": "____________ Published in 2024 by Order of the Mayor and Village Board of Trustees ____________\n\n____________ Karen Tarapata Mayor ____________ R. Michael Esmay Deputy Mayor ____________ Alison Crowther Jeffrey Epstein Kennon Rothchild III Village Board of Trustees ____________ Georgia Grandstaff Village Clerk\n\nThis Code constitutes a recodification of the general and permanent local laws of\n            the Village of Upper Nyack, New York. Source materials used in the preparation of the Code were the 1965 Code, as supplemented\n            through June 6, 2016, and local laws subsequently adopted by the board of trustees.\n            The source of each section is included in the history note appearing in parentheses\n            at the end thereof. The absence of such a note indicates that the section is new and\n            was adopted for the first time with the adoption of the Code. By use of the comparative\n            tables appearing in the back of this Code, the reader can locate any section of the\n            1965 Code, as supplemented, and any subsequent local laws included herein. Acknowledgments This publication was under the direct supervision of Alyce A. Whitson, Senior Code\n            Attorney, Julie E. Lovelace, Code Department Director, and Stephanie Benesh, Editor,\n            of CivicPlus, LLC, Tallahassee, Florida. Credit is gratefully given to the other members\n            of the publisher's staff for their sincere interest and able assistance throughout\n            the project. The publisher is most grateful to Mayor Karen Tarapata and Georgia Grandstaff, Village\n            Clerk, for their cooperation and assistance during the progress of the work on this\n            publication. It is hoped that their efforts and those of the publisher have resulted\n            in a Code of Local Laws which will make the active law of the village readily accessible\n            to all citizens and which will be a valuable tool in the day-to-day administration\n…",
+          "sourceUrl": "https://library.municode.com/ny/upper_nyack/codes/code_of_ordinances?nodeId=COVIUPNYNEYO"
+        },
+        {
+          "id": "ny:upper-nyack:3",
+          "prompt": "Who is named as Village Clerk in the opening pages of the code?",
+          "choices": [
+            "Georgia Grandstaff",
+            "Karen Tarapata",
+            "Julie E. Lovelace",
+            "Kennon Rothchild III"
+          ],
+          "answer": "Georgia Grandstaff",
+          "excerpt": "____________ Published in 2024 by Order of the Mayor and Village Board of Trustees ____________\n\n____________ Karen Tarapata Mayor ____________ R. Michael Esmay Deputy Mayor ____________ Alison Crowther Jeffrey Epstein Kennon Rothchild III Village Board of Trustees ____________ Georgia Grandstaff Village Clerk\n\nThis Code constitutes a recodification of the general and permanent local laws of\n            the Village of Upper Nyack, New York. Source materials used in the preparation of the Code were the 1965 Code, as supplemented\n            through June 6, 2016, and local laws subsequently adopted by the board of trustees.\n            The source of each section is included in the history note appearing in parentheses\n            at the end thereof. The absence of such a note indicates that the section is new and\n            was adopted for the first time with the adoption of the Code. By use of the comparative\n            tables appearing in the back of this Code, the reader can locate any section of the\n            1965 Code, as supplemented, and any subsequent local laws included herein. Acknowledgments This publication was under the direct supervision of Alyce A. Whitson, Senior Code\n            Attorney, Julie E. Lovelace, Code Department Director, and Stephanie Benesh, Editor,\n            of CivicPlus, LLC, Tallahassee, Florida. Credit is gratefully given to the other members\n            of the publisher's staff for their sincere interest and able assistance throughout\n            the project. The publisher is most grateful to Mayor Karen Tarapata and Georgia Grandstaff, Village\n            Clerk, for their cooperation and assistance during the progress of the work on this\n            publication. It is hoped that their efforts and those of the publisher have resulted\n            in a Code of Local Laws which will make the active law of the village readily accessible\n            to all citizens and which will be a valuable tool in the day-to-day administration\n…",
+          "sourceUrl": "https://library.municode.com/ny/upper_nyack/codes/code_of_ordinances?nodeId=COVIUPNYNEYO"
+        },
+        {
+          "id": "ny:upper-nyack:4",
+          "prompt": "If a section of the Upper Nyack code has no history note at the end, what does that mean?",
+          "choices": [
+            "The section is new and was first adopted with this Code",
+            "The section came from the 1965 Code",
+            "The section is copied from state law",
+            "The section has been taken out"
+          ],
+          "answer": "The section is new and was first adopted with this Code",
+          "excerpt": "____________ Published in 2024 by Order of the Mayor and Village Board of Trustees ____________\n\n____________ Karen Tarapata Mayor ____________ R. Michael Esmay Deputy Mayor ____________ Alison Crowther Jeffrey Epstein Kennon Rothchild III Village Board of Trustees ____________ Georgia Grandstaff Village Clerk\n\nThis Code constitutes a recodification of the general and permanent local laws of\n            the Village of Upper Nyack, New York. Source materials used in the preparation of the Code were the 1965 Code, as supplemented\n            through June 6, 2016, and local laws subsequently adopted by the board of trustees.\n            The source of each section is included in the history note appearing in parentheses\n            at the end thereof. The absence of such a note indicates that the section is new and\n            was adopted for the first time with the adoption of the Code. By use of the comparative\n            tables appearing in the back of this Code, the reader can locate any section of the\n            1965 Code, as supplemented, and any subsequent local laws included herein. Acknowledgments This publication was under the direct supervision of Alyce A. Whitson, Senior Code\n            Attorney, Julie E. Lovelace, Code Department Director, and Stephanie Benesh, Editor,\n            of CivicPlus, LLC, Tallahassee, Florida. Credit is gratefully given to the other members\n            of the publisher's staff for their sincere interest and able assistance throughout\n            the project. The publisher is most grateful to Mayor Karen Tarapata and Georgia Grandstaff, Village\n            Clerk, for their cooperation and assistance during the progress of the work on this\n            publication. It is hoped that their efforts and those of the publisher have resulted\n            in a Code of Local Laws which will make the active law of the village readily accessible\n            to all citizens and which will be a valuable tool in the day-to-day administration\n…",
+          "sourceUrl": "https://library.municode.com/ny/upper_nyack/codes/code_of_ordinances?nodeId=COVIUPNYNEYO"
+        }
+      ]
+    },
+    {
+      "id": "vestal",
+      "name": "Vestal",
+      "sourceIndex": "https://library.municode.com/ny/vestal",
+      "questions": [
+        {
+          "id": "ny:vestal:0",
+          "prompt": "When is a dog considered “at large” in Vestal?",
+          "choices": [
+            "When it is not wearing a license tag",
+            "When it is unleashed, untethered, or unconfined on public property or on someone else’s private property without permission",
+            "When it is left in a fenced yard",
+            "When it is a hunting dog with its owner on unposted land"
+          ],
+          "answer": "When it is unleashed, untethered, or unconfined on public property or on someone else’s private property without permission",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— L.L. No. 2 of 2024, § 1, adopted July 10, 2024, repealed the former Ch. 4, §§ 4-1—4-52,\n               and enacted a new Ch. 4 as set out herein. The former Ch. 4 pertained to similar subject\n               matter and derived from L.L. No. 3 of 1992, §§ 1, 2; L.L. No. 8 of 2010. Cross reference— Nuisances, Ch. 15; animals in parks, §§ 16-38-16-40. State Law reference— Authority to regulate animals, Town Law, § 130(10); Municipal Home Rule Law, § 10(2.).\n\nThe Town of Vestal, in the interest of protecting the public health, safety, and welfare,\n               finds it advisable to regulate and control the conduct, keeping and care of dogs and\n               certain other animals, livestock and fowl, and provide for the orderly and uniform\n               administration of the dog licensing provisions, does hereby adopt the following animal\n               control ordinance. ( LL No. 2 of 2024 , § 1; L.L. No. 1 of 2025 , § 1)\n\nAll terms not specifically defined herein shall have the meaning assigned to such\n               terms within Section 118 of the Agriculture and Markets Law of the State of New York. The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animals means all types of creatures including, but not limited to, horses, cats, dogs, rabbits,\n               mules, donkeys, monkeys, goats, fowl of all types, swine, cattle, rodents, reptiles,\n               snakes and insects. At large means any dog that is unleashed, untethered, or unconfined, and on property open\n               to the public or is on private property not owned or leased by the owner of the dog\n               unless permission for such presence has been obtained. No dog shall be deemed to be\n               at large if it is: (1) A police work dog in use for police work or other animal used…",
+          "sourceUrl": "https://library.municode.com/ny/vestal/codes/code_of_ordinances?nodeId=CD_ORD_CH4AN"
+        },
+        {
+          "id": "ny:vestal:1",
+          "prompt": "If a person under 18 owns a dog that violates Vestal’s animal rules, who does the town treat as the owner?",
+          "choices": [
+            "The teenager who owns the dog",
+            "The parent, guardian, or head of the household",
+            "Whoever last walked the dog",
+            "The dog control officer"
+          ],
+          "answer": "The parent, guardian, or head of the household",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— L.L. No. 2 of 2024, § 1, adopted July 10, 2024, repealed the former Ch. 4, §§ 4-1—4-52,\n               and enacted a new Ch. 4 as set out herein. The former Ch. 4 pertained to similar subject\n               matter and derived from L.L. No. 3 of 1992, §§ 1, 2; L.L. No. 8 of 2010. Cross reference— Nuisances, Ch. 15; animals in parks, §§ 16-38-16-40. State Law reference— Authority to regulate animals, Town Law, § 130(10); Municipal Home Rule Law, § 10(2.).\n\nThe Town of Vestal, in the interest of protecting the public health, safety, and welfare,\n               finds it advisable to regulate and control the conduct, keeping and care of dogs and\n               certain other animals, livestock and fowl, and provide for the orderly and uniform\n               administration of the dog licensing provisions, does hereby adopt the following animal\n               control ordinance. ( LL No. 2 of 2024 , § 1; L.L. No. 1 of 2025 , § 1)\n\nAll terms not specifically defined herein shall have the meaning assigned to such\n               terms within Section 118 of the Agriculture and Markets Law of the State of New York. The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animals means all types of creatures including, but not limited to, horses, cats, dogs, rabbits,\n               mules, donkeys, monkeys, goats, fowl of all types, swine, cattle, rodents, reptiles,\n               snakes and insects. At large means any dog that is unleashed, untethered, or unconfined, and on property open\n               to the public or is on private property not owned or leased by the owner of the dog\n               unless permission for such presence has been obtained. No dog shall be deemed to be\n               at large if it is: (1) A police work dog in use for police work or other animal used…",
+          "sourceUrl": "https://library.municode.com/ny/vestal/codes/code_of_ordinances?nodeId=CD_ORD_CH4AN"
+        },
+        {
+          "id": "ny:vestal:2",
+          "prompt": "Does Vestal’s animal control ordinance apply to a licensed veterinarian or a hospital they run?",
+          "choices": [
+            "Yes, the same rules apply to everyone",
+            "No, it does not apply to licensed veterinarians or hospitals they run or supervise",
+            "Only if they keep animals overnight",
+            "Only for dogs, not other animals"
+          ],
+          "answer": "No, it does not apply to licensed veterinarians or hospitals they run or supervise",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— L.L. No. 2 of 2024, § 1, adopted July 10, 2024, repealed the former Ch. 4, §§ 4-1—4-52,\n               and enacted a new Ch. 4 as set out herein. The former Ch. 4 pertained to similar subject\n               matter and derived from L.L. No. 3 of 1992, §§ 1, 2; L.L. No. 8 of 2010. Cross reference— Nuisances, Ch. 15; animals in parks, §§ 16-38-16-40. State Law reference— Authority to regulate animals, Town Law, § 130(10); Municipal Home Rule Law, § 10(2.).\n\nThe Town of Vestal, in the interest of protecting the public health, safety, and welfare,\n               finds it advisable to regulate and control the conduct, keeping and care of dogs and\n               certain other animals, livestock and fowl, and provide for the orderly and uniform\n               administration of the dog licensing provisions, does hereby adopt the following animal\n               control ordinance. ( LL No. 2 of 2024 , § 1; L.L. No. 1 of 2025 , § 1)\n\nAll terms not specifically defined herein shall have the meaning assigned to such\n               terms within Section 118 of the Agriculture and Markets Law of the State of New York. The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animals means all types of creatures including, but not limited to, horses, cats, dogs, rabbits,\n               mules, donkeys, monkeys, goats, fowl of all types, swine, cattle, rodents, reptiles,\n               snakes and insects. At large means any dog that is unleashed, untethered, or unconfined, and on property open\n               to the public or is on private property not owned or leased by the owner of the dog\n               unless permission for such presence has been obtained. No dog shall be deemed to be\n               at large if it is: (1) A police work dog in use for police work or other animal used…",
+          "sourceUrl": "https://library.municode.com/ny/vestal/codes/code_of_ordinances?nodeId=CD_ORD_CH4AN"
+        },
+        {
+          "id": "ny:vestal:3",
+          "prompt": "If a recorded deed restriction (restrictive covenant) limits animals on a property, how does that affect Vestal’s animal ordinance?",
+          "choices": [
+            "The deed restriction replaces the town rules",
+            "The town cannot enforce its animal rules if a covenant exists",
+            "The covenant does not limit or affect enforcement of the town’s animal ordinance",
+            "You only have to follow whichever rule is stricter"
+          ],
+          "answer": "The covenant does not limit or affect enforcement of the town’s animal ordinance",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— L.L. No. 2 of 2024, § 1, adopted July 10, 2024, repealed the former Ch. 4, §§ 4-1—4-52,\n               and enacted a new Ch. 4 as set out herein. The former Ch. 4 pertained to similar subject\n               matter and derived from L.L. No. 3 of 1992, §§ 1, 2; L.L. No. 8 of 2010. Cross reference— Nuisances, Ch. 15; animals in parks, §§ 16-38-16-40. State Law reference— Authority to regulate animals, Town Law, § 130(10); Municipal Home Rule Law, § 10(2.).\n\nThe Town of Vestal, in the interest of protecting the public health, safety, and welfare,\n               finds it advisable to regulate and control the conduct, keeping and care of dogs and\n               certain other animals, livestock and fowl, and provide for the orderly and uniform\n               administration of the dog licensing provisions, does hereby adopt the following animal\n               control ordinance. ( LL No. 2 of 2024 , § 1; L.L. No. 1 of 2025 , § 1)\n\nAll terms not specifically defined herein shall have the meaning assigned to such\n               terms within Section 118 of the Agriculture and Markets Law of the State of New York. The following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animals means all types of creatures including, but not limited to, horses, cats, dogs, rabbits,\n               mules, donkeys, monkeys, goats, fowl of all types, swine, cattle, rodents, reptiles,\n               snakes and insects. At large means any dog that is unleashed, untethered, or unconfined, and on property open\n               to the public or is on private property not owned or leased by the owner of the dog\n               unless permission for such presence has been obtained. No dog shall be deemed to be\n               at large if it is: (1) A police work dog in use for police work or other animal used…",
+          "sourceUrl": "https://library.municode.com/ny/vestal/codes/code_of_ordinances?nodeId=CD_ORD_CH4AN"
+        }
+      ]
+    },
+    {
+      "id": "westchester-county",
+      "name": "Westchester County",
+      "sourceIndex": "https://library.municode.com/ny/westchester_county",
+      "questions": [
+        {
+          "id": "ny:westchester-county:0",
+          "prompt": "If your new building will front on a county road, who must the town building inspector notify?",
+          "choices": [
+            "The county superintendent of highways or commissioner of public works",
+            "The New York State Thruway Authority",
+            "The local fire department only",
+            "No one outside the town"
+          ],
+          "answer": "The county superintendent of highways or commissioner of public works",
+          "excerpt": "Foreword The present trend of rapidly increased population of our county and the accent on\n            suburban shopping has resulted in a major problem for our county road system. Developments\n            and subdivisions have sprung up almost overnight and with them the inevitable gas\n            stations, hopping centers, amusement areas and other myriad interests that go along\n            with a growing community. The inevitable problems thereby generated include the necessity\n            of caring for increased traffic, drainage, safety of pedestrians and motorists, zoning,\n            building ordinances, etc. These problems have been the subject of a great deal of\n            study by municipal officials, planning boards and others, and it is their concern\n            for the future that prompted the enactment into Law, effective April 14, 1958, of\n            the new Section 239-k of the General Municipal Law (Chapter 740 of the Laws of 1958)\n            that appears on the following pages. The authorizing legislation states that the county's\n            regulations shall be in consideration of: \"the prospective character of the development\n            (or building), the traffic which it will generate, the effect of said traffic upon\n            existing County Roads … the design and frequency of access, the effect, … upon drainage\n            as related to the county drainage system, and the extent to which such development\n            may impair the safety and traffic-carrying capacity of the county roads affected.\"\n            These rules and regulations are issued pursuant to the above-cited legislation and\n            are designed to furnish information and promulgate standards governing the issuance\n            of approvals for building construction affecting the county road system. Extract from \"County Official Map Act\", Chapter 740, Laws of 1958 (Sections 239-g\n            to 239-k, inclusive, Article 12-B, General Municipal Law) Sec. 239-k.…",
+          "sourceUrl": "https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIORRUREDEPUWO"
+        },
+        {
+          "id": "ny:westchester-county:1",
+          "prompt": "After the town notifies the county about a building permit on a county road, how soon must the county send its report?",
+          "choices": [
+            "Within 10 days",
+            "Within 30 days",
+            "Within 60 days",
+            "Whenever it is ready"
+          ],
+          "answer": "Within 10 days",
+          "excerpt": "Foreword The present trend of rapidly increased population of our county and the accent on\n            suburban shopping has resulted in a major problem for our county road system. Developments\n            and subdivisions have sprung up almost overnight and with them the inevitable gas\n            stations, hopping centers, amusement areas and other myriad interests that go along\n            with a growing community. The inevitable problems thereby generated include the necessity\n            of caring for increased traffic, drainage, safety of pedestrians and motorists, zoning,\n            building ordinances, etc. These problems have been the subject of a great deal of\n            study by municipal officials, planning boards and others, and it is their concern\n            for the future that prompted the enactment into Law, effective April 14, 1958, of\n            the new Section 239-k of the General Municipal Law (Chapter 740 of the Laws of 1958)\n            that appears on the following pages. The authorizing legislation states that the county's\n            regulations shall be in consideration of: \"the prospective character of the development\n            (or building), the traffic which it will generate, the effect of said traffic upon\n            existing County Roads … the design and frequency of access, the effect, … upon drainage\n            as related to the county drainage system, and the extent to which such development\n            may impair the safety and traffic-carrying capacity of the county roads affected.\"\n            These rules and regulations are issued pursuant to the above-cited legislation and\n            are designed to furnish information and promulgate standards governing the issuance\n            of approvals for building construction affecting the county road system. Extract from \"County Official Map Act\", Chapter 740, Laws of 1958 (Sections 239-g\n            to 239-k, inclusive, Article 12-B, General Municipal Law) Sec. 239-k.…",
+          "sourceUrl": "https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIORRUREDEPUWO"
+        },
+        {
+          "id": "ny:westchester-county:2",
+          "prompt": "If the county misses its 10-day deadline to report on a building permit, what happens?",
+          "choices": [
+            "The county loses the right to hold up the permit",
+            "The building permit is automatically denied",
+            "The town must wait another 10 days",
+            "The applicant has to start over"
+          ],
+          "answer": "The county loses the right to hold up the permit",
+          "excerpt": "Foreword The present trend of rapidly increased population of our county and the accent on\n            suburban shopping has resulted in a major problem for our county road system. Developments\n            and subdivisions have sprung up almost overnight and with them the inevitable gas\n            stations, hopping centers, amusement areas and other myriad interests that go along\n            with a growing community. The inevitable problems thereby generated include the necessity\n            of caring for increased traffic, drainage, safety of pedestrians and motorists, zoning,\n            building ordinances, etc. These problems have been the subject of a great deal of\n            study by municipal officials, planning boards and others, and it is their concern\n            for the future that prompted the enactment into Law, effective April 14, 1958, of\n            the new Section 239-k of the General Municipal Law (Chapter 740 of the Laws of 1958)\n            that appears on the following pages. The authorizing legislation states that the county's\n            regulations shall be in consideration of: \"the prospective character of the development\n            (or building), the traffic which it will generate, the effect of said traffic upon\n            existing County Roads … the design and frequency of access, the effect, … upon drainage\n            as related to the county drainage system, and the extent to which such development\n            may impair the safety and traffic-carrying capacity of the county roads affected.\"\n            These rules and regulations are issued pursuant to the above-cited legislation and\n            are designed to furnish information and promulgate standards governing the issuance\n            of approvals for building construction affecting the county road system. Extract from \"County Official Map Act\", Chapter 740, Laws of 1958 (Sections 239-g\n            to 239-k, inclusive, Article 12-B, General Municipal Law) Sec. 239-k.…",
+          "sourceUrl": "https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIORRUREDEPUWO"
+        },
+        {
+          "id": "ny:westchester-county:3",
+          "prompt": "On an application for a building on a county road, how should you describe where the property sits?",
+          "choices": [
+            "Which side of the road it is on and how far from the nearest intersection",
+            "Only the official road name",
+            "The color of the nearest house",
+            "The school district name"
+          ],
+          "answer": "Which side of the road it is on and how far from the nearest intersection",
+          "excerpt": "Foreword The present trend of rapidly increased population of our county and the accent on\n            suburban shopping has resulted in a major problem for our county road system. Developments\n            and subdivisions have sprung up almost overnight and with them the inevitable gas\n            stations, hopping centers, amusement areas and other myriad interests that go along\n            with a growing community. The inevitable problems thereby generated include the necessity\n            of caring for increased traffic, drainage, safety of pedestrians and motorists, zoning,\n            building ordinances, etc. These problems have been the subject of a great deal of\n            study by municipal officials, planning boards and others, and it is their concern\n            for the future that prompted the enactment into Law, effective April 14, 1958, of\n            the new Section 239-k of the General Municipal Law (Chapter 740 of the Laws of 1958)\n            that appears on the following pages. The authorizing legislation states that the county's\n            regulations shall be in consideration of: \"the prospective character of the development\n            (or building), the traffic which it will generate, the effect of said traffic upon\n            existing County Roads … the design and frequency of access, the effect, … upon drainage\n            as related to the county drainage system, and the extent to which such development\n            may impair the safety and traffic-carrying capacity of the county roads affected.\"\n            These rules and regulations are issued pursuant to the above-cited legislation and\n            are designed to furnish information and promulgate standards governing the issuance\n            of approvals for building construction affecting the county road system. Extract from \"County Official Map Act\", Chapter 740, Laws of 1958 (Sections 239-g\n            to 239-k, inclusive, Article 12-B, General Municipal Law) Sec. 239-k.…",
+          "sourceUrl": "https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIORRUREDEPUWO"
+        },
+        {
+          "id": "ny:westchester-county:4",
+          "prompt": "How long does the county planning board have to report on a subdivision that affects a county road?",
+          "choices": [
+            "30 days",
+            "10 days",
+            "15 days",
+            "There is no deadline"
+          ],
+          "answer": "30 days",
+          "excerpt": "Foreword The present trend of rapidly increased population of our county and the accent on\n            suburban shopping has resulted in a major problem for our county road system. Developments\n            and subdivisions have sprung up almost overnight and with them the inevitable gas\n            stations, hopping centers, amusement areas and other myriad interests that go along\n            with a growing community. The inevitable problems thereby generated include the necessity\n            of caring for increased traffic, drainage, safety of pedestrians and motorists, zoning,\n            building ordinances, etc. These problems have been the subject of a great deal of\n            study by municipal officials, planning boards and others, and it is their concern\n            for the future that prompted the enactment into Law, effective April 14, 1958, of\n            the new Section 239-k of the General Municipal Law (Chapter 740 of the Laws of 1958)\n            that appears on the following pages. The authorizing legislation states that the county's\n            regulations shall be in consideration of: \"the prospective character of the development\n            (or building), the traffic which it will generate, the effect of said traffic upon\n            existing County Roads … the design and frequency of access, the effect, … upon drainage\n            as related to the county drainage system, and the extent to which such development\n            may impair the safety and traffic-carrying capacity of the county roads affected.\"\n            These rules and regulations are issued pursuant to the above-cited legislation and\n            are designed to furnish information and promulgate standards governing the issuance\n            of approvals for building construction affecting the county road system. Extract from \"County Official Map Act\", Chapter 740, Laws of 1958 (Sections 239-g\n            to 239-k, inclusive, Article 12-B, General Municipal Law) Sec. 239-k.…",
+          "sourceUrl": "https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIORRUREDEPUWO"
+        }
+      ]
+    },
+    {
+      "id": "white-plains",
+      "name": "White Plains",
+      "sourceIndex": "https://library.municode.com/ny/white_plains",
+      "questions": [
+        {
+          "id": "ny:white-plains:0",
+          "prompt": "May you ride a bicycle on a public sidewalk in White Plains?",
+          "choices": [
+            "Yes, if you yield to people walking",
+            "No. Riding a bicycle on any public sidewalk is not allowed",
+            "Only in residential neighborhoods",
+            "Only during daylight hours"
+          ],
+          "answer": "No. Riding a bicycle on any public sidewalk is not allowed",
+          "excerpt": "CHAPTER 8-1 GENERAL PROVISIONS 8-2 TRAFFIC ORDINANCE OF THE CITY OF WHITE PLAINS 8-3 BICYCLES 8-4 PARADES 8-5 VISUAL OBSTRUCTIONS 8-6 WRECKERS AND TOWING OF VEHICLES 8-7 TRAFFIC CONTROL PHOTO VIOLATION MONITORING SYSTEM Footnotes: --- ( 1 ) --- Cross reference— Ambulances, Ch. 4-2; residential zone commercial vehicle parking restrictions, Ch. 4-12; licensing and regulation of taxicabs, Ch. 4-15; fowl running at large, § 5-2-1; livestock running at large, § 5-2-2; driving vehicles on closed streets, § 7-2-2; skateboards or playing ball on streets, § 7-2-3.\n\nEditor's note— An ordinance adopted Jan. 3, 1995, § 1, repealed § 8-1-1, highway safety committee,\n               derived from an ordinance adopted Aug. 5, 1968, §§ 1—3.\n\n(a) The city court of the City of White Plains is hereby authorized to establish a traffic\n               violations bureau to assist the court in the disposition of offenses in relation to\n               traffic violations. (b) The bureau is hereby authorized to dispose of violations of traffic laws, ordinances,\n               rules and regulations when such offenses shall not constitute the traffic infraction\n               known as speeding or a misdemeanor or felony, by permitting a person charged with\n               an offense within the limitations stated in section 371 of the General Municipal Law\n               to answer within ten (10) days at the traffic violations bureau either in person or\n               by written power of attorney in substantially the form prescribed in this section\n               by paying a prescribed fine and in writing waiving a hearing in court, pleading guilty\n               to the charge and authorizing the person in charge of the bureau to make such a plea\n               and pay such a fine in court. (c) Such power of attorney shall be in substantially the following form: \"I, the undersigned, hereby waive a hearing in the city court of The City of White\n               Plains, New York and plead guilty to…",
+          "sourceUrl": "https://library.municode.com/ny/white_plains/codes/code_of_ordinances?nodeId=TITVIIITRSTRE"
+        },
+        {
+          "id": "ny:white-plains:1",
+          "prompt": "While riding a bicycle, may you grab onto a car or other vehicle in the street?",
+          "choices": [
+            "Yes, if you match the vehicle's speed",
+            "No. You may not attach yourself or your bicycle to any vehicle on the roadway",
+            "Only when going uphill"
+          ],
+          "answer": "No. You may not attach yourself or your bicycle to any vehicle on the roadway",
+          "excerpt": "CHAPTER 8-1 GENERAL PROVISIONS 8-2 TRAFFIC ORDINANCE OF THE CITY OF WHITE PLAINS 8-3 BICYCLES 8-4 PARADES 8-5 VISUAL OBSTRUCTIONS 8-6 WRECKERS AND TOWING OF VEHICLES 8-7 TRAFFIC CONTROL PHOTO VIOLATION MONITORING SYSTEM Footnotes: --- ( 1 ) --- Cross reference— Ambulances, Ch. 4-2; residential zone commercial vehicle parking restrictions, Ch. 4-12; licensing and regulation of taxicabs, Ch. 4-15; fowl running at large, § 5-2-1; livestock running at large, § 5-2-2; driving vehicles on closed streets, § 7-2-2; skateboards or playing ball on streets, § 7-2-3.\n\nEditor's note— An ordinance adopted Jan. 3, 1995, § 1, repealed § 8-1-1, highway safety committee,\n               derived from an ordinance adopted Aug. 5, 1968, §§ 1—3.\n\n(a) The city court of the City of White Plains is hereby authorized to establish a traffic\n               violations bureau to assist the court in the disposition of offenses in relation to\n               traffic violations. (b) The bureau is hereby authorized to dispose of violations of traffic laws, ordinances,\n               rules and regulations when such offenses shall not constitute the traffic infraction\n               known as speeding or a misdemeanor or felony, by permitting a person charged with\n               an offense within the limitations stated in section 371 of the General Municipal Law\n               to answer within ten (10) days at the traffic violations bureau either in person or\n               by written power of attorney in substantially the form prescribed in this section\n               by paying a prescribed fine and in writing waiving a hearing in court, pleading guilty\n               to the charge and authorizing the person in charge of the bureau to make such a plea\n               and pay such a fine in court. (c) Such power of attorney shall be in substantially the following form: \"I, the undersigned, hereby waive a hearing in the city court of The City of White\n               Plains, New York and plead guilty to…",
+          "sourceUrl": "https://library.municode.com/ny/white_plains/codes/code_of_ordinances?nodeId=TITVIIITRSTRE"
+        },
+        {
+          "id": "ny:white-plains:2",
+          "prompt": "If a usable bicycle path is next to the street, where must you ride?",
+          "choices": [
+            "You may use either the path or the street",
+            "You must use the bicycle path and stay off the roadway",
+            "You must ride in the street so cars can see you"
+          ],
+          "answer": "You must use the bicycle path and stay off the roadway",
+          "excerpt": "CHAPTER 8-1 GENERAL PROVISIONS 8-2 TRAFFIC ORDINANCE OF THE CITY OF WHITE PLAINS 8-3 BICYCLES 8-4 PARADES 8-5 VISUAL OBSTRUCTIONS 8-6 WRECKERS AND TOWING OF VEHICLES 8-7 TRAFFIC CONTROL PHOTO VIOLATION MONITORING SYSTEM Footnotes: --- ( 1 ) --- Cross reference— Ambulances, Ch. 4-2; residential zone commercial vehicle parking restrictions, Ch. 4-12; licensing and regulation of taxicabs, Ch. 4-15; fowl running at large, § 5-2-1; livestock running at large, § 5-2-2; driving vehicles on closed streets, § 7-2-2; skateboards or playing ball on streets, § 7-2-3.\n\nEditor's note— An ordinance adopted Jan. 3, 1995, § 1, repealed § 8-1-1, highway safety committee,\n               derived from an ordinance adopted Aug. 5, 1968, §§ 1—3.\n\n(a) The city court of the City of White Plains is hereby authorized to establish a traffic\n               violations bureau to assist the court in the disposition of offenses in relation to\n               traffic violations. (b) The bureau is hereby authorized to dispose of violations of traffic laws, ordinances,\n               rules and regulations when such offenses shall not constitute the traffic infraction\n               known as speeding or a misdemeanor or felony, by permitting a person charged with\n               an offense within the limitations stated in section 371 of the General Municipal Law\n               to answer within ten (10) days at the traffic violations bureau either in person or\n               by written power of attorney in substantially the form prescribed in this section\n               by paying a prescribed fine and in writing waiving a hearing in court, pleading guilty\n               to the charge and authorizing the person in charge of the bureau to make such a plea\n               and pay such a fine in court. (c) Such power of attorney shall be in substantially the following form: \"I, the undersigned, hereby waive a hearing in the city court of The City of White\n               Plains, New York and plead guilty to…",
+          "sourceUrl": "https://library.municode.com/ny/white_plains/codes/code_of_ordinances?nodeId=TITVIIITRSTRE"
+        },
+        {
+          "id": "ny:white-plains:3",
+          "prompt": "When carrying a bag or package on a bicycle, what is required?",
+          "choices": [
+            "You must keep at least one hand on the handlebars",
+            "You may ride with no hands if the package is small",
+            "Packages are not allowed on bicycles"
+          ],
+          "answer": "You must keep at least one hand on the handlebars",
+          "excerpt": "CHAPTER 8-1 GENERAL PROVISIONS 8-2 TRAFFIC ORDINANCE OF THE CITY OF WHITE PLAINS 8-3 BICYCLES 8-4 PARADES 8-5 VISUAL OBSTRUCTIONS 8-6 WRECKERS AND TOWING OF VEHICLES 8-7 TRAFFIC CONTROL PHOTO VIOLATION MONITORING SYSTEM Footnotes: --- ( 1 ) --- Cross reference— Ambulances, Ch. 4-2; residential zone commercial vehicle parking restrictions, Ch. 4-12; licensing and regulation of taxicabs, Ch. 4-15; fowl running at large, § 5-2-1; livestock running at large, § 5-2-2; driving vehicles on closed streets, § 7-2-2; skateboards or playing ball on streets, § 7-2-3.\n\nEditor's note— An ordinance adopted Jan. 3, 1995, § 1, repealed § 8-1-1, highway safety committee,\n               derived from an ordinance adopted Aug. 5, 1968, §§ 1—3.\n\n(a) The city court of the City of White Plains is hereby authorized to establish a traffic\n               violations bureau to assist the court in the disposition of offenses in relation to\n               traffic violations. (b) The bureau is hereby authorized to dispose of violations of traffic laws, ordinances,\n               rules and regulations when such offenses shall not constitute the traffic infraction\n               known as speeding or a misdemeanor or felony, by permitting a person charged with\n               an offense within the limitations stated in section 371 of the General Municipal Law\n               to answer within ten (10) days at the traffic violations bureau either in person or\n               by written power of attorney in substantially the form prescribed in this section\n               by paying a prescribed fine and in writing waiving a hearing in court, pleading guilty\n               to the charge and authorizing the person in charge of the bureau to make such a plea\n               and pay such a fine in court. (c) Such power of attorney shall be in substantially the following form: \"I, the undersigned, hereby waive a hearing in the city court of The City of White\n               Plains, New York and plead guilty to…",
+          "sourceUrl": "https://library.municode.com/ny/white_plains/codes/code_of_ordinances?nodeId=TITVIIITRSTRE"
+        },
+        {
+          "id": "ny:white-plains:4",
+          "prompt": "If you get a traffic ticket that is not for speeding and is not a crime, how long do you have to go to the traffic violations bureau?",
+          "choices": [
+            "5 days",
+            "10 days",
+            "15 days",
+            "30 days"
+          ],
+          "answer": "10 days",
+          "excerpt": "CHAPTER 8-1 GENERAL PROVISIONS 8-2 TRAFFIC ORDINANCE OF THE CITY OF WHITE PLAINS 8-3 BICYCLES 8-4 PARADES 8-5 VISUAL OBSTRUCTIONS 8-6 WRECKERS AND TOWING OF VEHICLES 8-7 TRAFFIC CONTROL PHOTO VIOLATION MONITORING SYSTEM Footnotes: --- ( 1 ) --- Cross reference— Ambulances, Ch. 4-2; residential zone commercial vehicle parking restrictions, Ch. 4-12; licensing and regulation of taxicabs, Ch. 4-15; fowl running at large, § 5-2-1; livestock running at large, § 5-2-2; driving vehicles on closed streets, § 7-2-2; skateboards or playing ball on streets, § 7-2-3.\n\nEditor's note— An ordinance adopted Jan. 3, 1995, § 1, repealed § 8-1-1, highway safety committee,\n               derived from an ordinance adopted Aug. 5, 1968, §§ 1—3.\n\n(a) The city court of the City of White Plains is hereby authorized to establish a traffic\n               violations bureau to assist the court in the disposition of offenses in relation to\n               traffic violations. (b) The bureau is hereby authorized to dispose of violations of traffic laws, ordinances,\n               rules and regulations when such offenses shall not constitute the traffic infraction\n               known as speeding or a misdemeanor or felony, by permitting a person charged with\n               an offense within the limitations stated in section 371 of the General Municipal Law\n               to answer within ten (10) days at the traffic violations bureau either in person or\n               by written power of attorney in substantially the form prescribed in this section\n               by paying a prescribed fine and in writing waiving a hearing in court, pleading guilty\n               to the charge and authorizing the person in charge of the bureau to make such a plea\n               and pay such a fine in court. (c) Such power of attorney shall be in substantially the following form: \"I, the undersigned, hereby waive a hearing in the city court of The City of White\n               Plains, New York and plead guilty to…",
+          "sourceUrl": "https://library.municode.com/ny/white_plains/codes/code_of_ordinances?nodeId=TITVIIITRSTRE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "state": "wv",
+  "stateName": "West Virginia",
+  "places": [
+    {
+      "id": "beckley",
+      "name": "Beckley",
+      "sourceIndex": "https://library.municode.com/wv/beckley",
+      "questions": [
+        {
+          "id": "wv:beckley:0",
+          "prompt": "Beckley designates the entire city as which of the following?",
+          "choices": [
+            "A bird sanctuary",
+            "A hunting preserve",
+            "An off-leash animal zone",
+            "A livestock-free zone"
+          ],
+          "answer": "A bird sanctuary",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to regulate, § 21(31). Cross reference— Applicability of traffic regulations to riders of animals and drivers of animal-drawn\n               vehicles, § 14-7; wrongfully seeking to release animal in custody of city officer, § 10-2. State Law reference— Livestock generally, W. Va. Code, § 19-18-1 et seq.; male breeding animals, W. Va.\n               Code, §§ 19-10-1—19-10-13; authority of city to regulate keeping of animals and fowl,\n               W. Va. Code, § 8-12-5, (26).\n\nFor the purposes of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal warden: The person designated by the council as enforcement officer under this chapter. At large: Any animal or fowl shall be deemed to be \"at large\" when it is off the property of\n               its owner and not under control of a competent person. Dog pound: The county animal shelter; provided, that if the city shall establish a dog pound,\n               then \"dog pound\" shall mean the city dog pound. Exposed to rabies: An animal has been \"exposed to rabies\" if it has been bitten by, or been exposed\n               to, any animal known to have been infected with rabies. Humane society: The county humane society. Owner: Any person owning, keeping or harboring an animal or fowl. Restraint: A dog is under \"restraint\" if it is controlled by a leash, at \"heel\" beside a competent\n               person and obedient to that person's commands, on or within a vehicle being driven\n               or parked on the streets, or within the property limits of its owner or keeper. Spayed female: Any female animal which has been operated upon to prevent conception. (Code 1971, § 3-1)\n\nThe entire area embraced within the corporate limits of the city is designated as\n               a bird sanctuary. (Code 1971, § 3-44)\n\nIt shall be unlawful to trap, hunt, shoot or attempt to shoot or molest any bird or\n               wild fowl or…",
+          "sourceUrl": "https://library.municode.com/wv/beckley/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ANFO"
+        },
+        {
+          "id": "wv:beckley:1",
+          "prompt": "Which animal is unlawful to keep anywhere in the city?",
+          "choices": [
+            "Swine (pigs)",
+            "Chickens",
+            "Goats",
+            "Horses"
+          ],
+          "answer": "Swine (pigs)",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to regulate, § 21(31). Cross reference— Applicability of traffic regulations to riders of animals and drivers of animal-drawn\n               vehicles, § 14-7; wrongfully seeking to release animal in custody of city officer, § 10-2. State Law reference— Livestock generally, W. Va. Code, § 19-18-1 et seq.; male breeding animals, W. Va.\n               Code, §§ 19-10-1—19-10-13; authority of city to regulate keeping of animals and fowl,\n               W. Va. Code, § 8-12-5, (26).\n\nFor the purposes of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal warden: The person designated by the council as enforcement officer under this chapter. At large: Any animal or fowl shall be deemed to be \"at large\" when it is off the property of\n               its owner and not under control of a competent person. Dog pound: The county animal shelter; provided, that if the city shall establish a dog pound,\n               then \"dog pound\" shall mean the city dog pound. Exposed to rabies: An animal has been \"exposed to rabies\" if it has been bitten by, or been exposed\n               to, any animal known to have been infected with rabies. Humane society: The county humane society. Owner: Any person owning, keeping or harboring an animal or fowl. Restraint: A dog is under \"restraint\" if it is controlled by a leash, at \"heel\" beside a competent\n               person and obedient to that person's commands, on or within a vehicle being driven\n               or parked on the streets, or within the property limits of its owner or keeper. Spayed female: Any female animal which has been operated upon to prevent conception. (Code 1971, § 3-1)\n\nThe entire area embraced within the corporate limits of the city is designated as\n               a bird sanctuary. (Code 1971, § 3-44)\n\nIt shall be unlawful to trap, hunt, shoot or attempt to shoot or molest any bird or\n               wild fowl or…",
+          "sourceUrl": "https://library.municode.com/wv/beckley/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ANFO"
+        },
+        {
+          "id": "wv:beckley:2",
+          "prompt": "When a female house cat is in heat, what does the city require?",
+          "choices": [
+            "Keep her confined in a building or secure enclosure so she cannot contact other animals",
+            "Let her outdoors so she can find a mate",
+            "Register her with the animal warden",
+            "Take her to the county humane society"
+          ],
+          "answer": "Keep her confined in a building or secure enclosure so she cannot contact other animals",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to regulate, § 21(31). Cross reference— Applicability of traffic regulations to riders of animals and drivers of animal-drawn\n               vehicles, § 14-7; wrongfully seeking to release animal in custody of city officer, § 10-2. State Law reference— Livestock generally, W. Va. Code, § 19-18-1 et seq.; male breeding animals, W. Va.\n               Code, §§ 19-10-1—19-10-13; authority of city to regulate keeping of animals and fowl,\n               W. Va. Code, § 8-12-5, (26).\n\nFor the purposes of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal warden: The person designated by the council as enforcement officer under this chapter. At large: Any animal or fowl shall be deemed to be \"at large\" when it is off the property of\n               its owner and not under control of a competent person. Dog pound: The county animal shelter; provided, that if the city shall establish a dog pound,\n               then \"dog pound\" shall mean the city dog pound. Exposed to rabies: An animal has been \"exposed to rabies\" if it has been bitten by, or been exposed\n               to, any animal known to have been infected with rabies. Humane society: The county humane society. Owner: Any person owning, keeping or harboring an animal or fowl. Restraint: A dog is under \"restraint\" if it is controlled by a leash, at \"heel\" beside a competent\n               person and obedient to that person's commands, on or within a vehicle being driven\n               or parked on the streets, or within the property limits of its owner or keeper. Spayed female: Any female animal which has been operated upon to prevent conception. (Code 1971, § 3-1)\n\nThe entire area embraced within the corporate limits of the city is designated as\n               a bird sanctuary. (Code 1971, § 3-44)\n\nIt shall be unlawful to trap, hunt, shoot or attempt to shoot or molest any bird or\n               wild fowl or…",
+          "sourceUrl": "https://library.municode.com/wv/beckley/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ANFO"
+        },
+        {
+          "id": "wv:beckley:3",
+          "prompt": "If a noisy dog, rooster, or other animal keeps disturbing the peace after a police warning, who can take a complaint to the municipal judge?",
+          "choices": [
+            "At least two citizens who are not from the same family or household, or a city police officer",
+            "Any one neighbor",
+            "Only the animal warden",
+            "The county humane society"
+          ],
+          "answer": "At least two citizens who are not from the same family or household, or a city police officer",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to regulate, § 21(31). Cross reference— Applicability of traffic regulations to riders of animals and drivers of animal-drawn\n               vehicles, § 14-7; wrongfully seeking to release animal in custody of city officer, § 10-2. State Law reference— Livestock generally, W. Va. Code, § 19-18-1 et seq.; male breeding animals, W. Va.\n               Code, §§ 19-10-1—19-10-13; authority of city to regulate keeping of animals and fowl,\n               W. Va. Code, § 8-12-5, (26).\n\nFor the purposes of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal warden: The person designated by the council as enforcement officer under this chapter. At large: Any animal or fowl shall be deemed to be \"at large\" when it is off the property of\n               its owner and not under control of a competent person. Dog pound: The county animal shelter; provided, that if the city shall establish a dog pound,\n               then \"dog pound\" shall mean the city dog pound. Exposed to rabies: An animal has been \"exposed to rabies\" if it has been bitten by, or been exposed\n               to, any animal known to have been infected with rabies. Humane society: The county humane society. Owner: Any person owning, keeping or harboring an animal or fowl. Restraint: A dog is under \"restraint\" if it is controlled by a leash, at \"heel\" beside a competent\n               person and obedient to that person's commands, on or within a vehicle being driven\n               or parked on the streets, or within the property limits of its owner or keeper. Spayed female: Any female animal which has been operated upon to prevent conception. (Code 1971, § 3-1)\n\nThe entire area embraced within the corporate limits of the city is designated as\n               a bird sanctuary. (Code 1971, § 3-44)\n\nIt shall be unlawful to trap, hunt, shoot or attempt to shoot or molest any bird or\n               wild fowl or…",
+          "sourceUrl": "https://library.municode.com/wv/beckley/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ANFO"
+        },
+        {
+          "id": "wv:beckley:4",
+          "prompt": "May chickens, ducks, geese, goats, or cattle roam city streets?",
+          "choices": [
+            "No. They may run at large only on the owner's own premises",
+            "Yes, if they wear tags",
+            "Yes, between sunrise and sunset",
+            "Only on weekends"
+          ],
+          "answer": "No. They may run at large only on the owner's own premises",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to regulate, § 21(31). Cross reference— Applicability of traffic regulations to riders of animals and drivers of animal-drawn\n               vehicles, § 14-7; wrongfully seeking to release animal in custody of city officer, § 10-2. State Law reference— Livestock generally, W. Va. Code, § 19-18-1 et seq.; male breeding animals, W. Va.\n               Code, §§ 19-10-1—19-10-13; authority of city to regulate keeping of animals and fowl,\n               W. Va. Code, § 8-12-5, (26).\n\nFor the purposes of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal warden: The person designated by the council as enforcement officer under this chapter. At large: Any animal or fowl shall be deemed to be \"at large\" when it is off the property of\n               its owner and not under control of a competent person. Dog pound: The county animal shelter; provided, that if the city shall establish a dog pound,\n               then \"dog pound\" shall mean the city dog pound. Exposed to rabies: An animal has been \"exposed to rabies\" if it has been bitten by, or been exposed\n               to, any animal known to have been infected with rabies. Humane society: The county humane society. Owner: Any person owning, keeping or harboring an animal or fowl. Restraint: A dog is under \"restraint\" if it is controlled by a leash, at \"heel\" beside a competent\n               person and obedient to that person's commands, on or within a vehicle being driven\n               or parked on the streets, or within the property limits of its owner or keeper. Spayed female: Any female animal which has been operated upon to prevent conception. (Code 1971, § 3-1)\n\nThe entire area embraced within the corporate limits of the city is designated as\n               a bird sanctuary. (Code 1971, § 3-44)\n\nIt shall be unlawful to trap, hunt, shoot or attempt to shoot or molest any bird or\n               wild fowl or…",
+          "sourceUrl": "https://library.municode.com/wv/beckley/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ANFO"
+        }
+      ]
+    },
+    {
+      "id": "bluefield",
+      "name": "Bluefield",
+      "sourceIndex": "https://library.municode.com/wv/bluefield",
+      "questions": [
+        {
+          "id": "wv:bluefield:0",
+          "prompt": "How many electoral districts is Bluefield divided into?",
+          "choices": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "answer": "Three",
+          "excerpt": "1921 ACTS OF THE WEST VIRGINIA LEGISLATURE (Senate Bill No. 169—Mr. Sanders.) AN ACT to amend and reenact chapter nine of the acts of one thousand nine hundred\n            and fifteen [1915], relating to the charter of the City of Bluefield. Be It Enacted by the Legislature of West Virginia: That chapter nine of the acts of the Legislature of West Virginia, session of one\n            thousand nine hundred and fifteen [1915] granting a charter to the City of Bluefield\n            and subsequent acts amendatory thereof, be and the same are hereby amended and reenacted\n            to read as follows: Footnotes: --- ( 1 ) --- Editor's note— The Charter is reprinted herein as it appeared in the Code of the City of Bluefield\n               of 1958, except that amendments thereto have been inserted in their proper places,\n               deleted provisions have been omitted, amendments have been cited in parentheses following\n               the amended sections, and section captions have in some instances been altered or\n               expanded to more fully apprise the reader of the contents. Sections 3, 4, 18, and\n               19 were established by an ordinance adopted February 10, 2009, pursuant to court orders\n               issued in T. Courtney Tanner v.Clyde T. Stephens, Mayor, etc. of the City of Bluefield (Civil Action 14352)(1971) and Mercer County Branch of the NAACP and Webster Gilbreath v.The City of Bluefield, et al (Civil Action No. 89-C-301-F). Obvious misspellings and punctuation errors have been\n               corrected without notation. Additions made for clarity are indicated by brackets.\n\nThe inhabitants of the portion of the County of Mercer, in the State of West Virginia,\n               within the limits of the City of Bluefield, as hereinafter set forth, shall be and\n               continue a body politic and corporate, by the name and style of \"The City of Bluefield,\"\n               and as such, and by that name, shall have perpetual succession,…",
+          "sourceUrl": "https://library.municode.com/wv/bluefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        },
+        {
+          "id": "wv:bluefield:1",
+          "prompt": "After a U.S. Census, the City Clerk must report if one district's population differs from another's by more than how much?",
+          "choices": [
+            "5 percent",
+            "10 percent",
+            "15 percent"
+          ],
+          "answer": "10 percent",
+          "excerpt": "1921 ACTS OF THE WEST VIRGINIA LEGISLATURE (Senate Bill No. 169—Mr. Sanders.) AN ACT to amend and reenact chapter nine of the acts of one thousand nine hundred\n            and fifteen [1915], relating to the charter of the City of Bluefield. Be It Enacted by the Legislature of West Virginia: That chapter nine of the acts of the Legislature of West Virginia, session of one\n            thousand nine hundred and fifteen [1915] granting a charter to the City of Bluefield\n            and subsequent acts amendatory thereof, be and the same are hereby amended and reenacted\n            to read as follows: Footnotes: --- ( 1 ) --- Editor's note— The Charter is reprinted herein as it appeared in the Code of the City of Bluefield\n               of 1958, except that amendments thereto have been inserted in their proper places,\n               deleted provisions have been omitted, amendments have been cited in parentheses following\n               the amended sections, and section captions have in some instances been altered or\n               expanded to more fully apprise the reader of the contents. Sections 3, 4, 18, and\n               19 were established by an ordinance adopted February 10, 2009, pursuant to court orders\n               issued in T. Courtney Tanner v.Clyde T. Stephens, Mayor, etc. of the City of Bluefield (Civil Action 14352)(1971) and Mercer County Branch of the NAACP and Webster Gilbreath v.The City of Bluefield, et al (Civil Action No. 89-C-301-F). Obvious misspellings and punctuation errors have been\n               corrected without notation. Additions made for clarity are indicated by brackets.\n\nThe inhabitants of the portion of the County of Mercer, in the State of West Virginia,\n               within the limits of the City of Bluefield, as hereinafter set forth, shall be and\n               continue a body politic and corporate, by the name and style of \"The City of Bluefield,\"\n               and as such, and by that name, shall have perpetual succession,…",
+          "sourceUrl": "https://library.municode.com/wv/bluefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        },
+        {
+          "id": "wv:bluefield:2",
+          "prompt": "Who keeps the official map of Bluefield's electoral districts?",
+          "choices": [
+            "The Mayor",
+            "The City Clerk",
+            "The County Commission"
+          ],
+          "answer": "The City Clerk",
+          "excerpt": "1921 ACTS OF THE WEST VIRGINIA LEGISLATURE (Senate Bill No. 169—Mr. Sanders.) AN ACT to amend and reenact chapter nine of the acts of one thousand nine hundred\n            and fifteen [1915], relating to the charter of the City of Bluefield. Be It Enacted by the Legislature of West Virginia: That chapter nine of the acts of the Legislature of West Virginia, session of one\n            thousand nine hundred and fifteen [1915] granting a charter to the City of Bluefield\n            and subsequent acts amendatory thereof, be and the same are hereby amended and reenacted\n            to read as follows: Footnotes: --- ( 1 ) --- Editor's note— The Charter is reprinted herein as it appeared in the Code of the City of Bluefield\n               of 1958, except that amendments thereto have been inserted in their proper places,\n               deleted provisions have been omitted, amendments have been cited in parentheses following\n               the amended sections, and section captions have in some instances been altered or\n               expanded to more fully apprise the reader of the contents. Sections 3, 4, 18, and\n               19 were established by an ordinance adopted February 10, 2009, pursuant to court orders\n               issued in T. Courtney Tanner v.Clyde T. Stephens, Mayor, etc. of the City of Bluefield (Civil Action 14352)(1971) and Mercer County Branch of the NAACP and Webster Gilbreath v.The City of Bluefield, et al (Civil Action No. 89-C-301-F). Obvious misspellings and punctuation errors have been\n               corrected without notation. Additions made for clarity are indicated by brackets.\n\nThe inhabitants of the portion of the County of Mercer, in the State of West Virginia,\n               within the limits of the City of Bluefield, as hereinafter set forth, shall be and\n               continue a body politic and corporate, by the name and style of \"The City of Bluefield,\"\n               and as such, and by that name, shall have perpetual succession,…",
+          "sourceUrl": "https://library.municode.com/wv/bluefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        },
+        {
+          "id": "wv:bluefield:3",
+          "prompt": "Along the state line, Bluefield's original boundary follows a street called Bluefield Avenue east of the line and what west of the line?",
+          "choices": [
+            "Main Street",
+            "Graham Avenue",
+            "Cumberland Gap Turnpike",
+            "Stony Ridge Road"
+          ],
+          "answer": "Graham Avenue",
+          "excerpt": "1921 ACTS OF THE WEST VIRGINIA LEGISLATURE (Senate Bill No. 169—Mr. Sanders.) AN ACT to amend and reenact chapter nine of the acts of one thousand nine hundred\n            and fifteen [1915], relating to the charter of the City of Bluefield. Be It Enacted by the Legislature of West Virginia: That chapter nine of the acts of the Legislature of West Virginia, session of one\n            thousand nine hundred and fifteen [1915] granting a charter to the City of Bluefield\n            and subsequent acts amendatory thereof, be and the same are hereby amended and reenacted\n            to read as follows: Footnotes: --- ( 1 ) --- Editor's note— The Charter is reprinted herein as it appeared in the Code of the City of Bluefield\n               of 1958, except that amendments thereto have been inserted in their proper places,\n               deleted provisions have been omitted, amendments have been cited in parentheses following\n               the amended sections, and section captions have in some instances been altered or\n               expanded to more fully apprise the reader of the contents. Sections 3, 4, 18, and\n               19 were established by an ordinance adopted February 10, 2009, pursuant to court orders\n               issued in T. Courtney Tanner v.Clyde T. Stephens, Mayor, etc. of the City of Bluefield (Civil Action 14352)(1971) and Mercer County Branch of the NAACP and Webster Gilbreath v.The City of Bluefield, et al (Civil Action No. 89-C-301-F). Obvious misspellings and punctuation errors have been\n               corrected without notation. Additions made for clarity are indicated by brackets.\n\nThe inhabitants of the portion of the County of Mercer, in the State of West Virginia,\n               within the limits of the City of Bluefield, as hereinafter set forth, shall be and\n               continue a body politic and corporate, by the name and style of \"The City of Bluefield,\"\n               and as such, and by that name, shall have perpetual succession,…",
+          "sourceUrl": "https://library.municode.com/wv/bluefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        }
+      ]
+    },
+    {
+      "id": "ceredo",
+      "name": "Ceredo",
+      "sourceIndex": "https://library.municode.com/wv/ceredo",
+      "questions": []
+    },
+    {
+      "id": "charleston",
+      "name": "Charleston",
+      "sourceIndex": "https://library.municode.com/wv/charleston",
+      "questions": [
+        {
+          "id": "wv:charleston:0",
+          "prompt": "In Charleston, drinking alcoholic liquor in a public place is:",
+          "choices": [
+            "allowed for adults",
+            "unlawful",
+            "allowed with a city beer license",
+            "restricted to certain hours"
+          ],
+          "answer": "unlawful",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; driving under the influence of alcohol, controlled substances or drugs, § 114-302. State Law reference— Liquor Control Act, W. Va. Code § 60-1-1 et seq.; authority to prevent illegal sale\n               of intoxicating liquors, W. Va. Code § 8-12-5(20); authority to require city license\n               and impose license tax for anything for which a state license required, W. Va. Code\n               § 8-13-4; nonintoxicating beer, W. Va. Code § 11-16-1 et seq.\n\nIn construing the meaning of the words and terms used in this chapter, the municipal\n               court will accept and be controlled by the definitions contained in W. Va. Code §§\n               11-16-3, 60-1-5 and 60-7-2 and other state laws and regulations relating to intoxicating\n               liquors and nonintoxicating beer. (Code 1975, § 3-1)\n\nFootnotes: --- ( 2 ) --- State Law reference— The Intoxicating Beer Act, W. Va. Code § 11-16-1 et seq.\n\nFootnotes: --- ( 3 ) --- State Law reference— Authority to tax sale of nonintoxicating beer, W. Va. Code §§ 8-13-4, 11-16-26.\n\nNo person shall manufacture, sell, possess for sale, transport or distribute within\n               the city nonintoxicating beer, except in accordance with the provisions of this division,\n               and after first obtaining a city license, as provided for in this article. (Code 1975, § 3-6)\n\nThere is levied and imposed an annual license tax upon all dealers in or of nonintoxicating\n               beer, which license period shall begin on July 1 of each year and end on June 30 of\n               the following year; and if granted for a less period, the tax shall be computed quarterly,\n               in proportion to the remainder of the fiscal year, as follows: (1) Retail dealers shall be divided into two classes, class A and class B. a. 1. In the case of a class A retail dealer, the license fee shall be $100.00 for each\n                  place of business; the license…",
+          "sourceUrl": "https://library.municode.com/wv/charleston/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+        },
+        {
+          "id": "wv:charleston:1",
+          "prompt": "In Charleston, it is unlawful to drink alcoholic liquor:",
+          "choices": [
+            "only in bars",
+            "in a motor vehicle on any street, open space, or public garage",
+            "only if under 21",
+            "at home"
+          ],
+          "answer": "in a motor vehicle on any street, open space, or public garage",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; driving under the influence of alcohol, controlled substances or drugs, § 114-302. State Law reference— Liquor Control Act, W. Va. Code § 60-1-1 et seq.; authority to prevent illegal sale\n               of intoxicating liquors, W. Va. Code § 8-12-5(20); authority to require city license\n               and impose license tax for anything for which a state license required, W. Va. Code\n               § 8-13-4; nonintoxicating beer, W. Va. Code § 11-16-1 et seq.\n\nIn construing the meaning of the words and terms used in this chapter, the municipal\n               court will accept and be controlled by the definitions contained in W. Va. Code §§\n               11-16-3, 60-1-5 and 60-7-2 and other state laws and regulations relating to intoxicating\n               liquors and nonintoxicating beer. (Code 1975, § 3-1)\n\nFootnotes: --- ( 2 ) --- State Law reference— The Intoxicating Beer Act, W. Va. Code § 11-16-1 et seq.\n\nFootnotes: --- ( 3 ) --- State Law reference— Authority to tax sale of nonintoxicating beer, W. Va. Code §§ 8-13-4, 11-16-26.\n\nNo person shall manufacture, sell, possess for sale, transport or distribute within\n               the city nonintoxicating beer, except in accordance with the provisions of this division,\n               and after first obtaining a city license, as provided for in this article. (Code 1975, § 3-6)\n\nThere is levied and imposed an annual license tax upon all dealers in or of nonintoxicating\n               beer, which license period shall begin on July 1 of each year and end on June 30 of\n               the following year; and if granted for a less period, the tax shall be computed quarterly,\n               in proportion to the remainder of the fiscal year, as follows: (1) Retail dealers shall be divided into two classes, class A and class B. a. 1. In the case of a class A retail dealer, the license fee shall be $100.00 for each\n                  place of business; the license…",
+          "sourceUrl": "https://library.municode.com/wv/charleston/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+        },
+        {
+          "id": "wv:charleston:2",
+          "prompt": "A Class B license to sell packaged nonintoxicating beer in Charleston can be issued only to the owner of a:",
+          "choices": [
+            "bar",
+            "grocery store",
+            "liquor shop",
+            "warehouse"
+          ],
+          "answer": "grocery store",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; driving under the influence of alcohol, controlled substances or drugs, § 114-302. State Law reference— Liquor Control Act, W. Va. Code § 60-1-1 et seq.; authority to prevent illegal sale\n               of intoxicating liquors, W. Va. Code § 8-12-5(20); authority to require city license\n               and impose license tax for anything for which a state license required, W. Va. Code\n               § 8-13-4; nonintoxicating beer, W. Va. Code § 11-16-1 et seq.\n\nIn construing the meaning of the words and terms used in this chapter, the municipal\n               court will accept and be controlled by the definitions contained in W. Va. Code §§\n               11-16-3, 60-1-5 and 60-7-2 and other state laws and regulations relating to intoxicating\n               liquors and nonintoxicating beer. (Code 1975, § 3-1)\n\nFootnotes: --- ( 2 ) --- State Law reference— The Intoxicating Beer Act, W. Va. Code § 11-16-1 et seq.\n\nFootnotes: --- ( 3 ) --- State Law reference— Authority to tax sale of nonintoxicating beer, W. Va. Code §§ 8-13-4, 11-16-26.\n\nNo person shall manufacture, sell, possess for sale, transport or distribute within\n               the city nonintoxicating beer, except in accordance with the provisions of this division,\n               and after first obtaining a city license, as provided for in this article. (Code 1975, § 3-6)\n\nThere is levied and imposed an annual license tax upon all dealers in or of nonintoxicating\n               beer, which license period shall begin on July 1 of each year and end on June 30 of\n               the following year; and if granted for a less period, the tax shall be computed quarterly,\n               in proportion to the remainder of the fiscal year, as follows: (1) Retail dealers shall be divided into two classes, class A and class B. a. 1. In the case of a class A retail dealer, the license fee shall be $100.00 for each\n                  place of business; the license…",
+          "sourceUrl": "https://library.municode.com/wv/charleston/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+        },
+        {
+          "id": "wv:charleston:3",
+          "prompt": "How much nonintoxicating beer may a Class B retailer in Charleston sell to one person at one time?",
+          "choices": [
+            "Any quantity",
+            "Less than five gallons",
+            "Up to 10 gallons",
+            "One keg or less"
+          ],
+          "answer": "Less than five gallons",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; driving under the influence of alcohol, controlled substances or drugs, § 114-302. State Law reference— Liquor Control Act, W. Va. Code § 60-1-1 et seq.; authority to prevent illegal sale\n               of intoxicating liquors, W. Va. Code § 8-12-5(20); authority to require city license\n               and impose license tax for anything for which a state license required, W. Va. Code\n               § 8-13-4; nonintoxicating beer, W. Va. Code § 11-16-1 et seq.\n\nIn construing the meaning of the words and terms used in this chapter, the municipal\n               court will accept and be controlled by the definitions contained in W. Va. Code §§\n               11-16-3, 60-1-5 and 60-7-2 and other state laws and regulations relating to intoxicating\n               liquors and nonintoxicating beer. (Code 1975, § 3-1)\n\nFootnotes: --- ( 2 ) --- State Law reference— The Intoxicating Beer Act, W. Va. Code § 11-16-1 et seq.\n\nFootnotes: --- ( 3 ) --- State Law reference— Authority to tax sale of nonintoxicating beer, W. Va. Code §§ 8-13-4, 11-16-26.\n\nNo person shall manufacture, sell, possess for sale, transport or distribute within\n               the city nonintoxicating beer, except in accordance with the provisions of this division,\n               and after first obtaining a city license, as provided for in this article. (Code 1975, § 3-6)\n\nThere is levied and imposed an annual license tax upon all dealers in or of nonintoxicating\n               beer, which license period shall begin on July 1 of each year and end on June 30 of\n               the following year; and if granted for a less period, the tax shall be computed quarterly,\n               in proportion to the remainder of the fiscal year, as follows: (1) Retail dealers shall be divided into two classes, class A and class B. a. 1. In the case of a class A retail dealer, the license fee shall be $100.00 for each\n                  place of business; the license…",
+          "sourceUrl": "https://library.municode.com/wv/charleston/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+        },
+        {
+          "id": "wv:charleston:4",
+          "prompt": "What is the annual city license tax for each railroad dining, club or buffet car that dispenses nonintoxicating beer in Charleston?",
+          "choices": [
+            "$100.00",
+            "$10.00",
+            "$15.00",
+            "$250.00"
+          ],
+          "answer": "$10.00",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; driving under the influence of alcohol, controlled substances or drugs, § 114-302. State Law reference— Liquor Control Act, W. Va. Code § 60-1-1 et seq.; authority to prevent illegal sale\n               of intoxicating liquors, W. Va. Code § 8-12-5(20); authority to require city license\n               and impose license tax for anything for which a state license required, W. Va. Code\n               § 8-13-4; nonintoxicating beer, W. Va. Code § 11-16-1 et seq.\n\nIn construing the meaning of the words and terms used in this chapter, the municipal\n               court will accept and be controlled by the definitions contained in W. Va. Code §§\n               11-16-3, 60-1-5 and 60-7-2 and other state laws and regulations relating to intoxicating\n               liquors and nonintoxicating beer. (Code 1975, § 3-1)\n\nFootnotes: --- ( 2 ) --- State Law reference— The Intoxicating Beer Act, W. Va. Code § 11-16-1 et seq.\n\nFootnotes: --- ( 3 ) --- State Law reference— Authority to tax sale of nonintoxicating beer, W. Va. Code §§ 8-13-4, 11-16-26.\n\nNo person shall manufacture, sell, possess for sale, transport or distribute within\n               the city nonintoxicating beer, except in accordance with the provisions of this division,\n               and after first obtaining a city license, as provided for in this article. (Code 1975, § 3-6)\n\nThere is levied and imposed an annual license tax upon all dealers in or of nonintoxicating\n               beer, which license period shall begin on July 1 of each year and end on June 30 of\n               the following year; and if granted for a less period, the tax shall be computed quarterly,\n               in proportion to the remainder of the fiscal year, as follows: (1) Retail dealers shall be divided into two classes, class A and class B. a. 1. In the case of a class A retail dealer, the license fee shall be $100.00 for each\n                  place of business; the license…",
+          "sourceUrl": "https://library.municode.com/wv/charleston/codes/code_of_ordinances?nodeId=PTIICOOR_CH6ALBE"
+        }
+      ]
+    },
+    {
+      "id": "gassaway",
+      "name": "Gassaway",
+      "sourceIndex": "https://library.municode.com/wv/gassaway",
+      "questions": []
+    },
+    {
+      "id": "huntington",
+      "name": "Huntington",
+      "sourceIndex": "https://library.municode.com/wv/huntington",
+      "questions": []
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "sourceIndex": "https://library.municode.com/wv/hurricane",
+      "questions": []
+    },
+    {
+      "id": "madison",
+      "name": "Madison",
+      "sourceIndex": "https://library.municode.com/wv/madison",
+      "questions": [
+        {
+          "id": "wv:madison:0",
+          "prompt": "Madison adds a tax to the retail price of intoxicating liquor bought from the Alcohol Beverage Control Commission or licensed wine sellers. How much is that tax?",
+          "choices": [
+            "Five percent",
+            "Three percent",
+            "Ten percent",
+            "One percent"
+          ],
+          "answer": "Five percent",
+          "excerpt": "State Law reference— For state law as to control of alcoholic liquors generally, see W. Va. Code, ch. 60.\n            As to state Nonintoxicating Beer Act, see W. Va. Code, ch. 11 , art. 16 . Cross reference— As to permitting intoxicating liquor in bowling alleys, billiard parlors, etc., not\n            licensed to sell same, see § 11-28 of this Code. As to driving under influence of alcohol, see § 13-20 . As to zoning generally, see ch. 21 .\n\nWords and phrases defined in sections 11-16-3, 60-1-5 and 60-7-2, Code of West Virginia,\n               as amended, shall have the same meanings as therein defined wherever such words and\n               phrases are used in this chapter. (12-2-91 (part).)\n\nPursuant to chapter 8 , article 13 , section 7 , Code of West Virginia, as amended, there is hereby imposed a tax of five percent\n               of the retail purchase price of any and all intoxicating liquors purchased from the\n               Alcohol Beverage Control Commission or from any person licensed to sell wine at retail\n               to the public under the provisions of chapter 60, article 8 , of the aforesaid Code of West Virginia, within the corporate boundaries. Such tax\n               shall be levied upon the purchase of said intoxicating liquor or wine, and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the municipality from the State Treasury pursuant\n               to rules and regulations adopted by the Commissioner of the said Alcohol Beverage\n               Control Commission. Provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from a holder of a license issued under the provisions\n               of chapter 60, article 7 of the Code of West Virginia. (12-2-91 (part).)\n\nA person shall not: (a) Manufacture or sell in the city without a license any alcoholic liquor, except as\n       …",
+          "sourceUrl": "https://library.municode.com/wv/madison/codes/code_of_ordinances?nodeId=SUHITA_CH3ALBE"
+        },
+        {
+          "id": "wv:madison:1",
+          "prompt": "Is it against Madison rules to appear in a public place in an intoxicated condition?",
+          "choices": [
+            "Yes, it is unlawful",
+            "No, if you are quiet",
+            "Only after dark",
+            "Only in parks"
+          ],
+          "answer": "Yes, it is unlawful",
+          "excerpt": "State Law reference— For state law as to control of alcoholic liquors generally, see W. Va. Code, ch. 60.\n            As to state Nonintoxicating Beer Act, see W. Va. Code, ch. 11 , art. 16 . Cross reference— As to permitting intoxicating liquor in bowling alleys, billiard parlors, etc., not\n            licensed to sell same, see § 11-28 of this Code. As to driving under influence of alcohol, see § 13-20 . As to zoning generally, see ch. 21 .\n\nWords and phrases defined in sections 11-16-3, 60-1-5 and 60-7-2, Code of West Virginia,\n               as amended, shall have the same meanings as therein defined wherever such words and\n               phrases are used in this chapter. (12-2-91 (part).)\n\nPursuant to chapter 8 , article 13 , section 7 , Code of West Virginia, as amended, there is hereby imposed a tax of five percent\n               of the retail purchase price of any and all intoxicating liquors purchased from the\n               Alcohol Beverage Control Commission or from any person licensed to sell wine at retail\n               to the public under the provisions of chapter 60, article 8 , of the aforesaid Code of West Virginia, within the corporate boundaries. Such tax\n               shall be levied upon the purchase of said intoxicating liquor or wine, and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the municipality from the State Treasury pursuant\n               to rules and regulations adopted by the Commissioner of the said Alcohol Beverage\n               Control Commission. Provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from a holder of a license issued under the provisions\n               of chapter 60, article 7 of the Code of West Virginia. (12-2-91 (part).)\n\nA person shall not: (a) Manufacture or sell in the city without a license any alcoholic liquor, except as\n       …",
+          "sourceUrl": "https://library.municode.com/wv/madison/codes/code_of_ordinances?nodeId=SUHITA_CH3ALBE"
+        },
+        {
+          "id": "wv:madison:2",
+          "prompt": "In Madison, it is unlawful to drink alcoholic liquor in a motor vehicle on any street or in which other place?",
+          "choices": [
+            "A public garage",
+            "Your garage at home",
+            "A private driveway",
+            "A gas station"
+          ],
+          "answer": "A public garage",
+          "excerpt": "State Law reference— For state law as to control of alcoholic liquors generally, see W. Va. Code, ch. 60.\n            As to state Nonintoxicating Beer Act, see W. Va. Code, ch. 11 , art. 16 . Cross reference— As to permitting intoxicating liquor in bowling alleys, billiard parlors, etc., not\n            licensed to sell same, see § 11-28 of this Code. As to driving under influence of alcohol, see § 13-20 . As to zoning generally, see ch. 21 .\n\nWords and phrases defined in sections 11-16-3, 60-1-5 and 60-7-2, Code of West Virginia,\n               as amended, shall have the same meanings as therein defined wherever such words and\n               phrases are used in this chapter. (12-2-91 (part).)\n\nPursuant to chapter 8 , article 13 , section 7 , Code of West Virginia, as amended, there is hereby imposed a tax of five percent\n               of the retail purchase price of any and all intoxicating liquors purchased from the\n               Alcohol Beverage Control Commission or from any person licensed to sell wine at retail\n               to the public under the provisions of chapter 60, article 8 , of the aforesaid Code of West Virginia, within the corporate boundaries. Such tax\n               shall be levied upon the purchase of said intoxicating liquor or wine, and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the municipality from the State Treasury pursuant\n               to rules and regulations adopted by the Commissioner of the said Alcohol Beverage\n               Control Commission. Provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from a holder of a license issued under the provisions\n               of chapter 60, article 7 of the Code of West Virginia. (12-2-91 (part).)\n\nA person shall not: (a) Manufacture or sell in the city without a license any alcoholic liquor, except as\n       …",
+          "sourceUrl": "https://library.municode.com/wv/madison/codes/code_of_ordinances?nodeId=SUHITA_CH3ALBE"
+        },
+        {
+          "id": "wv:madison:3",
+          "prompt": "A Madison beer parlor may install coin-operated pool tables only if it has which of these?",
+          "choices": [
+            "A full or partial partition between the tables and the beer-serving area",
+            "Extra lighting over the tables",
+            "A cover charge for pool players",
+            "A security camera at each table"
+          ],
+          "answer": "A full or partial partition between the tables and the beer-serving area",
+          "excerpt": "State Law reference— For state law as to control of alcoholic liquors generally, see W. Va. Code, ch. 60.\n            As to state Nonintoxicating Beer Act, see W. Va. Code, ch. 11 , art. 16 . Cross reference— As to permitting intoxicating liquor in bowling alleys, billiard parlors, etc., not\n            licensed to sell same, see § 11-28 of this Code. As to driving under influence of alcohol, see § 13-20 . As to zoning generally, see ch. 21 .\n\nWords and phrases defined in sections 11-16-3, 60-1-5 and 60-7-2, Code of West Virginia,\n               as amended, shall have the same meanings as therein defined wherever such words and\n               phrases are used in this chapter. (12-2-91 (part).)\n\nPursuant to chapter 8 , article 13 , section 7 , Code of West Virginia, as amended, there is hereby imposed a tax of five percent\n               of the retail purchase price of any and all intoxicating liquors purchased from the\n               Alcohol Beverage Control Commission or from any person licensed to sell wine at retail\n               to the public under the provisions of chapter 60, article 8 , of the aforesaid Code of West Virginia, within the corporate boundaries. Such tax\n               shall be levied upon the purchase of said intoxicating liquor or wine, and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the municipality from the State Treasury pursuant\n               to rules and regulations adopted by the Commissioner of the said Alcohol Beverage\n               Control Commission. Provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from a holder of a license issued under the provisions\n               of chapter 60, article 7 of the Code of West Virginia. (12-2-91 (part).)\n\nA person shall not: (a) Manufacture or sell in the city without a license any alcoholic liquor, except as\n       …",
+          "sourceUrl": "https://library.municode.com/wv/madison/codes/code_of_ordinances?nodeId=SUHITA_CH3ALBE"
+        },
+        {
+          "id": "wv:madison:4",
+          "prompt": "Coin-operated pool tables in Madison beer parlors must remain unused on which day?",
+          "choices": [
+            "Sunday",
+            "Friday",
+            "Monday",
+            "City holidays only"
+          ],
+          "answer": "Sunday",
+          "excerpt": "State Law reference— For state law as to control of alcoholic liquors generally, see W. Va. Code, ch. 60.\n            As to state Nonintoxicating Beer Act, see W. Va. Code, ch. 11 , art. 16 . Cross reference— As to permitting intoxicating liquor in bowling alleys, billiard parlors, etc., not\n            licensed to sell same, see § 11-28 of this Code. As to driving under influence of alcohol, see § 13-20 . As to zoning generally, see ch. 21 .\n\nWords and phrases defined in sections 11-16-3, 60-1-5 and 60-7-2, Code of West Virginia,\n               as amended, shall have the same meanings as therein defined wherever such words and\n               phrases are used in this chapter. (12-2-91 (part).)\n\nPursuant to chapter 8 , article 13 , section 7 , Code of West Virginia, as amended, there is hereby imposed a tax of five percent\n               of the retail purchase price of any and all intoxicating liquors purchased from the\n               Alcohol Beverage Control Commission or from any person licensed to sell wine at retail\n               to the public under the provisions of chapter 60, article 8 , of the aforesaid Code of West Virginia, within the corporate boundaries. Such tax\n               shall be levied upon the purchase of said intoxicating liquor or wine, and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the municipality from the State Treasury pursuant\n               to rules and regulations adopted by the Commissioner of the said Alcohol Beverage\n               Control Commission. Provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from a holder of a license issued under the provisions\n               of chapter 60, article 7 of the Code of West Virginia. (12-2-91 (part).)\n\nA person shall not: (a) Manufacture or sell in the city without a license any alcoholic liquor, except as\n       …",
+          "sourceUrl": "https://library.municode.com/wv/madison/codes/code_of_ordinances?nodeId=SUHITA_CH3ALBE"
+        }
+      ]
+    },
+    {
+      "id": "montgomery",
+      "name": "Montgomery",
+      "sourceIndex": "https://library.municode.com/wv/montgomery",
+      "questions": [
+        {
+          "id": "wv:montgomery:0",
+          "prompt": "In Montgomery, where is it unlawful to drink beer or other alcoholic drinks or to have an open container of them?",
+          "choices": [
+            "On a public street, sidewalk, alley, park, or similar open public area",
+            "Only inside your own garage",
+            "Anywhere after midnight",
+            "In a licensed private club"
+          ],
+          "answer": "On a public street, sidewalk, alley, park, or similar open public area",
+          "excerpt": "* As to authority of the mayor to prohibit or regulate the buying or selling of alcoholic\n            beverages, etc. during any period of emergency proclaimed by the mayor, see § 8-3 of this Code.\n\nWords and phrases defined in sections 11-1-2, 60-1-5 and 60-7-2 of the Code of West\n               Virginia shall have the same meanings as therein defined wherever such words and phrases\n               are used in this chapter. (Code 1947, ch. 12, § 39) * For definitions applicable throughout this Code, see § 1-2 of this Code.\n\nPursuant to section 8-13-7 of the Code of West Virginia, there is hereby imposed a\n               tax of five percent of the retail purchase price of any and all intoxicating liquors\n               purchased from the alcohol beverage control commission or from any person licensed\n               to sell wine at retail to the public under the provisions of chapter 60, article 8\n               of the Code of West Virginia within the corporate boundaries of the city. Such tax\n               shall be levied upon the purchaser of such intoxicating liquor or wine and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the city from the state treasury pursuant to\n               the rules and regulations adopted by the alcohol beverage control commissioner; provided,\n               however, that such tax shall not be collected on intoxicating liquors sold by or purchased\n               from holders of a license issued under the provisions of chapter 60, article 7 of\n               the Code of West Virginia. (4-1-47; 5-14-63; 6-25-81) * Editor's Note.—A certified copy of the ordinance from which this section derives\n               has been provided to the state alcohol beverage control commissioner, as required\n               by W. Va. Code, § 8-13-7, which further provides that the city tax shall be added\n               to and collected with the…",
+          "sourceUrl": "https://library.municode.com/wv/montgomery/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:montgomery:1",
+          "prompt": "Can you legally drink alcoholic liquor while sitting in a motor vehicle on a Montgomery street or in a public garage?",
+          "choices": [
+            "No",
+            "Yes if the car is parked",
+            "Yes on Sundays only",
+            "Only if no one else is in the car"
+          ],
+          "answer": "No",
+          "excerpt": "* As to authority of the mayor to prohibit or regulate the buying or selling of alcoholic\n            beverages, etc. during any period of emergency proclaimed by the mayor, see § 8-3 of this Code.\n\nWords and phrases defined in sections 11-1-2, 60-1-5 and 60-7-2 of the Code of West\n               Virginia shall have the same meanings as therein defined wherever such words and phrases\n               are used in this chapter. (Code 1947, ch. 12, § 39) * For definitions applicable throughout this Code, see § 1-2 of this Code.\n\nPursuant to section 8-13-7 of the Code of West Virginia, there is hereby imposed a\n               tax of five percent of the retail purchase price of any and all intoxicating liquors\n               purchased from the alcohol beverage control commission or from any person licensed\n               to sell wine at retail to the public under the provisions of chapter 60, article 8\n               of the Code of West Virginia within the corporate boundaries of the city. Such tax\n               shall be levied upon the purchaser of such intoxicating liquor or wine and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the city from the state treasury pursuant to\n               the rules and regulations adopted by the alcohol beverage control commissioner; provided,\n               however, that such tax shall not be collected on intoxicating liquors sold by or purchased\n               from holders of a license issued under the provisions of chapter 60, article 7 of\n               the Code of West Virginia. (4-1-47; 5-14-63; 6-25-81) * Editor's Note.—A certified copy of the ordinance from which this section derives\n               has been provided to the state alcohol beverage control commissioner, as required\n               by W. Va. Code, § 8-13-7, which further provides that the city tax shall be added\n               to and collected with the…",
+          "sourceUrl": "https://library.municode.com/wv/montgomery/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:montgomery:2",
+          "prompt": "What extra tax does Montgomery add to the retail price of liquor or wine bought from the state or a licensed wine seller in the city?",
+          "choices": [
+            "Five percent",
+            "None",
+            "Ten percent",
+            "A flat two-dollar fee"
+          ],
+          "answer": "Five percent",
+          "excerpt": "* As to authority of the mayor to prohibit or regulate the buying or selling of alcoholic\n            beverages, etc. during any period of emergency proclaimed by the mayor, see § 8-3 of this Code.\n\nWords and phrases defined in sections 11-1-2, 60-1-5 and 60-7-2 of the Code of West\n               Virginia shall have the same meanings as therein defined wherever such words and phrases\n               are used in this chapter. (Code 1947, ch. 12, § 39) * For definitions applicable throughout this Code, see § 1-2 of this Code.\n\nPursuant to section 8-13-7 of the Code of West Virginia, there is hereby imposed a\n               tax of five percent of the retail purchase price of any and all intoxicating liquors\n               purchased from the alcohol beverage control commission or from any person licensed\n               to sell wine at retail to the public under the provisions of chapter 60, article 8\n               of the Code of West Virginia within the corporate boundaries of the city. Such tax\n               shall be levied upon the purchaser of such intoxicating liquor or wine and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the city from the state treasury pursuant to\n               the rules and regulations adopted by the alcohol beverage control commissioner; provided,\n               however, that such tax shall not be collected on intoxicating liquors sold by or purchased\n               from holders of a license issued under the provisions of chapter 60, article 7 of\n               the Code of West Virginia. (4-1-47; 5-14-63; 6-25-81) * Editor's Note.—A certified copy of the ordinance from which this section derives\n               has been provided to the state alcohol beverage control commissioner, as required\n               by W. Va. Code, § 8-13-7, which further provides that the city tax shall be added\n               to and collected with the…",
+          "sourceUrl": "https://library.municode.com/wv/montgomery/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:montgomery:3",
+          "prompt": "On a weekday, when may a licensed place in Montgomery not sell, serve, or allow drinking of nonintoxicating beer on the premises?",
+          "choices": [
+            "Between 2:00 a.m. and 7:00 a.m.",
+            "Between noon and 3:00 p.m.",
+            "After 10:00 p.m.",
+            "All day Tuesday"
+          ],
+          "answer": "Between 2:00 a.m. and 7:00 a.m.",
+          "excerpt": "* As to authority of the mayor to prohibit or regulate the buying or selling of alcoholic\n            beverages, etc. during any period of emergency proclaimed by the mayor, see § 8-3 of this Code.\n\nWords and phrases defined in sections 11-1-2, 60-1-5 and 60-7-2 of the Code of West\n               Virginia shall have the same meanings as therein defined wherever such words and phrases\n               are used in this chapter. (Code 1947, ch. 12, § 39) * For definitions applicable throughout this Code, see § 1-2 of this Code.\n\nPursuant to section 8-13-7 of the Code of West Virginia, there is hereby imposed a\n               tax of five percent of the retail purchase price of any and all intoxicating liquors\n               purchased from the alcohol beverage control commission or from any person licensed\n               to sell wine at retail to the public under the provisions of chapter 60, article 8\n               of the Code of West Virginia within the corporate boundaries of the city. Such tax\n               shall be levied upon the purchaser of such intoxicating liquor or wine and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the city from the state treasury pursuant to\n               the rules and regulations adopted by the alcohol beverage control commissioner; provided,\n               however, that such tax shall not be collected on intoxicating liquors sold by or purchased\n               from holders of a license issued under the provisions of chapter 60, article 7 of\n               the Code of West Virginia. (4-1-47; 5-14-63; 6-25-81) * Editor's Note.—A certified copy of the ordinance from which this section derives\n               has been provided to the state alcohol beverage control commissioner, as required\n               by W. Va. Code, § 8-13-7, which further provides that the city tax shall be added\n               to and collected with the…",
+          "sourceUrl": "https://library.municode.com/wv/montgomery/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:montgomery:4",
+          "prompt": "How soon after you file a city beer-license application can Montgomery grant the license?",
+          "choices": [
+            "No sooner than thirty days",
+            "The same day",
+            "After one week",
+            "Only at the next council meeting"
+          ],
+          "answer": "No sooner than thirty days",
+          "excerpt": "* As to authority of the mayor to prohibit or regulate the buying or selling of alcoholic\n            beverages, etc. during any period of emergency proclaimed by the mayor, see § 8-3 of this Code.\n\nWords and phrases defined in sections 11-1-2, 60-1-5 and 60-7-2 of the Code of West\n               Virginia shall have the same meanings as therein defined wherever such words and phrases\n               are used in this chapter. (Code 1947, ch. 12, § 39) * For definitions applicable throughout this Code, see § 1-2 of this Code.\n\nPursuant to section 8-13-7 of the Code of West Virginia, there is hereby imposed a\n               tax of five percent of the retail purchase price of any and all intoxicating liquors\n               purchased from the alcohol beverage control commission or from any person licensed\n               to sell wine at retail to the public under the provisions of chapter 60, article 8\n               of the Code of West Virginia within the corporate boundaries of the city. Such tax\n               shall be levied upon the purchaser of such intoxicating liquor or wine and shall be\n               added to and collected with the retail purchase price of such intoxicating liquor\n               or wine. Such tax shall be received by the city from the state treasury pursuant to\n               the rules and regulations adopted by the alcohol beverage control commissioner; provided,\n               however, that such tax shall not be collected on intoxicating liquors sold by or purchased\n               from holders of a license issued under the provisions of chapter 60, article 7 of\n               the Code of West Virginia. (4-1-47; 5-14-63; 6-25-81) * Editor's Note.—A certified copy of the ordinance from which this section derives\n               has been provided to the state alcohol beverage control commissioner, as required\n               by W. Va. Code, § 8-13-7, which further provides that the city tax shall be added\n               to and collected with the…",
+          "sourceUrl": "https://library.municode.com/wv/montgomery/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        }
+      ]
+    },
+    {
+      "id": "moorefield",
+      "name": "Moorefield",
+      "sourceIndex": "https://library.municode.com/wv/moorefield",
+      "questions": [
+        {
+          "id": "wv:moorefield:0",
+          "prompt": "Who together form the common council of Moorefield?",
+          "choices": [
+            "a mayor, recorder and five councilmen",
+            "the mayor and five councilmen only",
+            "seven council members elected at large",
+            "a mayor, recorder and three councilmen"
+          ],
+          "answer": "a mayor, recorder and five councilmen",
+          "excerpt": "Editor's note. —The charter herein set out is as enacted by the legislature, Acts 1872, chapter 14 , passed February 9, 1872, which amended and reenacted a prior Charter of the Town\n               of Moorefield granted by the General Assembly of Virginia. Section catchlines, in\n               most instances, have been amended by the editors and words in brackets, where appearing\n               in the text, have been added for the purpose of clarity, and are not to be regarded\n               as official. Similarly, the frontal section analysis has been added, which serves\n               as a table of contents. Capitalization has been made uniform, and obvious typographical\n               errors and misspelled words have been corrected; but no other changes have been made. The Charter refers only to the \"Town\" of Moorefield; but attention is invited to section\n               8-1-3 of the Code of West Virginia which provides, in pertinent part, that every municipal\n               corporation with a population in excess of two thousand but not in excess of ten thousand\n               shall be a Class III city; and that transition from one to another class (in this\n               case form a Class IV town to a Class III city) shall occur automatically when the\n               requisite population qualification has been met, effective as of the effective date\n               of the last preceding census taken by the United States or by the state. The 1970\n               federal census showed Moorefield to have a population of two thousand one hundred\n               twenty-four. The legislature, in its 1969 revision and consolidation of chapters 8 and 8A of the\n               Code of West Virginia into a new chapter 8 , recognized, in section 8-1-6, \"that when the provisions of existing special legislative\n               charters are compared with and are considered in the light of the provisions of this\n               chapter [i.e., the new chapter 8 ], there are five…",
+          "sourceUrl": "https://library.municode.com/wv/moorefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        },
+        {
+          "id": "wv:moorefield:1",
+          "prompt": "Who appoints Moorefield’s treasurer?",
+          "choices": [
+            "the council",
+            "the voters in a regular election",
+            "the mayor alone",
+            "the county commission"
+          ],
+          "answer": "the council",
+          "excerpt": "Editor's note. —The charter herein set out is as enacted by the legislature, Acts 1872, chapter 14 , passed February 9, 1872, which amended and reenacted a prior Charter of the Town\n               of Moorefield granted by the General Assembly of Virginia. Section catchlines, in\n               most instances, have been amended by the editors and words in brackets, where appearing\n               in the text, have been added for the purpose of clarity, and are not to be regarded\n               as official. Similarly, the frontal section analysis has been added, which serves\n               as a table of contents. Capitalization has been made uniform, and obvious typographical\n               errors and misspelled words have been corrected; but no other changes have been made. The Charter refers only to the \"Town\" of Moorefield; but attention is invited to section\n               8-1-3 of the Code of West Virginia which provides, in pertinent part, that every municipal\n               corporation with a population in excess of two thousand but not in excess of ten thousand\n               shall be a Class III city; and that transition from one to another class (in this\n               case form a Class IV town to a Class III city) shall occur automatically when the\n               requisite population qualification has been met, effective as of the effective date\n               of the last preceding census taken by the United States or by the state. The 1970\n               federal census showed Moorefield to have a population of two thousand one hundred\n               twenty-four. The legislature, in its 1969 revision and consolidation of chapters 8 and 8A of the\n               Code of West Virginia into a new chapter 8 , recognized, in section 8-1-6, \"that when the provisions of existing special legislative\n               charters are compared with and are considered in the light of the provisions of this\n               chapter [i.e., the new chapter 8 ], there are five…",
+          "sourceUrl": "https://library.municode.com/wv/moorefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        },
+        {
+          "id": "wv:moorefield:2",
+          "prompt": "Who now performs the duties the charter originally assigned to the town sergeant?",
+          "choices": [
+            "the chief of police",
+            "the recorder",
+            "the treasurer",
+            "a special constable"
+          ],
+          "answer": "the chief of police",
+          "excerpt": "Editor's note. —The charter herein set out is as enacted by the legislature, Acts 1872, chapter 14 , passed February 9, 1872, which amended and reenacted a prior Charter of the Town\n               of Moorefield granted by the General Assembly of Virginia. Section catchlines, in\n               most instances, have been amended by the editors and words in brackets, where appearing\n               in the text, have been added for the purpose of clarity, and are not to be regarded\n               as official. Similarly, the frontal section analysis has been added, which serves\n               as a table of contents. Capitalization has been made uniform, and obvious typographical\n               errors and misspelled words have been corrected; but no other changes have been made. The Charter refers only to the \"Town\" of Moorefield; but attention is invited to section\n               8-1-3 of the Code of West Virginia which provides, in pertinent part, that every municipal\n               corporation with a population in excess of two thousand but not in excess of ten thousand\n               shall be a Class III city; and that transition from one to another class (in this\n               case form a Class IV town to a Class III city) shall occur automatically when the\n               requisite population qualification has been met, effective as of the effective date\n               of the last preceding census taken by the United States or by the state. The 1970\n               federal census showed Moorefield to have a population of two thousand one hundred\n               twenty-four. The legislature, in its 1969 revision and consolidation of chapters 8 and 8A of the\n               Code of West Virginia into a new chapter 8 , recognized, in section 8-1-6, \"that when the provisions of existing special legislative\n               charters are compared with and are considered in the light of the provisions of this\n               chapter [i.e., the new chapter 8 ], there are five…",
+          "sourceUrl": "https://library.municode.com/wv/moorefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        },
+        {
+          "id": "wv:moorefield:3",
+          "prompt": "On what day does the charter schedule regular elections for town officials?",
+          "choices": [
+            "the first Tuesday in June",
+            "the first Tuesday in November",
+            "the second Tuesday in June",
+            "the first Monday in May"
+          ],
+          "answer": "the first Tuesday in June",
+          "excerpt": "Editor's note. —The charter herein set out is as enacted by the legislature, Acts 1872, chapter 14 , passed February 9, 1872, which amended and reenacted a prior Charter of the Town\n               of Moorefield granted by the General Assembly of Virginia. Section catchlines, in\n               most instances, have been amended by the editors and words in brackets, where appearing\n               in the text, have been added for the purpose of clarity, and are not to be regarded\n               as official. Similarly, the frontal section analysis has been added, which serves\n               as a table of contents. Capitalization has been made uniform, and obvious typographical\n               errors and misspelled words have been corrected; but no other changes have been made. The Charter refers only to the \"Town\" of Moorefield; but attention is invited to section\n               8-1-3 of the Code of West Virginia which provides, in pertinent part, that every municipal\n               corporation with a population in excess of two thousand but not in excess of ten thousand\n               shall be a Class III city; and that transition from one to another class (in this\n               case form a Class IV town to a Class III city) shall occur automatically when the\n               requisite population qualification has been met, effective as of the effective date\n               of the last preceding census taken by the United States or by the state. The 1970\n               federal census showed Moorefield to have a population of two thousand one hundred\n               twenty-four. The legislature, in its 1969 revision and consolidation of chapters 8 and 8A of the\n               Code of West Virginia into a new chapter 8 , recognized, in section 8-1-6, \"that when the provisions of existing special legislative\n               charters are compared with and are considered in the light of the provisions of this\n               chapter [i.e., the new chapter 8 ], there are five…",
+          "sourceUrl": "https://library.municode.com/wv/moorefield/codes/code_of_ordinances?nodeId=PTITHCH"
+        }
+      ]
+    },
+    {
+      "id": "morgantown",
+      "name": "Morgantown",
+      "sourceIndex": "https://library.municode.com/wv/morgantown",
+      "questions": []
+    },
+    {
+      "id": "oak-hill",
+      "name": "Oak Hill",
+      "sourceIndex": "https://library.municode.com/wv/oak_hill",
+      "questions": []
+    },
+    {
+      "id": "ranson",
+      "name": "Ranson",
+      "sourceIndex": "https://library.municode.com/wv/ranson",
+      "questions": [
+        {
+          "id": "wv:ranson:0",
+          "prompt": "Which of these is unlawful on a Ranson public sidewalk or street?",
+          "choices": [
+            "Drinking beer or having an open container of beer or liquor",
+            "Carrying a sealed six-pack in a bag",
+            "Walking to your car after buying alcohol",
+            "Sitting on a bench with a closed bottle"
+          ],
+          "answer": "Drinking beer or having an open container of beer or liquor",
+          "excerpt": "Words and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1983, § 3-101) Cross reference— Definition of private club, § 3-40 .\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor or nonintoxicating beer or have an open container of alcoholic\n                  liquor or nonintoxicating beer in or on any public sidewalk, walkway, entranceway,\n                  street, lane or other public place. (3) Drink alcoholic liquor or nonintoxicating beer in a motor vehicle on any highway,\n                  street, alley or in a public place. (4) Drink alcoholic liquor in a motor vehicle on any street or in a public place. (5) Tender a drink of alcoholic liquor to another person in a public place. (6) Possess alcoholic liquor in an amount in excess of one gallon on containers not bearing\n                  stamps or seals of the state alcohol beverage control commission, without first having\n                  obtained written authority from the commission therefor. (7) Possess any alcoholic liquor which was manufactured or acquired in violation of the\n                  provisions of W. Va. Code, ch. 60. (Code 1983, § 3-102; Ord. No. 64b, 4-19-88)\n\nNo sale of nonintoxicating beer or intoxicating liquor shall be made to the following\n               persons within this city: (1) A person less than 21 years of age. (2) A person addicted to alcoholic beverages. (3) A person who is addicted to the use of narcotic drugs. (4) A person declared mentally incompetent by a court of legal jurisdiction. (Code 1983, § 3-103; Ord. No. 64c, 4-19-88)\n\nA violation of any provision of this article shall be punishable by a fine of not\n               less than $10.00 nor more than $500.00 for each separate offense. (Code 1983, § 3-104; Ord. No. 64b, 4-19-88)\n\nFootnotes: ---…",
+          "sourceUrl": "https://library.municode.com/wv/ranson/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:ranson:1",
+          "prompt": "Is it against Ranson law to appear in a public place while intoxicated?",
+          "choices": [
+            "Yes",
+            "No, only if you are driving",
+            "Only inside a bar",
+            "Only after midnight"
+          ],
+          "answer": "Yes",
+          "excerpt": "Words and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1983, § 3-101) Cross reference— Definition of private club, § 3-40 .\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor or nonintoxicating beer or have an open container of alcoholic\n                  liquor or nonintoxicating beer in or on any public sidewalk, walkway, entranceway,\n                  street, lane or other public place. (3) Drink alcoholic liquor or nonintoxicating beer in a motor vehicle on any highway,\n                  street, alley or in a public place. (4) Drink alcoholic liquor in a motor vehicle on any street or in a public place. (5) Tender a drink of alcoholic liquor to another person in a public place. (6) Possess alcoholic liquor in an amount in excess of one gallon on containers not bearing\n                  stamps or seals of the state alcohol beverage control commission, without first having\n                  obtained written authority from the commission therefor. (7) Possess any alcoholic liquor which was manufactured or acquired in violation of the\n                  provisions of W. Va. Code, ch. 60. (Code 1983, § 3-102; Ord. No. 64b, 4-19-88)\n\nNo sale of nonintoxicating beer or intoxicating liquor shall be made to the following\n               persons within this city: (1) A person less than 21 years of age. (2) A person addicted to alcoholic beverages. (3) A person who is addicted to the use of narcotic drugs. (4) A person declared mentally incompetent by a court of legal jurisdiction. (Code 1983, § 3-103; Ord. No. 64c, 4-19-88)\n\nA violation of any provision of this article shall be punishable by a fine of not\n               less than $10.00 nor more than $500.00 for each separate offense. (Code 1983, § 3-104; Ord. No. 64b, 4-19-88)\n\nFootnotes: ---…",
+          "sourceUrl": "https://library.municode.com/wv/ranson/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:ranson:2",
+          "prompt": "Besides people under 21, Ranson also bans alcohol sales to which of these?",
+          "choices": [
+            "A person addicted to alcoholic beverages or narcotic drugs, or declared mentally incompetent by a court",
+            "Anyone visiting from another county",
+            "People who already bought alcohol that day",
+            "Shoppers who pay with cash"
+          ],
+          "answer": "A person addicted to alcoholic beverages or narcotic drugs, or declared mentally incompetent by a court",
+          "excerpt": "Words and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1983, § 3-101) Cross reference— Definition of private club, § 3-40 .\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor or nonintoxicating beer or have an open container of alcoholic\n                  liquor or nonintoxicating beer in or on any public sidewalk, walkway, entranceway,\n                  street, lane or other public place. (3) Drink alcoholic liquor or nonintoxicating beer in a motor vehicle on any highway,\n                  street, alley or in a public place. (4) Drink alcoholic liquor in a motor vehicle on any street or in a public place. (5) Tender a drink of alcoholic liquor to another person in a public place. (6) Possess alcoholic liquor in an amount in excess of one gallon on containers not bearing\n                  stamps or seals of the state alcohol beverage control commission, without first having\n                  obtained written authority from the commission therefor. (7) Possess any alcoholic liquor which was manufactured or acquired in violation of the\n                  provisions of W. Va. Code, ch. 60. (Code 1983, § 3-102; Ord. No. 64b, 4-19-88)\n\nNo sale of nonintoxicating beer or intoxicating liquor shall be made to the following\n               persons within this city: (1) A person less than 21 years of age. (2) A person addicted to alcoholic beverages. (3) A person who is addicted to the use of narcotic drugs. (4) A person declared mentally incompetent by a court of legal jurisdiction. (Code 1983, § 3-103; Ord. No. 64c, 4-19-88)\n\nA violation of any provision of this article shall be punishable by a fine of not\n               less than $10.00 nor more than $500.00 for each separate offense. (Code 1983, § 3-104; Ord. No. 64b, 4-19-88)\n\nFootnotes: ---…",
+          "sourceUrl": "https://library.municode.com/wv/ranson/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        },
+        {
+          "id": "wv:ranson:3",
+          "prompt": "What yearly city license fee does a Ranson grocery store pay to sell only unchilled nonintoxicating beer in sealed containers for use off the premises?",
+          "choices": [
+            "$15",
+            "$100",
+            "$150",
+            "$2,500"
+          ],
+          "answer": "$15",
+          "excerpt": "Words and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1983, § 3-101) Cross reference— Definition of private club, § 3-40 .\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor or nonintoxicating beer or have an open container of alcoholic\n                  liquor or nonintoxicating beer in or on any public sidewalk, walkway, entranceway,\n                  street, lane or other public place. (3) Drink alcoholic liquor or nonintoxicating beer in a motor vehicle on any highway,\n                  street, alley or in a public place. (4) Drink alcoholic liquor in a motor vehicle on any street or in a public place. (5) Tender a drink of alcoholic liquor to another person in a public place. (6) Possess alcoholic liquor in an amount in excess of one gallon on containers not bearing\n                  stamps or seals of the state alcohol beverage control commission, without first having\n                  obtained written authority from the commission therefor. (7) Possess any alcoholic liquor which was manufactured or acquired in violation of the\n                  provisions of W. Va. Code, ch. 60. (Code 1983, § 3-102; Ord. No. 64b, 4-19-88)\n\nNo sale of nonintoxicating beer or intoxicating liquor shall be made to the following\n               persons within this city: (1) A person less than 21 years of age. (2) A person addicted to alcoholic beverages. (3) A person who is addicted to the use of narcotic drugs. (4) A person declared mentally incompetent by a court of legal jurisdiction. (Code 1983, § 3-103; Ord. No. 64c, 4-19-88)\n\nA violation of any provision of this article shall be punishable by a fine of not\n               less than $10.00 nor more than $500.00 for each separate offense. (Code 1983, § 3-104; Ord. No. 64b, 4-19-88)\n\nFootnotes: ---…",
+          "sourceUrl": "https://library.municode.com/wv/ranson/codes/code_of_ordinances?nodeId=PTIITHCO_CH3ALBE"
+        }
+      ]
+    },
+    {
+      "id": "ravenswood",
+      "name": "Ravenswood",
+      "sourceIndex": "https://library.municode.com/wv/ravenswood",
+      "questions": []
+    },
+    {
+      "id": "stonewood",
+      "name": "Stonewood",
+      "sourceIndex": "https://library.municode.com/wv/stonewood",
+      "questions": [
+        {
+          "id": "wv:stonewood:0",
+          "prompt": "When you buy intoxicating liquor or wine at retail in Stonewood from the alcohol beverage control commission or a licensed wine seller, what tax is added to the price?",
+          "choices": [
+            "Five percent of the retail purchase price",
+            "Ten percent of the retail purchase price",
+            "A flat $5 fee",
+            "No extra local tax"
+          ],
+          "answer": "Five percent of the retail purchase price",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— State Liquor Control Act, W. Va. Code, § 60-1-1 et seq.; state Nonintoxicating Beer\n               Act, W. Va. Code, § 11-16-1 et seq.; authority of city to tax the sale of nonintoxicating\n               beer, W. Va. Code, §§ 8-13-4, 11-16-26; authority of city council to prevent the illegal\n               sale of intoxicating liquors, W. Va. Code, § 8-12-5(20).\n\nWords and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1978, § 2-101)\n\nThere is hereby imposed a tax of five percent of the retail purchase price of any\n               and all intoxicating liquors purchased from the alcohol beverage control commission\n               or from any person licensed to sell wine at retail to the public under the provision\n               of W. Va. Code, ch. 60, art. 8, within the corporate boundaries of the municipality.\n               Such tax shall be levied upon the purchaser of said intoxicating liquor or wine, and\n               shall be added to any collected with the retail purchase price of such intoxicating\n               liquor or wine. Such tax shall be received by the municipality from the state treasury\n               pursuant to the rules and regulations adopted by the said alcohol beverage control\n               commissioner; provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from holders of a license issued under the provisions\n               of W. Va. Code, ch. 60, art. 7. (Code 1978, § 2-102; Ord. No. 2-102, 6-30-1981)\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor in a public place. (3) Drink alcoholic liquor in a motor vehicle on any street or in a public garage. (4) Tender a drink of alcoholic liquor to another…",
+          "sourceUrl": "https://library.municode.com/wv/stonewood/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "wv:stonewood:1",
+          "prompt": "Which of these is against the law in a public place in Stonewood?",
+          "choices": [
+            "Appearing in an intoxicated condition",
+            "Buying licensed wine",
+            "Walking a dog on a leash",
+            "Talking on a cell phone"
+          ],
+          "answer": "Appearing in an intoxicated condition",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— State Liquor Control Act, W. Va. Code, § 60-1-1 et seq.; state Nonintoxicating Beer\n               Act, W. Va. Code, § 11-16-1 et seq.; authority of city to tax the sale of nonintoxicating\n               beer, W. Va. Code, §§ 8-13-4, 11-16-26; authority of city council to prevent the illegal\n               sale of intoxicating liquors, W. Va. Code, § 8-12-5(20).\n\nWords and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1978, § 2-101)\n\nThere is hereby imposed a tax of five percent of the retail purchase price of any\n               and all intoxicating liquors purchased from the alcohol beverage control commission\n               or from any person licensed to sell wine at retail to the public under the provision\n               of W. Va. Code, ch. 60, art. 8, within the corporate boundaries of the municipality.\n               Such tax shall be levied upon the purchaser of said intoxicating liquor or wine, and\n               shall be added to any collected with the retail purchase price of such intoxicating\n               liquor or wine. Such tax shall be received by the municipality from the state treasury\n               pursuant to the rules and regulations adopted by the said alcohol beverage control\n               commissioner; provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from holders of a license issued under the provisions\n               of W. Va. Code, ch. 60, art. 7. (Code 1978, § 2-102; Ord. No. 2-102, 6-30-1981)\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor in a public place. (3) Drink alcoholic liquor in a motor vehicle on any street or in a public garage. (4) Tender a drink of alcoholic liquor to another…",
+          "sourceUrl": "https://library.municode.com/wv/stonewood/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "wv:stonewood:2",
+          "prompt": "Can you legally drink alcoholic liquor in a motor vehicle on a Stonewood street?",
+          "choices": [
+            "No",
+            "Yes if the engine is off",
+            "Yes if you are only a passenger",
+            "Only inside a public garage"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— State Liquor Control Act, W. Va. Code, § 60-1-1 et seq.; state Nonintoxicating Beer\n               Act, W. Va. Code, § 11-16-1 et seq.; authority of city to tax the sale of nonintoxicating\n               beer, W. Va. Code, §§ 8-13-4, 11-16-26; authority of city council to prevent the illegal\n               sale of intoxicating liquors, W. Va. Code, § 8-12-5(20).\n\nWords and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1978, § 2-101)\n\nThere is hereby imposed a tax of five percent of the retail purchase price of any\n               and all intoxicating liquors purchased from the alcohol beverage control commission\n               or from any person licensed to sell wine at retail to the public under the provision\n               of W. Va. Code, ch. 60, art. 8, within the corporate boundaries of the municipality.\n               Such tax shall be levied upon the purchaser of said intoxicating liquor or wine, and\n               shall be added to any collected with the retail purchase price of such intoxicating\n               liquor or wine. Such tax shall be received by the municipality from the state treasury\n               pursuant to the rules and regulations adopted by the said alcohol beverage control\n               commissioner; provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from holders of a license issued under the provisions\n               of W. Va. Code, ch. 60, art. 7. (Code 1978, § 2-102; Ord. No. 2-102, 6-30-1981)\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor in a public place. (3) Drink alcoholic liquor in a motor vehicle on any street or in a public garage. (4) Tender a drink of alcoholic liquor to another…",
+          "sourceUrl": "https://library.municode.com/wv/stonewood/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "wv:stonewood:3",
+          "prompt": "On weekdays, when is it unlawful to sell or drink nonintoxicating beer at a licensed place in Stonewood?",
+          "choices": [
+            "Between 2:00 a.m. and 5:30 a.m.",
+            "Between midnight and 8:00 a.m.",
+            "After 10:00 p.m.",
+            "All day long"
+          ],
+          "answer": "Between 2:00 a.m. and 5:30 a.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— State Liquor Control Act, W. Va. Code, § 60-1-1 et seq.; state Nonintoxicating Beer\n               Act, W. Va. Code, § 11-16-1 et seq.; authority of city to tax the sale of nonintoxicating\n               beer, W. Va. Code, §§ 8-13-4, 11-16-26; authority of city council to prevent the illegal\n               sale of intoxicating liquors, W. Va. Code, § 8-12-5(20).\n\nWords and phrases defined in W. Va. Code, §§ 11-16-2, 60-1-5 and 60-7-2 shall have\n               the same meanings as therein defined wherever such words and phrases are used in this\n               chapter. (Code 1978, § 2-101)\n\nThere is hereby imposed a tax of five percent of the retail purchase price of any\n               and all intoxicating liquors purchased from the alcohol beverage control commission\n               or from any person licensed to sell wine at retail to the public under the provision\n               of W. Va. Code, ch. 60, art. 8, within the corporate boundaries of the municipality.\n               Such tax shall be levied upon the purchaser of said intoxicating liquor or wine, and\n               shall be added to any collected with the retail purchase price of such intoxicating\n               liquor or wine. Such tax shall be received by the municipality from the state treasury\n               pursuant to the rules and regulations adopted by the said alcohol beverage control\n               commissioner; provided, however, that such tax shall not be collected on intoxicating\n               liquors sold by or purchased from holders of a license issued under the provisions\n               of W. Va. Code, ch. 60, art. 7. (Code 1978, § 2-102; Ord. No. 2-102, 6-30-1981)\n\nIt shall be unlawful for any person to: (1) Appear in a public place in an intoxicated condition. (2) Drink alcoholic liquor in a public place. (3) Drink alcoholic liquor in a motor vehicle on any street or in a public garage. (4) Tender a drink of alcoholic liquor to another…",
+          "sourceUrl": "https://library.municode.com/wv/stonewood/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        }
+      ]
+    }
+  ]
+}

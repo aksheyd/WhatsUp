@@ -1,0 +1,699 @@
+{
+  "state": "ky",
+  "stateName": "Kentucky",
+  "places": [
+    {
+      "id": "elsmere",
+      "name": "Elsmere",
+      "sourceIndex": "https://library.municode.com/ky/elsmere",
+      "questions": []
+    },
+    {
+      "id": "flatwoods",
+      "name": "Flatwoods",
+      "sourceIndex": "https://library.municode.com/ky/flatwoods",
+      "questions": [
+        {
+          "id": "ky:flatwoods:0",
+          "prompt": "What land can you use to keep livestock like horses, goats, or cattle in Flatwoods?",
+          "choices": [
+            "At least two acres in one piece that is fully and permanently fenced so the animals stay in",
+            "Any fenced backyard",
+            "One acre or more with a barn",
+            "A lot of any size if the animals do not smell"
+          ],
+          "answer": "At least two acres in one piece that is fully and permanently fenced so the animals stay in",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Section 5 of Ord. No. 5-2000, adopted June 20, 2000, repealed Ord. No. 9-1978 from which §§ 3-26—3-32 derived. Sections 1—4 off said ordinance enacted similar provisions to read\n               as herein set out. Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 4; licenses and business regulations, Ch. 8; mobile homes and mobile home parks, Ch. 10; nuisances, Ch. 11; streets, sidewalks and other public places, Ch. 14; traffic and motor vehicles, Ch. 15; zoning, App. A; subdivision regulations, App. B. State Law reference— Animals, KRS 252.170 et seq.\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them herein, except where the context clearly indicates a different\n               meaning: Farmland or acreage means any tract of land suitable for grazing or keeping livestock and containing\n               not less than two (2) acres in one (1) boundary, and, in order to qualify as farmland\n               or acreage within the meaning of this section, and, in addition to the two-acre requirement\n               set forth above, the land must also be entirely fenced in the area where livestock\n               is being kept, and the fencing shall be permanent in nature and shall restrain the\n               livestock at all times. Livestock includes but is not limited to poultry, cattle, horses, ponies, sheep, goats and\n               swine. (b) Nuisance declared. The keeping of livestock any place in the city except upon farmland, so as to be\n               offensive to the sight, hearing or smell of the inhabitants of the city is declared\n               to be a nuisance and is prohibited. (c) Applicability. No person who, at the time of the incorporation of the city or at the time of the\n               annexation of his property into the boundaries of the city, was the owner of farmland\n               upon which…",
+          "sourceUrl": "https://library.municode.com/ky/flatwoods/codes/code_of_ordinances?nodeId=CD_ORD_CH3AN"
+        },
+        {
+          "id": "ky:flatwoods:1",
+          "prompt": "Owning how many dogs in Flatwoods is listed as a public nuisance?",
+          "choices": [
+            "More than four",
+            "More than two",
+            "More than six",
+            "Any number if they are licensed"
+          ],
+          "answer": "More than four",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Section 5 of Ord. No. 5-2000, adopted June 20, 2000, repealed Ord. No. 9-1978 from which §§ 3-26—3-32 derived. Sections 1—4 off said ordinance enacted similar provisions to read\n               as herein set out. Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 4; licenses and business regulations, Ch. 8; mobile homes and mobile home parks, Ch. 10; nuisances, Ch. 11; streets, sidewalks and other public places, Ch. 14; traffic and motor vehicles, Ch. 15; zoning, App. A; subdivision regulations, App. B. State Law reference— Animals, KRS 252.170 et seq.\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them herein, except where the context clearly indicates a different\n               meaning: Farmland or acreage means any tract of land suitable for grazing or keeping livestock and containing\n               not less than two (2) acres in one (1) boundary, and, in order to qualify as farmland\n               or acreage within the meaning of this section, and, in addition to the two-acre requirement\n               set forth above, the land must also be entirely fenced in the area where livestock\n               is being kept, and the fencing shall be permanent in nature and shall restrain the\n               livestock at all times. Livestock includes but is not limited to poultry, cattle, horses, ponies, sheep, goats and\n               swine. (b) Nuisance declared. The keeping of livestock any place in the city except upon farmland, so as to be\n               offensive to the sight, hearing or smell of the inhabitants of the city is declared\n               to be a nuisance and is prohibited. (c) Applicability. No person who, at the time of the incorporation of the city or at the time of the\n               annexation of his property into the boundaries of the city, was the owner of farmland\n               upon which…",
+          "sourceUrl": "https://library.municode.com/ky/flatwoods/codes/code_of_ordinances?nodeId=CD_ORD_CH3AN"
+        },
+        {
+          "id": "ky:flatwoods:2",
+          "prompt": "You count as an animal's owner in Flatwoods if you feed or shelter it for:",
+          "choices": [
+            "Four consecutive days or more",
+            "One day",
+            "A full week",
+            "Thirty days"
+          ],
+          "answer": "Four consecutive days or more",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Section 5 of Ord. No. 5-2000, adopted June 20, 2000, repealed Ord. No. 9-1978 from which §§ 3-26—3-32 derived. Sections 1—4 off said ordinance enacted similar provisions to read\n               as herein set out. Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 4; licenses and business regulations, Ch. 8; mobile homes and mobile home parks, Ch. 10; nuisances, Ch. 11; streets, sidewalks and other public places, Ch. 14; traffic and motor vehicles, Ch. 15; zoning, App. A; subdivision regulations, App. B. State Law reference— Animals, KRS 252.170 et seq.\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them herein, except where the context clearly indicates a different\n               meaning: Farmland or acreage means any tract of land suitable for grazing or keeping livestock and containing\n               not less than two (2) acres in one (1) boundary, and, in order to qualify as farmland\n               or acreage within the meaning of this section, and, in addition to the two-acre requirement\n               set forth above, the land must also be entirely fenced in the area where livestock\n               is being kept, and the fencing shall be permanent in nature and shall restrain the\n               livestock at all times. Livestock includes but is not limited to poultry, cattle, horses, ponies, sheep, goats and\n               swine. (b) Nuisance declared. The keeping of livestock any place in the city except upon farmland, so as to be\n               offensive to the sight, hearing or smell of the inhabitants of the city is declared\n               to be a nuisance and is prohibited. (c) Applicability. No person who, at the time of the incorporation of the city or at the time of the\n               annexation of his property into the boundaries of the city, was the owner of farmland\n               upon which…",
+          "sourceUrl": "https://library.municode.com/ky/flatwoods/codes/code_of_ordinances?nodeId=CD_ORD_CH3AN"
+        },
+        {
+          "id": "ky:flatwoods:3",
+          "prompt": "How much is the Flatwoods city dog license for a spayed or neutered dog?",
+          "choices": [
+            "$5.00",
+            "$10.00",
+            "$25.00",
+            "Free with a rabies shot"
+          ],
+          "answer": "$5.00",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Section 5 of Ord. No. 5-2000, adopted June 20, 2000, repealed Ord. No. 9-1978 from which §§ 3-26—3-32 derived. Sections 1—4 off said ordinance enacted similar provisions to read\n               as herein set out. Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 4; licenses and business regulations, Ch. 8; mobile homes and mobile home parks, Ch. 10; nuisances, Ch. 11; streets, sidewalks and other public places, Ch. 14; traffic and motor vehicles, Ch. 15; zoning, App. A; subdivision regulations, App. B. State Law reference— Animals, KRS 252.170 et seq.\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them herein, except where the context clearly indicates a different\n               meaning: Farmland or acreage means any tract of land suitable for grazing or keeping livestock and containing\n               not less than two (2) acres in one (1) boundary, and, in order to qualify as farmland\n               or acreage within the meaning of this section, and, in addition to the two-acre requirement\n               set forth above, the land must also be entirely fenced in the area where livestock\n               is being kept, and the fencing shall be permanent in nature and shall restrain the\n               livestock at all times. Livestock includes but is not limited to poultry, cattle, horses, ponies, sheep, goats and\n               swine. (b) Nuisance declared. The keeping of livestock any place in the city except upon farmland, so as to be\n               offensive to the sight, hearing or smell of the inhabitants of the city is declared\n               to be a nuisance and is prohibited. (c) Applicability. No person who, at the time of the incorporation of the city or at the time of the\n               annexation of his property into the boundaries of the city, was the owner of farmland\n               upon which…",
+          "sourceUrl": "https://library.municode.com/ky/flatwoods/codes/code_of_ordinances?nodeId=CD_ORD_CH3AN"
+        },
+        {
+          "id": "ky:flatwoods:4",
+          "prompt": "Licensed dogs in Flatwoods must wear their tags:",
+          "choices": [
+            "On a collar at all times",
+            "Only when outside the yard",
+            "Kept by the owner at home",
+            "Attached to the leash"
+          ],
+          "answer": "On a collar at all times",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Section 5 of Ord. No. 5-2000, adopted June 20, 2000, repealed Ord. No. 9-1978 from which §§ 3-26—3-32 derived. Sections 1—4 off said ordinance enacted similar provisions to read\n               as herein set out. Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 4; licenses and business regulations, Ch. 8; mobile homes and mobile home parks, Ch. 10; nuisances, Ch. 11; streets, sidewalks and other public places, Ch. 14; traffic and motor vehicles, Ch. 15; zoning, App. A; subdivision regulations, App. B. State Law reference— Animals, KRS 252.170 et seq.\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them herein, except where the context clearly indicates a different\n               meaning: Farmland or acreage means any tract of land suitable for grazing or keeping livestock and containing\n               not less than two (2) acres in one (1) boundary, and, in order to qualify as farmland\n               or acreage within the meaning of this section, and, in addition to the two-acre requirement\n               set forth above, the land must also be entirely fenced in the area where livestock\n               is being kept, and the fencing shall be permanent in nature and shall restrain the\n               livestock at all times. Livestock includes but is not limited to poultry, cattle, horses, ponies, sheep, goats and\n               swine. (b) Nuisance declared. The keeping of livestock any place in the city except upon farmland, so as to be\n               offensive to the sight, hearing or smell of the inhabitants of the city is declared\n               to be a nuisance and is prohibited. (c) Applicability. No person who, at the time of the incorporation of the city or at the time of the\n               annexation of his property into the boundaries of the city, was the owner of farmland\n               upon which…",
+          "sourceUrl": "https://library.municode.com/ky/flatwoods/codes/code_of_ordinances?nodeId=CD_ORD_CH3AN"
+        }
+      ]
+    },
+    {
+      "id": "georgetown",
+      "name": "Georgetown",
+      "sourceIndex": "https://library.municode.com/ky/georgetown",
+      "questions": [
+        {
+          "id": "ky:georgetown:0",
+          "prompt": "What is the official name of Georgetown's recodified city ordinances?",
+          "choices": [
+            "The Georgetown Code",
+            "The Kentucky City Charter",
+            "The 1983 Municipal Handbook",
+            "Scott County Ordinances"
+          ],
+          "answer": "The Georgetown Code",
+          "excerpt": "____________ Published in 2020 by Order of the City Council ____________\n\n____________ Tom Prather Mayor ____________\n            David Lusby Tammy Lusby-Mitchell Mark Showalter Polly Singer-Eardley Todd Stone Connie Tackett Marvin Thompson Karen Tingle-Sames City Council ____________ Devon Elise Golden City Attorney ____________ Tracie Hoffman City Clerk-Treasurer PREFACE This Code constitutes a recodification of the general and permanent ordinances of\n            the City of Georgetown, Kentucky. Source materials used in the preparation of the Code were the 1983 Code (which was\n            republished in 2004), as supplemented through September 11, 2017, and ordinances subsequently\n            adopted by the city council. The source of each section is included in the history\n            note appearing in parentheses at the end thereof. The absence of such a note indicates\n            that the section is new and was adopted for the first time with the adoption of the\n            Code. By use of the comparative tables appearing in the back of this Code, the reader\n            can locate any section of the 1983 Code, as supplemented, and any subsequent ordinance\n            included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure…",
+          "sourceUrl": "https://library.municode.com/ky/georgetown/codes/code_of_ordinances?nodeId=THGECO"
+        },
+        {
+          "id": "ky:georgetown:1",
+          "prompt": "How are the chapters in The Georgetown Code arranged?",
+          "choices": [
+            "In alphabetical order",
+            "By the year each law was passed",
+            "From most to least important",
+            "By city council district"
+          ],
+          "answer": "In alphabetical order",
+          "excerpt": "____________ Published in 2020 by Order of the City Council ____________\n\n____________ Tom Prather Mayor ____________\n            David Lusby Tammy Lusby-Mitchell Mark Showalter Polly Singer-Eardley Todd Stone Connie Tackett Marvin Thompson Karen Tingle-Sames City Council ____________ Devon Elise Golden City Attorney ____________ Tracie Hoffman City Clerk-Treasurer PREFACE This Code constitutes a recodification of the general and permanent ordinances of\n            the City of Georgetown, Kentucky. Source materials used in the preparation of the Code were the 1983 Code (which was\n            republished in 2004), as supplemented through September 11, 2017, and ordinances subsequently\n            adopted by the city council. The source of each section is included in the history\n            note appearing in parentheses at the end thereof. The absence of such a note indicates\n            that the section is new and was adopted for the first time with the adoption of the\n            Code. By use of the comparative tables appearing in the back of this Code, the reader\n            can locate any section of the 1983 Code, as supplemented, and any subsequent ordinance\n            included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure…",
+          "sourceUrl": "https://library.municode.com/ky/georgetown/codes/code_of_ordinances?nodeId=THGECO"
+        },
+        {
+          "id": "ky:georgetown:2",
+          "prompt": "The 2020 code includes general and permanent city ordinances enacted on or before which date?",
+          "choices": [
+            "March 9, 2020",
+            "September 11, 2017",
+            "January 1, 1983",
+            "December 31, 2004"
+          ],
+          "answer": "March 9, 2020",
+          "excerpt": "____________ Published in 2020 by Order of the City Council ____________\n\n____________ Tom Prather Mayor ____________\n            David Lusby Tammy Lusby-Mitchell Mark Showalter Polly Singer-Eardley Todd Stone Connie Tackett Marvin Thompson Karen Tingle-Sames City Council ____________ Devon Elise Golden City Attorney ____________ Tracie Hoffman City Clerk-Treasurer PREFACE This Code constitutes a recodification of the general and permanent ordinances of\n            the City of Georgetown, Kentucky. Source materials used in the preparation of the Code were the 1983 Code (which was\n            republished in 2004), as supplemented through September 11, 2017, and ordinances subsequently\n            adopted by the city council. The source of each section is included in the history\n            note appearing in parentheses at the end thereof. The absence of such a note indicates\n            that the section is new and was adopted for the first time with the adoption of the\n            Code. By use of the comparative tables appearing in the back of this Code, the reader\n            can locate any section of the 1983 Code, as supplemented, and any subsequent ordinance\n            included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure…",
+          "sourceUrl": "https://library.municode.com/ky/georgetown/codes/code_of_ordinances?nodeId=THGECO"
+        },
+        {
+          "id": "ky:georgetown:3",
+          "prompt": "How many chapters does The Georgetown Code consist of?",
+          "choices": [
+            "Chapters 1 through 42",
+            "Only the original 1983 chapters",
+            "Chapters 1 through 20",
+            "An unlimited number of reserved chapters"
+          ],
+          "answer": "Chapters 1 through 42",
+          "excerpt": "____________ Published in 2020 by Order of the City Council ____________\n\n____________ Tom Prather Mayor ____________\n            David Lusby Tammy Lusby-Mitchell Mark Showalter Polly Singer-Eardley Todd Stone Connie Tackett Marvin Thompson Karen Tingle-Sames City Council ____________ Devon Elise Golden City Attorney ____________ Tracie Hoffman City Clerk-Treasurer PREFACE This Code constitutes a recodification of the general and permanent ordinances of\n            the City of Georgetown, Kentucky. Source materials used in the preparation of the Code were the 1983 Code (which was\n            republished in 2004), as supplemented through September 11, 2017, and ordinances subsequently\n            adopted by the city council. The source of each section is included in the history\n            note appearing in parentheses at the end thereof. The absence of such a note indicates\n            that the section is new and was adopted for the first time with the adoption of the\n            Code. By use of the comparative tables appearing in the back of this Code, the reader\n            can locate any section of the 1983 Code, as supplemented, and any subsequent ordinance\n            included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure…",
+          "sourceUrl": "https://library.municode.com/ky/georgetown/codes/code_of_ordinances?nodeId=THGECO"
+        },
+        {
+          "id": "ky:georgetown:4",
+          "prompt": "Under Georgetown's section numbering, what is the first section of chapter 6 called?",
+          "choices": [
+            "6-1",
+            "1-6",
+            "6.1",
+            "Chapter 6, Section A"
+          ],
+          "answer": "6-1",
+          "excerpt": "____________ Published in 2020 by Order of the City Council ____________\n\n____________ Tom Prather Mayor ____________\n            David Lusby Tammy Lusby-Mitchell Mark Showalter Polly Singer-Eardley Todd Stone Connie Tackett Marvin Thompson Karen Tingle-Sames City Council ____________ Devon Elise Golden City Attorney ____________ Tracie Hoffman City Clerk-Treasurer PREFACE This Code constitutes a recodification of the general and permanent ordinances of\n            the City of Georgetown, Kentucky. Source materials used in the preparation of the Code were the 1983 Code (which was\n            republished in 2004), as supplemented through September 11, 2017, and ordinances subsequently\n            adopted by the city council. The source of each section is included in the history\n            note appearing in parentheses at the end thereof. The absence of such a note indicates\n            that the section is new and was adopted for the first time with the adoption of the\n            Code. By use of the comparative tables appearing in the back of this Code, the reader\n            can locate any section of the 1983 Code, as supplemented, and any subsequent ordinance\n            included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure…",
+          "sourceUrl": "https://library.municode.com/ky/georgetown/codes/code_of_ordinances?nodeId=THGECO"
+        }
+      ]
+    },
+    {
+      "id": "hanson",
+      "name": "Hanson",
+      "sourceIndex": "https://library.municode.com/ky/hanson",
+      "questions": [
+        {
+          "id": "ky:hanson:0",
+          "prompt": "What does a yellow-painted curb mean on a Hanson street?",
+          "choices": [
+            "Short-term loading is allowed",
+            "No parking",
+            "Compact cars only",
+            "Free parking after 6 p.m."
+          ],
+          "answer": "No parking",
+          "excerpt": "A. It is unlawful for any person to leave any vehicle or other thing that may be a nuisance,\n               obstruction or hindrance in or on any street, alley or sidewalk within the city either\n               during the day or night. B. It is unlawful for any person to stop or park any vehicle on the roadway side of any\n               other vehicle stopped or parked at the edge or curb of a street. C. The city commissioners shall determine on what streets or portions thereof stopping\n               or parking shall be restricted or prohibited. Notice shall then be given by posting\n               of appropriate signs and/or painting the face and top of the curbs yellow. (Yellow\n               curbs shall mean no parking.) It shall then be unlawful for any vehicle to be parked\n               in violation of the restrictions or prohibitions as posted. D. It is unlawful for anyone to park in any one place on any of the public ways or streets\n               of the city for a period of two hours or longer. E. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: The penalty/fine for violation of this chapter shall be twenty dollars ($20.00). F. All revenue from such violations shall be deposited in the general fund of the city\n               for such use as the commissioners shall direct. (Ord. dated 6/30/03: Ord. dated 3/29/90, §§1—4)\n\nA. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: 1. Five dollars ($5.00) - if paid within twenty-four (24) hours of the receipt of such\n               violation 2. Ten dollars ($10.00) - if paid within forty-eight (48) hours 3. Fifteen dollars ($15.00) - if paid within seventy-two (72) hours 4. Twenty dollars ($20.00) - if paid…",
+          "sourceUrl": "https://library.municode.com/ky/hanson/codes/municipal_code?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ky:hanson:1",
+          "prompt": "How long can you leave a car in one spot on a Hanson public street?",
+          "choices": [
+            "All day if you are shopping",
+            "Overnight if lights are on",
+            "You may not stay two hours or longer",
+            "Until the next morning"
+          ],
+          "answer": "You may not stay two hours or longer",
+          "excerpt": "A. It is unlawful for any person to leave any vehicle or other thing that may be a nuisance,\n               obstruction or hindrance in or on any street, alley or sidewalk within the city either\n               during the day or night. B. It is unlawful for any person to stop or park any vehicle on the roadway side of any\n               other vehicle stopped or parked at the edge or curb of a street. C. The city commissioners shall determine on what streets or portions thereof stopping\n               or parking shall be restricted or prohibited. Notice shall then be given by posting\n               of appropriate signs and/or painting the face and top of the curbs yellow. (Yellow\n               curbs shall mean no parking.) It shall then be unlawful for any vehicle to be parked\n               in violation of the restrictions or prohibitions as posted. D. It is unlawful for anyone to park in any one place on any of the public ways or streets\n               of the city for a period of two hours or longer. E. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: The penalty/fine for violation of this chapter shall be twenty dollars ($20.00). F. All revenue from such violations shall be deposited in the general fund of the city\n               for such use as the commissioners shall direct. (Ord. dated 6/30/03: Ord. dated 3/29/90, §§1—4)\n\nA. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: 1. Five dollars ($5.00) - if paid within twenty-four (24) hours of the receipt of such\n               violation 2. Ten dollars ($10.00) - if paid within forty-eight (48) hours 3. Fifteen dollars ($15.00) - if paid within seventy-two (72) hours 4. Twenty dollars ($20.00) - if paid…",
+          "sourceUrl": "https://library.municode.com/ky/hanson/codes/municipal_code?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ky:hanson:2",
+          "prompt": "Is it legal in Hanson to park beside a car that is already parked at the curb (double parking)?",
+          "choices": [
+            "No, that is not allowed",
+            "Yes, if your flashers are on",
+            "Only for five minutes",
+            "Yes, after dark"
+          ],
+          "answer": "No, that is not allowed",
+          "excerpt": "A. It is unlawful for any person to leave any vehicle or other thing that may be a nuisance,\n               obstruction or hindrance in or on any street, alley or sidewalk within the city either\n               during the day or night. B. It is unlawful for any person to stop or park any vehicle on the roadway side of any\n               other vehicle stopped or parked at the edge or curb of a street. C. The city commissioners shall determine on what streets or portions thereof stopping\n               or parking shall be restricted or prohibited. Notice shall then be given by posting\n               of appropriate signs and/or painting the face and top of the curbs yellow. (Yellow\n               curbs shall mean no parking.) It shall then be unlawful for any vehicle to be parked\n               in violation of the restrictions or prohibitions as posted. D. It is unlawful for anyone to park in any one place on any of the public ways or streets\n               of the city for a period of two hours or longer. E. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: The penalty/fine for violation of this chapter shall be twenty dollars ($20.00). F. All revenue from such violations shall be deposited in the general fund of the city\n               for such use as the commissioners shall direct. (Ord. dated 6/30/03: Ord. dated 3/29/90, §§1—4)\n\nA. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: 1. Five dollars ($5.00) - if paid within twenty-four (24) hours of the receipt of such\n               violation 2. Ten dollars ($10.00) - if paid within forty-eight (48) hours 3. Fifteen dollars ($15.00) - if paid within seventy-two (72) hours 4. Twenty dollars ($20.00) - if paid…",
+          "sourceUrl": "https://library.municode.com/ky/hanson/codes/municipal_code?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ky:hanson:3",
+          "prompt": "In Hanson, repeatedly looping two or more cars through a store parking lot is treated as:",
+          "choices": [
+            "Normal customer traffic",
+            "A parade that needs a city permit",
+            "A noise complaint only",
+            "Something only the store can stop"
+          ],
+          "answer": "A parade that needs a city permit",
+          "excerpt": "A. It is unlawful for any person to leave any vehicle or other thing that may be a nuisance,\n               obstruction or hindrance in or on any street, alley or sidewalk within the city either\n               during the day or night. B. It is unlawful for any person to stop or park any vehicle on the roadway side of any\n               other vehicle stopped or parked at the edge or curb of a street. C. The city commissioners shall determine on what streets or portions thereof stopping\n               or parking shall be restricted or prohibited. Notice shall then be given by posting\n               of appropriate signs and/or painting the face and top of the curbs yellow. (Yellow\n               curbs shall mean no parking.) It shall then be unlawful for any vehicle to be parked\n               in violation of the restrictions or prohibitions as posted. D. It is unlawful for anyone to park in any one place on any of the public ways or streets\n               of the city for a period of two hours or longer. E. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: The penalty/fine for violation of this chapter shall be twenty dollars ($20.00). F. All revenue from such violations shall be deposited in the general fund of the city\n               for such use as the commissioners shall direct. (Ord. dated 6/30/03: Ord. dated 3/29/90, §§1—4)\n\nA. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: 1. Five dollars ($5.00) - if paid within twenty-four (24) hours of the receipt of such\n               violation 2. Ten dollars ($10.00) - if paid within forty-eight (48) hours 3. Fifteen dollars ($15.00) - if paid within seventy-two (72) hours 4. Twenty dollars ($20.00) - if paid…",
+          "sourceUrl": "https://library.municode.com/ky/hanson/codes/municipal_code?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ky:hanson:4",
+          "prompt": "Which of these does NOT need a parade permit in Hanson?",
+          "choices": [
+            "A march down a city street",
+            "Cars cruising a shopping-center lot",
+            "A funeral procession",
+            "A ceremony in a city park"
+          ],
+          "answer": "A funeral procession",
+          "excerpt": "A. It is unlawful for any person to leave any vehicle or other thing that may be a nuisance,\n               obstruction or hindrance in or on any street, alley or sidewalk within the city either\n               during the day or night. B. It is unlawful for any person to stop or park any vehicle on the roadway side of any\n               other vehicle stopped or parked at the edge or curb of a street. C. The city commissioners shall determine on what streets or portions thereof stopping\n               or parking shall be restricted or prohibited. Notice shall then be given by posting\n               of appropriate signs and/or painting the face and top of the curbs yellow. (Yellow\n               curbs shall mean no parking.) It shall then be unlawful for any vehicle to be parked\n               in violation of the restrictions or prohibitions as posted. D. It is unlawful for anyone to park in any one place on any of the public ways or streets\n               of the city for a period of two hours or longer. E. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: The penalty/fine for violation of this chapter shall be twenty dollars ($20.00). F. All revenue from such violations shall be deposited in the general fund of the city\n               for such use as the commissioners shall direct. (Ord. dated 6/30/03: Ord. dated 3/29/90, §§1—4)\n\nA. A notice of violation shall be placed upon any vehicle parked in violation of this\n               chapter, setting forth the violation and directing the owner or operator to pay as\n               follows: 1. Five dollars ($5.00) - if paid within twenty-four (24) hours of the receipt of such\n               violation 2. Ten dollars ($10.00) - if paid within forty-eight (48) hours 3. Fifteen dollars ($15.00) - if paid within seventy-two (72) hours 4. Twenty dollars ($20.00) - if paid…",
+          "sourceUrl": "https://library.municode.com/ky/hanson/codes/municipal_code?nodeId=TIT10VETR"
+        }
+      ]
+    },
+    {
+      "id": "henderson",
+      "name": "Henderson",
+      "sourceIndex": "https://library.municode.com/ky/henderson",
+      "questions": [
+        {
+          "id": "ky:henderson:0",
+          "prompt": "On a weekday, Henderson places licensed to sell alcohol generally cannot remain open between which hours?",
+          "choices": [
+            "2:00 a.m. and 6:00 a.m.",
+            "Midnight and 9:00 a.m.",
+            "3:00 a.m. and 7:00 a.m.",
+            "They have no required closing hours"
+          ],
+          "answer": "2:00 a.m. and 6:00 a.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Possession of alcoholic beverages in parks prohibited, § 17-2. State Law reference— Alcoholic beverages, KRS Chs. 241—244.\n\nThe words and phrases used in this chapter shall have the same meaning as defined\n               in KRS Chapters 241, 243 and 244. As used herein the term \"hotels\" shall include motels. (Code 1968, § 113.04) Cross reference— Definitions and rules of construction generally, § 1-2 .\n\nThe provisions of this chapter shall be applicable to the sale and traffic in alcoholic\n               beverages, unless specifically provided to the contrary. (Code 1968, § 113.02)\n\nThe provisions of the Alcoholic Beverage Control Law of the state, including KRS Chapters\n               241, 243 and 244 and the regulations of the state alcoholic beverage control board,\n               as the same may from time to time be amended, are hereby adopted as part of the alcoholic\n               beverage control law of the city, except as otherwise lawfully provided herein. (Code 1968, § 113.03)\n\n(a) Under authority of KRS 241.160 there is hereby created the office of city alcoholic\n               beverage administrator for the city (hereinafter in this chapter referred to as the\n               administrator), who shall have the duties and functions prescribed by KRS Chapter\n               241. The administrator may or may not be an officer or employee of the city, and shall\n               be appointed by the city manager. He shall also have such further duties and functions\n               as are prescribed in this chapter. (b) The administrator, before entering upon his duties as such, shall take the oath as\n               prescribed by Section 228 of the Constitution and shall execute a bond with a good\n               and solvent, corporate surety in the sum of not less than one thousand dollars ($1,000.00),\n               faithfully to perform the duties of his office pursuant to the provisions of KRS 62.060\n               et seq.…",
+          "sourceUrl": "https://library.municode.com/ky/henderson/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ky:henderson:1",
+          "prompt": "With a special Sunday retail drink license, when can a Henderson bar sell drinks on a regular Sunday?",
+          "choices": [
+            "10:00 a.m. until 11:00 p.m.",
+            "Noon until 2:00 a.m. Monday",
+            "8:00 a.m. until midnight",
+            "All day"
+          ],
+          "answer": "10:00 a.m. until 11:00 p.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Possession of alcoholic beverages in parks prohibited, § 17-2. State Law reference— Alcoholic beverages, KRS Chs. 241—244.\n\nThe words and phrases used in this chapter shall have the same meaning as defined\n               in KRS Chapters 241, 243 and 244. As used herein the term \"hotels\" shall include motels. (Code 1968, § 113.04) Cross reference— Definitions and rules of construction generally, § 1-2 .\n\nThe provisions of this chapter shall be applicable to the sale and traffic in alcoholic\n               beverages, unless specifically provided to the contrary. (Code 1968, § 113.02)\n\nThe provisions of the Alcoholic Beverage Control Law of the state, including KRS Chapters\n               241, 243 and 244 and the regulations of the state alcoholic beverage control board,\n               as the same may from time to time be amended, are hereby adopted as part of the alcoholic\n               beverage control law of the city, except as otherwise lawfully provided herein. (Code 1968, § 113.03)\n\n(a) Under authority of KRS 241.160 there is hereby created the office of city alcoholic\n               beverage administrator for the city (hereinafter in this chapter referred to as the\n               administrator), who shall have the duties and functions prescribed by KRS Chapter\n               241. The administrator may or may not be an officer or employee of the city, and shall\n               be appointed by the city manager. He shall also have such further duties and functions\n               as are prescribed in this chapter. (b) The administrator, before entering upon his duties as such, shall take the oath as\n               prescribed by Section 228 of the Constitution and shall execute a bond with a good\n               and solvent, corporate surety in the sum of not less than one thousand dollars ($1,000.00),\n               faithfully to perform the duties of his office pursuant to the provisions of KRS 62.060\n               et seq.…",
+          "sourceUrl": "https://library.municode.com/ky/henderson/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ky:henderson:2",
+          "prompt": "What are Henderson alcohol licensees prohibited from doing in connection with selling alcoholic beverages?",
+          "choices": [
+            "Giving away anything of value as a prize or premium",
+            "Selling on Sunday with extra permission",
+            "Keeping books and records of sales",
+            "Locking alcohol in a separate compartment after hours"
+          ],
+          "answer": "Giving away anything of value as a prize or premium",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Possession of alcoholic beverages in parks prohibited, § 17-2. State Law reference— Alcoholic beverages, KRS Chs. 241—244.\n\nThe words and phrases used in this chapter shall have the same meaning as defined\n               in KRS Chapters 241, 243 and 244. As used herein the term \"hotels\" shall include motels. (Code 1968, § 113.04) Cross reference— Definitions and rules of construction generally, § 1-2 .\n\nThe provisions of this chapter shall be applicable to the sale and traffic in alcoholic\n               beverages, unless specifically provided to the contrary. (Code 1968, § 113.02)\n\nThe provisions of the Alcoholic Beverage Control Law of the state, including KRS Chapters\n               241, 243 and 244 and the regulations of the state alcoholic beverage control board,\n               as the same may from time to time be amended, are hereby adopted as part of the alcoholic\n               beverage control law of the city, except as otherwise lawfully provided herein. (Code 1968, § 113.03)\n\n(a) Under authority of KRS 241.160 there is hereby created the office of city alcoholic\n               beverage administrator for the city (hereinafter in this chapter referred to as the\n               administrator), who shall have the duties and functions prescribed by KRS Chapter\n               241. The administrator may or may not be an officer or employee of the city, and shall\n               be appointed by the city manager. He shall also have such further duties and functions\n               as are prescribed in this chapter. (b) The administrator, before entering upon his duties as such, shall take the oath as\n               prescribed by Section 228 of the Constitution and shall execute a bond with a good\n               and solvent, corporate surety in the sum of not less than one thousand dollars ($1,000.00),\n               faithfully to perform the duties of his office pursuant to the provisions of KRS 62.060\n               et seq.…",
+          "sourceUrl": "https://library.municode.com/ky/henderson/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ky:henderson:3",
+          "prompt": "What is a licensed alcohol seller in Henderson not allowed to permit on the premises?",
+          "choices": [
+            "Anyone becoming drunk, or a drunk person remaining there",
+            "Employees opening containers of alcohol",
+            "Customers buying package alcohol on Sunday",
+            "Calling a motel a hotel"
+          ],
+          "answer": "Anyone becoming drunk, or a drunk person remaining there",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Possession of alcoholic beverages in parks prohibited, § 17-2. State Law reference— Alcoholic beverages, KRS Chs. 241—244.\n\nThe words and phrases used in this chapter shall have the same meaning as defined\n               in KRS Chapters 241, 243 and 244. As used herein the term \"hotels\" shall include motels. (Code 1968, § 113.04) Cross reference— Definitions and rules of construction generally, § 1-2 .\n\nThe provisions of this chapter shall be applicable to the sale and traffic in alcoholic\n               beverages, unless specifically provided to the contrary. (Code 1968, § 113.02)\n\nThe provisions of the Alcoholic Beverage Control Law of the state, including KRS Chapters\n               241, 243 and 244 and the regulations of the state alcoholic beverage control board,\n               as the same may from time to time be amended, are hereby adopted as part of the alcoholic\n               beverage control law of the city, except as otherwise lawfully provided herein. (Code 1968, § 113.03)\n\n(a) Under authority of KRS 241.160 there is hereby created the office of city alcoholic\n               beverage administrator for the city (hereinafter in this chapter referred to as the\n               administrator), who shall have the duties and functions prescribed by KRS Chapter\n               241. The administrator may or may not be an officer or employee of the city, and shall\n               be appointed by the city manager. He shall also have such further duties and functions\n               as are prescribed in this chapter. (b) The administrator, before entering upon his duties as such, shall take the oath as\n               prescribed by Section 228 of the Constitution and shall execute a bond with a good\n               and solvent, corporate surety in the sum of not less than one thousand dollars ($1,000.00),\n               faithfully to perform the duties of his office pursuant to the provisions of KRS 62.060\n               et seq.…",
+          "sourceUrl": "https://library.municode.com/ky/henderson/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "hickman",
+      "name": "Hickman",
+      "sourceIndex": "https://library.municode.com/ky/hickman",
+      "questions": []
+    },
+    {
+      "id": "hopkins-county",
+      "name": "Hopkins County",
+      "sourceIndex": "https://library.municode.com/ky/hopkins_county",
+      "questions": [
+        {
+          "id": "ky:hopkins-county:0",
+          "prompt": "If you want Hopkins County to freeze your property’s tax assessment while you restore an old house or commercial building, when must you file the application?",
+          "choices": [
+            "Within 30 days after you finish the work",
+            "Within 30 days before you start the work",
+            "Anytime while construction is underway",
+            "Only after a county inspection of the finished job"
+          ],
+          "answer": "Within 30 days before you start the work",
+          "excerpt": "(a) The state building code, promulgated in 815 KAR 7:120 and the state residential code,\n               promulgated in 815 KAR 7:125, and all future updates by the state board of housing,\n               buildings and construction, are hereby adopted in full as the building code of the\n               county as if set out at length herein. (b) A copy of said state building code is on file in the office of the county joint planning\n               commission, which shall at all times keep a copy of said building code for reference. (c) An attested copy of this article has been transmitted to the state office of housing,\n               buildings and construction. (Ord. No. 2001-3, § 1, 2-1-2001; Ord. No. 2011-07, § 1, 12-15-2011)\n\nThe fiscal court shall be designated as the local enforcement agency for state building\n               code and shall appoint the necessary officer for enforcement. All building code inspections\n               shall be performed by persons certified by the state office of housing, buildings\n               and construction. All electrical inspections shall be performed by a state certified\n               electrical inspector specifically approved by this jurisdiction. (Ord. No. 2001-3, § 2, 2-1-2001; Ord. No. 2011-07, § 2, 12-15-2011)\n\nPursuant to KRS 198B.060(8), a building inspection program is hereby established in\n               the county for application to all buildings. This section incorporates by reference\n               the building inspection program for detached single-family dwellings. (Ord. No. 2001-3, § 3, 2-1-2001; Ord. No. 2011-07, § 3, 12-15-2011)\n\nThe fees for permits and inspections shall be as provided in the schedule on file\n               in the county clerk's office. (Ord. No. 2001-3, § 4, 2-1-2001; Ord. No. 2011-07, § 4, 12-15-2011)\n\nAny person violating any of the provisions of this article, the state building code\n               or state residential code, as adopted by this article, shall be fined as provided\n       …",
+          "sourceUrl": "https://library.municode.com/ky/hopkins_county/codes/code_of_ordinances?nodeId=COOR_CH4BUBURE"
+        },
+        {
+          "id": "ky:hopkins-county:1",
+          "prompt": "How old must a house or commercial building be in Hopkins County to qualify for that tax-assessment freeze?",
+          "choices": [
+            "At least 10 years old",
+            "At least 25 years old",
+            "At least 50 years old",
+            "Any age if the building needs major repairs"
+          ],
+          "answer": "At least 25 years old",
+          "excerpt": "(a) The state building code, promulgated in 815 KAR 7:120 and the state residential code,\n               promulgated in 815 KAR 7:125, and all future updates by the state board of housing,\n               buildings and construction, are hereby adopted in full as the building code of the\n               county as if set out at length herein. (b) A copy of said state building code is on file in the office of the county joint planning\n               commission, which shall at all times keep a copy of said building code for reference. (c) An attested copy of this article has been transmitted to the state office of housing,\n               buildings and construction. (Ord. No. 2001-3, § 1, 2-1-2001; Ord. No. 2011-07, § 1, 12-15-2011)\n\nThe fiscal court shall be designated as the local enforcement agency for state building\n               code and shall appoint the necessary officer for enforcement. All building code inspections\n               shall be performed by persons certified by the state office of housing, buildings\n               and construction. All electrical inspections shall be performed by a state certified\n               electrical inspector specifically approved by this jurisdiction. (Ord. No. 2001-3, § 2, 2-1-2001; Ord. No. 2011-07, § 2, 12-15-2011)\n\nPursuant to KRS 198B.060(8), a building inspection program is hereby established in\n               the county for application to all buildings. This section incorporates by reference\n               the building inspection program for detached single-family dwellings. (Ord. No. 2001-3, § 3, 2-1-2001; Ord. No. 2011-07, § 3, 12-15-2011)\n\nThe fees for permits and inspections shall be as provided in the schedule on file\n               in the county clerk's office. (Ord. No. 2001-3, § 4, 2-1-2001; Ord. No. 2011-07, § 4, 12-15-2011)\n\nAny person violating any of the provisions of this article, the state building code\n               or state residential code, as adopted by this article, shall be fined as provided\n       …",
+          "sourceUrl": "https://library.municode.com/ky/hopkins_county/codes/code_of_ordinances?nodeId=COOR_CH4BUBURE"
+        },
+        {
+          "id": "ky:hopkins-county:2",
+          "prompt": "Once Hopkins County grants the tax-assessment freeze for restoring an old building, how long does the freeze last?",
+          "choices": [
+            "Two years",
+            "Five years",
+            "Ten years",
+            "Until the property is sold"
+          ],
+          "answer": "Five years",
+          "excerpt": "(a) The state building code, promulgated in 815 KAR 7:120 and the state residential code,\n               promulgated in 815 KAR 7:125, and all future updates by the state board of housing,\n               buildings and construction, are hereby adopted in full as the building code of the\n               county as if set out at length herein. (b) A copy of said state building code is on file in the office of the county joint planning\n               commission, which shall at all times keep a copy of said building code for reference. (c) An attested copy of this article has been transmitted to the state office of housing,\n               buildings and construction. (Ord. No. 2001-3, § 1, 2-1-2001; Ord. No. 2011-07, § 1, 12-15-2011)\n\nThe fiscal court shall be designated as the local enforcement agency for state building\n               code and shall appoint the necessary officer for enforcement. All building code inspections\n               shall be performed by persons certified by the state office of housing, buildings\n               and construction. All electrical inspections shall be performed by a state certified\n               electrical inspector specifically approved by this jurisdiction. (Ord. No. 2001-3, § 2, 2-1-2001; Ord. No. 2011-07, § 2, 12-15-2011)\n\nPursuant to KRS 198B.060(8), a building inspection program is hereby established in\n               the county for application to all buildings. This section incorporates by reference\n               the building inspection program for detached single-family dwellings. (Ord. No. 2001-3, § 3, 2-1-2001; Ord. No. 2011-07, § 3, 12-15-2011)\n\nThe fees for permits and inspections shall be as provided in the schedule on file\n               in the county clerk's office. (Ord. No. 2001-3, § 4, 2-1-2001; Ord. No. 2011-07, § 4, 12-15-2011)\n\nAny person violating any of the provisions of this article, the state building code\n               or state residential code, as adopted by this article, shall be fined as provided\n       …",
+          "sourceUrl": "https://library.municode.com/ky/hopkins_county/codes/code_of_ordinances?nodeId=COOR_CH4BUBURE"
+        },
+        {
+          "id": "ky:hopkins-county:3",
+          "prompt": "After you apply for the freeze, how long do you have to finish the restoration work?",
+          "choices": [
+            "One year",
+            "Two years, plus up to two extra years if the county grants an extension",
+            "Five years",
+            "There is no time limit"
+          ],
+          "answer": "Two years, plus up to two extra years if the county grants an extension",
+          "excerpt": "(a) The state building code, promulgated in 815 KAR 7:120 and the state residential code,\n               promulgated in 815 KAR 7:125, and all future updates by the state board of housing,\n               buildings and construction, are hereby adopted in full as the building code of the\n               county as if set out at length herein. (b) A copy of said state building code is on file in the office of the county joint planning\n               commission, which shall at all times keep a copy of said building code for reference. (c) An attested copy of this article has been transmitted to the state office of housing,\n               buildings and construction. (Ord. No. 2001-3, § 1, 2-1-2001; Ord. No. 2011-07, § 1, 12-15-2011)\n\nThe fiscal court shall be designated as the local enforcement agency for state building\n               code and shall appoint the necessary officer for enforcement. All building code inspections\n               shall be performed by persons certified by the state office of housing, buildings\n               and construction. All electrical inspections shall be performed by a state certified\n               electrical inspector specifically approved by this jurisdiction. (Ord. No. 2001-3, § 2, 2-1-2001; Ord. No. 2011-07, § 2, 12-15-2011)\n\nPursuant to KRS 198B.060(8), a building inspection program is hereby established in\n               the county for application to all buildings. This section incorporates by reference\n               the building inspection program for detached single-family dwellings. (Ord. No. 2001-3, § 3, 2-1-2001; Ord. No. 2011-07, § 3, 12-15-2011)\n\nThe fees for permits and inspections shall be as provided in the schedule on file\n               in the county clerk's office. (Ord. No. 2001-3, § 4, 2-1-2001; Ord. No. 2011-07, § 4, 12-15-2011)\n\nAny person violating any of the provisions of this article, the state building code\n               or state residential code, as adopted by this article, shall be fined as provided\n       …",
+          "sourceUrl": "https://library.municode.com/ky/hopkins_county/codes/code_of_ordinances?nodeId=COOR_CH4BUBURE"
+        }
+      ]
+    },
+    {
+      "id": "mayfield",
+      "name": "Mayfield",
+      "sourceIndex": "https://library.municode.com/ky/mayfield",
+      "questions": [
+        {
+          "id": "ky:mayfield:0",
+          "prompt": "In Mayfield, which animals besides ordinary dogs count as a \"dog\" under city rules?",
+          "choices": [
+            "Any pet wolf, fox or similar animal",
+            "Only animals bought at a pet shop",
+            "Squirrels and raccoons",
+            "Farm chickens"
+          ],
+          "answer": "Any pet wolf, fox or similar animal",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Keeping so as to constitute a nuisance, § 7-1(16); noisy animals, § 7-4(3). State Law reference— Agriculture and animals, KRS ch. 246 et seq.\n\nAs used in this chapter, the following terms shall have the respective meanings ascribed\n               to them: At large means off the premises of the owner and not restrained by a leash, chain or chord\n               and under the control of the owner or individual with physical capacity to control\n               the dog. Dog means any member of the canine family of any age; any pet wolf, fox or similar animal. Animal control officer means for the purposes of this chapter, any person or persons (independent contractor)\n               employed or contracted for in such capacity by the city, the county or by any joint\n               venture between the city and any other government organizations to assist the city\n               police department in the enforcement of this chapter. Harboring means any person who shall permit any dog to remain, be lodged or maintained and\n               feed within his or her home, yard, place of business or enclosure. Inoculation means the subcutaneous injection at one time, but in several sites if necessary,\n               of not less than five milliliters of a killed anti-rabies vaccine for dogs, which\n               vaccine meets the standards prescribed by the United States Department of Agriculture\n               for interstate sale. Owner means any person having a right of property in a dog or other domestic animal, or\n               who keeps or harbors a dog or other domestic animal, or who has it in such person's\n               care or acts as its custodian, or who permits a dog or other domestic animal to remain\n               on or about any premises owned or occupied by such person. If a dog is owned by a\n               family, all adult members of the family, individually and jointly, shall be deemed\n               owners of the dog for…",
+          "sourceUrl": "https://library.municode.com/ky/mayfield/codes/code_of_ordinances?nodeId=COOR_CH3ANFO"
+        },
+        {
+          "id": "ky:mayfield:1",
+          "prompt": "Which dogs count as vicious in Mayfield even if they have never attacked anyone?",
+          "choices": [
+            "All dogs over 50 pounds",
+            "Pit bulls, Rottweilers and mixed breeds of those",
+            "Only dogs that sleep outdoors",
+            "Hunting hounds"
+          ],
+          "answer": "Pit bulls, Rottweilers and mixed breeds of those",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Keeping so as to constitute a nuisance, § 7-1(16); noisy animals, § 7-4(3). State Law reference— Agriculture and animals, KRS ch. 246 et seq.\n\nAs used in this chapter, the following terms shall have the respective meanings ascribed\n               to them: At large means off the premises of the owner and not restrained by a leash, chain or chord\n               and under the control of the owner or individual with physical capacity to control\n               the dog. Dog means any member of the canine family of any age; any pet wolf, fox or similar animal. Animal control officer means for the purposes of this chapter, any person or persons (independent contractor)\n               employed or contracted for in such capacity by the city, the county or by any joint\n               venture between the city and any other government organizations to assist the city\n               police department in the enforcement of this chapter. Harboring means any person who shall permit any dog to remain, be lodged or maintained and\n               feed within his or her home, yard, place of business or enclosure. Inoculation means the subcutaneous injection at one time, but in several sites if necessary,\n               of not less than five milliliters of a killed anti-rabies vaccine for dogs, which\n               vaccine meets the standards prescribed by the United States Department of Agriculture\n               for interstate sale. Owner means any person having a right of property in a dog or other domestic animal, or\n               who keeps or harbors a dog or other domestic animal, or who has it in such person's\n               care or acts as its custodian, or who permits a dog or other domestic animal to remain\n               on or about any premises owned or occupied by such person. If a dog is owned by a\n               family, all adult members of the family, individually and jointly, shall be deemed\n               owners of the dog for…",
+          "sourceUrl": "https://library.municode.com/ky/mayfield/codes/code_of_ordinances?nodeId=COOR_CH3ANFO"
+        },
+        {
+          "id": "ky:mayfield:2",
+          "prompt": "An outdoor pen for a vicious dog in Mayfield must have sides six feet high or what else?",
+          "choices": [
+            "A secure top",
+            "A radio playing",
+            "An unlocked gate",
+            "A welcome mat"
+          ],
+          "answer": "A secure top",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Keeping so as to constitute a nuisance, § 7-1(16); noisy animals, § 7-4(3). State Law reference— Agriculture and animals, KRS ch. 246 et seq.\n\nAs used in this chapter, the following terms shall have the respective meanings ascribed\n               to them: At large means off the premises of the owner and not restrained by a leash, chain or chord\n               and under the control of the owner or individual with physical capacity to control\n               the dog. Dog means any member of the canine family of any age; any pet wolf, fox or similar animal. Animal control officer means for the purposes of this chapter, any person or persons (independent contractor)\n               employed or contracted for in such capacity by the city, the county or by any joint\n               venture between the city and any other government organizations to assist the city\n               police department in the enforcement of this chapter. Harboring means any person who shall permit any dog to remain, be lodged or maintained and\n               feed within his or her home, yard, place of business or enclosure. Inoculation means the subcutaneous injection at one time, but in several sites if necessary,\n               of not less than five milliliters of a killed anti-rabies vaccine for dogs, which\n               vaccine meets the standards prescribed by the United States Department of Agriculture\n               for interstate sale. Owner means any person having a right of property in a dog or other domestic animal, or\n               who keeps or harbors a dog or other domestic animal, or who has it in such person's\n               care or acts as its custodian, or who permits a dog or other domestic animal to remain\n               on or about any premises owned or occupied by such person. If a dog is owned by a\n               family, all adult members of the family, individually and jointly, shall be deemed\n               owners of the dog for…",
+          "sourceUrl": "https://library.municode.com/ky/mayfield/codes/code_of_ordinances?nodeId=COOR_CH3ANFO"
+        },
+        {
+          "id": "ky:mayfield:3",
+          "prompt": "If a vicious dog's outdoor pen in Mayfield has no concrete, cement or asphalt bottom, how far must the sides go into the ground?",
+          "choices": [
+            "Six inches",
+            "No less than one foot",
+            "They can rest on top of the dirt",
+            "Three feet"
+          ],
+          "answer": "No less than one foot",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Keeping so as to constitute a nuisance, § 7-1(16); noisy animals, § 7-4(3). State Law reference— Agriculture and animals, KRS ch. 246 et seq.\n\nAs used in this chapter, the following terms shall have the respective meanings ascribed\n               to them: At large means off the premises of the owner and not restrained by a leash, chain or chord\n               and under the control of the owner or individual with physical capacity to control\n               the dog. Dog means any member of the canine family of any age; any pet wolf, fox or similar animal. Animal control officer means for the purposes of this chapter, any person or persons (independent contractor)\n               employed or contracted for in such capacity by the city, the county or by any joint\n               venture between the city and any other government organizations to assist the city\n               police department in the enforcement of this chapter. Harboring means any person who shall permit any dog to remain, be lodged or maintained and\n               feed within his or her home, yard, place of business or enclosure. Inoculation means the subcutaneous injection at one time, but in several sites if necessary,\n               of not less than five milliliters of a killed anti-rabies vaccine for dogs, which\n               vaccine meets the standards prescribed by the United States Department of Agriculture\n               for interstate sale. Owner means any person having a right of property in a dog or other domestic animal, or\n               who keeps or harbors a dog or other domestic animal, or who has it in such person's\n               care or acts as its custodian, or who permits a dog or other domestic animal to remain\n               on or about any premises owned or occupied by such person. If a dog is owned by a\n               family, all adult members of the family, individually and jointly, shall be deemed\n               owners of the dog for…",
+          "sourceUrl": "https://library.municode.com/ky/mayfield/codes/code_of_ordinances?nodeId=COOR_CH3ANFO"
+        },
+        {
+          "id": "ky:mayfield:4",
+          "prompt": "When a vicious dog is confined in Mayfield, what must be posted at the confinement area?",
+          "choices": [
+            "A conspicuous notice to warn the public of the nature of the dog",
+            "The owner's phone number in tiny print",
+            "Nothing extra",
+            "A \"free puppies\" sign"
+          ],
+          "answer": "A conspicuous notice to warn the public of the nature of the dog",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Keeping so as to constitute a nuisance, § 7-1(16); noisy animals, § 7-4(3). State Law reference— Agriculture and animals, KRS ch. 246 et seq.\n\nAs used in this chapter, the following terms shall have the respective meanings ascribed\n               to them: At large means off the premises of the owner and not restrained by a leash, chain or chord\n               and under the control of the owner or individual with physical capacity to control\n               the dog. Dog means any member of the canine family of any age; any pet wolf, fox or similar animal. Animal control officer means for the purposes of this chapter, any person or persons (independent contractor)\n               employed or contracted for in such capacity by the city, the county or by any joint\n               venture between the city and any other government organizations to assist the city\n               police department in the enforcement of this chapter. Harboring means any person who shall permit any dog to remain, be lodged or maintained and\n               feed within his or her home, yard, place of business or enclosure. Inoculation means the subcutaneous injection at one time, but in several sites if necessary,\n               of not less than five milliliters of a killed anti-rabies vaccine for dogs, which\n               vaccine meets the standards prescribed by the United States Department of Agriculture\n               for interstate sale. Owner means any person having a right of property in a dog or other domestic animal, or\n               who keeps or harbors a dog or other domestic animal, or who has it in such person's\n               care or acts as its custodian, or who permits a dog or other domestic animal to remain\n               on or about any premises owned or occupied by such person. If a dog is owned by a\n               family, all adult members of the family, individually and jointly, shall be deemed\n               owners of the dog for…",
+          "sourceUrl": "https://library.municode.com/ky/mayfield/codes/code_of_ordinances?nodeId=COOR_CH3ANFO"
+        }
+      ]
+    },
+    {
+      "id": "maysville",
+      "name": "Maysville",
+      "sourceIndex": "https://library.municode.com/ky/maysville",
+      "questions": [
+        {
+          "id": "ky:maysville:0",
+          "prompt": "What is the first-offense civil fine for a weeds violation in Maysville?",
+          "choices": [
+            "$25",
+            "$50",
+            "$100",
+            "$15"
+          ],
+          "answer": "$50",
+          "excerpt": "(A) The provisions of this, and subsequent chapters in this, volume shall constitute and\n               be designated and cited as the \"Maysville Code of Ordinances of 2007\". (B) Unless otherwise provided herein, or by law or implication required, the same rules\n               of construction, definition and application shall govern the interpretation of this\n               code as those governing the interpretation of the Kentucky Revised Statutes. (C) Statutory footnotes, annotation references, opinion references, cross-references,\n               forms prescribed and other comments are by way of explanation only and should not\n               be deemed a part of the text of any section. (D) Unless otherwise provided, all provisions of this code are limited in application\n               to the territorial boundaries of the municipal corporation although the same may not\n               be so limited specifically. (1991 Code, § 10.01) Cross reference— Extraterritorial jurisdiction of Police and Fire Departments, see § 90.28 .\n\nAll of the provisions of Title I, not incompatible with future legislation, shall\n               apply to ordinances hereafter adopted, amending or supplementing this code unless\n               otherwise specifically provided. (1991 Code, § 10.02)\n\nTitle heads, chapter heads and section heads are employed for reference purposes only\n               and shall not be deemed a part of the text of any section. (1991 Code, § 10.03)\n\n(A) In the construction of this code and of all ordinances of the city, the following\n               definitions and rules of construction shall be observed, unless they are inconsistent\n               with the intent of the Board of Commissioners or the context clearly requires otherwise. And or or. Includes the other as if written and/or. Board. The board of commissioners of the City of Maysville, unless the context refers to\n               some other agency as \"Board\". City, municipal corporation or municipality. The…",
+          "sourceUrl": "https://library.municode.com/ky/maysville/codes/code_of_ordinances?nodeId=CD_ORD_TITICOCOPE"
+        },
+        {
+          "id": "ky:maysville:1",
+          "prompt": "On a third street-sweeping offense, if the $50 fine is not paid, what extra step can the city take?",
+          "choices": [
+            "Put a boot on your vehicle",
+            "Tow the car right away",
+            "Give 30 days in jail",
+            "Add a $500 extra fine"
+          ],
+          "answer": "Put a boot on your vehicle",
+          "excerpt": "(A) The provisions of this, and subsequent chapters in this, volume shall constitute and\n               be designated and cited as the \"Maysville Code of Ordinances of 2007\". (B) Unless otherwise provided herein, or by law or implication required, the same rules\n               of construction, definition and application shall govern the interpretation of this\n               code as those governing the interpretation of the Kentucky Revised Statutes. (C) Statutory footnotes, annotation references, opinion references, cross-references,\n               forms prescribed and other comments are by way of explanation only and should not\n               be deemed a part of the text of any section. (D) Unless otherwise provided, all provisions of this code are limited in application\n               to the territorial boundaries of the municipal corporation although the same may not\n               be so limited specifically. (1991 Code, § 10.01) Cross reference— Extraterritorial jurisdiction of Police and Fire Departments, see § 90.28 .\n\nAll of the provisions of Title I, not incompatible with future legislation, shall\n               apply to ordinances hereafter adopted, amending or supplementing this code unless\n               otherwise specifically provided. (1991 Code, § 10.02)\n\nTitle heads, chapter heads and section heads are employed for reference purposes only\n               and shall not be deemed a part of the text of any section. (1991 Code, § 10.03)\n\n(A) In the construction of this code and of all ordinances of the city, the following\n               definitions and rules of construction shall be observed, unless they are inconsistent\n               with the intent of the Board of Commissioners or the context clearly requires otherwise. And or or. Includes the other as if written and/or. Board. The board of commissioners of the City of Maysville, unless the context refers to\n               some other agency as \"Board\". City, municipal corporation or municipality. The…",
+          "sourceUrl": "https://library.municode.com/ky/maysville/codes/code_of_ordinances?nodeId=CD_ORD_TITICOCOPE"
+        },
+        {
+          "id": "ky:maysville:2",
+          "prompt": "What is the first-offense civil fine for a dangerous-animals violation?",
+          "choices": [
+            "$25",
+            "$50",
+            "$100",
+            "$150"
+          ],
+          "answer": "$25",
+          "excerpt": "(A) The provisions of this, and subsequent chapters in this, volume shall constitute and\n               be designated and cited as the \"Maysville Code of Ordinances of 2007\". (B) Unless otherwise provided herein, or by law or implication required, the same rules\n               of construction, definition and application shall govern the interpretation of this\n               code as those governing the interpretation of the Kentucky Revised Statutes. (C) Statutory footnotes, annotation references, opinion references, cross-references,\n               forms prescribed and other comments are by way of explanation only and should not\n               be deemed a part of the text of any section. (D) Unless otherwise provided, all provisions of this code are limited in application\n               to the territorial boundaries of the municipal corporation although the same may not\n               be so limited specifically. (1991 Code, § 10.01) Cross reference— Extraterritorial jurisdiction of Police and Fire Departments, see § 90.28 .\n\nAll of the provisions of Title I, not incompatible with future legislation, shall\n               apply to ordinances hereafter adopted, amending or supplementing this code unless\n               otherwise specifically provided. (1991 Code, § 10.02)\n\nTitle heads, chapter heads and section heads are employed for reference purposes only\n               and shall not be deemed a part of the text of any section. (1991 Code, § 10.03)\n\n(A) In the construction of this code and of all ordinances of the city, the following\n               definitions and rules of construction shall be observed, unless they are inconsistent\n               with the intent of the Board of Commissioners or the context clearly requires otherwise. And or or. Includes the other as if written and/or. Board. The board of commissioners of the City of Maysville, unless the context refers to\n               some other agency as \"Board\". City, municipal corporation or municipality. The…",
+          "sourceUrl": "https://library.municode.com/ky/maysville/codes/code_of_ordinances?nodeId=CD_ORD_TITICOCOPE"
+        },
+        {
+          "id": "ky:maysville:3",
+          "prompt": "For a third or later junk-vehicle violation, the fine is $500 plus how much extra each day the problem continues?",
+          "choices": [
+            "$25 per day",
+            "$50 per day",
+            "$100 per day",
+            "$10 per day"
+          ],
+          "answer": "$100 per day",
+          "excerpt": "(A) The provisions of this, and subsequent chapters in this, volume shall constitute and\n               be designated and cited as the \"Maysville Code of Ordinances of 2007\". (B) Unless otherwise provided herein, or by law or implication required, the same rules\n               of construction, definition and application shall govern the interpretation of this\n               code as those governing the interpretation of the Kentucky Revised Statutes. (C) Statutory footnotes, annotation references, opinion references, cross-references,\n               forms prescribed and other comments are by way of explanation only and should not\n               be deemed a part of the text of any section. (D) Unless otherwise provided, all provisions of this code are limited in application\n               to the territorial boundaries of the municipal corporation although the same may not\n               be so limited specifically. (1991 Code, § 10.01) Cross reference— Extraterritorial jurisdiction of Police and Fire Departments, see § 90.28 .\n\nAll of the provisions of Title I, not incompatible with future legislation, shall\n               apply to ordinances hereafter adopted, amending or supplementing this code unless\n               otherwise specifically provided. (1991 Code, § 10.02)\n\nTitle heads, chapter heads and section heads are employed for reference purposes only\n               and shall not be deemed a part of the text of any section. (1991 Code, § 10.03)\n\n(A) In the construction of this code and of all ordinances of the city, the following\n               definitions and rules of construction shall be observed, unless they are inconsistent\n               with the intent of the Board of Commissioners or the context clearly requires otherwise. And or or. Includes the other as if written and/or. Board. The board of commissioners of the City of Maysville, unless the context refers to\n               some other agency as \"Board\". City, municipal corporation or municipality. The…",
+          "sourceUrl": "https://library.municode.com/ky/maysville/codes/code_of_ordinances?nodeId=CD_ORD_TITICOCOPE"
+        }
+      ]
+    },
+    {
+      "id": "owensboro",
+      "name": "Owensboro",
+      "sourceIndex": "https://library.municode.com/ky/owensboro",
+      "questions": [
+        {
+          "id": "ky:owensboro:0",
+          "prompt": "On a regular Monday through Saturday, when may licensed places in Owensboro stay open to sell alcohol?",
+          "choices": [
+            "From 8:00 a.m. until midnight",
+            "From 6:00 a.m. until 2:00 a.m. the following day",
+            "From 10:00 a.m. until 2:00 a.m.",
+            "Only after 5:00 p.m."
+          ],
+          "answer": "From 6:00 a.m. until 2:00 a.m. the following day",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 16-2003, § 1, adopted Apr. 15, 2003, repealed the former Ch. 3, §§ 3-1—3-16,\n               3-26—3-37, and enacted a new Ch. 3 as set out herein. The former Ch. 3 pertained to\n               similar subject matter. For complete derivation see the Code Comparative Table at\n               the end of this volume.\n\nThis chapter shall be known and may be cited as the \"Alcoholic Beverage Control Ordinance\"\n               of the City of Owensboro. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nAll words and phrases used in this chapter, unless the context requires otherwise,\n               shall have the same meanings as set forth in chapters 241, 242, 243 and 244 of the\n               Kentucky Revised Statutes and Title 804, Kentucky Administrative Regulations, Chapter 1 , et seq., as amended from time to time. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nThis chapter shall be construed to apply to the sale, transportation, storage, advertising\n               and trafficking of malt beverages, distilled spirits and wine where the context permits\n               such application. Nothing contained in this chapter shall exempt or exonerate an owner, proprietor,\n               employee or person in charge of any licensed premises in the city, where alcoholic\n               beverages are sold, from the restrictions, requirements and penalties of any other\n               ordinance or ordinances of the city or of any statutes or administrative regulations\n               of the state relating to the manufacture, sale, transportation, storage, advertising\n               or trafficking of alcoholic beverages. (Ord. No. 16-2003, § 1, 4-15-2003)\n\n(a) Establishment of Office: There is hereby established the office of \"Alcoholic Beverage Control Administrator.\" (b) Appointment: The city manager shall appoint an alcoholic beverage control administrator. The administrator\n               may be removed from office at any time, with or without cause, by the…",
+          "sourceUrl": "https://library.municode.com/ky/owensboro/codes/code_of_ordinances?nodeId=MUCO_CH3ALBE"
+        },
+        {
+          "id": "ky:owensboro:1",
+          "prompt": "What are the usual Sunday hours for selling alcohol in Owensboro?",
+          "choices": [
+            "6:00 a.m. until 2:00 a.m. the next day",
+            "11:00 a.m. until midnight",
+            "Noon until 10:00 p.m.",
+            "All day, same as other days"
+          ],
+          "answer": "11:00 a.m. until midnight",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 16-2003, § 1, adopted Apr. 15, 2003, repealed the former Ch. 3, §§ 3-1—3-16,\n               3-26—3-37, and enacted a new Ch. 3 as set out herein. The former Ch. 3 pertained to\n               similar subject matter. For complete derivation see the Code Comparative Table at\n               the end of this volume.\n\nThis chapter shall be known and may be cited as the \"Alcoholic Beverage Control Ordinance\"\n               of the City of Owensboro. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nAll words and phrases used in this chapter, unless the context requires otherwise,\n               shall have the same meanings as set forth in chapters 241, 242, 243 and 244 of the\n               Kentucky Revised Statutes and Title 804, Kentucky Administrative Regulations, Chapter 1 , et seq., as amended from time to time. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nThis chapter shall be construed to apply to the sale, transportation, storage, advertising\n               and trafficking of malt beverages, distilled spirits and wine where the context permits\n               such application. Nothing contained in this chapter shall exempt or exonerate an owner, proprietor,\n               employee or person in charge of any licensed premises in the city, where alcoholic\n               beverages are sold, from the restrictions, requirements and penalties of any other\n               ordinance or ordinances of the city or of any statutes or administrative regulations\n               of the state relating to the manufacture, sale, transportation, storage, advertising\n               or trafficking of alcoholic beverages. (Ord. No. 16-2003, § 1, 4-15-2003)\n\n(a) Establishment of Office: There is hereby established the office of \"Alcoholic Beverage Control Administrator.\" (b) Appointment: The city manager shall appoint an alcoholic beverage control administrator. The administrator\n               may be removed from office at any time, with or without cause, by the…",
+          "sourceUrl": "https://library.municode.com/ky/owensboro/codes/code_of_ordinances?nodeId=MUCO_CH3ALBE"
+        },
+        {
+          "id": "ky:owensboro:2",
+          "prompt": "If St. Patrick's Day, Christmas Eve, or New Year's Eve falls on a Sunday, when may Owensboro licensees sell alcohol that day?",
+          "choices": [
+            "The usual Sunday hours of 11:00 a.m. to midnight",
+            "From 6:00 a.m. until 2:00 a.m. the following day",
+            "They must stay closed",
+            "From noon until 8:00 p.m. only"
+          ],
+          "answer": "From 6:00 a.m. until 2:00 a.m. the following day",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 16-2003, § 1, adopted Apr. 15, 2003, repealed the former Ch. 3, §§ 3-1—3-16,\n               3-26—3-37, and enacted a new Ch. 3 as set out herein. The former Ch. 3 pertained to\n               similar subject matter. For complete derivation see the Code Comparative Table at\n               the end of this volume.\n\nThis chapter shall be known and may be cited as the \"Alcoholic Beverage Control Ordinance\"\n               of the City of Owensboro. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nAll words and phrases used in this chapter, unless the context requires otherwise,\n               shall have the same meanings as set forth in chapters 241, 242, 243 and 244 of the\n               Kentucky Revised Statutes and Title 804, Kentucky Administrative Regulations, Chapter 1 , et seq., as amended from time to time. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nThis chapter shall be construed to apply to the sale, transportation, storage, advertising\n               and trafficking of malt beverages, distilled spirits and wine where the context permits\n               such application. Nothing contained in this chapter shall exempt or exonerate an owner, proprietor,\n               employee or person in charge of any licensed premises in the city, where alcoholic\n               beverages are sold, from the restrictions, requirements and penalties of any other\n               ordinance or ordinances of the city or of any statutes or administrative regulations\n               of the state relating to the manufacture, sale, transportation, storage, advertising\n               or trafficking of alcoholic beverages. (Ord. No. 16-2003, § 1, 4-15-2003)\n\n(a) Establishment of Office: There is hereby established the office of \"Alcoholic Beverage Control Administrator.\" (b) Appointment: The city manager shall appoint an alcoholic beverage control administrator. The administrator\n               may be removed from office at any time, with or without cause, by the…",
+          "sourceUrl": "https://library.municode.com/ky/owensboro/codes/code_of_ordinances?nodeId=MUCO_CH3ALBE"
+        },
+        {
+          "id": "ky:owensboro:3",
+          "prompt": "May an Owensboro bar or store give away t-shirts, mugs, glasses, or posters to get people to buy more alcohol?",
+          "choices": [
+            "Yes, if the items cost less than $10",
+            "Yes, on holidays only",
+            "No, giving away items of value to promote alcohol sales is not allowed",
+            "Only posters, not clothing"
+          ],
+          "answer": "No, giving away items of value to promote alcohol sales is not allowed",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 16-2003, § 1, adopted Apr. 15, 2003, repealed the former Ch. 3, §§ 3-1—3-16,\n               3-26—3-37, and enacted a new Ch. 3 as set out herein. The former Ch. 3 pertained to\n               similar subject matter. For complete derivation see the Code Comparative Table at\n               the end of this volume.\n\nThis chapter shall be known and may be cited as the \"Alcoholic Beverage Control Ordinance\"\n               of the City of Owensboro. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nAll words and phrases used in this chapter, unless the context requires otherwise,\n               shall have the same meanings as set forth in chapters 241, 242, 243 and 244 of the\n               Kentucky Revised Statutes and Title 804, Kentucky Administrative Regulations, Chapter 1 , et seq., as amended from time to time. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nThis chapter shall be construed to apply to the sale, transportation, storage, advertising\n               and trafficking of malt beverages, distilled spirits and wine where the context permits\n               such application. Nothing contained in this chapter shall exempt or exonerate an owner, proprietor,\n               employee or person in charge of any licensed premises in the city, where alcoholic\n               beverages are sold, from the restrictions, requirements and penalties of any other\n               ordinance or ordinances of the city or of any statutes or administrative regulations\n               of the state relating to the manufacture, sale, transportation, storage, advertising\n               or trafficking of alcoholic beverages. (Ord. No. 16-2003, § 1, 4-15-2003)\n\n(a) Establishment of Office: There is hereby established the office of \"Alcoholic Beverage Control Administrator.\" (b) Appointment: The city manager shall appoint an alcoholic beverage control administrator. The administrator\n               may be removed from office at any time, with or without cause, by the…",
+          "sourceUrl": "https://library.municode.com/ky/owensboro/codes/code_of_ordinances?nodeId=MUCO_CH3ALBE"
+        },
+        {
+          "id": "ky:owensboro:4",
+          "prompt": "Can an Owensboro alcohol seller walk around town or hand out flyers asking people to buy drinks?",
+          "choices": [
+            "Yes, that is a normal way to advertise",
+            "No, in-person and flyer solicitation of alcohol sales is not allowed in the city",
+            "Yes, except near churches",
+            "Only with a special advertising permit"
+          ],
+          "answer": "No, in-person and flyer solicitation of alcohol sales is not allowed in the city",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 16-2003, § 1, adopted Apr. 15, 2003, repealed the former Ch. 3, §§ 3-1—3-16,\n               3-26—3-37, and enacted a new Ch. 3 as set out herein. The former Ch. 3 pertained to\n               similar subject matter. For complete derivation see the Code Comparative Table at\n               the end of this volume.\n\nThis chapter shall be known and may be cited as the \"Alcoholic Beverage Control Ordinance\"\n               of the City of Owensboro. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nAll words and phrases used in this chapter, unless the context requires otherwise,\n               shall have the same meanings as set forth in chapters 241, 242, 243 and 244 of the\n               Kentucky Revised Statutes and Title 804, Kentucky Administrative Regulations, Chapter 1 , et seq., as amended from time to time. (Ord. No. 16-2003, § 1, 4-15-2003)\n\nThis chapter shall be construed to apply to the sale, transportation, storage, advertising\n               and trafficking of malt beverages, distilled spirits and wine where the context permits\n               such application. Nothing contained in this chapter shall exempt or exonerate an owner, proprietor,\n               employee or person in charge of any licensed premises in the city, where alcoholic\n               beverages are sold, from the restrictions, requirements and penalties of any other\n               ordinance or ordinances of the city or of any statutes or administrative regulations\n               of the state relating to the manufacture, sale, transportation, storage, advertising\n               or trafficking of alcoholic beverages. (Ord. No. 16-2003, § 1, 4-15-2003)\n\n(a) Establishment of Office: There is hereby established the office of \"Alcoholic Beverage Control Administrator.\" (b) Appointment: The city manager shall appoint an alcoholic beverage control administrator. The administrator\n               may be removed from office at any time, with or without cause, by the…",
+          "sourceUrl": "https://library.municode.com/ky/owensboro/codes/code_of_ordinances?nodeId=MUCO_CH3ALBE"
+        }
+      ]
+    },
+    {
+      "id": "paducah",
+      "name": "Paducah",
+      "sourceIndex": "https://library.municode.com/ky/paducah",
+      "questions": [
+        {
+          "id": "ky:paducah:0",
+          "prompt": "In Paducah, until what time can licensed places serve beer or liquor for people to drink on site?",
+          "choices": [
+            "Midnight",
+            "2 a.m.",
+            "3 a.m. the next day",
+            "Noon the next day"
+          ],
+          "answer": "3 a.m. the next day",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, KRS chs. 241 — 244 .\n\n(a) For the purpose of this chapter, words and phrases shall have the same meanings as\n               those set out in the Kentucky Alcoholic Beverage Control laws (KRS chs. 241 — 244 ) of the Commonwealth and all amendments and supplements thereto, unless the context\n               indicates the contrary. Specific definitions relevant to the understanding of this\n               chapter are as follows: Alcoholic beverage control laws. See KRS chs. 241 — 244 . Board means the State Alcoholic Beverage Control Board established by KRS 241.030 . Restaurant means a facility where the usual and customary business is the serving of meals to\n               consumers, that has a bona fide kitchen facility, and that receives at least fifty\n               (50) percent of its food and beverage receipts from the sale of food. KRS 241.010 . (b) This chapter shall be construed to apply to the manufacture and traffic in both malt\n               beverages and distilled spirits and wine where the context permits such application.\n               Nothing in this chapter shall excuse or relieve the licensee, or the owner, proprietor,\n               employee, agent or person in charge of any licensed premises where alcoholic beverages\n               are sold from the restrictions, requirements and penalties of any other ordinance\n               of the City, or of any statutes of the Commonwealth relating to violations pertaining\n               to alcoholic beverages. (c) Pursuant to this chapter, licensees shall be permitted to sell only such type of alcoholic\n               beverage for which the licensee holds a license. (Code 1997, § 6-1; Ord. No. 2013-11-8095, 11-5-2013)\n\n(a) The City Manager is hereby assigned the duties of the Office of the City Alcoholic\n               Beverage Administrator and shall have full and complete charge of the administration\n               and enforcement of all…",
+          "sourceUrl": "https://library.municode.com/ky/paducah/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ky:paducah:1",
+          "prompt": "When must Paducah stores stop selling packaged beer or liquor to take home?",
+          "choices": [
+            "6 p.m.",
+            "10 p.m.",
+            "Midnight",
+            "3 a.m."
+          ],
+          "answer": "Midnight",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, KRS chs. 241 — 244 .\n\n(a) For the purpose of this chapter, words and phrases shall have the same meanings as\n               those set out in the Kentucky Alcoholic Beverage Control laws (KRS chs. 241 — 244 ) of the Commonwealth and all amendments and supplements thereto, unless the context\n               indicates the contrary. Specific definitions relevant to the understanding of this\n               chapter are as follows: Alcoholic beverage control laws. See KRS chs. 241 — 244 . Board means the State Alcoholic Beverage Control Board established by KRS 241.030 . Restaurant means a facility where the usual and customary business is the serving of meals to\n               consumers, that has a bona fide kitchen facility, and that receives at least fifty\n               (50) percent of its food and beverage receipts from the sale of food. KRS 241.010 . (b) This chapter shall be construed to apply to the manufacture and traffic in both malt\n               beverages and distilled spirits and wine where the context permits such application.\n               Nothing in this chapter shall excuse or relieve the licensee, or the owner, proprietor,\n               employee, agent or person in charge of any licensed premises where alcoholic beverages\n               are sold from the restrictions, requirements and penalties of any other ordinance\n               of the City, or of any statutes of the Commonwealth relating to violations pertaining\n               to alcoholic beverages. (c) Pursuant to this chapter, licensees shall be permitted to sell only such type of alcoholic\n               beverage for which the licensee holds a license. (Code 1997, § 6-1; Ord. No. 2013-11-8095, 11-5-2013)\n\n(a) The City Manager is hereby assigned the duties of the Office of the City Alcoholic\n               Beverage Administrator and shall have full and complete charge of the administration\n               and enforcement of all…",
+          "sourceUrl": "https://library.municode.com/ky/paducah/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ky:paducah:2",
+          "prompt": "To count as a restaurant under Paducah alcohol rules, a place needs a real kitchen and at least what share of its food-and-drink sales from food?",
+          "choices": [
+            "25 percent",
+            "50 percent",
+            "80 percent",
+            "It does not matter"
+          ],
+          "answer": "50 percent",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, KRS chs. 241 — 244 .\n\n(a) For the purpose of this chapter, words and phrases shall have the same meanings as\n               those set out in the Kentucky Alcoholic Beverage Control laws (KRS chs. 241 — 244 ) of the Commonwealth and all amendments and supplements thereto, unless the context\n               indicates the contrary. Specific definitions relevant to the understanding of this\n               chapter are as follows: Alcoholic beverage control laws. See KRS chs. 241 — 244 . Board means the State Alcoholic Beverage Control Board established by KRS 241.030 . Restaurant means a facility where the usual and customary business is the serving of meals to\n               consumers, that has a bona fide kitchen facility, and that receives at least fifty\n               (50) percent of its food and beverage receipts from the sale of food. KRS 241.010 . (b) This chapter shall be construed to apply to the manufacture and traffic in both malt\n               beverages and distilled spirits and wine where the context permits such application.\n               Nothing in this chapter shall excuse or relieve the licensee, or the owner, proprietor,\n               employee, agent or person in charge of any licensed premises where alcoholic beverages\n               are sold from the restrictions, requirements and penalties of any other ordinance\n               of the City, or of any statutes of the Commonwealth relating to violations pertaining\n               to alcoholic beverages. (c) Pursuant to this chapter, licensees shall be permitted to sell only such type of alcoholic\n               beverage for which the licensee holds a license. (Code 1997, § 6-1; Ord. No. 2013-11-8095, 11-5-2013)\n\n(a) The City Manager is hereby assigned the duties of the Office of the City Alcoholic\n               Beverage Administrator and shall have full and complete charge of the administration\n               and enforcement of all…",
+          "sourceUrl": "https://library.municode.com/ky/paducah/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ky:paducah:3",
+          "prompt": "Who is in charge of Paducah’s local alcohol licenses and rules as City Alcoholic Beverage Administrator?",
+          "choices": [
+            "The mayor",
+            "The City Manager",
+            "The fire chief",
+            "The school superintendent"
+          ],
+          "answer": "The City Manager",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, KRS chs. 241 — 244 .\n\n(a) For the purpose of this chapter, words and phrases shall have the same meanings as\n               those set out in the Kentucky Alcoholic Beverage Control laws (KRS chs. 241 — 244 ) of the Commonwealth and all amendments and supplements thereto, unless the context\n               indicates the contrary. Specific definitions relevant to the understanding of this\n               chapter are as follows: Alcoholic beverage control laws. See KRS chs. 241 — 244 . Board means the State Alcoholic Beverage Control Board established by KRS 241.030 . Restaurant means a facility where the usual and customary business is the serving of meals to\n               consumers, that has a bona fide kitchen facility, and that receives at least fifty\n               (50) percent of its food and beverage receipts from the sale of food. KRS 241.010 . (b) This chapter shall be construed to apply to the manufacture and traffic in both malt\n               beverages and distilled spirits and wine where the context permits such application.\n               Nothing in this chapter shall excuse or relieve the licensee, or the owner, proprietor,\n               employee, agent or person in charge of any licensed premises where alcoholic beverages\n               are sold from the restrictions, requirements and penalties of any other ordinance\n               of the City, or of any statutes of the Commonwealth relating to violations pertaining\n               to alcoholic beverages. (c) Pursuant to this chapter, licensees shall be permitted to sell only such type of alcoholic\n               beverage for which the licensee holds a license. (Code 1997, § 6-1; Ord. No. 2013-11-8095, 11-5-2013)\n\n(a) The City Manager is hereby assigned the duties of the Office of the City Alcoholic\n               Beverage Administrator and shall have full and complete charge of the administration\n               and enforcement of all…",
+          "sourceUrl": "https://library.municode.com/ky/paducah/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ky:paducah:4",
+          "prompt": "What printed card must many Paducah places that serve drinks keep in a prominent spot at the entrance?",
+          "choices": [
+            "A warning to people under 21 about a possible $500 fine and 12 months in jail",
+            "Today’s drink specials",
+            "A map of nearby hotels",
+            "The owner’s home phone number"
+          ],
+          "answer": "A warning to people under 21 about a possible $500 fine and 12 months in jail",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, KRS chs. 241 — 244 .\n\n(a) For the purpose of this chapter, words and phrases shall have the same meanings as\n               those set out in the Kentucky Alcoholic Beverage Control laws (KRS chs. 241 — 244 ) of the Commonwealth and all amendments and supplements thereto, unless the context\n               indicates the contrary. Specific definitions relevant to the understanding of this\n               chapter are as follows: Alcoholic beverage control laws. See KRS chs. 241 — 244 . Board means the State Alcoholic Beverage Control Board established by KRS 241.030 . Restaurant means a facility where the usual and customary business is the serving of meals to\n               consumers, that has a bona fide kitchen facility, and that receives at least fifty\n               (50) percent of its food and beverage receipts from the sale of food. KRS 241.010 . (b) This chapter shall be construed to apply to the manufacture and traffic in both malt\n               beverages and distilled spirits and wine where the context permits such application.\n               Nothing in this chapter shall excuse or relieve the licensee, or the owner, proprietor,\n               employee, agent or person in charge of any licensed premises where alcoholic beverages\n               are sold from the restrictions, requirements and penalties of any other ordinance\n               of the City, or of any statutes of the Commonwealth relating to violations pertaining\n               to alcoholic beverages. (c) Pursuant to this chapter, licensees shall be permitted to sell only such type of alcoholic\n               beverage for which the licensee holds a license. (Code 1997, § 6-1; Ord. No. 2013-11-8095, 11-5-2013)\n\n(a) The City Manager is hereby assigned the duties of the Office of the City Alcoholic\n               Beverage Administrator and shall have full and complete charge of the administration\n               and enforcement of all…",
+          "sourceUrl": "https://library.municode.com/ky/paducah/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        }
+      ]
+    },
+    {
+      "id": "winchester",
+      "name": "Winchester",
+      "sourceIndex": "https://library.municode.com/ky/winchester",
+      "questions": [
+        {
+          "id": "ky:winchester:0",
+          "prompt": "Can you keep a rooster inside Winchester city limits?",
+          "choices": [
+            "Yes, if it lives with hens",
+            "No. Keeping, possessing, breeding, or dealing in roosters is not allowed",
+            "Yes, as long as it does not crow at night",
+            "Only on lots larger than one acre"
+          ],
+          "answer": "No. Keeping, possessing, breeding, or dealing in roosters is not allowed",
+          "excerpt": "(a) Fowl or poultry includes but not limited to chickens, turkeys, ducks, game birds,\n               pigeons, pheasants or any other similar fowl. (b) Hens shall be kept in a clean and confined space with food and clean water. (c) Housing must be kept clean and sanitary. (d) It is unlawful for any person to harbor, keep, possess, breed, or deal in roosters\n               in the city limits. (e) Any violations of this section shall be brought before the Winchester/Clark County\n               administrative hearing board for adjudication. (Ord. No. 3-2024, § II, 3-5-24)\n\nFootnotes: --- ( 1 ) --- State Law reference— Dog and livestock protection, KRS 258.095 et seq.\n\nAs used in this article, the term \"livestock\" shall mean and include horses, stallions,\n               colts, geldings, mares, sheep, rams, lambs, bullocks, steers, heifers, cows, calves,\n               mules, jacks, jennets, burros, goats, kids, swine and confined and domesticated hares\n               and rabbits. State Law reference— \"Livestock\" defined, KRS, 258.095(6); \"cattle\" defined, KRS, 446.010(5).\n\n(a) It shall be unlawful for any person to keep any livestock, other than horses and mules\n               used for drawing vehicles, in the city at any time. (b) When not actually employed in the drawing of vehicles, horses and mules kept within\n               the city limits as provided in subsection (a) shall be confined to stables and shall\n               not be allowed to run at large either on private premises or on the streets or other\n               public property of the city. (Ord. No. 856, § 2, 7-21-70) State Law reference— Strays and animals running at large, KRS, 259.110 et seq.; cattle not to run at large,\n               power of cities, KRS 259.210.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs, generally, KRS Ch. 258; dog and livestock protection, KRS 258.095 et seq.\n\nThe owner, custodian, possessor or harborer of every dog in the city shall, at all\n               times, keep such…",
+          "sourceUrl": "https://library.municode.com/ky/winchester/codes/code_of_ordinances?nodeId=CD_ORD_CH4ANFO"
+        },
+        {
+          "id": "ky:winchester:1",
+          "prompt": "Which livestock can a resident keep in the city?",
+          "choices": [
+            "Cows, goats, and pigs",
+            "Rabbits, sheep, and hens",
+            "Only horses and mules used for pulling vehicles",
+            "Any farm animal that is fenced in"
+          ],
+          "answer": "Only horses and mules used for pulling vehicles",
+          "excerpt": "(a) Fowl or poultry includes but not limited to chickens, turkeys, ducks, game birds,\n               pigeons, pheasants or any other similar fowl. (b) Hens shall be kept in a clean and confined space with food and clean water. (c) Housing must be kept clean and sanitary. (d) It is unlawful for any person to harbor, keep, possess, breed, or deal in roosters\n               in the city limits. (e) Any violations of this section shall be brought before the Winchester/Clark County\n               administrative hearing board for adjudication. (Ord. No. 3-2024, § II, 3-5-24)\n\nFootnotes: --- ( 1 ) --- State Law reference— Dog and livestock protection, KRS 258.095 et seq.\n\nAs used in this article, the term \"livestock\" shall mean and include horses, stallions,\n               colts, geldings, mares, sheep, rams, lambs, bullocks, steers, heifers, cows, calves,\n               mules, jacks, jennets, burros, goats, kids, swine and confined and domesticated hares\n               and rabbits. State Law reference— \"Livestock\" defined, KRS, 258.095(6); \"cattle\" defined, KRS, 446.010(5).\n\n(a) It shall be unlawful for any person to keep any livestock, other than horses and mules\n               used for drawing vehicles, in the city at any time. (b) When not actually employed in the drawing of vehicles, horses and mules kept within\n               the city limits as provided in subsection (a) shall be confined to stables and shall\n               not be allowed to run at large either on private premises or on the streets or other\n               public property of the city. (Ord. No. 856, § 2, 7-21-70) State Law reference— Strays and animals running at large, KRS, 259.110 et seq.; cattle not to run at large,\n               power of cities, KRS 259.210.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs, generally, KRS Ch. 258; dog and livestock protection, KRS 258.095 et seq.\n\nThe owner, custodian, possessor or harborer of every dog in the city shall, at all\n               times, keep such…",
+          "sourceUrl": "https://library.municode.com/ky/winchester/codes/code_of_ordinances?nodeId=CD_ORD_CH4ANFO"
+        },
+        {
+          "id": "ky:winchester:2",
+          "prompt": "If you keep hens, what does the city require?",
+          "choices": [
+            "They may roam freely in the yard",
+            "A clean, confined space with food and clean water, and housing kept clean and sanitary",
+            "A rooster must live with them",
+            "No more than two hens"
+          ],
+          "answer": "A clean, confined space with food and clean water, and housing kept clean and sanitary",
+          "excerpt": "(a) Fowl or poultry includes but not limited to chickens, turkeys, ducks, game birds,\n               pigeons, pheasants or any other similar fowl. (b) Hens shall be kept in a clean and confined space with food and clean water. (c) Housing must be kept clean and sanitary. (d) It is unlawful for any person to harbor, keep, possess, breed, or deal in roosters\n               in the city limits. (e) Any violations of this section shall be brought before the Winchester/Clark County\n               administrative hearing board for adjudication. (Ord. No. 3-2024, § II, 3-5-24)\n\nFootnotes: --- ( 1 ) --- State Law reference— Dog and livestock protection, KRS 258.095 et seq.\n\nAs used in this article, the term \"livestock\" shall mean and include horses, stallions,\n               colts, geldings, mares, sheep, rams, lambs, bullocks, steers, heifers, cows, calves,\n               mules, jacks, jennets, burros, goats, kids, swine and confined and domesticated hares\n               and rabbits. State Law reference— \"Livestock\" defined, KRS, 258.095(6); \"cattle\" defined, KRS, 446.010(5).\n\n(a) It shall be unlawful for any person to keep any livestock, other than horses and mules\n               used for drawing vehicles, in the city at any time. (b) When not actually employed in the drawing of vehicles, horses and mules kept within\n               the city limits as provided in subsection (a) shall be confined to stables and shall\n               not be allowed to run at large either on private premises or on the streets or other\n               public property of the city. (Ord. No. 856, § 2, 7-21-70) State Law reference— Strays and animals running at large, KRS, 259.110 et seq.; cattle not to run at large,\n               power of cities, KRS 259.210.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs, generally, KRS Ch. 258; dog and livestock protection, KRS 258.095 et seq.\n\nThe owner, custodian, possessor or harborer of every dog in the city shall, at all\n               times, keep such…",
+          "sourceUrl": "https://library.municode.com/ky/winchester/codes/code_of_ordinances?nodeId=CD_ORD_CH4ANFO"
+        },
+        {
+          "id": "ky:winchester:3",
+          "prompt": "After a warning about a dog that howls or barks enough to seriously bother neighbors, what fine can apply?",
+          "choices": [
+            "Up to $20 for each day it continues",
+            "A one-time $100 fine",
+            "No fine is allowed",
+            "The dog must be removed the same day"
+          ],
+          "answer": "Up to $20 for each day it continues",
+          "excerpt": "(a) Fowl or poultry includes but not limited to chickens, turkeys, ducks, game birds,\n               pigeons, pheasants or any other similar fowl. (b) Hens shall be kept in a clean and confined space with food and clean water. (c) Housing must be kept clean and sanitary. (d) It is unlawful for any person to harbor, keep, possess, breed, or deal in roosters\n               in the city limits. (e) Any violations of this section shall be brought before the Winchester/Clark County\n               administrative hearing board for adjudication. (Ord. No. 3-2024, § II, 3-5-24)\n\nFootnotes: --- ( 1 ) --- State Law reference— Dog and livestock protection, KRS 258.095 et seq.\n\nAs used in this article, the term \"livestock\" shall mean and include horses, stallions,\n               colts, geldings, mares, sheep, rams, lambs, bullocks, steers, heifers, cows, calves,\n               mules, jacks, jennets, burros, goats, kids, swine and confined and domesticated hares\n               and rabbits. State Law reference— \"Livestock\" defined, KRS, 258.095(6); \"cattle\" defined, KRS, 446.010(5).\n\n(a) It shall be unlawful for any person to keep any livestock, other than horses and mules\n               used for drawing vehicles, in the city at any time. (b) When not actually employed in the drawing of vehicles, horses and mules kept within\n               the city limits as provided in subsection (a) shall be confined to stables and shall\n               not be allowed to run at large either on private premises or on the streets or other\n               public property of the city. (Ord. No. 856, § 2, 7-21-70) State Law reference— Strays and animals running at large, KRS, 259.110 et seq.; cattle not to run at large,\n               power of cities, KRS 259.210.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs, generally, KRS Ch. 258; dog and livestock protection, KRS 258.095 et seq.\n\nThe owner, custodian, possessor or harborer of every dog in the city shall, at all\n               times, keep such…",
+          "sourceUrl": "https://library.municode.com/ky/winchester/codes/code_of_ordinances?nodeId=CD_ORD_CH4ANFO"
+        },
+        {
+          "id": "ky:winchester:4",
+          "prompt": "How must an outdoor pen for a vicious dog be built?",
+          "choices": [
+            "Any locked kennel is enough",
+            "At least 5 feet by 10 feet, 7 feet high, with a secure top; if there is no concrete floor, the sides must go 2 feet into the ground",
+            "At least 4 feet high with a roof",
+            "It only has to be indoors"
+          ],
+          "answer": "At least 5 feet by 10 feet, 7 feet high, with a secure top; if there is no concrete floor, the sides must go 2 feet into the ground",
+          "excerpt": "(a) Fowl or poultry includes but not limited to chickens, turkeys, ducks, game birds,\n               pigeons, pheasants or any other similar fowl. (b) Hens shall be kept in a clean and confined space with food and clean water. (c) Housing must be kept clean and sanitary. (d) It is unlawful for any person to harbor, keep, possess, breed, or deal in roosters\n               in the city limits. (e) Any violations of this section shall be brought before the Winchester/Clark County\n               administrative hearing board for adjudication. (Ord. No. 3-2024, § II, 3-5-24)\n\nFootnotes: --- ( 1 ) --- State Law reference— Dog and livestock protection, KRS 258.095 et seq.\n\nAs used in this article, the term \"livestock\" shall mean and include horses, stallions,\n               colts, geldings, mares, sheep, rams, lambs, bullocks, steers, heifers, cows, calves,\n               mules, jacks, jennets, burros, goats, kids, swine and confined and domesticated hares\n               and rabbits. State Law reference— \"Livestock\" defined, KRS, 258.095(6); \"cattle\" defined, KRS, 446.010(5).\n\n(a) It shall be unlawful for any person to keep any livestock, other than horses and mules\n               used for drawing vehicles, in the city at any time. (b) When not actually employed in the drawing of vehicles, horses and mules kept within\n               the city limits as provided in subsection (a) shall be confined to stables and shall\n               not be allowed to run at large either on private premises or on the streets or other\n               public property of the city. (Ord. No. 856, § 2, 7-21-70) State Law reference— Strays and animals running at large, KRS, 259.110 et seq.; cattle not to run at large,\n               power of cities, KRS 259.210.\n\nFootnotes: --- ( 2 ) --- State Law reference— Dogs, generally, KRS Ch. 258; dog and livestock protection, KRS 258.095 et seq.\n\nThe owner, custodian, possessor or harborer of every dog in the city shall, at all\n               times, keep such…",
+          "sourceUrl": "https://library.municode.com/ky/winchester/codes/code_of_ordinances?nodeId=CD_ORD_CH4ANFO"
+        }
+      ]
+    }
+  ]
+}

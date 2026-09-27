@@ -1,0 +1,333 @@
+{
+  "state": "vt",
+  "stateName": "Vermont",
+  "places": [
+    {
+      "id": "barre",
+      "name": "Barre",
+      "sourceIndex": "https://library.municode.com/vt/barre",
+      "questions": [
+        {
+          "id": "vt:barre:0",
+          "prompt": "What is the official name of Barre's zoning rules?",
+          "choices": [
+            "The Town of Barre, Vermont, Zoning Bylaw",
+            "The Barre City Building Code",
+            "Vermont Statewide Land Use Act",
+            "The Municipal Planning Ordinance"
+          ],
+          "answer": "The Town of Barre, Vermont, Zoning Bylaw",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— An ordinance adopted August 5, 2008, as amended through April 1, 2009, provided for\n               the repeal of App. A, Arts. I—IV and the enactment of new provisions to read as herein\n               set out. See Code Comparative Table for amendatory history. Amendments to the ordinance are indicated by parenthetical history notes following\n               amended provisions. The absence of a history note indicates that the provision remains\n               unchanged from the original ordinance. Obvious misspellings and punctuation errors\n               have been corrected without notation. For stylistic purposes, headings and catchlines\n               have been made uniform and the same system of capitalization, citation to state statutes,\n               and expression of numbers in text as appears in the Code of Ordinances has been used.\n               Additions made for clarity are indicated by brackets. Cross reference— Administration, Ch. 2; guidelines for numbering buildings, § 5-1 et seq.; streets, sidewalks and other public places, Ch. 6; utilities, Ch. 8; municipal plan, App. B; subdivision regulations, App. C; any zoning map amendment\n               saved from repeal, § 1-5(6); any zoning ordinance saved from repeal, § 1-5(15); ordinances concerning fees for zoning matters saved from repeal, § 1-5(18). State Law reference— Authority of municipalities to adopt zoning regulations, 24 V.S.A. § 4401(b)(1).\n\nIn accordance with 24 V.S.A. 117 § 4401 and 4411 of the Vermont Planning and Development\n               Act (hereinafter referred to as the \"Act\") there are hereby established zoning regulations\n               for the Town of Barre, which are set forth in the text and map(s) that constitute\n               these regulations. These regulations shall be known and cited as \"The Town of Barre,\n               Vermont, Zoning Bylaw (hereinafter referred to as the \"Bylaw\").\n\nThe purpose of this bylaw is to: Create a…",
+          "sourceUrl": "https://library.municode.com/vt/barre/codes/code_of_ordinances?nodeId=APXAZO"
+        },
+        {
+          "id": "vt:barre:1",
+          "prompt": "Can you start land development before it follows the zoning bylaw?",
+          "choices": [
+            "Yes, if it is on your own property",
+            "No, land development cannot start unless it follows this bylaw",
+            "Only if neighbors give written permission",
+            "Yes, you can apply for permits after work begins"
+          ],
+          "answer": "No, land development cannot start unless it follows this bylaw",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— An ordinance adopted August 5, 2008, as amended through April 1, 2009, provided for\n               the repeal of App. A, Arts. I—IV and the enactment of new provisions to read as herein\n               set out. See Code Comparative Table for amendatory history. Amendments to the ordinance are indicated by parenthetical history notes following\n               amended provisions. The absence of a history note indicates that the provision remains\n               unchanged from the original ordinance. Obvious misspellings and punctuation errors\n               have been corrected without notation. For stylistic purposes, headings and catchlines\n               have been made uniform and the same system of capitalization, citation to state statutes,\n               and expression of numbers in text as appears in the Code of Ordinances has been used.\n               Additions made for clarity are indicated by brackets. Cross reference— Administration, Ch. 2; guidelines for numbering buildings, § 5-1 et seq.; streets, sidewalks and other public places, Ch. 6; utilities, Ch. 8; municipal plan, App. B; subdivision regulations, App. C; any zoning map amendment\n               saved from repeal, § 1-5(6); any zoning ordinance saved from repeal, § 1-5(15); ordinances concerning fees for zoning matters saved from repeal, § 1-5(18). State Law reference— Authority of municipalities to adopt zoning regulations, 24 V.S.A. § 4401(b)(1).\n\nIn accordance with 24 V.S.A. 117 § 4401 and 4411 of the Vermont Planning and Development\n               Act (hereinafter referred to as the \"Act\") there are hereby established zoning regulations\n               for the Town of Barre, which are set forth in the text and map(s) that constitute\n               these regulations. These regulations shall be known and cited as \"The Town of Barre,\n               Vermont, Zoning Bylaw (hereinafter referred to as the \"Bylaw\").\n\nThe purpose of this bylaw is to: Create a…",
+          "sourceUrl": "https://library.municode.com/vt/barre/codes/code_of_ordinances?nodeId=APXAZO"
+        },
+        {
+          "id": "vt:barre:2",
+          "prompt": "Who issues the permit if you put up a new sign or change an existing one?",
+          "choices": [
+            "The zoning administrator",
+            "The development review board",
+            "The selectboard",
+            "The town clerk"
+          ],
+          "answer": "The zoning administrator",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— An ordinance adopted August 5, 2008, as amended through April 1, 2009, provided for\n               the repeal of App. A, Arts. I—IV and the enactment of new provisions to read as herein\n               set out. See Code Comparative Table for amendatory history. Amendments to the ordinance are indicated by parenthetical history notes following\n               amended provisions. The absence of a history note indicates that the provision remains\n               unchanged from the original ordinance. Obvious misspellings and punctuation errors\n               have been corrected without notation. For stylistic purposes, headings and catchlines\n               have been made uniform and the same system of capitalization, citation to state statutes,\n               and expression of numbers in text as appears in the Code of Ordinances has been used.\n               Additions made for clarity are indicated by brackets. Cross reference— Administration, Ch. 2; guidelines for numbering buildings, § 5-1 et seq.; streets, sidewalks and other public places, Ch. 6; utilities, Ch. 8; municipal plan, App. B; subdivision regulations, App. C; any zoning map amendment\n               saved from repeal, § 1-5(6); any zoning ordinance saved from repeal, § 1-5(15); ordinances concerning fees for zoning matters saved from repeal, § 1-5(18). State Law reference— Authority of municipalities to adopt zoning regulations, 24 V.S.A. § 4401(b)(1).\n\nIn accordance with 24 V.S.A. 117 § 4401 and 4411 of the Vermont Planning and Development\n               Act (hereinafter referred to as the \"Act\") there are hereby established zoning regulations\n               for the Town of Barre, which are set forth in the text and map(s) that constitute\n               these regulations. These regulations shall be known and cited as \"The Town of Barre,\n               Vermont, Zoning Bylaw (hereinafter referred to as the \"Bylaw\").\n\nThe purpose of this bylaw is to: Create a…",
+          "sourceUrl": "https://library.municode.com/vt/barre/codes/code_of_ordinances?nodeId=APXAZO"
+        },
+        {
+          "id": "vt:barre:3",
+          "prompt": "How can voters get a zoning change considered even if the planning commission did not write it?",
+          "choices": [
+            "A petition signed by 5 percent of Town of Barre voters",
+            "A letter from any 10 residents",
+            "A majority vote of the zoning administrator",
+            "Approval from the state legislature only"
+          ],
+          "answer": "A petition signed by 5 percent of Town of Barre voters",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— An ordinance adopted August 5, 2008, as amended through April 1, 2009, provided for\n               the repeal of App. A, Arts. I—IV and the enactment of new provisions to read as herein\n               set out. See Code Comparative Table for amendatory history. Amendments to the ordinance are indicated by parenthetical history notes following\n               amended provisions. The absence of a history note indicates that the provision remains\n               unchanged from the original ordinance. Obvious misspellings and punctuation errors\n               have been corrected without notation. For stylistic purposes, headings and catchlines\n               have been made uniform and the same system of capitalization, citation to state statutes,\n               and expression of numbers in text as appears in the Code of Ordinances has been used.\n               Additions made for clarity are indicated by brackets. Cross reference— Administration, Ch. 2; guidelines for numbering buildings, § 5-1 et seq.; streets, sidewalks and other public places, Ch. 6; utilities, Ch. 8; municipal plan, App. B; subdivision regulations, App. C; any zoning map amendment\n               saved from repeal, § 1-5(6); any zoning ordinance saved from repeal, § 1-5(15); ordinances concerning fees for zoning matters saved from repeal, § 1-5(18). State Law reference— Authority of municipalities to adopt zoning regulations, 24 V.S.A. § 4401(b)(1).\n\nIn accordance with 24 V.S.A. 117 § 4401 and 4411 of the Vermont Planning and Development\n               Act (hereinafter referred to as the \"Act\") there are hereby established zoning regulations\n               for the Town of Barre, which are set forth in the text and map(s) that constitute\n               these regulations. These regulations shall be known and cited as \"The Town of Barre,\n               Vermont, Zoning Bylaw (hereinafter referred to as the \"Bylaw\").\n\nThe purpose of this bylaw is to: Create a…",
+          "sourceUrl": "https://library.municode.com/vt/barre/codes/code_of_ordinances?nodeId=APXAZO"
+        }
+      ]
+    },
+    {
+      "id": "hartford",
+      "name": "Hartford",
+      "sourceIndex": "https://library.municode.com/vt/hartford",
+      "questions": [
+        {
+          "id": "vt:hartford:0",
+          "prompt": "In Hartford, a newly named road must be which of these?",
+          "choices": [
+            "Split into separate pieces",
+            "Continuous, without gaps",
+            "Named only after trees",
+            "At least two miles long"
+          ],
+          "answer": "Continuous, without gaps",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Selectboard of the Town of Hartford at time of adoption of\n               Code (see Ch. 1, General Provisions, Art. I). Amendments noted where applicable.] Cross reference— Signs — See Ch. 160; Subdivision regulations — See Ch. 181.\n\nThis chapter is adopted under the authority of 19 V.S.A. § 304(17) and 24 V.S.A. §§\n               2291(16) and 4421 for the naming of roads/streets, the erection of signs and numbering\n               of structures with respect to any new roads/streets located within the Town of Hartford.\n\nWhen applying, the criteria and forms attached as Exhibits A and B shall apply, and\n               the following procedure should be followed after meeting with staff from the Planning\n               and Development Office. Editor's note— Exhibits A and B are included at the end of this chapter.\n\nA. The following criteria shall be followed in order to meet Town/state specifications\n               for road/street naming: (1) There should be no duplicate or similar sounding names. (2) A named road shall be continuous, without gaps. (3) Directional (West Street) hyphens, apostrophes (Smith's Street), etc., shall be avoided. (4) New names shall be appropriate according to existing street names in the neighborhood. B. Up to five suggested names shall be submitted on the attached form to the Planning\n               and Development Office. C. The names will be reviewed by the E-911 Committee. D. If none of the names are acceptable, suggested names will be returned along with the\n               rejected list for the applicant to choose from. E. If the project consists of a subdivision or planned development, the naming process\n               begins with the submittal of the plot/site plan and is included on the filed plot/site\n               plan. F. If your project is for a major subdivision or planned development, the naming must\n               be completed before final approval by the Planning Commission…",
+          "sourceUrl": "https://library.municode.com/vt/hartford/codes/code?nodeId=CH181STNANUSI"
+        },
+        {
+          "id": "vt:hartford:1",
+          "prompt": "How many suggested names may you submit for a new Hartford street?",
+          "choices": [
+            "Exactly one",
+            "Up to five",
+            "As many as you like",
+            "None; the Town chooses"
+          ],
+          "answer": "Up to five",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Selectboard of the Town of Hartford at time of adoption of\n               Code (see Ch. 1, General Provisions, Art. I). Amendments noted where applicable.] Cross reference— Signs — See Ch. 160; Subdivision regulations — See Ch. 181.\n\nThis chapter is adopted under the authority of 19 V.S.A. § 304(17) and 24 V.S.A. §§\n               2291(16) and 4421 for the naming of roads/streets, the erection of signs and numbering\n               of structures with respect to any new roads/streets located within the Town of Hartford.\n\nWhen applying, the criteria and forms attached as Exhibits A and B shall apply, and\n               the following procedure should be followed after meeting with staff from the Planning\n               and Development Office. Editor's note— Exhibits A and B are included at the end of this chapter.\n\nA. The following criteria shall be followed in order to meet Town/state specifications\n               for road/street naming: (1) There should be no duplicate or similar sounding names. (2) A named road shall be continuous, without gaps. (3) Directional (West Street) hyphens, apostrophes (Smith's Street), etc., shall be avoided. (4) New names shall be appropriate according to existing street names in the neighborhood. B. Up to five suggested names shall be submitted on the attached form to the Planning\n               and Development Office. C. The names will be reviewed by the E-911 Committee. D. If none of the names are acceptable, suggested names will be returned along with the\n               rejected list for the applicant to choose from. E. If the project consists of a subdivision or planned development, the naming process\n               begins with the submittal of the plot/site plan and is included on the filed plot/site\n               plan. F. If your project is for a major subdivision or planned development, the naming must\n               be completed before final approval by the Planning Commission…",
+          "sourceUrl": "https://library.municode.com/vt/hartford/codes/code?nodeId=CH181STNANUSI"
+        },
+        {
+          "id": "vt:hartford:2",
+          "prompt": "Hartford house numbers are spaced using increments of about how much?",
+          "choices": [
+            "One city block",
+            "Fifty feet",
+            "1/1000th of a mile",
+            "The length of the front yard"
+          ],
+          "answer": "1/1000th of a mile",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Selectboard of the Town of Hartford at time of adoption of\n               Code (see Ch. 1, General Provisions, Art. I). Amendments noted where applicable.] Cross reference— Signs — See Ch. 160; Subdivision regulations — See Ch. 181.\n\nThis chapter is adopted under the authority of 19 V.S.A. § 304(17) and 24 V.S.A. §§\n               2291(16) and 4421 for the naming of roads/streets, the erection of signs and numbering\n               of structures with respect to any new roads/streets located within the Town of Hartford.\n\nWhen applying, the criteria and forms attached as Exhibits A and B shall apply, and\n               the following procedure should be followed after meeting with staff from the Planning\n               and Development Office. Editor's note— Exhibits A and B are included at the end of this chapter.\n\nA. The following criteria shall be followed in order to meet Town/state specifications\n               for road/street naming: (1) There should be no duplicate or similar sounding names. (2) A named road shall be continuous, without gaps. (3) Directional (West Street) hyphens, apostrophes (Smith's Street), etc., shall be avoided. (4) New names shall be appropriate according to existing street names in the neighborhood. B. Up to five suggested names shall be submitted on the attached form to the Planning\n               and Development Office. C. The names will be reviewed by the E-911 Committee. D. If none of the names are acceptable, suggested names will be returned along with the\n               rejected list for the applicant to choose from. E. If the project consists of a subdivision or planned development, the naming process\n               begins with the submittal of the plot/site plan and is included on the filed plot/site\n               plan. F. If your project is for a major subdivision or planned development, the naming must\n               be completed before final approval by the Planning Commission…",
+          "sourceUrl": "https://library.municode.com/vt/hartford/codes/code?nodeId=CH181STNANUSI"
+        },
+        {
+          "id": "vt:hartford:3",
+          "prompt": "Which group reviews proposed street names in Hartford?",
+          "choices": [
+            "The School Board",
+            "The E-911 Committee",
+            "A town-wide vote",
+            "The Police Department only"
+          ],
+          "answer": "The E-911 Committee",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Selectboard of the Town of Hartford at time of adoption of\n               Code (see Ch. 1, General Provisions, Art. I). Amendments noted where applicable.] Cross reference— Signs — See Ch. 160; Subdivision regulations — See Ch. 181.\n\nThis chapter is adopted under the authority of 19 V.S.A. § 304(17) and 24 V.S.A. §§\n               2291(16) and 4421 for the naming of roads/streets, the erection of signs and numbering\n               of structures with respect to any new roads/streets located within the Town of Hartford.\n\nWhen applying, the criteria and forms attached as Exhibits A and B shall apply, and\n               the following procedure should be followed after meeting with staff from the Planning\n               and Development Office. Editor's note— Exhibits A and B are included at the end of this chapter.\n\nA. The following criteria shall be followed in order to meet Town/state specifications\n               for road/street naming: (1) There should be no duplicate or similar sounding names. (2) A named road shall be continuous, without gaps. (3) Directional (West Street) hyphens, apostrophes (Smith's Street), etc., shall be avoided. (4) New names shall be appropriate according to existing street names in the neighborhood. B. Up to five suggested names shall be submitted on the attached form to the Planning\n               and Development Office. C. The names will be reviewed by the E-911 Committee. D. If none of the names are acceptable, suggested names will be returned along with the\n               rejected list for the applicant to choose from. E. If the project consists of a subdivision or planned development, the naming process\n               begins with the submittal of the plot/site plan and is included on the filed plot/site\n               plan. F. If your project is for a major subdivision or planned development, the naming must\n               be completed before final approval by the Planning Commission…",
+          "sourceUrl": "https://library.municode.com/vt/hartford/codes/code?nodeId=CH181STNANUSI"
+        }
+      ]
+    },
+    {
+      "id": "montpelier",
+      "name": "Montpelier",
+      "sourceIndex": "https://library.municode.com/vt/montpelier",
+      "questions": [
+        {
+          "id": "vt:montpelier:0",
+          "prompt": "In Montpelier, which domestic animals are allowed to go at large in public streets?",
+          "choices": [
+            "Cats",
+            "Dogs",
+            "Horses",
+            "All pets"
+          ],
+          "answer": "Cats",
+          "excerpt": "No person owning or who has custody and control of any domestic animal, except cats,\n               shall permit such animal to go at large, loose or unrestricted in any public street\n               within the limits of the City or on any land therein thrown open as a way for public\n               travel and used by the public for travel although such way be not legally a public\n               street, or go at large elsewhere in the City. See Article II of this chapter for restrictions\n               on dogs running at large.\n\nNo saddled horse or draft animal shall be permitted by the owner or person in charge\n               thereof to go into any public street unaccompanied by a driver or leader.\n\nNo livestock or other domestic animal shall be kept in such a manner that (1) causes\n               the discharge of manure or other agricultural waste into public waterways, roads,\n               or onto neighboring properties; (2) creates a persistent, offensive odor resulting\n               in the discomfort of neighboring residents; or (3) causes an infestation of rodents,\n               flies, or other wild pests.\n\nIt shall be unlawful for any person to keep poultry in the City limits, unless the\n               poultry is confined in a properly fenced enclosure in such a manner that the poultry\n               cannot escape therefrom.\n\nNo person shall bury or cause to be buried the body of any horse or other large animal,\n               within the limits of the City, unless in such manner that every part and portion of\n               such body shall be at least three feet below the natural surface of the ground where\n               the same is buried.\n\n8-201. Authority and Purpose 8-202. Definitions 8-203. Calculation of Offenses 8-204. Licensing 8-205. Penalties for Failure to License 8-206. Enforcement 8-207. Running at Large Prohibited 8-208. Penalties for Running at Large 8-209. Duties of Enforcement Officers and Persons Having Control of Impoundment 8-210.…",
+          "sourceUrl": "https://library.municode.com/vt/montpelier/codes/code_of_ordinances?nodeId=CH8ANFO"
+        },
+        {
+          "id": "vt:montpelier:1",
+          "prompt": "A saddled horse or draft animal may go into a public street only if accompanied by:",
+          "choices": [
+            "A driver or leader",
+            "A city permit",
+            "Another animal",
+            "Nothing special"
+          ],
+          "answer": "A driver or leader",
+          "excerpt": "No person owning or who has custody and control of any domestic animal, except cats,\n               shall permit such animal to go at large, loose or unrestricted in any public street\n               within the limits of the City or on any land therein thrown open as a way for public\n               travel and used by the public for travel although such way be not legally a public\n               street, or go at large elsewhere in the City. See Article II of this chapter for restrictions\n               on dogs running at large.\n\nNo saddled horse or draft animal shall be permitted by the owner or person in charge\n               thereof to go into any public street unaccompanied by a driver or leader.\n\nNo livestock or other domestic animal shall be kept in such a manner that (1) causes\n               the discharge of manure or other agricultural waste into public waterways, roads,\n               or onto neighboring properties; (2) creates a persistent, offensive odor resulting\n               in the discomfort of neighboring residents; or (3) causes an infestation of rodents,\n               flies, or other wild pests.\n\nIt shall be unlawful for any person to keep poultry in the City limits, unless the\n               poultry is confined in a properly fenced enclosure in such a manner that the poultry\n               cannot escape therefrom.\n\nNo person shall bury or cause to be buried the body of any horse or other large animal,\n               within the limits of the City, unless in such manner that every part and portion of\n               such body shall be at least three feet below the natural surface of the ground where\n               the same is buried.\n\n8-201. Authority and Purpose 8-202. Definitions 8-203. Calculation of Offenses 8-204. Licensing 8-205. Penalties for Failure to License 8-206. Enforcement 8-207. Running at Large Prohibited 8-208. Penalties for Running at Large 8-209. Duties of Enforcement Officers and Persons Having Control of Impoundment 8-210.…",
+          "sourceUrl": "https://library.municode.com/vt/montpelier/codes/code_of_ordinances?nodeId=CH8ANFO"
+        },
+        {
+          "id": "vt:montpelier:2",
+          "prompt": "How must poultry be kept inside Montpelier city limits?",
+          "choices": [
+            "Confined in a properly fenced enclosure they cannot escape from",
+            "Free to roam the owner's yard",
+            "Only on properties larger than one acre",
+            "They are not allowed at all"
+          ],
+          "answer": "Confined in a properly fenced enclosure they cannot escape from",
+          "excerpt": "No person owning or who has custody and control of any domestic animal, except cats,\n               shall permit such animal to go at large, loose or unrestricted in any public street\n               within the limits of the City or on any land therein thrown open as a way for public\n               travel and used by the public for travel although such way be not legally a public\n               street, or go at large elsewhere in the City. See Article II of this chapter for restrictions\n               on dogs running at large.\n\nNo saddled horse or draft animal shall be permitted by the owner or person in charge\n               thereof to go into any public street unaccompanied by a driver or leader.\n\nNo livestock or other domestic animal shall be kept in such a manner that (1) causes\n               the discharge of manure or other agricultural waste into public waterways, roads,\n               or onto neighboring properties; (2) creates a persistent, offensive odor resulting\n               in the discomfort of neighboring residents; or (3) causes an infestation of rodents,\n               flies, or other wild pests.\n\nIt shall be unlawful for any person to keep poultry in the City limits, unless the\n               poultry is confined in a properly fenced enclosure in such a manner that the poultry\n               cannot escape therefrom.\n\nNo person shall bury or cause to be buried the body of any horse or other large animal,\n               within the limits of the City, unless in such manner that every part and portion of\n               such body shall be at least three feet below the natural surface of the ground where\n               the same is buried.\n\n8-201. Authority and Purpose 8-202. Definitions 8-203. Calculation of Offenses 8-204. Licensing 8-205. Penalties for Failure to License 8-206. Enforcement 8-207. Running at Large Prohibited 8-208. Penalties for Running at Large 8-209. Duties of Enforcement Officers and Persons Having Control of Impoundment 8-210.…",
+          "sourceUrl": "https://library.municode.com/vt/montpelier/codes/code_of_ordinances?nodeId=CH8ANFO"
+        },
+        {
+          "id": "vt:montpelier:3",
+          "prompt": "If you bury a horse or other large animal in Montpelier, every part of the body must be:",
+          "choices": [
+            "At least three feet below the natural surface of the ground",
+            "Covered with at least six inches of soil",
+            "Taken to a special animal cemetery",
+            "Buried only on farmland"
+          ],
+          "answer": "At least three feet below the natural surface of the ground",
+          "excerpt": "No person owning or who has custody and control of any domestic animal, except cats,\n               shall permit such animal to go at large, loose or unrestricted in any public street\n               within the limits of the City or on any land therein thrown open as a way for public\n               travel and used by the public for travel although such way be not legally a public\n               street, or go at large elsewhere in the City. See Article II of this chapter for restrictions\n               on dogs running at large.\n\nNo saddled horse or draft animal shall be permitted by the owner or person in charge\n               thereof to go into any public street unaccompanied by a driver or leader.\n\nNo livestock or other domestic animal shall be kept in such a manner that (1) causes\n               the discharge of manure or other agricultural waste into public waterways, roads,\n               or onto neighboring properties; (2) creates a persistent, offensive odor resulting\n               in the discomfort of neighboring residents; or (3) causes an infestation of rodents,\n               flies, or other wild pests.\n\nIt shall be unlawful for any person to keep poultry in the City limits, unless the\n               poultry is confined in a properly fenced enclosure in such a manner that the poultry\n               cannot escape therefrom.\n\nNo person shall bury or cause to be buried the body of any horse or other large animal,\n               within the limits of the City, unless in such manner that every part and portion of\n               such body shall be at least three feet below the natural surface of the ground where\n               the same is buried.\n\n8-201. Authority and Purpose 8-202. Definitions 8-203. Calculation of Offenses 8-204. Licensing 8-205. Penalties for Failure to License 8-206. Enforcement 8-207. Running at Large Prohibited 8-208. Penalties for Running at Large 8-209. Duties of Enforcement Officers and Persons Having Control of Impoundment 8-210.…",
+          "sourceUrl": "https://library.municode.com/vt/montpelier/codes/code_of_ordinances?nodeId=CH8ANFO"
+        },
+        {
+          "id": "vt:montpelier:4",
+          "prompt": "Keeping livestock is not allowed if it creates a persistent, offensive odor that results in:",
+          "choices": [
+            "The discomfort of neighboring residents",
+            "Any smell at all",
+            "A drop in nearby property values",
+            "Complaints from people driving by"
+          ],
+          "answer": "The discomfort of neighboring residents",
+          "excerpt": "No person owning or who has custody and control of any domestic animal, except cats,\n               shall permit such animal to go at large, loose or unrestricted in any public street\n               within the limits of the City or on any land therein thrown open as a way for public\n               travel and used by the public for travel although such way be not legally a public\n               street, or go at large elsewhere in the City. See Article II of this chapter for restrictions\n               on dogs running at large.\n\nNo saddled horse or draft animal shall be permitted by the owner or person in charge\n               thereof to go into any public street unaccompanied by a driver or leader.\n\nNo livestock or other domestic animal shall be kept in such a manner that (1) causes\n               the discharge of manure or other agricultural waste into public waterways, roads,\n               or onto neighboring properties; (2) creates a persistent, offensive odor resulting\n               in the discomfort of neighboring residents; or (3) causes an infestation of rodents,\n               flies, or other wild pests.\n\nIt shall be unlawful for any person to keep poultry in the City limits, unless the\n               poultry is confined in a properly fenced enclosure in such a manner that the poultry\n               cannot escape therefrom.\n\nNo person shall bury or cause to be buried the body of any horse or other large animal,\n               within the limits of the City, unless in such manner that every part and portion of\n               such body shall be at least three feet below the natural surface of the ground where\n               the same is buried.\n\n8-201. Authority and Purpose 8-202. Definitions 8-203. Calculation of Offenses 8-204. Licensing 8-205. Penalties for Failure to License 8-206. Enforcement 8-207. Running at Large Prohibited 8-208. Penalties for Running at Large 8-209. Duties of Enforcement Officers and Persons Having Control of Impoundment 8-210.…",
+          "sourceUrl": "https://library.municode.com/vt/montpelier/codes/code_of_ordinances?nodeId=CH8ANFO"
+        }
+      ]
+    },
+    {
+      "id": "south-burlington",
+      "name": "South Burlington",
+      "sourceIndex": "https://library.municode.com/vt/south_burlington",
+      "questions": [
+        {
+          "id": "vt:south-burlington:0",
+          "prompt": "On a typical residential lot, how many chickens may you keep?",
+          "choices": [
+            "2",
+            "6",
+            "10",
+            "15"
+          ],
+          "answer": "6",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to adopt ordinances regarding keeping of dogs or other pets, § 13-104(7). State Law reference— Authority to regulate, by means of a civil ordinance the welfare of animals enforceable\n               by humane officers, 24 V.S.A. § 2291(21); authority to regulate the keeping of dogs,\n               24 V.S.A. § 2291(10); limitation on authority to regulate hunting and trapping, 24\n               V.S.A. § 2295; humane treatment of animals, 13 V.S.A. § 351 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Limitation on authority to regulate hunting and trapping, 24 V.S.A. § 2295; humane\n               treatment of animals, 13 V.S.A. § 351 et seq.\n\nThe trapping of animals with leg hold type steel traps is prohibited in the city,\n               except as provided in section 6-20 . (Ord. of 6-4-1973(2), § 1)\n\nGame wardens in the performance of their duties are excluded from the provisions of\n               this article. (Ord. of 6-4-1973(2), § 2)\n\nAny person who is found guilty of violating the provisions of this article shall be\n               guilty of a misdemeanor and the same shall be punished by a fine of not more than\n               $100.00 at the discretion of the court. (Ord. of 6-4-1973(2), § 3)\n\n(a) The ordinance from which this article is derived is enacted by the city council under\n               the authority granted in 24 V.S.A. § 2291(14) and the city Charter. (b) The purpose of this article is to provide standards for the keeping of domesticated\n               chickens. It is intended to enable residents to keep a small number of female chickens\n               on a noncommercial basis while creating standards and requirements that ensure domesticated\n               chickens do not adversely impact the neighborhood surrounding the property on which\n               the chickens are kept. (c) The ordinance from which this article is derived shall constitute a civil ordinance\n               within the…",
+          "sourceUrl": "https://library.municode.com/vt/south_burlington/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "vt:south-burlington:1",
+          "prompt": "What kind of chickens are allowed in a backyard flock?",
+          "choices": [
+            "Only female chickens",
+            "Hens plus one rooster",
+            "Any chickens that stay quiet",
+            "Only certain approved breeds"
+          ],
+          "answer": "Only female chickens",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to adopt ordinances regarding keeping of dogs or other pets, § 13-104(7). State Law reference— Authority to regulate, by means of a civil ordinance the welfare of animals enforceable\n               by humane officers, 24 V.S.A. § 2291(21); authority to regulate the keeping of dogs,\n               24 V.S.A. § 2291(10); limitation on authority to regulate hunting and trapping, 24\n               V.S.A. § 2295; humane treatment of animals, 13 V.S.A. § 351 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Limitation on authority to regulate hunting and trapping, 24 V.S.A. § 2295; humane\n               treatment of animals, 13 V.S.A. § 351 et seq.\n\nThe trapping of animals with leg hold type steel traps is prohibited in the city,\n               except as provided in section 6-20 . (Ord. of 6-4-1973(2), § 1)\n\nGame wardens in the performance of their duties are excluded from the provisions of\n               this article. (Ord. of 6-4-1973(2), § 2)\n\nAny person who is found guilty of violating the provisions of this article shall be\n               guilty of a misdemeanor and the same shall be punished by a fine of not more than\n               $100.00 at the discretion of the court. (Ord. of 6-4-1973(2), § 3)\n\n(a) The ordinance from which this article is derived is enacted by the city council under\n               the authority granted in 24 V.S.A. § 2291(14) and the city Charter. (b) The purpose of this article is to provide standards for the keeping of domesticated\n               chickens. It is intended to enable residents to keep a small number of female chickens\n               on a noncommercial basis while creating standards and requirements that ensure domesticated\n               chickens do not adversely impact the neighborhood surrounding the property on which\n               the chickens are kept. (c) The ordinance from which this article is derived shall constitute a civil ordinance\n               within the…",
+          "sourceUrl": "https://library.municode.com/vt/south_burlington/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "vt:south-burlington:2",
+          "prompt": "May you sell eggs from backyard chickens?",
+          "choices": [
+            "Yes, if you have a chicken permit",
+            "No; chickens are for personal use only",
+            "Yes, but only to neighbors",
+            "Only if you keep fewer than six"
+          ],
+          "answer": "No; chickens are for personal use only",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to adopt ordinances regarding keeping of dogs or other pets, § 13-104(7). State Law reference— Authority to regulate, by means of a civil ordinance the welfare of animals enforceable\n               by humane officers, 24 V.S.A. § 2291(21); authority to regulate the keeping of dogs,\n               24 V.S.A. § 2291(10); limitation on authority to regulate hunting and trapping, 24\n               V.S.A. § 2295; humane treatment of animals, 13 V.S.A. § 351 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Limitation on authority to regulate hunting and trapping, 24 V.S.A. § 2295; humane\n               treatment of animals, 13 V.S.A. § 351 et seq.\n\nThe trapping of animals with leg hold type steel traps is prohibited in the city,\n               except as provided in section 6-20 . (Ord. of 6-4-1973(2), § 1)\n\nGame wardens in the performance of their duties are excluded from the provisions of\n               this article. (Ord. of 6-4-1973(2), § 2)\n\nAny person who is found guilty of violating the provisions of this article shall be\n               guilty of a misdemeanor and the same shall be punished by a fine of not more than\n               $100.00 at the discretion of the court. (Ord. of 6-4-1973(2), § 3)\n\n(a) The ordinance from which this article is derived is enacted by the city council under\n               the authority granted in 24 V.S.A. § 2291(14) and the city Charter. (b) The purpose of this article is to provide standards for the keeping of domesticated\n               chickens. It is intended to enable residents to keep a small number of female chickens\n               on a noncommercial basis while creating standards and requirements that ensure domesticated\n               chickens do not adversely impact the neighborhood surrounding the property on which\n               the chickens are kept. (c) The ordinance from which this article is derived shall constitute a civil ordinance\n               within the…",
+          "sourceUrl": "https://library.municode.com/vt/south_burlington/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "vt:south-burlington:3",
+          "prompt": "Unless a neighbor gives written approval, how far from property lines must a henhouse sit?",
+          "choices": [
+            "5 feet",
+            "10 feet",
+            "20 feet",
+            "It can sit on the line if fenced"
+          ],
+          "answer": "20 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to adopt ordinances regarding keeping of dogs or other pets, § 13-104(7). State Law reference— Authority to regulate, by means of a civil ordinance the welfare of animals enforceable\n               by humane officers, 24 V.S.A. § 2291(21); authority to regulate the keeping of dogs,\n               24 V.S.A. § 2291(10); limitation on authority to regulate hunting and trapping, 24\n               V.S.A. § 2295; humane treatment of animals, 13 V.S.A. § 351 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Limitation on authority to regulate hunting and trapping, 24 V.S.A. § 2295; humane\n               treatment of animals, 13 V.S.A. § 351 et seq.\n\nThe trapping of animals with leg hold type steel traps is prohibited in the city,\n               except as provided in section 6-20 . (Ord. of 6-4-1973(2), § 1)\n\nGame wardens in the performance of their duties are excluded from the provisions of\n               this article. (Ord. of 6-4-1973(2), § 2)\n\nAny person who is found guilty of violating the provisions of this article shall be\n               guilty of a misdemeanor and the same shall be punished by a fine of not more than\n               $100.00 at the discretion of the court. (Ord. of 6-4-1973(2), § 3)\n\n(a) The ordinance from which this article is derived is enacted by the city council under\n               the authority granted in 24 V.S.A. § 2291(14) and the city Charter. (b) The purpose of this article is to provide standards for the keeping of domesticated\n               chickens. It is intended to enable residents to keep a small number of female chickens\n               on a noncommercial basis while creating standards and requirements that ensure domesticated\n               chickens do not adversely impact the neighborhood surrounding the property on which\n               the chickens are kept. (c) The ordinance from which this article is derived shall constitute a civil ordinance\n               within the…",
+          "sourceUrl": "https://library.municode.com/vt/south_burlington/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "vt:south-burlington:4",
+          "prompt": "What lighting is allowed on the outside of a henhouse?",
+          "choices": [
+            "Any outdoor floodlight",
+            "Only motion-activated lighting",
+            "Solar path lights only",
+            "No lighting is allowed"
+          ],
+          "answer": "Only motion-activated lighting",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to adopt ordinances regarding keeping of dogs or other pets, § 13-104(7). State Law reference— Authority to regulate, by means of a civil ordinance the welfare of animals enforceable\n               by humane officers, 24 V.S.A. § 2291(21); authority to regulate the keeping of dogs,\n               24 V.S.A. § 2291(10); limitation on authority to regulate hunting and trapping, 24\n               V.S.A. § 2295; humane treatment of animals, 13 V.S.A. § 351 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Limitation on authority to regulate hunting and trapping, 24 V.S.A. § 2295; humane\n               treatment of animals, 13 V.S.A. § 351 et seq.\n\nThe trapping of animals with leg hold type steel traps is prohibited in the city,\n               except as provided in section 6-20 . (Ord. of 6-4-1973(2), § 1)\n\nGame wardens in the performance of their duties are excluded from the provisions of\n               this article. (Ord. of 6-4-1973(2), § 2)\n\nAny person who is found guilty of violating the provisions of this article shall be\n               guilty of a misdemeanor and the same shall be punished by a fine of not more than\n               $100.00 at the discretion of the court. (Ord. of 6-4-1973(2), § 3)\n\n(a) The ordinance from which this article is derived is enacted by the city council under\n               the authority granted in 24 V.S.A. § 2291(14) and the city Charter. (b) The purpose of this article is to provide standards for the keeping of domesticated\n               chickens. It is intended to enable residents to keep a small number of female chickens\n               on a noncommercial basis while creating standards and requirements that ensure domesticated\n               chickens do not adversely impact the neighborhood surrounding the property on which\n               the chickens are kept. (c) The ordinance from which this article is derived shall constitute a civil ordinance\n               within the…",
+          "sourceUrl": "https://library.municode.com/vt/south_burlington/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        }
+      ]
+    },
+    {
+      "id": "springfield",
+      "name": "Springfield",
+      "sourceIndex": "https://library.municode.com/vt/springfield",
+      "questions": [
+        {
+          "id": "vt:springfield:0",
+          "prompt": "In Springfield, it is illegal to carry or hold open containers of beer, wine, or liquor where?",
+          "choices": [
+            "On streets, sidewalks, and in public places",
+            "Only inside private homes",
+            "Anywhere alcohol is sold",
+            "On state-owned property"
+          ],
+          "answer": "On streets, sidewalks, and in public places",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverage, 7 V.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Consumption or possession of alcohol in motor vehicles, 23 V.S.A. § 1134; consumption\n               or possession of alcohol by passenger in motor vehicles, 23 V.S.A. § 1134a.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meaning ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcohol means the product of distillation of any fermented liquor, rectified either once\n               or oftener, whatever may be the origin thereof, and includes ethyl alcohol and alcohol\n               which is considered nonpotable. Malt beverage means any fermented beverage of any name or description manufactured for sale from\n               malt, wholly or in part, or from any substitute thereof, known as, among other things,\n               beer, ale and stout. Possession means the detention and control or the manual or physical custody of a container\n               of a beverage for which possession is prohibited under the terms of this article. Public place means any street, alley, highway, sidewalk, park, playground or place to which the\n               general public has access and a right to resort for business, entertainment or other\n               lawful purpose. A public place shall include, but not be limited to, any store, shop,\n               bowling alley, cafe, theater, drug store, pool room, shopping center and any other\n               place devoted to amusement or entertainment of the general public. The term \"public\n               place\" shall also include the front or immediate areas of the above. For the purpose\n               of this article, no place that sells malt, spirituous or vinous beverages for consumption\n               on the premises shall be considered as public, nor shall any premises owned by the\n          …",
+          "sourceUrl": "https://library.municode.com/vt/springfield/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "vt:springfield:1",
+          "prompt": "If a police officer finds you with an open drink in a public place, what happens to the drink?",
+          "choices": [
+            "The officer confiscates the open container and remaining beverage",
+            "You can finish it if you stay put",
+            "It is poured out but you keep the bottle",
+            "Nothing, unless you are under 21"
+          ],
+          "answer": "The officer confiscates the open container and remaining beverage",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverage, 7 V.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Consumption or possession of alcohol in motor vehicles, 23 V.S.A. § 1134; consumption\n               or possession of alcohol by passenger in motor vehicles, 23 V.S.A. § 1134a.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meaning ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcohol means the product of distillation of any fermented liquor, rectified either once\n               or oftener, whatever may be the origin thereof, and includes ethyl alcohol and alcohol\n               which is considered nonpotable. Malt beverage means any fermented beverage of any name or description manufactured for sale from\n               malt, wholly or in part, or from any substitute thereof, known as, among other things,\n               beer, ale and stout. Possession means the detention and control or the manual or physical custody of a container\n               of a beverage for which possession is prohibited under the terms of this article. Public place means any street, alley, highway, sidewalk, park, playground or place to which the\n               general public has access and a right to resort for business, entertainment or other\n               lawful purpose. A public place shall include, but not be limited to, any store, shop,\n               bowling alley, cafe, theater, drug store, pool room, shopping center and any other\n               place devoted to amusement or entertainment of the general public. The term \"public\n               place\" shall also include the front or immediate areas of the above. For the purpose\n               of this article, no place that sells malt, spirituous or vinous beverages for consumption\n               on the premises shall be considered as public, nor shall any premises owned by the\n          …",
+          "sourceUrl": "https://library.municode.com/vt/springfield/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "vt:springfield:2",
+          "prompt": "What is the maximum fine for an open-container violation in Springfield?",
+          "choices": [
+            "$50 per offense",
+            "$500",
+            "$20",
+            "A court appearance but no money fine"
+          ],
+          "answer": "$50 per offense",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverage, 7 V.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Consumption or possession of alcohol in motor vehicles, 23 V.S.A. § 1134; consumption\n               or possession of alcohol by passenger in motor vehicles, 23 V.S.A. § 1134a.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meaning ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcohol means the product of distillation of any fermented liquor, rectified either once\n               or oftener, whatever may be the origin thereof, and includes ethyl alcohol and alcohol\n               which is considered nonpotable. Malt beverage means any fermented beverage of any name or description manufactured for sale from\n               malt, wholly or in part, or from any substitute thereof, known as, among other things,\n               beer, ale and stout. Possession means the detention and control or the manual or physical custody of a container\n               of a beverage for which possession is prohibited under the terms of this article. Public place means any street, alley, highway, sidewalk, park, playground or place to which the\n               general public has access and a right to resort for business, entertainment or other\n               lawful purpose. A public place shall include, but not be limited to, any store, shop,\n               bowling alley, cafe, theater, drug store, pool room, shopping center and any other\n               place devoted to amusement or entertainment of the general public. The term \"public\n               place\" shall also include the front or immediate areas of the above. For the purpose\n               of this article, no place that sells malt, spirituous or vinous beverages for consumption\n               on the premises shall be considered as public, nor shall any premises owned by the\n          …",
+          "sourceUrl": "https://library.municode.com/vt/springfield/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "vt:springfield:3",
+          "prompt": "Which of these is treated as a public place where open alcohol containers are banned?",
+          "choices": [
+            "The front or immediate area of a drugstore or shopping center",
+            "Inside a place that sells drinks to consume on the premises",
+            "Premises owned by the state",
+            "A private backyard"
+          ],
+          "answer": "The front or immediate area of a drugstore or shopping center",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverage, 7 V.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Consumption or possession of alcohol in motor vehicles, 23 V.S.A. § 1134; consumption\n               or possession of alcohol by passenger in motor vehicles, 23 V.S.A. § 1134a.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meaning ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcohol means the product of distillation of any fermented liquor, rectified either once\n               or oftener, whatever may be the origin thereof, and includes ethyl alcohol and alcohol\n               which is considered nonpotable. Malt beverage means any fermented beverage of any name or description manufactured for sale from\n               malt, wholly or in part, or from any substitute thereof, known as, among other things,\n               beer, ale and stout. Possession means the detention and control or the manual or physical custody of a container\n               of a beverage for which possession is prohibited under the terms of this article. Public place means any street, alley, highway, sidewalk, park, playground or place to which the\n               general public has access and a right to resort for business, entertainment or other\n               lawful purpose. A public place shall include, but not be limited to, any store, shop,\n               bowling alley, cafe, theater, drug store, pool room, shopping center and any other\n               place devoted to amusement or entertainment of the general public. The term \"public\n               place\" shall also include the front or immediate areas of the above. For the purpose\n               of this article, no place that sells malt, spirituous or vinous beverages for consumption\n               on the premises shall be considered as public, nor shall any premises owned by the\n          …",
+          "sourceUrl": "https://library.municode.com/vt/springfield/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "vergennes",
+      "name": "Vergennes",
+      "sourceIndex": "https://library.municode.com/vt/vergennes",
+      "questions": []
+    }
+  ]
+}

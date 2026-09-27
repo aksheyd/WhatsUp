@@ -1,0 +1,575 @@
+{
+  "state": "de",
+  "stateName": "Delaware",
+  "places": [
+    {
+      "id": "clayton",
+      "name": "Clayton",
+      "sourceIndex": "https://library.municode.com/de/clayton",
+      "questions": [
+        {
+          "id": "de:clayton:0",
+          "prompt": "What are Clayton’s building rules officially called?",
+          "choices": [
+            "Town of Clayton Building Code",
+            "Kent County Housing Code",
+            "Delaware Statewide Building Code",
+            "International Town Code"
+          ],
+          "answer": "Town of Clayton Building Code",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2024-03 , adopted April 8, 2024, amended Art. 1.1 in its entirety, in effect repealing and\n               reenacting said Art. 1.1 to read as set out herein. The former Art. 1.1, § 1.1-1,\n               pertained to buildings and carried no amendatory history.\n\n1.1-1.1 These regulations shall be known as the Building Code for the Town of Clayton, hereinafter\n               referred to as the \"Town of Clayton Building Code.\" 1.1-1.2 Purpose. The purpose of this chapter is to establish the minimum requirements to safeguard\n               the public health, safety, and general welfare through structural strength, means\n               of egress facilities, stability, sanitation, adequate light and ventilation, energy\n               conservation, and safety to life and property from fire and other hazards attributed\n               to the built environment in the Town and to provide safety to fire fighters and emergency\n               responders during emergency operations. This article shall apply to the incorporated\n               area of the Town of Clayton, Kent County, Delaware. 1.1-1.3 Scope. The provisions of the International Residential Code for One- and Two-family Dwellings,\n               International Property Maintenance Code, International Building Code, International\n               Plumbing Code, International Mechanical Code, International Fuel Gas Code, International\n               Existing Building Code, and International Energy Conservation Code shall apply to\n               the design, construction, quality of materials, workmanship, alteration, movement,\n               enlargement, replacement, repair, equipment, use of occupancy, location, maintenance,\n               removal and demolition of all premises, buildings, and structures. The specific scope\n               of the technical codes herein adopted and enforced is as follows: 1.1-1.3.1 Building. The provisions of the International Building Code…",
+          "sourceUrl": "https://library.municode.com/de/clayton/codes/code_of_ordinances?nodeId=TIT1BUPUUTSIST"
+        },
+        {
+          "id": "de:clayton:1",
+          "prompt": "These building rules apply to which area?",
+          "choices": [
+            "The incorporated area of the Town of Clayton",
+            "All of Kent County",
+            "Every nearby unincorporated village",
+            "The entire State of Delaware"
+          ],
+          "answer": "The incorporated area of the Town of Clayton",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2024-03 , adopted April 8, 2024, amended Art. 1.1 in its entirety, in effect repealing and\n               reenacting said Art. 1.1 to read as set out herein. The former Art. 1.1, § 1.1-1,\n               pertained to buildings and carried no amendatory history.\n\n1.1-1.1 These regulations shall be known as the Building Code for the Town of Clayton, hereinafter\n               referred to as the \"Town of Clayton Building Code.\" 1.1-1.2 Purpose. The purpose of this chapter is to establish the minimum requirements to safeguard\n               the public health, safety, and general welfare through structural strength, means\n               of egress facilities, stability, sanitation, adequate light and ventilation, energy\n               conservation, and safety to life and property from fire and other hazards attributed\n               to the built environment in the Town and to provide safety to fire fighters and emergency\n               responders during emergency operations. This article shall apply to the incorporated\n               area of the Town of Clayton, Kent County, Delaware. 1.1-1.3 Scope. The provisions of the International Residential Code for One- and Two-family Dwellings,\n               International Property Maintenance Code, International Building Code, International\n               Plumbing Code, International Mechanical Code, International Fuel Gas Code, International\n               Existing Building Code, and International Energy Conservation Code shall apply to\n               the design, construction, quality of materials, workmanship, alteration, movement,\n               enlargement, replacement, repair, equipment, use of occupancy, location, maintenance,\n               removal and demolition of all premises, buildings, and structures. The specific scope\n               of the technical codes herein adopted and enforced is as follows: 1.1-1.3.1 Building. The provisions of the International Building Code…",
+          "sourceUrl": "https://library.municode.com/de/clayton/codes/code_of_ordinances?nodeId=TIT1BUPUUTSIST"
+        },
+        {
+          "id": "de:clayton:2",
+          "prompt": "Which rules cover installing a manufactured home in Clayton?",
+          "choices": [
+            "State of Delaware Manufactured Home Installation Code",
+            "International Residential Code",
+            "International Building Code",
+            "International Property Maintenance Code"
+          ],
+          "answer": "State of Delaware Manufactured Home Installation Code",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2024-03 , adopted April 8, 2024, amended Art. 1.1 in its entirety, in effect repealing and\n               reenacting said Art. 1.1 to read as set out herein. The former Art. 1.1, § 1.1-1,\n               pertained to buildings and carried no amendatory history.\n\n1.1-1.1 These regulations shall be known as the Building Code for the Town of Clayton, hereinafter\n               referred to as the \"Town of Clayton Building Code.\" 1.1-1.2 Purpose. The purpose of this chapter is to establish the minimum requirements to safeguard\n               the public health, safety, and general welfare through structural strength, means\n               of egress facilities, stability, sanitation, adequate light and ventilation, energy\n               conservation, and safety to life and property from fire and other hazards attributed\n               to the built environment in the Town and to provide safety to fire fighters and emergency\n               responders during emergency operations. This article shall apply to the incorporated\n               area of the Town of Clayton, Kent County, Delaware. 1.1-1.3 Scope. The provisions of the International Residential Code for One- and Two-family Dwellings,\n               International Property Maintenance Code, International Building Code, International\n               Plumbing Code, International Mechanical Code, International Fuel Gas Code, International\n               Existing Building Code, and International Energy Conservation Code shall apply to\n               the design, construction, quality of materials, workmanship, alteration, movement,\n               enlargement, replacement, repair, equipment, use of occupancy, location, maintenance,\n               removal and demolition of all premises, buildings, and structures. The specific scope\n               of the technical codes herein adopted and enforced is as follows: 1.1-1.3.1 Building. The provisions of the International Building Code…",
+          "sourceUrl": "https://library.municode.com/de/clayton/codes/code_of_ordinances?nodeId=TIT1BUPUUTSIST"
+        },
+        {
+          "id": "de:clayton:3",
+          "prompt": "Clayton uses the residential building code for townhouses only if they are no taller than:",
+          "choices": [
+            "three stories above grade plane",
+            "two stories",
+            "four stories",
+            "five stories"
+          ],
+          "answer": "three stories above grade plane",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2024-03 , adopted April 8, 2024, amended Art. 1.1 in its entirety, in effect repealing and\n               reenacting said Art. 1.1 to read as set out herein. The former Art. 1.1, § 1.1-1,\n               pertained to buildings and carried no amendatory history.\n\n1.1-1.1 These regulations shall be known as the Building Code for the Town of Clayton, hereinafter\n               referred to as the \"Town of Clayton Building Code.\" 1.1-1.2 Purpose. The purpose of this chapter is to establish the minimum requirements to safeguard\n               the public health, safety, and general welfare through structural strength, means\n               of egress facilities, stability, sanitation, adequate light and ventilation, energy\n               conservation, and safety to life and property from fire and other hazards attributed\n               to the built environment in the Town and to provide safety to fire fighters and emergency\n               responders during emergency operations. This article shall apply to the incorporated\n               area of the Town of Clayton, Kent County, Delaware. 1.1-1.3 Scope. The provisions of the International Residential Code for One- and Two-family Dwellings,\n               International Property Maintenance Code, International Building Code, International\n               Plumbing Code, International Mechanical Code, International Fuel Gas Code, International\n               Existing Building Code, and International Energy Conservation Code shall apply to\n               the design, construction, quality of materials, workmanship, alteration, movement,\n               enlargement, replacement, repair, equipment, use of occupancy, location, maintenance,\n               removal and demolition of all premises, buildings, and structures. The specific scope\n               of the technical codes herein adopted and enforced is as follows: 1.1-1.3.1 Building. The provisions of the International Building Code…",
+          "sourceUrl": "https://library.municode.com/de/clayton/codes/code_of_ordinances?nodeId=TIT1BUPUUTSIST"
+        },
+        {
+          "id": "de:clayton:4",
+          "prompt": "If you put in a swimming pool or spa in Clayton, which code applies?",
+          "choices": [
+            "International Swimming Pool and Spa Code",
+            "International Plumbing Code",
+            "International Mechanical Code",
+            "International Fire Code"
+          ],
+          "answer": "International Swimming Pool and Spa Code",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2024-03 , adopted April 8, 2024, amended Art. 1.1 in its entirety, in effect repealing and\n               reenacting said Art. 1.1 to read as set out herein. The former Art. 1.1, § 1.1-1,\n               pertained to buildings and carried no amendatory history.\n\n1.1-1.1 These regulations shall be known as the Building Code for the Town of Clayton, hereinafter\n               referred to as the \"Town of Clayton Building Code.\" 1.1-1.2 Purpose. The purpose of this chapter is to establish the minimum requirements to safeguard\n               the public health, safety, and general welfare through structural strength, means\n               of egress facilities, stability, sanitation, adequate light and ventilation, energy\n               conservation, and safety to life and property from fire and other hazards attributed\n               to the built environment in the Town and to provide safety to fire fighters and emergency\n               responders during emergency operations. This article shall apply to the incorporated\n               area of the Town of Clayton, Kent County, Delaware. 1.1-1.3 Scope. The provisions of the International Residential Code for One- and Two-family Dwellings,\n               International Property Maintenance Code, International Building Code, International\n               Plumbing Code, International Mechanical Code, International Fuel Gas Code, International\n               Existing Building Code, and International Energy Conservation Code shall apply to\n               the design, construction, quality of materials, workmanship, alteration, movement,\n               enlargement, replacement, repair, equipment, use of occupancy, location, maintenance,\n               removal and demolition of all premises, buildings, and structures. The specific scope\n               of the technical codes herein adopted and enforced is as follows: 1.1-1.3.1 Building. The provisions of the International Building Code…",
+          "sourceUrl": "https://library.municode.com/de/clayton/codes/code_of_ordinances?nodeId=TIT1BUPUUTSIST"
+        }
+      ]
+    },
+    {
+      "id": "delaware-city",
+      "name": "Delaware City",
+      "sourceIndex": "https://library.municode.com/de/delaware_city",
+      "questions": [
+        {
+          "id": "de:delaware-city:0",
+          "prompt": "Who may temporarily close Delaware City parks, playgrounds, or ballfields for public safety?",
+          "choices": [
+            "The mayor and council or city manager",
+            "Any park visitor",
+            "Only the police chief",
+            "New Castle County officials"
+          ],
+          "answer": "The mayor and council or city manager",
+          "excerpt": "City of Delaware City parks, playgrounds and ballfields (hereinafter referred to as\n               \"city recreation recreational lands\") will be closed from 10:00 p.m. until 7:00 a.m.\n               daily overnight between one hour past dusk and one hour before dawn. (Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny city recreational lands maybe temporarily closed by the mayor and council or city\n               manager when it is deemed necessary to be in the best interests of public safety. (Ord. No. 9015, 6-6-1983)\n\nNo person shall ride or drive or operate any motorized vehicle upon any of the city\n               recreational lands, except where designated. (Ord. No. 9015, 6-6-1983)\n\nAlcoholic liquors, beverages and any kind of narcotic drugs are prohibited on any\n               city recreational lands, except as permitted by chapter 25 of the City of Delaware\n               City Code. (Ord. No. 9015, 6-6-1983)\n\nNo person shall cut, break, move, take or otherwise injure, destroy or deface any\n               trees, shrubs, plants, turf or any building, fence, bridge, sign, playground equipment\n               or other structure; nor dump rubbish or other material on any city recreational lands. (Ord. No. 9015, 6-6-1983)\n\nNo public assembly or parade, as defined in article IV, shall occur in any public\n               place, park or recreational land without the prior issuance of an Event Permit pursuant\n               to article IV herein. (Ord. No. 9015, 6-6-1983; Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny person or persons found in violation of this article shall be subject to a fine\n               of not less than $25.00 nor more than $50.00 for each offense. Each violation shall\n               be a separate offense. (Ord. No. 9015, 6-6-1983)\n\nThe mayor and council of Delaware City hereby agree to exercise recreation local service\n               function pursuant to 9 Del. C § 1102. (Ord. No. 12001, eff. 7-1-1971)\n\nFor…",
+          "sourceUrl": "https://library.municode.com/de/delaware_city/codes/code_of_ordinances?nodeId=PTICHDECI_CH5PUPLPARE"
+        },
+        {
+          "id": "de:delaware-city:1",
+          "prompt": "Can you ride or drive a motorized vehicle on city parks, playgrounds, or ballfields?",
+          "choices": [
+            "Yes, anywhere you like",
+            "No, except where designated",
+            "Only during daylight hours",
+            "Yes, if it is an electric vehicle"
+          ],
+          "answer": "No, except where designated",
+          "excerpt": "City of Delaware City parks, playgrounds and ballfields (hereinafter referred to as\n               \"city recreation recreational lands\") will be closed from 10:00 p.m. until 7:00 a.m.\n               daily overnight between one hour past dusk and one hour before dawn. (Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny city recreational lands maybe temporarily closed by the mayor and council or city\n               manager when it is deemed necessary to be in the best interests of public safety. (Ord. No. 9015, 6-6-1983)\n\nNo person shall ride or drive or operate any motorized vehicle upon any of the city\n               recreational lands, except where designated. (Ord. No. 9015, 6-6-1983)\n\nAlcoholic liquors, beverages and any kind of narcotic drugs are prohibited on any\n               city recreational lands, except as permitted by chapter 25 of the City of Delaware\n               City Code. (Ord. No. 9015, 6-6-1983)\n\nNo person shall cut, break, move, take or otherwise injure, destroy or deface any\n               trees, shrubs, plants, turf or any building, fence, bridge, sign, playground equipment\n               or other structure; nor dump rubbish or other material on any city recreational lands. (Ord. No. 9015, 6-6-1983)\n\nNo public assembly or parade, as defined in article IV, shall occur in any public\n               place, park or recreational land without the prior issuance of an Event Permit pursuant\n               to article IV herein. (Ord. No. 9015, 6-6-1983; Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny person or persons found in violation of this article shall be subject to a fine\n               of not less than $25.00 nor more than $50.00 for each offense. Each violation shall\n               be a separate offense. (Ord. No. 9015, 6-6-1983)\n\nThe mayor and council of Delaware City hereby agree to exercise recreation local service\n               function pursuant to 9 Del. C § 1102. (Ord. No. 12001, eff. 7-1-1971)\n\nFor…",
+          "sourceUrl": "https://library.municode.com/de/delaware_city/codes/code_of_ordinances?nodeId=PTICHDECI_CH5PUPLPARE"
+        },
+        {
+          "id": "de:delaware-city:2",
+          "prompt": "Are alcoholic beverages and narcotic drugs allowed on city recreational lands?",
+          "choices": [
+            "They are prohibited except as permitted by chapter 25 of the city code",
+            "Yes, if you are 21 or older",
+            "Only beer is allowed",
+            "They are allowed in picnic areas"
+          ],
+          "answer": "They are prohibited except as permitted by chapter 25 of the city code",
+          "excerpt": "City of Delaware City parks, playgrounds and ballfields (hereinafter referred to as\n               \"city recreation recreational lands\") will be closed from 10:00 p.m. until 7:00 a.m.\n               daily overnight between one hour past dusk and one hour before dawn. (Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny city recreational lands maybe temporarily closed by the mayor and council or city\n               manager when it is deemed necessary to be in the best interests of public safety. (Ord. No. 9015, 6-6-1983)\n\nNo person shall ride or drive or operate any motorized vehicle upon any of the city\n               recreational lands, except where designated. (Ord. No. 9015, 6-6-1983)\n\nAlcoholic liquors, beverages and any kind of narcotic drugs are prohibited on any\n               city recreational lands, except as permitted by chapter 25 of the City of Delaware\n               City Code. (Ord. No. 9015, 6-6-1983)\n\nNo person shall cut, break, move, take or otherwise injure, destroy or deface any\n               trees, shrubs, plants, turf or any building, fence, bridge, sign, playground equipment\n               or other structure; nor dump rubbish or other material on any city recreational lands. (Ord. No. 9015, 6-6-1983)\n\nNo public assembly or parade, as defined in article IV, shall occur in any public\n               place, park or recreational land without the prior issuance of an Event Permit pursuant\n               to article IV herein. (Ord. No. 9015, 6-6-1983; Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny person or persons found in violation of this article shall be subject to a fine\n               of not less than $25.00 nor more than $50.00 for each offense. Each violation shall\n               be a separate offense. (Ord. No. 9015, 6-6-1983)\n\nThe mayor and council of Delaware City hereby agree to exercise recreation local service\n               function pursuant to 9 Del. C § 1102. (Ord. No. 12001, eff. 7-1-1971)\n\nFor…",
+          "sourceUrl": "https://library.municode.com/de/delaware_city/codes/code_of_ordinances?nodeId=PTICHDECI_CH5PUPLPARE"
+        },
+        {
+          "id": "de:delaware-city:3",
+          "prompt": "What does the city forbid you to do to trees, plants, turf, signs, or playground equipment in parks?",
+          "choices": [
+            "Cut, break, injure, destroy, or deface them, or dump rubbish",
+            "Sit under them",
+            "Take photos of them",
+            "Water the plants"
+          ],
+          "answer": "Cut, break, injure, destroy, or deface them, or dump rubbish",
+          "excerpt": "City of Delaware City parks, playgrounds and ballfields (hereinafter referred to as\n               \"city recreation recreational lands\") will be closed from 10:00 p.m. until 7:00 a.m.\n               daily overnight between one hour past dusk and one hour before dawn. (Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny city recreational lands maybe temporarily closed by the mayor and council or city\n               manager when it is deemed necessary to be in the best interests of public safety. (Ord. No. 9015, 6-6-1983)\n\nNo person shall ride or drive or operate any motorized vehicle upon any of the city\n               recreational lands, except where designated. (Ord. No. 9015, 6-6-1983)\n\nAlcoholic liquors, beverages and any kind of narcotic drugs are prohibited on any\n               city recreational lands, except as permitted by chapter 25 of the City of Delaware\n               City Code. (Ord. No. 9015, 6-6-1983)\n\nNo person shall cut, break, move, take or otherwise injure, destroy or deface any\n               trees, shrubs, plants, turf or any building, fence, bridge, sign, playground equipment\n               or other structure; nor dump rubbish or other material on any city recreational lands. (Ord. No. 9015, 6-6-1983)\n\nNo public assembly or parade, as defined in article IV, shall occur in any public\n               place, park or recreational land without the prior issuance of an Event Permit pursuant\n               to article IV herein. (Ord. No. 9015, 6-6-1983; Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny person or persons found in violation of this article shall be subject to a fine\n               of not less than $25.00 nor more than $50.00 for each offense. Each violation shall\n               be a separate offense. (Ord. No. 9015, 6-6-1983)\n\nThe mayor and council of Delaware City hereby agree to exercise recreation local service\n               function pursuant to 9 Del. C § 1102. (Ord. No. 12001, eff. 7-1-1971)\n\nFor…",
+          "sourceUrl": "https://library.municode.com/de/delaware_city/codes/code_of_ordinances?nodeId=PTICHDECI_CH5PUPLPARE"
+        },
+        {
+          "id": "de:delaware-city:4",
+          "prompt": "Do you need permission for a public assembly or parade in a city park?",
+          "choices": [
+            "Yes, you must get an Event Permit first",
+            "No, parks are open to gatherings",
+            "Only if more than 50 people attend",
+            "Only parades need a permit"
+          ],
+          "answer": "Yes, you must get an Event Permit first",
+          "excerpt": "City of Delaware City parks, playgrounds and ballfields (hereinafter referred to as\n               \"city recreation recreational lands\") will be closed from 10:00 p.m. until 7:00 a.m.\n               daily overnight between one hour past dusk and one hour before dawn. (Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny city recreational lands maybe temporarily closed by the mayor and council or city\n               manager when it is deemed necessary to be in the best interests of public safety. (Ord. No. 9015, 6-6-1983)\n\nNo person shall ride or drive or operate any motorized vehicle upon any of the city\n               recreational lands, except where designated. (Ord. No. 9015, 6-6-1983)\n\nAlcoholic liquors, beverages and any kind of narcotic drugs are prohibited on any\n               city recreational lands, except as permitted by chapter 25 of the City of Delaware\n               City Code. (Ord. No. 9015, 6-6-1983)\n\nNo person shall cut, break, move, take or otherwise injure, destroy or deface any\n               trees, shrubs, plants, turf or any building, fence, bridge, sign, playground equipment\n               or other structure; nor dump rubbish or other material on any city recreational lands. (Ord. No. 9015, 6-6-1983)\n\nNo public assembly or parade, as defined in article IV, shall occur in any public\n               place, park or recreational land without the prior issuance of an Event Permit pursuant\n               to article IV herein. (Ord. No. 9015, 6-6-1983; Ord. No. 9015, 6-6-1983; Ord. No. 23-0227-01 , § 1, 5-15-2023)\n\nAny person or persons found in violation of this article shall be subject to a fine\n               of not less than $25.00 nor more than $50.00 for each offense. Each violation shall\n               be a separate offense. (Ord. No. 9015, 6-6-1983)\n\nThe mayor and council of Delaware City hereby agree to exercise recreation local service\n               function pursuant to 9 Del. C § 1102. (Ord. No. 12001, eff. 7-1-1971)\n\nFor…",
+          "sourceUrl": "https://library.municode.com/de/delaware_city/codes/code_of_ordinances?nodeId=PTICHDECI_CH5PUPLPARE"
+        }
+      ]
+    },
+    {
+      "id": "dover",
+      "name": "Dover",
+      "sourceIndex": "https://library.municode.com/de/dover",
+      "questions": [
+        {
+          "id": "de:dover:0",
+          "prompt": "In Dover, is drinking alcohol (or carrying it to drink) on a street, alley, or in a public park usually allowed?",
+          "choices": [
+            "No, unless a federal, state, county, or city law specifically allows it",
+            "Yes if you are 21 or older",
+            "Yes if the container is covered",
+            "Only after dark"
+          ],
+          "answer": "No, unless a federal, state, county, or city law specifically allows it",
+          "excerpt": "(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Alcoholic liquor means as defined per title 4 of the laws of the state (4 Del. C. § 101 et seq.). Public place means any place to which the general public has access and a right to resort for\n               business, entertainment, or other lawful purposes, but does not necessarily mean a\n               place devoted solely to the use of the public. It shall also include the front or\n               immediate area of any store, shop, restaurant, tavern, or other place of business\n               and also public grounds, areas, or parks. (b) Public places. Except when permitted by federal, state, county or municipal law, it is unlawful\n               for any person to consume, or possess with the intent to consume, any alcoholic liquor\n               in or upon any street, alley, highway, public way, public building or public place\n               within the city. (c) Underage persons. Whoever, being under the age of 21 years, has alcoholic liquor in his possession\n               at any time, or consumes or is found to have consumed alcoholic liquor, shall be fined\n               as provided for in Appendix F—Fees and Fines. This subsection shall not apply to the\n               possession or consumption of alcoholic liquor in connection with any religious service\n               or by members of the same family, provided at least one of the members is of age,\n               within the private home of any of the said members. Fines not paid within 14 days\n               of the day the fine was issued, including the day the fine was issued, shall be automatically\n               doubled in amount. (Code 1981, § 14-6.1; Ord. of 6-11-1984; Ord. of 10-25-1999; Ord. of 9-22-2003; Ord.\n               No. 2009-09, 6-22-2009)",
+          "sourceUrl": "https://library.municode.com/de/dover/codes/code_of_ordinances?nodeId=PTIICOOR_CH10ALBE"
+        },
+        {
+          "id": "de:dover:1",
+          "prompt": "Which of these spots is also treated as a public place where drinking alcohol is generally banned in Dover?",
+          "choices": [
+            "The front or immediate area of a store, shop, restaurant, or tavern",
+            "Your own enclosed backyard",
+            "Inside a private home",
+            "A private driveway"
+          ],
+          "answer": "The front or immediate area of a store, shop, restaurant, or tavern",
+          "excerpt": "(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Alcoholic liquor means as defined per title 4 of the laws of the state (4 Del. C. § 101 et seq.). Public place means any place to which the general public has access and a right to resort for\n               business, entertainment, or other lawful purposes, but does not necessarily mean a\n               place devoted solely to the use of the public. It shall also include the front or\n               immediate area of any store, shop, restaurant, tavern, or other place of business\n               and also public grounds, areas, or parks. (b) Public places. Except when permitted by federal, state, county or municipal law, it is unlawful\n               for any person to consume, or possess with the intent to consume, any alcoholic liquor\n               in or upon any street, alley, highway, public way, public building or public place\n               within the city. (c) Underage persons. Whoever, being under the age of 21 years, has alcoholic liquor in his possession\n               at any time, or consumes or is found to have consumed alcoholic liquor, shall be fined\n               as provided for in Appendix F—Fees and Fines. This subsection shall not apply to the\n               possession or consumption of alcoholic liquor in connection with any religious service\n               or by members of the same family, provided at least one of the members is of age,\n               within the private home of any of the said members. Fines not paid within 14 days\n               of the day the fine was issued, including the day the fine was issued, shall be automatically\n               doubled in amount. (Code 1981, § 14-6.1; Ord. of 6-11-1984; Ord. of 10-25-1999; Ord. of 9-22-2003; Ord.\n               No. 2009-09, 6-22-2009)",
+          "sourceUrl": "https://library.municode.com/de/dover/codes/code_of_ordinances?nodeId=PTIICOOR_CH10ALBE"
+        },
+        {
+          "id": "de:dover:2",
+          "prompt": "When may a person under 21 have or drink alcohol in a private home in Dover?",
+          "choices": [
+            "When they are with family members and at least one family member is 21 or older",
+            "Anytime a parent says it is okay",
+            "If only beer is involved",
+            "Never, even at home"
+          ],
+          "answer": "When they are with family members and at least one family member is 21 or older",
+          "excerpt": "(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Alcoholic liquor means as defined per title 4 of the laws of the state (4 Del. C. § 101 et seq.). Public place means any place to which the general public has access and a right to resort for\n               business, entertainment, or other lawful purposes, but does not necessarily mean a\n               place devoted solely to the use of the public. It shall also include the front or\n               immediate area of any store, shop, restaurant, tavern, or other place of business\n               and also public grounds, areas, or parks. (b) Public places. Except when permitted by federal, state, county or municipal law, it is unlawful\n               for any person to consume, or possess with the intent to consume, any alcoholic liquor\n               in or upon any street, alley, highway, public way, public building or public place\n               within the city. (c) Underage persons. Whoever, being under the age of 21 years, has alcoholic liquor in his possession\n               at any time, or consumes or is found to have consumed alcoholic liquor, shall be fined\n               as provided for in Appendix F—Fees and Fines. This subsection shall not apply to the\n               possession or consumption of alcoholic liquor in connection with any religious service\n               or by members of the same family, provided at least one of the members is of age,\n               within the private home of any of the said members. Fines not paid within 14 days\n               of the day the fine was issued, including the day the fine was issued, shall be automatically\n               doubled in amount. (Code 1981, § 14-6.1; Ord. of 6-11-1984; Ord. of 10-25-1999; Ord. of 9-22-2003; Ord.\n               No. 2009-09, 6-22-2009)",
+          "sourceUrl": "https://library.municode.com/de/dover/codes/code_of_ordinances?nodeId=PTIICOOR_CH10ALBE"
+        },
+        {
+          "id": "de:dover:3",
+          "prompt": "Besides a family gathering at home, when else may someone under 21 have alcohol in Dover?",
+          "choices": [
+            "In connection with a religious service",
+            "At a school event",
+            "On their 18th birthday",
+            "If a doctor writes a note"
+          ],
+          "answer": "In connection with a religious service",
+          "excerpt": "(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Alcoholic liquor means as defined per title 4 of the laws of the state (4 Del. C. § 101 et seq.). Public place means any place to which the general public has access and a right to resort for\n               business, entertainment, or other lawful purposes, but does not necessarily mean a\n               place devoted solely to the use of the public. It shall also include the front or\n               immediate area of any store, shop, restaurant, tavern, or other place of business\n               and also public grounds, areas, or parks. (b) Public places. Except when permitted by federal, state, county or municipal law, it is unlawful\n               for any person to consume, or possess with the intent to consume, any alcoholic liquor\n               in or upon any street, alley, highway, public way, public building or public place\n               within the city. (c) Underage persons. Whoever, being under the age of 21 years, has alcoholic liquor in his possession\n               at any time, or consumes or is found to have consumed alcoholic liquor, shall be fined\n               as provided for in Appendix F—Fees and Fines. This subsection shall not apply to the\n               possession or consumption of alcoholic liquor in connection with any religious service\n               or by members of the same family, provided at least one of the members is of age,\n               within the private home of any of the said members. Fines not paid within 14 days\n               of the day the fine was issued, including the day the fine was issued, shall be automatically\n               doubled in amount. (Code 1981, § 14-6.1; Ord. of 6-11-1984; Ord. of 10-25-1999; Ord. of 9-22-2003; Ord.\n               No. 2009-09, 6-22-2009)",
+          "sourceUrl": "https://library.municode.com/de/dover/codes/code_of_ordinances?nodeId=PTIICOOR_CH10ALBE"
+        },
+        {
+          "id": "de:dover:4",
+          "prompt": "What happens if an under-21 alcohol fine in Dover is not paid within 14 days of the day it was issued?",
+          "choices": [
+            "The fine amount is automatically doubled",
+            "You get a warning letter",
+            "Nothing until 30 days pass",
+            "A court date is automatically set"
+          ],
+          "answer": "The fine amount is automatically doubled",
+          "excerpt": "(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Alcoholic liquor means as defined per title 4 of the laws of the state (4 Del. C. § 101 et seq.). Public place means any place to which the general public has access and a right to resort for\n               business, entertainment, or other lawful purposes, but does not necessarily mean a\n               place devoted solely to the use of the public. It shall also include the front or\n               immediate area of any store, shop, restaurant, tavern, or other place of business\n               and also public grounds, areas, or parks. (b) Public places. Except when permitted by federal, state, county or municipal law, it is unlawful\n               for any person to consume, or possess with the intent to consume, any alcoholic liquor\n               in or upon any street, alley, highway, public way, public building or public place\n               within the city. (c) Underage persons. Whoever, being under the age of 21 years, has alcoholic liquor in his possession\n               at any time, or consumes or is found to have consumed alcoholic liquor, shall be fined\n               as provided for in Appendix F—Fees and Fines. This subsection shall not apply to the\n               possession or consumption of alcoholic liquor in connection with any religious service\n               or by members of the same family, provided at least one of the members is of age,\n               within the private home of any of the said members. Fines not paid within 14 days\n               of the day the fine was issued, including the day the fine was issued, shall be automatically\n               doubled in amount. (Code 1981, § 14-6.1; Ord. of 6-11-1984; Ord. of 10-25-1999; Ord. of 9-22-2003; Ord.\n               No. 2009-09, 6-22-2009)",
+          "sourceUrl": "https://library.municode.com/de/dover/codes/code_of_ordinances?nodeId=PTIICOOR_CH10ALBE"
+        }
+      ]
+    },
+    {
+      "id": "milford",
+      "name": "Milford",
+      "sourceIndex": "https://library.municode.com/de/milford",
+      "questions": [
+        {
+          "id": "de:milford:0",
+          "prompt": "Where can a resident go to look at the official copy of Milford’s city Code?",
+          "choices": [
+            "The office of the City Clerk",
+            "The Sussex County Courthouse",
+            "Any public library in Delaware",
+            "The Mayor’s private office"
+          ],
+          "answer": "The office of the City Clerk",
+          "excerpt": "[HISTORY: Adopted by the City Council of the City of Milford as indicated in article\n            histories. Amendments noted where applicable.] Be it hereby ordained by the City Council of the City of Milford as follows:\n\n[Adopted 5-11-1998 by Ord. No. 4-98]\n\nThe ordinances of the City of Milford, County of Sussex, State of Delaware, of a general\n               and permanent nature, adopted by the City Council of the City of Milford, as revised,\n               codified and consolidated into chapters and sections by General Code Publishers Corp.\n               and consisting of Chapters 1 through 230, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as the Code of the City of Milford, hereinafter known and referred to as the\n               \"Code.\"\n\nThe provisions of the Code, insofar as they are substantively the same as those of\n               ordinances in force immediately prior to the enactment of the Code by this ordinance,\n               are intended as a continuation of such ordinances and not as new enactments, and the\n               effectiveness of such provisions shall date from the date of adoption of the prior\n               ordinance. All such provisions are hereby continued in full force and effect and are\n               hereby reaffirmed as to their adoption by the City Council of the City of Milford,\n               and it is the intention of said City Council that each such provision contained within\n               the Code is hereby reaffirmed as it appears in the Code.\n\nA copy of the Code, in loose-leaf form, has been filed in the office of the City Clerk\n               of the City of Milford and shall remain there for use and examination by the public\n               until final action is taken on this ordinance; and, if this ordinance shall be adopted,\n               such copy shall be certified to by the City Clerk of the City of Milford by impressing\n               thereon the Seal of the city, and…",
+          "sourceUrl": "https://library.municode.com/de/milford/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "de:milford:1",
+          "prompt": "In Milford’s Code, the old job title “Building Inspector” was changed to what?",
+          "choices": [
+            "Code Official",
+            "City Engineer",
+            "Zoning Inspector",
+            "Safety Officer"
+          ],
+          "answer": "Code Official",
+          "excerpt": "[HISTORY: Adopted by the City Council of the City of Milford as indicated in article\n            histories. Amendments noted where applicable.] Be it hereby ordained by the City Council of the City of Milford as follows:\n\n[Adopted 5-11-1998 by Ord. No. 4-98]\n\nThe ordinances of the City of Milford, County of Sussex, State of Delaware, of a general\n               and permanent nature, adopted by the City Council of the City of Milford, as revised,\n               codified and consolidated into chapters and sections by General Code Publishers Corp.\n               and consisting of Chapters 1 through 230, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as the Code of the City of Milford, hereinafter known and referred to as the\n               \"Code.\"\n\nThe provisions of the Code, insofar as they are substantively the same as those of\n               ordinances in force immediately prior to the enactment of the Code by this ordinance,\n               are intended as a continuation of such ordinances and not as new enactments, and the\n               effectiveness of such provisions shall date from the date of adoption of the prior\n               ordinance. All such provisions are hereby continued in full force and effect and are\n               hereby reaffirmed as to their adoption by the City Council of the City of Milford,\n               and it is the intention of said City Council that each such provision contained within\n               the Code is hereby reaffirmed as it appears in the Code.\n\nA copy of the Code, in loose-leaf form, has been filed in the office of the City Clerk\n               of the City of Milford and shall remain there for use and examination by the public\n               until final action is taken on this ordinance; and, if this ordinance shall be adopted,\n               such copy shall be certified to by the City Clerk of the City of Milford by impressing\n               thereon the Seal of the city, and…",
+          "sourceUrl": "https://library.municode.com/de/milford/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "de:milford:2",
+          "prompt": "What phrase replaced “Civil Defense” throughout the Code?",
+          "choices": [
+            "Emergency Planning and Operations",
+            "Disaster Relief Office",
+            "Homeland Security",
+            "National Guard Liaison"
+          ],
+          "answer": "Emergency Planning and Operations",
+          "excerpt": "[HISTORY: Adopted by the City Council of the City of Milford as indicated in article\n            histories. Amendments noted where applicable.] Be it hereby ordained by the City Council of the City of Milford as follows:\n\n[Adopted 5-11-1998 by Ord. No. 4-98]\n\nThe ordinances of the City of Milford, County of Sussex, State of Delaware, of a general\n               and permanent nature, adopted by the City Council of the City of Milford, as revised,\n               codified and consolidated into chapters and sections by General Code Publishers Corp.\n               and consisting of Chapters 1 through 230, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as the Code of the City of Milford, hereinafter known and referred to as the\n               \"Code.\"\n\nThe provisions of the Code, insofar as they are substantively the same as those of\n               ordinances in force immediately prior to the enactment of the Code by this ordinance,\n               are intended as a continuation of such ordinances and not as new enactments, and the\n               effectiveness of such provisions shall date from the date of adoption of the prior\n               ordinance. All such provisions are hereby continued in full force and effect and are\n               hereby reaffirmed as to their adoption by the City Council of the City of Milford,\n               and it is the intention of said City Council that each such provision contained within\n               the Code is hereby reaffirmed as it appears in the Code.\n\nA copy of the Code, in loose-leaf form, has been filed in the office of the City Clerk\n               of the City of Milford and shall remain there for use and examination by the public\n               until final action is taken on this ordinance; and, if this ordinance shall be adopted,\n               such copy shall be certified to by the City Clerk of the City of Milford by impressing\n               thereon the Seal of the city, and…",
+          "sourceUrl": "https://library.municode.com/de/milford/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "de:milford:3",
+          "prompt": "How is the official Code of Milford kept for the public to use?",
+          "choices": [
+            "In a loose-leaf book that gets new pages as the rules change",
+            "Carved in stone at City Hall",
+            "Only as a computer file with no paper copy",
+            "Printed once and never updated"
+          ],
+          "answer": "In a loose-leaf book that gets new pages as the rules change",
+          "excerpt": "[HISTORY: Adopted by the City Council of the City of Milford as indicated in article\n            histories. Amendments noted where applicable.] Be it hereby ordained by the City Council of the City of Milford as follows:\n\n[Adopted 5-11-1998 by Ord. No. 4-98]\n\nThe ordinances of the City of Milford, County of Sussex, State of Delaware, of a general\n               and permanent nature, adopted by the City Council of the City of Milford, as revised,\n               codified and consolidated into chapters and sections by General Code Publishers Corp.\n               and consisting of Chapters 1 through 230, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as the Code of the City of Milford, hereinafter known and referred to as the\n               \"Code.\"\n\nThe provisions of the Code, insofar as they are substantively the same as those of\n               ordinances in force immediately prior to the enactment of the Code by this ordinance,\n               are intended as a continuation of such ordinances and not as new enactments, and the\n               effectiveness of such provisions shall date from the date of adoption of the prior\n               ordinance. All such provisions are hereby continued in full force and effect and are\n               hereby reaffirmed as to their adoption by the City Council of the City of Milford,\n               and it is the intention of said City Council that each such provision contained within\n               the Code is hereby reaffirmed as it appears in the Code.\n\nA copy of the Code, in loose-leaf form, has been filed in the office of the City Clerk\n               of the City of Milford and shall remain there for use and examination by the public\n               until final action is taken on this ordinance; and, if this ordinance shall be adopted,\n               such copy shall be certified to by the City Clerk of the City of Milford by impressing\n               thereon the Seal of the city, and…",
+          "sourceUrl": "https://library.municode.com/de/milford/codes/code_of_ordinances?nodeId=PTIADLE"
+        }
+      ]
+    },
+    {
+      "id": "new-castle-county",
+      "name": "New Castle County",
+      "sourceIndex": "https://library.municode.com/de/new_castle_county",
+      "questions": [
+        {
+          "id": "de:new-castle-county:0",
+          "prompt": "After how many consecutive days of feeding or sheltering an animal does New Castle County consider you its owner?",
+          "choices": [
+            "1 day",
+            "3 days",
+            "7 days",
+            "30 days"
+          ],
+          "answer": "3 days",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Health and sanitation, ch. 18; hunting, trapping, injuring animals and birds in parks, § 24.01.011; presence of animals or horseback riding, § 24.01.013.\n\nA. Definitions. The following words, terms and phrases, when used in this Article, shall have the\n               meanings ascribed to them in this Subsection, except where the context clearly indicates\n               a different meaning: Animal control agency means a State or County administrative agency, a Humane Society, or other entity\n               which is authorized by statute, ordinance or contract to enforce any animal control\n               laws or regulations of the State or County. Animal control officer means a person employed by the State, County or an animal control agency as an enforcement\n               officer. Animal shelter means a facility which is used to house or contain animals and which is owned, operated\n               or maintained by an incorporated humane society, animal welfare society, society for\n               the prevention of cruelty to animals or other not-for-profit organization devoted\n               to the welfare, protection and humane treatment of such animals. At heel means that a dog is directly behind or next to a competent person and obedient to\n               that person's command. At large means that a dog is off of the real property of its owners and not within a vehicle\n               being driven or parked on the streets and not under \"restraint,\" as defined in this\n               Section. Enclosure means a fence or structure of at least six (6) feet in height, forming or causing\n               an enclosure suitable to prevent the entry of young children, and suitable to confine\n               a vicious dog in conjunction with other measures which may be taken by the owner or\n               keeper, such as tethering of the vicious dog. Such enclosure shall be securely enclosed\n               and locked and designed with…",
+          "sourceUrl": "https://library.municode.com/de/new_castle_county/codes/code_of_ordinances?nodeId=PTIICO_CH4AN"
+        },
+        {
+          "id": "de:new-castle-county:1",
+          "prompt": "When your dog is not on your property or inside a vehicle, its leash or lead cannot be longer than:",
+          "choices": [
+            "6 feet",
+            "10 feet",
+            "20 feet",
+            "25 feet"
+          ],
+          "answer": "20 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Health and sanitation, ch. 18; hunting, trapping, injuring animals and birds in parks, § 24.01.011; presence of animals or horseback riding, § 24.01.013.\n\nA. Definitions. The following words, terms and phrases, when used in this Article, shall have the\n               meanings ascribed to them in this Subsection, except where the context clearly indicates\n               a different meaning: Animal control agency means a State or County administrative agency, a Humane Society, or other entity\n               which is authorized by statute, ordinance or contract to enforce any animal control\n               laws or regulations of the State or County. Animal control officer means a person employed by the State, County or an animal control agency as an enforcement\n               officer. Animal shelter means a facility which is used to house or contain animals and which is owned, operated\n               or maintained by an incorporated humane society, animal welfare society, society for\n               the prevention of cruelty to animals or other not-for-profit organization devoted\n               to the welfare, protection and humane treatment of such animals. At heel means that a dog is directly behind or next to a competent person and obedient to\n               that person's command. At large means that a dog is off of the real property of its owners and not within a vehicle\n               being driven or parked on the streets and not under \"restraint,\" as defined in this\n               Section. Enclosure means a fence or structure of at least six (6) feet in height, forming or causing\n               an enclosure suitable to prevent the entry of young children, and suitable to confine\n               a vicious dog in conjunction with other measures which may be taken by the owner or\n               keeper, such as tethering of the vicious dog. Such enclosure shall be securely enclosed\n               and locked and designed with…",
+          "sourceUrl": "https://library.municode.com/de/new_castle_county/codes/code_of_ordinances?nodeId=PTIICO_CH4AN"
+        },
+        {
+          "id": "de:new-castle-county:2",
+          "prompt": "A fence used to keep a vicious dog must be at least 6 feet high, locked, and designed with:",
+          "choices": [
+            "Open sides for air flow",
+            "Secure sides, top, and bottom",
+            "A gap at the bottom for cleaning",
+            "Only a front gate"
+          ],
+          "answer": "Secure sides, top, and bottom",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Health and sanitation, ch. 18; hunting, trapping, injuring animals and birds in parks, § 24.01.011; presence of animals or horseback riding, § 24.01.013.\n\nA. Definitions. The following words, terms and phrases, when used in this Article, shall have the\n               meanings ascribed to them in this Subsection, except where the context clearly indicates\n               a different meaning: Animal control agency means a State or County administrative agency, a Humane Society, or other entity\n               which is authorized by statute, ordinance or contract to enforce any animal control\n               laws or regulations of the State or County. Animal control officer means a person employed by the State, County or an animal control agency as an enforcement\n               officer. Animal shelter means a facility which is used to house or contain animals and which is owned, operated\n               or maintained by an incorporated humane society, animal welfare society, society for\n               the prevention of cruelty to animals or other not-for-profit organization devoted\n               to the welfare, protection and humane treatment of such animals. At heel means that a dog is directly behind or next to a competent person and obedient to\n               that person's command. At large means that a dog is off of the real property of its owners and not within a vehicle\n               being driven or parked on the streets and not under \"restraint,\" as defined in this\n               Section. Enclosure means a fence or structure of at least six (6) feet in height, forming or causing\n               an enclosure suitable to prevent the entry of young children, and suitable to confine\n               a vicious dog in conjunction with other measures which may be taken by the owner or\n               keeper, such as tethering of the vicious dog. Such enclosure shall be securely enclosed\n               and locked and designed with…",
+          "sourceUrl": "https://library.municode.com/de/new_castle_county/codes/code_of_ordinances?nodeId=PTIICO_CH4AN"
+        },
+        {
+          "id": "de:new-castle-county:3",
+          "prompt": "Where can your dog be off-leash (but still under control) in New Castle County?",
+          "choices": [
+            "Any public park",
+            "A County designated Bark Park",
+            "Downtown sidewalks after 8 p.m.",
+            "School playgrounds on weekends"
+          ],
+          "answer": "A County designated Bark Park",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Health and sanitation, ch. 18; hunting, trapping, injuring animals and birds in parks, § 24.01.011; presence of animals or horseback riding, § 24.01.013.\n\nA. Definitions. The following words, terms and phrases, when used in this Article, shall have the\n               meanings ascribed to them in this Subsection, except where the context clearly indicates\n               a different meaning: Animal control agency means a State or County administrative agency, a Humane Society, or other entity\n               which is authorized by statute, ordinance or contract to enforce any animal control\n               laws or regulations of the State or County. Animal control officer means a person employed by the State, County or an animal control agency as an enforcement\n               officer. Animal shelter means a facility which is used to house or contain animals and which is owned, operated\n               or maintained by an incorporated humane society, animal welfare society, society for\n               the prevention of cruelty to animals or other not-for-profit organization devoted\n               to the welfare, protection and humane treatment of such animals. At heel means that a dog is directly behind or next to a competent person and obedient to\n               that person's command. At large means that a dog is off of the real property of its owners and not within a vehicle\n               being driven or parked on the streets and not under \"restraint,\" as defined in this\n               Section. Enclosure means a fence or structure of at least six (6) feet in height, forming or causing\n               an enclosure suitable to prevent the entry of young children, and suitable to confine\n               a vicious dog in conjunction with other measures which may be taken by the owner or\n               keeper, such as tethering of the vicious dog. Such enclosure shall be securely enclosed\n               and locked and designed with…",
+          "sourceUrl": "https://library.municode.com/de/new_castle_county/codes/code_of_ordinances?nodeId=PTIICO_CH4AN"
+        },
+        {
+          "id": "de:new-castle-county:4",
+          "prompt": "A dog is \"at heel\" when it is:",
+          "choices": [
+            "On a short leash only",
+            "Directly behind or next to a competent person and obedient to that person's command",
+            "Inside an invisible fence",
+            "Carrying its own leash"
+          ],
+          "answer": "Directly behind or next to a competent person and obedient to that person's command",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Health and sanitation, ch. 18; hunting, trapping, injuring animals and birds in parks, § 24.01.011; presence of animals or horseback riding, § 24.01.013.\n\nA. Definitions. The following words, terms and phrases, when used in this Article, shall have the\n               meanings ascribed to them in this Subsection, except where the context clearly indicates\n               a different meaning: Animal control agency means a State or County administrative agency, a Humane Society, or other entity\n               which is authorized by statute, ordinance or contract to enforce any animal control\n               laws or regulations of the State or County. Animal control officer means a person employed by the State, County or an animal control agency as an enforcement\n               officer. Animal shelter means a facility which is used to house or contain animals and which is owned, operated\n               or maintained by an incorporated humane society, animal welfare society, society for\n               the prevention of cruelty to animals or other not-for-profit organization devoted\n               to the welfare, protection and humane treatment of such animals. At heel means that a dog is directly behind or next to a competent person and obedient to\n               that person's command. At large means that a dog is off of the real property of its owners and not within a vehicle\n               being driven or parked on the streets and not under \"restraint,\" as defined in this\n               Section. Enclosure means a fence or structure of at least six (6) feet in height, forming or causing\n               an enclosure suitable to prevent the entry of young children, and suitable to confine\n               a vicious dog in conjunction with other measures which may be taken by the owner or\n               keeper, such as tethering of the vicious dog. Such enclosure shall be securely enclosed\n               and locked and designed with…",
+          "sourceUrl": "https://library.municode.com/de/new_castle_county/codes/code_of_ordinances?nodeId=PTIICO_CH4AN"
+        }
+      ]
+    },
+    {
+      "id": "newark",
+      "name": "Newark",
+      "sourceIndex": "https://library.municode.com/de/newark",
+      "questions": [
+        {
+          "id": "de:newark:0",
+          "prompt": "In Newark, a leash used to control an animal can be no longer than:",
+          "choices": [
+            "6 feet",
+            "8 feet",
+            "10 feet",
+            "There is no length limit"
+          ],
+          "answer": "8 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note—Ord. No. 98-25, adopted Sept. 28, 1998, amended Ch. 5, in its entirety, to read as\n               herein set out. See the Code Comparative Table.\n\nFootnotes: --- ( 2 ) --- Charter reference—Council authority to lay and collect fines on the owners of stray animals and to generally\n               implement animal laws that will provide for the well-being of the city, Art. IV, §\n               401. Cross reference— Animal control officers, § 2-22.4; animal-drawn vehicles upon streets, § 20-14.\n\nAs used in this chapter, unless the context otherwise clearly indicates: Animal control officer shall mean a person employed by the state, county, municipality, or an animal control\n               agency as an enforcement officer. Animal control agency shall mean a state, county, or municipal administrative agency, or a humane society\n               which is authorized by statute or ordinance to enforce any animal control laws or\n               regulations of the state, county, or municipality. Animal shall mean any and all types of animals, both domesticated and wild, male and female,\n               singular and plural. At large shall mean an animal which is off the property of the person who possesses, owns,\n               harbors, or cares for the animal and the animal is not under restraint. Authorized shelter shall mean any animal impoundment facility designated by the city manager for the\n               receipt of animals or fowl retained by the city or its agents pursuant to this article. Exotic animal shall mean wild mammals or hybrids of wild animals (mammals whose parents are different\n               varieties of the same species or belong to different but closely allied species, one\n               parent being a wild mammal not native to or generally found in Delaware and the other\n               parent being a domestic mammal native to or generally found in Delaware) or live reptiles\n               not native to or generally…",
+          "sourceUrl": "https://library.municode.com/de/newark/codes/code_of_ordinances?nodeId=CD_ORD_CH5AN"
+        },
+        {
+          "id": "de:newark:1",
+          "prompt": "If you feed or shelter an animal, after how many days in a row does Newark treat you as harboring it?",
+          "choices": [
+            "1 consecutive day",
+            "3 consecutive days",
+            "7 consecutive days",
+            "30 consecutive days"
+          ],
+          "answer": "3 consecutive days",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note—Ord. No. 98-25, adopted Sept. 28, 1998, amended Ch. 5, in its entirety, to read as\n               herein set out. See the Code Comparative Table.\n\nFootnotes: --- ( 2 ) --- Charter reference—Council authority to lay and collect fines on the owners of stray animals and to generally\n               implement animal laws that will provide for the well-being of the city, Art. IV, §\n               401. Cross reference— Animal control officers, § 2-22.4; animal-drawn vehicles upon streets, § 20-14.\n\nAs used in this chapter, unless the context otherwise clearly indicates: Animal control officer shall mean a person employed by the state, county, municipality, or an animal control\n               agency as an enforcement officer. Animal control agency shall mean a state, county, or municipal administrative agency, or a humane society\n               which is authorized by statute or ordinance to enforce any animal control laws or\n               regulations of the state, county, or municipality. Animal shall mean any and all types of animals, both domesticated and wild, male and female,\n               singular and plural. At large shall mean an animal which is off the property of the person who possesses, owns,\n               harbors, or cares for the animal and the animal is not under restraint. Authorized shelter shall mean any animal impoundment facility designated by the city manager for the\n               receipt of animals or fowl retained by the city or its agents pursuant to this article. Exotic animal shall mean wild mammals or hybrids of wild animals (mammals whose parents are different\n               varieties of the same species or belong to different but closely allied species, one\n               parent being a wild mammal not native to or generally found in Delaware and the other\n               parent being a domestic mammal native to or generally found in Delaware) or live reptiles\n               not native to or generally…",
+          "sourceUrl": "https://library.municode.com/de/newark/codes/code_of_ordinances?nodeId=CD_ORD_CH5AN"
+        },
+        {
+          "id": "de:newark:2",
+          "prompt": "To keep farm animals such as chickens, goats, or horses in Newark, the property must generally be at least:",
+          "choices": [
+            "1 acre",
+            "2 acres",
+            "4 acres",
+            "10 acres"
+          ],
+          "answer": "4 acres",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note—Ord. No. 98-25, adopted Sept. 28, 1998, amended Ch. 5, in its entirety, to read as\n               herein set out. See the Code Comparative Table.\n\nFootnotes: --- ( 2 ) --- Charter reference—Council authority to lay and collect fines on the owners of stray animals and to generally\n               implement animal laws that will provide for the well-being of the city, Art. IV, §\n               401. Cross reference— Animal control officers, § 2-22.4; animal-drawn vehicles upon streets, § 20-14.\n\nAs used in this chapter, unless the context otherwise clearly indicates: Animal control officer shall mean a person employed by the state, county, municipality, or an animal control\n               agency as an enforcement officer. Animal control agency shall mean a state, county, or municipal administrative agency, or a humane society\n               which is authorized by statute or ordinance to enforce any animal control laws or\n               regulations of the state, county, or municipality. Animal shall mean any and all types of animals, both domesticated and wild, male and female,\n               singular and plural. At large shall mean an animal which is off the property of the person who possesses, owns,\n               harbors, or cares for the animal and the animal is not under restraint. Authorized shelter shall mean any animal impoundment facility designated by the city manager for the\n               receipt of animals or fowl retained by the city or its agents pursuant to this article. Exotic animal shall mean wild mammals or hybrids of wild animals (mammals whose parents are different\n               varieties of the same species or belong to different but closely allied species, one\n               parent being a wild mammal not native to or generally found in Delaware and the other\n               parent being a domestic mammal native to or generally found in Delaware) or live reptiles\n               not native to or generally…",
+          "sourceUrl": "https://library.municode.com/de/newark/codes/code_of_ordinances?nodeId=CD_ORD_CH5AN"
+        },
+        {
+          "id": "de:newark:3",
+          "prompt": "Unless an exception for a litter of young animals applies, how many animals may a person keep in Newark?",
+          "choices": [
+            "4",
+            "6",
+            "8",
+            "As many as they want"
+          ],
+          "answer": "6",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note—Ord. No. 98-25, adopted Sept. 28, 1998, amended Ch. 5, in its entirety, to read as\n               herein set out. See the Code Comparative Table.\n\nFootnotes: --- ( 2 ) --- Charter reference—Council authority to lay and collect fines on the owners of stray animals and to generally\n               implement animal laws that will provide for the well-being of the city, Art. IV, §\n               401. Cross reference— Animal control officers, § 2-22.4; animal-drawn vehicles upon streets, § 20-14.\n\nAs used in this chapter, unless the context otherwise clearly indicates: Animal control officer shall mean a person employed by the state, county, municipality, or an animal control\n               agency as an enforcement officer. Animal control agency shall mean a state, county, or municipal administrative agency, or a humane society\n               which is authorized by statute or ordinance to enforce any animal control laws or\n               regulations of the state, county, or municipality. Animal shall mean any and all types of animals, both domesticated and wild, male and female,\n               singular and plural. At large shall mean an animal which is off the property of the person who possesses, owns,\n               harbors, or cares for the animal and the animal is not under restraint. Authorized shelter shall mean any animal impoundment facility designated by the city manager for the\n               receipt of animals or fowl retained by the city or its agents pursuant to this article. Exotic animal shall mean wild mammals or hybrids of wild animals (mammals whose parents are different\n               varieties of the same species or belong to different but closely allied species, one\n               parent being a wild mammal not native to or generally found in Delaware and the other\n               parent being a domestic mammal native to or generally found in Delaware) or live reptiles\n               not native to or generally…",
+          "sourceUrl": "https://library.municode.com/de/newark/codes/code_of_ordinances?nodeId=CD_ORD_CH5AN"
+        },
+        {
+          "id": "de:newark:4",
+          "prompt": "Under Newark animal rules, a person’s property (premises) includes:",
+          "choices": [
+            "Only land they own or lease",
+            "Public sidewalks and streets",
+            "The inside of a motor vehicle",
+            "A neighbor’s yard"
+          ],
+          "answer": "The inside of a motor vehicle",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note—Ord. No. 98-25, adopted Sept. 28, 1998, amended Ch. 5, in its entirety, to read as\n               herein set out. See the Code Comparative Table.\n\nFootnotes: --- ( 2 ) --- Charter reference—Council authority to lay and collect fines on the owners of stray animals and to generally\n               implement animal laws that will provide for the well-being of the city, Art. IV, §\n               401. Cross reference— Animal control officers, § 2-22.4; animal-drawn vehicles upon streets, § 20-14.\n\nAs used in this chapter, unless the context otherwise clearly indicates: Animal control officer shall mean a person employed by the state, county, municipality, or an animal control\n               agency as an enforcement officer. Animal control agency shall mean a state, county, or municipal administrative agency, or a humane society\n               which is authorized by statute or ordinance to enforce any animal control laws or\n               regulations of the state, county, or municipality. Animal shall mean any and all types of animals, both domesticated and wild, male and female,\n               singular and plural. At large shall mean an animal which is off the property of the person who possesses, owns,\n               harbors, or cares for the animal and the animal is not under restraint. Authorized shelter shall mean any animal impoundment facility designated by the city manager for the\n               receipt of animals or fowl retained by the city or its agents pursuant to this article. Exotic animal shall mean wild mammals or hybrids of wild animals (mammals whose parents are different\n               varieties of the same species or belong to different but closely allied species, one\n               parent being a wild mammal not native to or generally found in Delaware and the other\n               parent being a domestic mammal native to or generally found in Delaware) or live reptiles\n               not native to or generally…",
+          "sourceUrl": "https://library.municode.com/de/newark/codes/code_of_ordinances?nodeId=CD_ORD_CH5AN"
+        }
+      ]
+    },
+    {
+      "id": "smyrna",
+      "name": "Smyrna",
+      "sourceIndex": "https://library.municode.com/de/smyrna",
+      "questions": [
+        {
+          "id": "de:smyrna:0",
+          "prompt": "In Smyrna, who may not have an alcoholic drink on them or in their possession in town or on public streets?",
+          "choices": [
+            "Anyone under 21 years old",
+            "Anyone under 18 years old",
+            "Only people who are driving",
+            "Anyone drinking after dark"
+          ],
+          "answer": "Anyone under 21 years old",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to prevent drunkenness, § 2(b)(6); authority to provide for public peace\n               and safety, § 2(b)(7). Cross reference— General penalty for Code violations, § 1-11; alcoholic beverages prohibited on park premises, § 46-28; traffic and vehicles, ch. 66.\n\n(a) Whoever, being then under the age of 21 years, shall have upon or about his person\n               or shall have in his possession any alcoholic, malt or spirituous beverage, within\n               the limits of the town or within the limits of the streets or public places vested\n               in the town, shall be guilty of a criminal violation and shall be subject to punishment\n               as provided in section 1-11 of this Code. (b) Whoever, being then under the age of 21 years, shall consume any alcoholic, malt or\n               spirituous beverage upon the beaches, or any other public place within the limits\n               of the town or within the limits of the public lands vested in the town, shall be\n               guilty of a criminal violation and shall be subject to punishment as provided in section 1-11 of this Code. (c) The provisions of this section shall not apply either to the possession or consumption\n               of alcoholic or spirituous beverages when consumed as an integral part of the sacramental\n               rites performed in the course of religious services conducted in a church building\n               or other house of worship, or where consumption is for medicinal purposes pursuant\n               to the direction or prescription of a physician or surgeon duly licensed to practice\n               within this state. (d) Where any person is determined to have violated this section by any court of competent\n               jurisdiction, the state's division of motor vehicles shall be appropriately notified\n               so that person's license shall be revoked in accordance with 4 Del. C. § 904(f) as\n               it…",
+          "sourceUrl": "https://library.municode.com/de/smyrna/codes/code_of_ordinances?nodeId=PTIITOCO_CH6ALBE"
+        },
+        {
+          "id": "de:smyrna:1",
+          "prompt": "If you are under 21, where does Smyrna ban drinking alcohol?",
+          "choices": [
+            "On the beaches or any other public place in town",
+            "Only at licensed restaurants",
+            "Only in your own backyard",
+            "Anywhere except your home"
+          ],
+          "answer": "On the beaches or any other public place in town",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to prevent drunkenness, § 2(b)(6); authority to provide for public peace\n               and safety, § 2(b)(7). Cross reference— General penalty for Code violations, § 1-11; alcoholic beverages prohibited on park premises, § 46-28; traffic and vehicles, ch. 66.\n\n(a) Whoever, being then under the age of 21 years, shall have upon or about his person\n               or shall have in his possession any alcoholic, malt or spirituous beverage, within\n               the limits of the town or within the limits of the streets or public places vested\n               in the town, shall be guilty of a criminal violation and shall be subject to punishment\n               as provided in section 1-11 of this Code. (b) Whoever, being then under the age of 21 years, shall consume any alcoholic, malt or\n               spirituous beverage upon the beaches, or any other public place within the limits\n               of the town or within the limits of the public lands vested in the town, shall be\n               guilty of a criminal violation and shall be subject to punishment as provided in section 1-11 of this Code. (c) The provisions of this section shall not apply either to the possession or consumption\n               of alcoholic or spirituous beverages when consumed as an integral part of the sacramental\n               rites performed in the course of religious services conducted in a church building\n               or other house of worship, or where consumption is for medicinal purposes pursuant\n               to the direction or prescription of a physician or surgeon duly licensed to practice\n               within this state. (d) Where any person is determined to have violated this section by any court of competent\n               jurisdiction, the state's division of motor vehicles shall be appropriately notified\n               so that person's license shall be revoked in accordance with 4 Del. C. § 904(f) as\n               it…",
+          "sourceUrl": "https://library.municode.com/de/smyrna/codes/code_of_ordinances?nodeId=PTIITOCO_CH6ALBE"
+        },
+        {
+          "id": "de:smyrna:2",
+          "prompt": "When does Smyrna’s under-21 alcohol rule not apply?",
+          "choices": [
+            "When the drink is part of sacramental rites in religious services at a church or house of worship",
+            "When a parent or guardian is present",
+            "When the drink was bought in another state",
+            "When it is a holiday weekend"
+          ],
+          "answer": "When the drink is part of sacramental rites in religious services at a church or house of worship",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to prevent drunkenness, § 2(b)(6); authority to provide for public peace\n               and safety, § 2(b)(7). Cross reference— General penalty for Code violations, § 1-11; alcoholic beverages prohibited on park premises, § 46-28; traffic and vehicles, ch. 66.\n\n(a) Whoever, being then under the age of 21 years, shall have upon or about his person\n               or shall have in his possession any alcoholic, malt or spirituous beverage, within\n               the limits of the town or within the limits of the streets or public places vested\n               in the town, shall be guilty of a criminal violation and shall be subject to punishment\n               as provided in section 1-11 of this Code. (b) Whoever, being then under the age of 21 years, shall consume any alcoholic, malt or\n               spirituous beverage upon the beaches, or any other public place within the limits\n               of the town or within the limits of the public lands vested in the town, shall be\n               guilty of a criminal violation and shall be subject to punishment as provided in section 1-11 of this Code. (c) The provisions of this section shall not apply either to the possession or consumption\n               of alcoholic or spirituous beverages when consumed as an integral part of the sacramental\n               rites performed in the course of religious services conducted in a church building\n               or other house of worship, or where consumption is for medicinal purposes pursuant\n               to the direction or prescription of a physician or surgeon duly licensed to practice\n               within this state. (d) Where any person is determined to have violated this section by any court of competent\n               jurisdiction, the state's division of motor vehicles shall be appropriately notified\n               so that person's license shall be revoked in accordance with 4 Del. C. § 904(f) as\n               it…",
+          "sourceUrl": "https://library.municode.com/de/smyrna/codes/code_of_ordinances?nodeId=PTIITOCO_CH6ALBE"
+        },
+        {
+          "id": "de:smyrna:3",
+          "prompt": "A person under 21 may consume alcohol in Smyrna for medicinal purposes only if it is:",
+          "choices": [
+            "Directed or prescribed by a physician or surgeon licensed in this state",
+            "Suggested by a family member who is a nurse",
+            "Needed because they feel ill",
+            "Less than one drink"
+          ],
+          "answer": "Directed or prescribed by a physician or surgeon licensed in this state",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to prevent drunkenness, § 2(b)(6); authority to provide for public peace\n               and safety, § 2(b)(7). Cross reference— General penalty for Code violations, § 1-11; alcoholic beverages prohibited on park premises, § 46-28; traffic and vehicles, ch. 66.\n\n(a) Whoever, being then under the age of 21 years, shall have upon or about his person\n               or shall have in his possession any alcoholic, malt or spirituous beverage, within\n               the limits of the town or within the limits of the streets or public places vested\n               in the town, shall be guilty of a criminal violation and shall be subject to punishment\n               as provided in section 1-11 of this Code. (b) Whoever, being then under the age of 21 years, shall consume any alcoholic, malt or\n               spirituous beverage upon the beaches, or any other public place within the limits\n               of the town or within the limits of the public lands vested in the town, shall be\n               guilty of a criminal violation and shall be subject to punishment as provided in section 1-11 of this Code. (c) The provisions of this section shall not apply either to the possession or consumption\n               of alcoholic or spirituous beverages when consumed as an integral part of the sacramental\n               rites performed in the course of religious services conducted in a church building\n               or other house of worship, or where consumption is for medicinal purposes pursuant\n               to the direction or prescription of a physician or surgeon duly licensed to practice\n               within this state. (d) Where any person is determined to have violated this section by any court of competent\n               jurisdiction, the state's division of motor vehicles shall be appropriately notified\n               so that person's license shall be revoked in accordance with 4 Del. C. § 904(f) as\n               it…",
+          "sourceUrl": "https://library.municode.com/de/smyrna/codes/code_of_ordinances?nodeId=PTIITOCO_CH6ALBE"
+        },
+        {
+          "id": "de:smyrna:4",
+          "prompt": "If a court finds someone violated Smyrna’s under-21 alcohol rules, what happens next about their license?",
+          "choices": [
+            "The state’s division of motor vehicles is notified so that person’s license shall be revoked",
+            "The person’s school is notified",
+            "The town holds the car for 30 days",
+            "Nothing; only state police handle licenses"
+          ],
+          "answer": "The state’s division of motor vehicles is notified so that person’s license shall be revoked",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— Authority to prevent drunkenness, § 2(b)(6); authority to provide for public peace\n               and safety, § 2(b)(7). Cross reference— General penalty for Code violations, § 1-11; alcoholic beverages prohibited on park premises, § 46-28; traffic and vehicles, ch. 66.\n\n(a) Whoever, being then under the age of 21 years, shall have upon or about his person\n               or shall have in his possession any alcoholic, malt or spirituous beverage, within\n               the limits of the town or within the limits of the streets or public places vested\n               in the town, shall be guilty of a criminal violation and shall be subject to punishment\n               as provided in section 1-11 of this Code. (b) Whoever, being then under the age of 21 years, shall consume any alcoholic, malt or\n               spirituous beverage upon the beaches, or any other public place within the limits\n               of the town or within the limits of the public lands vested in the town, shall be\n               guilty of a criminal violation and shall be subject to punishment as provided in section 1-11 of this Code. (c) The provisions of this section shall not apply either to the possession or consumption\n               of alcoholic or spirituous beverages when consumed as an integral part of the sacramental\n               rites performed in the course of religious services conducted in a church building\n               or other house of worship, or where consumption is for medicinal purposes pursuant\n               to the direction or prescription of a physician or surgeon duly licensed to practice\n               within this state. (d) Where any person is determined to have violated this section by any court of competent\n               jurisdiction, the state's division of motor vehicles shall be appropriately notified\n               so that person's license shall be revoked in accordance with 4 Del. C. § 904(f) as\n               it…",
+          "sourceUrl": "https://library.municode.com/de/smyrna/codes/code_of_ordinances?nodeId=PTIITOCO_CH6ALBE"
+        }
+      ]
+    },
+    {
+      "id": "townsend",
+      "name": "Townsend",
+      "sourceIndex": "https://library.municode.com/de/townsend",
+      "questions": []
+    },
+    {
+      "id": "wilmington",
+      "name": "Wilmington",
+      "sourceIndex": "https://library.municode.com/de/wilmington",
+      "questions": [
+        {
+          "id": "de:wilmington:0",
+          "prompt": "When is a dog not considered 'at large' even if it is off its leash?",
+          "choices": [
+            "When it is in a designated off-leash dog park and its owner is there watching it",
+            "When it is friendly and does not bark",
+            "When it has a microchip",
+            "When it is less than six months old"
+          ],
+          "answer": "When it is in a designated off-leash dog park and its owner is there watching it",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of city, § 1-102. Cross reference— Health and sanitation, ch. 13. State Law reference— Animals generally, 3 Del. C. § 7101 et seq.; poultry generally, 3 Del. C. §§ 6103—6512;\n               game, wildlife and dogs, 7 Del. C. § 101 et seq.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 16-058, § 1, adopted December 1, 2016 , set out provisions for use herein. At the editor's discretion, those provisions\n               have been treated as repealed art. I, §§ 3-1—3-18, in its entirety; and enacting a\n               new art. I, to read as set out herein. Former art. I pertained to similar subject\n               matter, and was derived from Code 1968, §§ 22-1—22-13, 22-14(a); Ord. No. 92-053(sub\n               1), § 5, adopted July 2, 1992; Ord. No. 94-002, § 3, adopted February 24, 1994; Ord.\n               No. 95-046(sub 1), § 1, adopted August 31, 1995; Ord. No. 99-108(sub 1), §§ 1, 3—5,\n               adopted March 16, 2000; Ord. No. 00-020, § 1, adopted March 2, 2000; Ord. No. 02-122,\n               § 1 (sub 1), adopted January 16, 2003; Ord. No. 00-040(sub 1), §§ 1, 3—5, adopted\n               April 13, 2000; Ord. No. 02-010, § 1, adopted March 7, 2002; Ord. No. 03-075(sub 1),\n               §§ 1—5, adopted December 4, 2003; Ord. No. 06-054(sub 1), § 1, adopted October 19,\n               2006; Ord. No. 12-020, § 1, adopted April 19, 2012; Ord. No. 12-028, § 1, adopted\n               June 21, 2012; Ord. No. 14-039, § 1, adopted November 20, 2014 ; Ord. No. 15-027(sub 1), § 1, adopted July 9, 2015 and Ord. No. 16-009, § 1, adopted March 3, 2016 .\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal welfare agency means a governmental agency or a non-governmental entity acting alone or in concert\n               with other governmental…",
+          "sourceUrl": "https://library.municode.com/de/wilmington/codes/code_of_ordinances?nodeId=PTIIWICO_CH3AN"
+        },
+        {
+          "id": "de:wilmington:1",
+          "prompt": "Barking, howling, or whining can make a dog a public nuisance if the noise goes on:",
+          "choices": [
+            "For ten minutes straight, or on and off for half an hour or more",
+            "For any length of time if it is after dark",
+            "More than five times a day",
+            "Only if two neighbors sign a complaint"
+          ],
+          "answer": "For ten minutes straight, or on and off for half an hour or more",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of city, § 1-102. Cross reference— Health and sanitation, ch. 13. State Law reference— Animals generally, 3 Del. C. § 7101 et seq.; poultry generally, 3 Del. C. §§ 6103—6512;\n               game, wildlife and dogs, 7 Del. C. § 101 et seq.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 16-058, § 1, adopted December 1, 2016 , set out provisions for use herein. At the editor's discretion, those provisions\n               have been treated as repealed art. I, §§ 3-1—3-18, in its entirety; and enacting a\n               new art. I, to read as set out herein. Former art. I pertained to similar subject\n               matter, and was derived from Code 1968, §§ 22-1—22-13, 22-14(a); Ord. No. 92-053(sub\n               1), § 5, adopted July 2, 1992; Ord. No. 94-002, § 3, adopted February 24, 1994; Ord.\n               No. 95-046(sub 1), § 1, adopted August 31, 1995; Ord. No. 99-108(sub 1), §§ 1, 3—5,\n               adopted March 16, 2000; Ord. No. 00-020, § 1, adopted March 2, 2000; Ord. No. 02-122,\n               § 1 (sub 1), adopted January 16, 2003; Ord. No. 00-040(sub 1), §§ 1, 3—5, adopted\n               April 13, 2000; Ord. No. 02-010, § 1, adopted March 7, 2002; Ord. No. 03-075(sub 1),\n               §§ 1—5, adopted December 4, 2003; Ord. No. 06-054(sub 1), § 1, adopted October 19,\n               2006; Ord. No. 12-020, § 1, adopted April 19, 2012; Ord. No. 12-028, § 1, adopted\n               June 21, 2012; Ord. No. 14-039, § 1, adopted November 20, 2014 ; Ord. No. 15-027(sub 1), § 1, adopted July 9, 2015 and Ord. No. 16-009, § 1, adopted March 3, 2016 .\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal welfare agency means a governmental agency or a non-governmental entity acting alone or in concert\n               with other governmental…",
+          "sourceUrl": "https://library.municode.com/de/wilmington/codes/code_of_ordinances?nodeId=PTIIWICO_CH3AN"
+        },
+        {
+          "id": "de:wilmington:2",
+          "prompt": "Feeding or sheltering an animal for three days in a row can make you its:",
+          "choices": [
+            "Owner",
+            "Foster parent with no duties",
+            "Official caretaker for the city",
+            "Temporary walker"
+          ],
+          "answer": "Owner",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of city, § 1-102. Cross reference— Health and sanitation, ch. 13. State Law reference— Animals generally, 3 Del. C. § 7101 et seq.; poultry generally, 3 Del. C. §§ 6103—6512;\n               game, wildlife and dogs, 7 Del. C. § 101 et seq.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 16-058, § 1, adopted December 1, 2016 , set out provisions for use herein. At the editor's discretion, those provisions\n               have been treated as repealed art. I, §§ 3-1—3-18, in its entirety; and enacting a\n               new art. I, to read as set out herein. Former art. I pertained to similar subject\n               matter, and was derived from Code 1968, §§ 22-1—22-13, 22-14(a); Ord. No. 92-053(sub\n               1), § 5, adopted July 2, 1992; Ord. No. 94-002, § 3, adopted February 24, 1994; Ord.\n               No. 95-046(sub 1), § 1, adopted August 31, 1995; Ord. No. 99-108(sub 1), §§ 1, 3—5,\n               adopted March 16, 2000; Ord. No. 00-020, § 1, adopted March 2, 2000; Ord. No. 02-122,\n               § 1 (sub 1), adopted January 16, 2003; Ord. No. 00-040(sub 1), §§ 1, 3—5, adopted\n               April 13, 2000; Ord. No. 02-010, § 1, adopted March 7, 2002; Ord. No. 03-075(sub 1),\n               §§ 1—5, adopted December 4, 2003; Ord. No. 06-054(sub 1), § 1, adopted October 19,\n               2006; Ord. No. 12-020, § 1, adopted April 19, 2012; Ord. No. 12-028, § 1, adopted\n               June 21, 2012; Ord. No. 14-039, § 1, adopted November 20, 2014 ; Ord. No. 15-027(sub 1), § 1, adopted July 9, 2015 and Ord. No. 16-009, § 1, adopted March 3, 2016 .\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal welfare agency means a governmental agency or a non-governmental entity acting alone or in concert\n               with other governmental…",
+          "sourceUrl": "https://library.municode.com/de/wilmington/codes/code_of_ordinances?nodeId=PTIIWICO_CH3AN"
+        },
+        {
+          "id": "de:wilmington:3",
+          "prompt": "If a backyard dog pen has no floor, how deep must the sides go into the ground?",
+          "choices": [
+            "Not less than two feet",
+            "Six inches",
+            "One foot",
+            "It does not matter as long as the gate is locked"
+          ],
+          "answer": "Not less than two feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of city, § 1-102. Cross reference— Health and sanitation, ch. 13. State Law reference— Animals generally, 3 Del. C. § 7101 et seq.; poultry generally, 3 Del. C. §§ 6103—6512;\n               game, wildlife and dogs, 7 Del. C. § 101 et seq.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 16-058, § 1, adopted December 1, 2016 , set out provisions for use herein. At the editor's discretion, those provisions\n               have been treated as repealed art. I, §§ 3-1—3-18, in its entirety; and enacting a\n               new art. I, to read as set out herein. Former art. I pertained to similar subject\n               matter, and was derived from Code 1968, §§ 22-1—22-13, 22-14(a); Ord. No. 92-053(sub\n               1), § 5, adopted July 2, 1992; Ord. No. 94-002, § 3, adopted February 24, 1994; Ord.\n               No. 95-046(sub 1), § 1, adopted August 31, 1995; Ord. No. 99-108(sub 1), §§ 1, 3—5,\n               adopted March 16, 2000; Ord. No. 00-020, § 1, adopted March 2, 2000; Ord. No. 02-122,\n               § 1 (sub 1), adopted January 16, 2003; Ord. No. 00-040(sub 1), §§ 1, 3—5, adopted\n               April 13, 2000; Ord. No. 02-010, § 1, adopted March 7, 2002; Ord. No. 03-075(sub 1),\n               §§ 1—5, adopted December 4, 2003; Ord. No. 06-054(sub 1), § 1, adopted October 19,\n               2006; Ord. No. 12-020, § 1, adopted April 19, 2012; Ord. No. 12-028, § 1, adopted\n               June 21, 2012; Ord. No. 14-039, § 1, adopted November 20, 2014 ; Ord. No. 15-027(sub 1), § 1, adopted July 9, 2015 and Ord. No. 16-009, § 1, adopted March 3, 2016 .\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal welfare agency means a governmental agency or a non-governmental entity acting alone or in concert\n               with other governmental…",
+          "sourceUrl": "https://library.municode.com/de/wilmington/codes/code_of_ordinances?nodeId=PTIIWICO_CH3AN"
+        },
+        {
+          "id": "de:wilmington:4",
+          "prompt": "A dog found at large more than four times in a 12-month period can be considered:",
+          "choices": [
+            "A public nuisance animal",
+            "Automatically a dangerous dog",
+            "Exempt from leash rules",
+            "The city's responsibility to keep"
+          ],
+          "answer": "A public nuisance animal",
+          "excerpt": "Footnotes: --- ( 1 ) --- Charter reference— General powers of city, § 1-102. Cross reference— Health and sanitation, ch. 13. State Law reference— Animals generally, 3 Del. C. § 7101 et seq.; poultry generally, 3 Del. C. §§ 6103—6512;\n               game, wildlife and dogs, 7 Del. C. § 101 et seq.\n\nFootnotes: --- ( 2 ) --- Editor's note— Ord. No. 16-058, § 1, adopted December 1, 2016 , set out provisions for use herein. At the editor's discretion, those provisions\n               have been treated as repealed art. I, §§ 3-1—3-18, in its entirety; and enacting a\n               new art. I, to read as set out herein. Former art. I pertained to similar subject\n               matter, and was derived from Code 1968, §§ 22-1—22-13, 22-14(a); Ord. No. 92-053(sub\n               1), § 5, adopted July 2, 1992; Ord. No. 94-002, § 3, adopted February 24, 1994; Ord.\n               No. 95-046(sub 1), § 1, adopted August 31, 1995; Ord. No. 99-108(sub 1), §§ 1, 3—5,\n               adopted March 16, 2000; Ord. No. 00-020, § 1, adopted March 2, 2000; Ord. No. 02-122,\n               § 1 (sub 1), adopted January 16, 2003; Ord. No. 00-040(sub 1), §§ 1, 3—5, adopted\n               April 13, 2000; Ord. No. 02-010, § 1, adopted March 7, 2002; Ord. No. 03-075(sub 1),\n               §§ 1—5, adopted December 4, 2003; Ord. No. 06-054(sub 1), § 1, adopted October 19,\n               2006; Ord. No. 12-020, § 1, adopted April 19, 2012; Ord. No. 12-028, § 1, adopted\n               June 21, 2012; Ord. No. 14-039, § 1, adopted November 20, 2014 ; Ord. No. 15-027(sub 1), § 1, adopted July 9, 2015 and Ord. No. 16-009, § 1, adopted March 3, 2016 .\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Animal welfare agency means a governmental agency or a non-governmental entity acting alone or in concert\n               with other governmental…",
+          "sourceUrl": "https://library.municode.com/de/wilmington/codes/code_of_ordinances?nodeId=PTIIWICO_CH3AN"
+        }
+      ]
+    }
+  ]
+}

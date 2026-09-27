@@ -1,0 +1,628 @@
+{
+  "state": "me",
+  "stateName": "Maine",
+  "places": [
+    {
+      "id": "auburn",
+      "name": "Auburn",
+      "sourceIndex": "https://library.municode.com/me/auburn",
+      "questions": [
+        {
+          "id": "me:auburn:0",
+          "prompt": "On public land in Auburn, a dog is considered at-large unless it is controlled by a leash no longer than:",
+          "choices": [
+            "6 feet",
+            "8 feet",
+            "10 feet",
+            "There is no maximum if you can see the dog"
+          ],
+          "answer": "8 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Agriculture and animals, 7 M.R.S.A. § 1 et seq.; rabies prevention and shelters, 7\n               M.R.S.A. § 3916 et seq.; livestock disease control, 7 M.R.S.A. § 1701 et seq.; uncontrolled\n               dogs, 7 M.R.S.A. § 3911 et seq.; dangerous dogs, 7 M.R.S.A. § 3951; dog licenses,\n               7 M.R.S.A. § 3921 et seq.; Animal Welfare Act, 7 M.R.S.A. § 3901 et seq.; animal welfare,\n               17 M.R.S.A. § 1011 et seq.; duties of municipality with regard to animals, 7 M.R.S.A.\n               § 3941 et seq.; mistreatment of animals, 7 M.R.S.A. § 3971 et seq.; cruelty to animals,\n               7 M.R.S.A. § 4011 et seq., 17 M.R.S.A. § 1031; authority for local regulation of animals,\n               7 M.R.S.A. § 3950.\n\nFor the purposes of this chapter, the following terms, phrases and words used herein\n               shall be interpreted to read as follows; and any words not herein defined shall be\n               construed in the context used in 7 M.R.S.A. chs. 717 through 745 or 17 M.R.S.A. ch.\n               42 and by ordinary interpretation, and not as a word of art: Animal means any living creature classified as a member of the animal kingdom including,\n               but not limited to, birds, fish, mammals and reptiles, but specifically excluding\n               human beings. State Law reference— Similar definitions, 7 M.R.S.A. § 3907(2), 17 M.R.S.A. § 1011(2). Animal control facility means any facility owned, approved, or contracted by the city for the purposes of\n               housing, impounding, quarantine, medical treatment, or euthanasia of animals. State Law reference— Animal control shelter defined, 7 M.R.S.A. § 3907(5); animal shelter defined, 17 M.R.S.A.\n                  § 1011(5-A). Animal control officer (ACO) means the person designated by the city to act as the representative agent for the\n               city in the impoundment of animals and in the controlling of stray animals which come\n   …",
+          "sourceUrl": "https://library.municode.com/me/auburn/codes/code_of_ordinances?nodeId=PTIICOOR_CH8AN"
+        },
+        {
+          "id": "me:auburn:1",
+          "prompt": "If an animal remains at an Auburn residence for 24 hours or more, the occupant is presumed to be:",
+          "choices": [
+            "the animal's owner",
+            "a licensed kennel operator",
+            "required to contact animal control that day",
+            "the finder of a lost pet"
+          ],
+          "answer": "the animal's owner",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Agriculture and animals, 7 M.R.S.A. § 1 et seq.; rabies prevention and shelters, 7\n               M.R.S.A. § 3916 et seq.; livestock disease control, 7 M.R.S.A. § 1701 et seq.; uncontrolled\n               dogs, 7 M.R.S.A. § 3911 et seq.; dangerous dogs, 7 M.R.S.A. § 3951; dog licenses,\n               7 M.R.S.A. § 3921 et seq.; Animal Welfare Act, 7 M.R.S.A. § 3901 et seq.; animal welfare,\n               17 M.R.S.A. § 1011 et seq.; duties of municipality with regard to animals, 7 M.R.S.A.\n               § 3941 et seq.; mistreatment of animals, 7 M.R.S.A. § 3971 et seq.; cruelty to animals,\n               7 M.R.S.A. § 4011 et seq., 17 M.R.S.A. § 1031; authority for local regulation of animals,\n               7 M.R.S.A. § 3950.\n\nFor the purposes of this chapter, the following terms, phrases and words used herein\n               shall be interpreted to read as follows; and any words not herein defined shall be\n               construed in the context used in 7 M.R.S.A. chs. 717 through 745 or 17 M.R.S.A. ch.\n               42 and by ordinary interpretation, and not as a word of art: Animal means any living creature classified as a member of the animal kingdom including,\n               but not limited to, birds, fish, mammals and reptiles, but specifically excluding\n               human beings. State Law reference— Similar definitions, 7 M.R.S.A. § 3907(2), 17 M.R.S.A. § 1011(2). Animal control facility means any facility owned, approved, or contracted by the city for the purposes of\n               housing, impounding, quarantine, medical treatment, or euthanasia of animals. State Law reference— Animal control shelter defined, 7 M.R.S.A. § 3907(5); animal shelter defined, 17 M.R.S.A.\n                  § 1011(5-A). Animal control officer (ACO) means the person designated by the city to act as the representative agent for the\n               city in the impoundment of animals and in the controlling of stray animals which come\n   …",
+          "sourceUrl": "https://library.municode.com/me/auburn/codes/code_of_ordinances?nodeId=PTIICOOR_CH8AN"
+        },
+        {
+          "id": "me:auburn:2",
+          "prompt": "Auburn's animal rules treat which of these as fowl?",
+          "choices": [
+            "Emus, ostriches, and pheasants",
+            "Only birds sold at grocery stores",
+            "Wild songbirds",
+            "All mammals"
+          ],
+          "answer": "Emus, ostriches, and pheasants",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Agriculture and animals, 7 M.R.S.A. § 1 et seq.; rabies prevention and shelters, 7\n               M.R.S.A. § 3916 et seq.; livestock disease control, 7 M.R.S.A. § 1701 et seq.; uncontrolled\n               dogs, 7 M.R.S.A. § 3911 et seq.; dangerous dogs, 7 M.R.S.A. § 3951; dog licenses,\n               7 M.R.S.A. § 3921 et seq.; Animal Welfare Act, 7 M.R.S.A. § 3901 et seq.; animal welfare,\n               17 M.R.S.A. § 1011 et seq.; duties of municipality with regard to animals, 7 M.R.S.A.\n               § 3941 et seq.; mistreatment of animals, 7 M.R.S.A. § 3971 et seq.; cruelty to animals,\n               7 M.R.S.A. § 4011 et seq., 17 M.R.S.A. § 1031; authority for local regulation of animals,\n               7 M.R.S.A. § 3950.\n\nFor the purposes of this chapter, the following terms, phrases and words used herein\n               shall be interpreted to read as follows; and any words not herein defined shall be\n               construed in the context used in 7 M.R.S.A. chs. 717 through 745 or 17 M.R.S.A. ch.\n               42 and by ordinary interpretation, and not as a word of art: Animal means any living creature classified as a member of the animal kingdom including,\n               but not limited to, birds, fish, mammals and reptiles, but specifically excluding\n               human beings. State Law reference— Similar definitions, 7 M.R.S.A. § 3907(2), 17 M.R.S.A. § 1011(2). Animal control facility means any facility owned, approved, or contracted by the city for the purposes of\n               housing, impounding, quarantine, medical treatment, or euthanasia of animals. State Law reference— Animal control shelter defined, 7 M.R.S.A. § 3907(5); animal shelter defined, 17 M.R.S.A.\n                  § 1011(5-A). Animal control officer (ACO) means the person designated by the city to act as the representative agent for the\n               city in the impoundment of animals and in the controlling of stray animals which come\n   …",
+          "sourceUrl": "https://library.municode.com/me/auburn/codes/code_of_ordinances?nodeId=PTIICOOR_CH8AN"
+        },
+        {
+          "id": "me:auburn:3",
+          "prompt": "A pet can be under immediate effective control in Auburn even without a fence or leash if the owner uses:",
+          "choices": [
+            "audible or visual commands or a remote-control device",
+            "a smartphone app to track it",
+            "the pet's rabies certificate",
+            "a neighbor's verbal permission"
+          ],
+          "answer": "audible or visual commands or a remote-control device",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Agriculture and animals, 7 M.R.S.A. § 1 et seq.; rabies prevention and shelters, 7\n               M.R.S.A. § 3916 et seq.; livestock disease control, 7 M.R.S.A. § 1701 et seq.; uncontrolled\n               dogs, 7 M.R.S.A. § 3911 et seq.; dangerous dogs, 7 M.R.S.A. § 3951; dog licenses,\n               7 M.R.S.A. § 3921 et seq.; Animal Welfare Act, 7 M.R.S.A. § 3901 et seq.; animal welfare,\n               17 M.R.S.A. § 1011 et seq.; duties of municipality with regard to animals, 7 M.R.S.A.\n               § 3941 et seq.; mistreatment of animals, 7 M.R.S.A. § 3971 et seq.; cruelty to animals,\n               7 M.R.S.A. § 4011 et seq., 17 M.R.S.A. § 1031; authority for local regulation of animals,\n               7 M.R.S.A. § 3950.\n\nFor the purposes of this chapter, the following terms, phrases and words used herein\n               shall be interpreted to read as follows; and any words not herein defined shall be\n               construed in the context used in 7 M.R.S.A. chs. 717 through 745 or 17 M.R.S.A. ch.\n               42 and by ordinary interpretation, and not as a word of art: Animal means any living creature classified as a member of the animal kingdom including,\n               but not limited to, birds, fish, mammals and reptiles, but specifically excluding\n               human beings. State Law reference— Similar definitions, 7 M.R.S.A. § 3907(2), 17 M.R.S.A. § 1011(2). Animal control facility means any facility owned, approved, or contracted by the city for the purposes of\n               housing, impounding, quarantine, medical treatment, or euthanasia of animals. State Law reference— Animal control shelter defined, 7 M.R.S.A. § 3907(5); animal shelter defined, 17 M.R.S.A.\n                  § 1011(5-A). Animal control officer (ACO) means the person designated by the city to act as the representative agent for the\n               city in the impoundment of animals and in the controlling of stray animals which come\n   …",
+          "sourceUrl": "https://library.municode.com/me/auburn/codes/code_of_ordinances?nodeId=PTIICOOR_CH8AN"
+        },
+        {
+          "id": "me:auburn:4",
+          "prompt": "Which animal does Auburn specifically list as an example of an exotic animal?",
+          "choices": [
+            "A kangaroo",
+            "A goat",
+            "A pigeon",
+            "A dog"
+          ],
+          "answer": "A kangaroo",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Agriculture and animals, 7 M.R.S.A. § 1 et seq.; rabies prevention and shelters, 7\n               M.R.S.A. § 3916 et seq.; livestock disease control, 7 M.R.S.A. § 1701 et seq.; uncontrolled\n               dogs, 7 M.R.S.A. § 3911 et seq.; dangerous dogs, 7 M.R.S.A. § 3951; dog licenses,\n               7 M.R.S.A. § 3921 et seq.; Animal Welfare Act, 7 M.R.S.A. § 3901 et seq.; animal welfare,\n               17 M.R.S.A. § 1011 et seq.; duties of municipality with regard to animals, 7 M.R.S.A.\n               § 3941 et seq.; mistreatment of animals, 7 M.R.S.A. § 3971 et seq.; cruelty to animals,\n               7 M.R.S.A. § 4011 et seq., 17 M.R.S.A. § 1031; authority for local regulation of animals,\n               7 M.R.S.A. § 3950.\n\nFor the purposes of this chapter, the following terms, phrases and words used herein\n               shall be interpreted to read as follows; and any words not herein defined shall be\n               construed in the context used in 7 M.R.S.A. chs. 717 through 745 or 17 M.R.S.A. ch.\n               42 and by ordinary interpretation, and not as a word of art: Animal means any living creature classified as a member of the animal kingdom including,\n               but not limited to, birds, fish, mammals and reptiles, but specifically excluding\n               human beings. State Law reference— Similar definitions, 7 M.R.S.A. § 3907(2), 17 M.R.S.A. § 1011(2). Animal control facility means any facility owned, approved, or contracted by the city for the purposes of\n               housing, impounding, quarantine, medical treatment, or euthanasia of animals. State Law reference— Animal control shelter defined, 7 M.R.S.A. § 3907(5); animal shelter defined, 17 M.R.S.A.\n                  § 1011(5-A). Animal control officer (ACO) means the person designated by the city to act as the representative agent for the\n               city in the impoundment of animals and in the controlling of stray animals which come\n   …",
+          "sourceUrl": "https://library.municode.com/me/auburn/codes/code_of_ordinances?nodeId=PTIICOOR_CH8AN"
+        }
+      ]
+    },
+    {
+      "id": "brewer",
+      "name": "Brewer",
+      "sourceIndex": "https://library.municode.com/me/brewer",
+      "questions": [
+        {
+          "id": "me:brewer:0",
+          "prompt": "If you stay in a tent or camper on a Brewer campground for more than 90 days in one year or more than five weeks from November through March, the city presumes it is:",
+          "choices": [
+            "Temporary camping",
+            "Permanent occupancy",
+            "Legal without a license",
+            "A construction project"
+          ],
+          "answer": "Permanent occupancy",
+          "excerpt": "For the purposes of this Ordinance, the following words and phases shall have the\n               meaning ascribed to them in this Section: ANNUAL LICENSE: Annual License means the license to be issued in accordance with Article 3. CAMP GROUND: Is a facility for the temporary parking of campers or tents for temporary human habitation.\n               Temporary human habitations shall mean use of tent or camper on the campground for\n               no more than ninety (90) days in one (1) calendar year. Use of any tent or camper\n               for more than ninety (90) days in any one (1) calendar year or any five (5) weeks\n               during the period from November, December, January, February and March, shall be presumed\n               to be permanent occupancy. CAMP TRAILER: Camp Trailer shall mean a trailer used primarily or exclusively for vacation and\n               recreation purposes and shall include tent-trailers, self-propelled camping units\n               and camping units mounted on or otherwise affixed to a motor vehicle. CAMPING PARK: Camping Park shall mean a plot of ground on which two (2) or more camp trailers,\n               tents or trailers, occupied for sleeping purposes, may be located. CONSTRUCTION LICENSE: Construction License means the preliminary steps set forth in Article hereof. DEVELOPED LOT: Developed Lot means a mobile home lot, trailer lot or camping lot which has been\n               developed. LICENSEE: Licensee means any person licensed to operate and maintain a mobile home park or\n               camping park under this Ordinance. LICENSING AUTHORITY: Licensing Authority means the City Council of the City of Brewer. MOBILE HOME: A structure, transportable in one (1) or more sections which is eight (8) body feet\n               or more in width and is thirty-two (32) body feet or more in length and which is built\n               on a permanent chassis and designed to be used as a dwelling with or without a permanent\n              …",
+          "sourceUrl": "https://library.municode.com/me/brewer/codes/code_of_ordinances?nodeId=CH25MOHOPACAPAOR"
+        },
+        {
+          "id": "me:brewer:1",
+          "prompt": "A camping park in Brewer is land with how many camp trailers, tents, or trailers used for sleeping?",
+          "choices": [
+            "One",
+            "Two or more",
+            "At least four",
+            "Six or more"
+          ],
+          "answer": "Two or more",
+          "excerpt": "For the purposes of this Ordinance, the following words and phases shall have the\n               meaning ascribed to them in this Section: ANNUAL LICENSE: Annual License means the license to be issued in accordance with Article 3. CAMP GROUND: Is a facility for the temporary parking of campers or tents for temporary human habitation.\n               Temporary human habitations shall mean use of tent or camper on the campground for\n               no more than ninety (90) days in one (1) calendar year. Use of any tent or camper\n               for more than ninety (90) days in any one (1) calendar year or any five (5) weeks\n               during the period from November, December, January, February and March, shall be presumed\n               to be permanent occupancy. CAMP TRAILER: Camp Trailer shall mean a trailer used primarily or exclusively for vacation and\n               recreation purposes and shall include tent-trailers, self-propelled camping units\n               and camping units mounted on or otherwise affixed to a motor vehicle. CAMPING PARK: Camping Park shall mean a plot of ground on which two (2) or more camp trailers,\n               tents or trailers, occupied for sleeping purposes, may be located. CONSTRUCTION LICENSE: Construction License means the preliminary steps set forth in Article hereof. DEVELOPED LOT: Developed Lot means a mobile home lot, trailer lot or camping lot which has been\n               developed. LICENSEE: Licensee means any person licensed to operate and maintain a mobile home park or\n               camping park under this Ordinance. LICENSING AUTHORITY: Licensing Authority means the City Council of the City of Brewer. MOBILE HOME: A structure, transportable in one (1) or more sections which is eight (8) body feet\n               or more in width and is thirty-two (32) body feet or more in length and which is built\n               on a permanent chassis and designed to be used as a dwelling with or without a permanent\n              …",
+          "sourceUrl": "https://library.municode.com/me/brewer/codes/code_of_ordinances?nodeId=CH25MOHOPACAPAOR"
+        },
+        {
+          "id": "me:brewer:2",
+          "prompt": "It is unlawful to operate a mobile home park or camping park in Brewer unless you first get a license from:",
+          "choices": [
+            "The City Council",
+            "The City Clerk only",
+            "A private inspector",
+            "The state housing office"
+          ],
+          "answer": "The City Council",
+          "excerpt": "For the purposes of this Ordinance, the following words and phases shall have the\n               meaning ascribed to them in this Section: ANNUAL LICENSE: Annual License means the license to be issued in accordance with Article 3. CAMP GROUND: Is a facility for the temporary parking of campers or tents for temporary human habitation.\n               Temporary human habitations shall mean use of tent or camper on the campground for\n               no more than ninety (90) days in one (1) calendar year. Use of any tent or camper\n               for more than ninety (90) days in any one (1) calendar year or any five (5) weeks\n               during the period from November, December, January, February and March, shall be presumed\n               to be permanent occupancy. CAMP TRAILER: Camp Trailer shall mean a trailer used primarily or exclusively for vacation and\n               recreation purposes and shall include tent-trailers, self-propelled camping units\n               and camping units mounted on or otherwise affixed to a motor vehicle. CAMPING PARK: Camping Park shall mean a plot of ground on which two (2) or more camp trailers,\n               tents or trailers, occupied for sleeping purposes, may be located. CONSTRUCTION LICENSE: Construction License means the preliminary steps set forth in Article hereof. DEVELOPED LOT: Developed Lot means a mobile home lot, trailer lot or camping lot which has been\n               developed. LICENSEE: Licensee means any person licensed to operate and maintain a mobile home park or\n               camping park under this Ordinance. LICENSING AUTHORITY: Licensing Authority means the City Council of the City of Brewer. MOBILE HOME: A structure, transportable in one (1) or more sections which is eight (8) body feet\n               or more in width and is thirty-two (32) body feet or more in length and which is built\n               on a permanent chassis and designed to be used as a dwelling with or without a permanent\n              …",
+          "sourceUrl": "https://library.municode.com/me/brewer/codes/code_of_ordinances?nodeId=CH25MOHOPACAPAOR"
+        },
+        {
+          "id": "me:brewer:3",
+          "prompt": "A structure counts as a mobile home in Brewer only if it is at least:",
+          "choices": [
+            "8 feet wide and 32 feet long",
+            "10 feet wide and 40 feet long",
+            "Less than 8 feet wide",
+            "Any size on a chassis"
+          ],
+          "answer": "8 feet wide and 32 feet long",
+          "excerpt": "For the purposes of this Ordinance, the following words and phases shall have the\n               meaning ascribed to them in this Section: ANNUAL LICENSE: Annual License means the license to be issued in accordance with Article 3. CAMP GROUND: Is a facility for the temporary parking of campers or tents for temporary human habitation.\n               Temporary human habitations shall mean use of tent or camper on the campground for\n               no more than ninety (90) days in one (1) calendar year. Use of any tent or camper\n               for more than ninety (90) days in any one (1) calendar year or any five (5) weeks\n               during the period from November, December, January, February and March, shall be presumed\n               to be permanent occupancy. CAMP TRAILER: Camp Trailer shall mean a trailer used primarily or exclusively for vacation and\n               recreation purposes and shall include tent-trailers, self-propelled camping units\n               and camping units mounted on or otherwise affixed to a motor vehicle. CAMPING PARK: Camping Park shall mean a plot of ground on which two (2) or more camp trailers,\n               tents or trailers, occupied for sleeping purposes, may be located. CONSTRUCTION LICENSE: Construction License means the preliminary steps set forth in Article hereof. DEVELOPED LOT: Developed Lot means a mobile home lot, trailer lot or camping lot which has been\n               developed. LICENSEE: Licensee means any person licensed to operate and maintain a mobile home park or\n               camping park under this Ordinance. LICENSING AUTHORITY: Licensing Authority means the City Council of the City of Brewer. MOBILE HOME: A structure, transportable in one (1) or more sections which is eight (8) body feet\n               or more in width and is thirty-two (32) body feet or more in length and which is built\n               on a permanent chassis and designed to be used as a dwelling with or without a permanent\n              …",
+          "sourceUrl": "https://library.municode.com/me/brewer/codes/code_of_ordinances?nodeId=CH25MOHOPACAPAOR"
+        },
+        {
+          "id": "me:brewer:4",
+          "prompt": "A site plan for a new park in Brewer must show existing trees that are 12 inches in diameter or larger, measured at this height above the ground:",
+          "choices": [
+            "4.5 feet",
+            "Ground level",
+            "2 feet",
+            "6 feet"
+          ],
+          "answer": "4.5 feet",
+          "excerpt": "For the purposes of this Ordinance, the following words and phases shall have the\n               meaning ascribed to them in this Section: ANNUAL LICENSE: Annual License means the license to be issued in accordance with Article 3. CAMP GROUND: Is a facility for the temporary parking of campers or tents for temporary human habitation.\n               Temporary human habitations shall mean use of tent or camper on the campground for\n               no more than ninety (90) days in one (1) calendar year. Use of any tent or camper\n               for more than ninety (90) days in any one (1) calendar year or any five (5) weeks\n               during the period from November, December, January, February and March, shall be presumed\n               to be permanent occupancy. CAMP TRAILER: Camp Trailer shall mean a trailer used primarily or exclusively for vacation and\n               recreation purposes and shall include tent-trailers, self-propelled camping units\n               and camping units mounted on or otherwise affixed to a motor vehicle. CAMPING PARK: Camping Park shall mean a plot of ground on which two (2) or more camp trailers,\n               tents or trailers, occupied for sleeping purposes, may be located. CONSTRUCTION LICENSE: Construction License means the preliminary steps set forth in Article hereof. DEVELOPED LOT: Developed Lot means a mobile home lot, trailer lot or camping lot which has been\n               developed. LICENSEE: Licensee means any person licensed to operate and maintain a mobile home park or\n               camping park under this Ordinance. LICENSING AUTHORITY: Licensing Authority means the City Council of the City of Brewer. MOBILE HOME: A structure, transportable in one (1) or more sections which is eight (8) body feet\n               or more in width and is thirty-two (32) body feet or more in length and which is built\n               on a permanent chassis and designed to be used as a dwelling with or without a permanent\n              …",
+          "sourceUrl": "https://library.municode.com/me/brewer/codes/code_of_ordinances?nodeId=CH25MOHOPACAPAOR"
+        }
+      ]
+    },
+    {
+      "id": "brunswick",
+      "name": "Brunswick",
+      "sourceIndex": "https://library.municode.com/me/brunswick",
+      "questions": [
+        {
+          "id": "me:brunswick:0",
+          "prompt": "Can you let an animal graze in a Brunswick park or stand on a town sidewalk?",
+          "choices": [
+            "Yes, if you are with it",
+            "No",
+            "Only horses and livestock",
+            "Yes in parks but not on sidewalks"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Animals, 7 M.R.S.A. § 3901 et seq.; municipal regulations, 7 M.R.S.A. § 3950.\n\nNo owner or owner's designee having the care or custody of any animal shall permit\n               or suffer it to go at large or to graze on any street, lane, park, square or other\n               public place within the limits of the town, or permit any animal to go or stand upon\n               any sidewalk therein. No person shall fasten any horse or other grazing animal to\n               any tree growing in any street, public way or park within the town. All complaints\n               for violation of this section shall be made to the chief of police, whose duty it\n               shall be to cause all offenders hereunder to be prosecuted therefor. (Bylaws of 1942, Art. II, § 12; Emergency/Regular Ord. of 4-22-97) Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8 ; housing code, § 8-26 et seq.; streets, sidewalks and other public places, Ch. 14 ; zoning and subdivision of land, App. A.\n\nFootnotes: --- ( 2 ) --- Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Dogs, 7 M.R.S.A. § 3911 et seq.; municipal duties, 7 M.R.S.A. § 3941 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises of the owner or owner's designee charged with…",
+          "sourceUrl": "https://library.municode.com/me/brunswick/codes/code_of_ordinances?nodeId=PTIIMUCOOR_CH4AN"
+        },
+        {
+          "id": "me:brunswick:1",
+          "prompt": "May you tie a horse or other grazing animal to a tree in a Brunswick street, public way, or park?",
+          "choices": [
+            "Yes",
+            "No",
+            "Yes if the tree is on a park path",
+            "Only overnight"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Animals, 7 M.R.S.A. § 3901 et seq.; municipal regulations, 7 M.R.S.A. § 3950.\n\nNo owner or owner's designee having the care or custody of any animal shall permit\n               or suffer it to go at large or to graze on any street, lane, park, square or other\n               public place within the limits of the town, or permit any animal to go or stand upon\n               any sidewalk therein. No person shall fasten any horse or other grazing animal to\n               any tree growing in any street, public way or park within the town. All complaints\n               for violation of this section shall be made to the chief of police, whose duty it\n               shall be to cause all offenders hereunder to be prosecuted therefor. (Bylaws of 1942, Art. II, § 12; Emergency/Regular Ord. of 4-22-97) Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8 ; housing code, § 8-26 et seq.; streets, sidewalks and other public places, Ch. 14 ; zoning and subdivision of land, App. A.\n\nFootnotes: --- ( 2 ) --- Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Dogs, 7 M.R.S.A. § 3911 et seq.; municipal duties, 7 M.R.S.A. § 3941 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises of the owner or owner's designee charged with…",
+          "sourceUrl": "https://library.municode.com/me/brunswick/codes/code_of_ordinances?nodeId=PTIIMUCOOR_CH4AN"
+        },
+        {
+          "id": "me:brunswick:2",
+          "prompt": "Off your property in Brunswick, a dog on a leash longer than six feet is treated as:",
+          "choices": [
+            "Under control",
+            "Running at large",
+            "A licensed hunting dog",
+            "Fine if it is not barking"
+          ],
+          "answer": "Running at large",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Animals, 7 M.R.S.A. § 3901 et seq.; municipal regulations, 7 M.R.S.A. § 3950.\n\nNo owner or owner's designee having the care or custody of any animal shall permit\n               or suffer it to go at large or to graze on any street, lane, park, square or other\n               public place within the limits of the town, or permit any animal to go or stand upon\n               any sidewalk therein. No person shall fasten any horse or other grazing animal to\n               any tree growing in any street, public way or park within the town. All complaints\n               for violation of this section shall be made to the chief of police, whose duty it\n               shall be to cause all offenders hereunder to be prosecuted therefor. (Bylaws of 1942, Art. II, § 12; Emergency/Regular Ord. of 4-22-97) Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8 ; housing code, § 8-26 et seq.; streets, sidewalks and other public places, Ch. 14 ; zoning and subdivision of land, App. A.\n\nFootnotes: --- ( 2 ) --- Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Dogs, 7 M.R.S.A. § 3911 et seq.; municipal duties, 7 M.R.S.A. § 3941 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises of the owner or owner's designee charged with…",
+          "sourceUrl": "https://library.municode.com/me/brunswick/codes/code_of_ordinances?nodeId=PTIIMUCOOR_CH4AN"
+        },
+        {
+          "id": "me:brunswick:3",
+          "prompt": "Starting at what age must a Brunswick dog wear a collar or harness with an ID tag showing the owner's name and address or phone number?",
+          "choices": [
+            "Two months old",
+            "Six months old",
+            "When it is first licensed",
+            "One year old"
+          ],
+          "answer": "Two months old",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Animals, 7 M.R.S.A. § 3901 et seq.; municipal regulations, 7 M.R.S.A. § 3950.\n\nNo owner or owner's designee having the care or custody of any animal shall permit\n               or suffer it to go at large or to graze on any street, lane, park, square or other\n               public place within the limits of the town, or permit any animal to go or stand upon\n               any sidewalk therein. No person shall fasten any horse or other grazing animal to\n               any tree growing in any street, public way or park within the town. All complaints\n               for violation of this section shall be made to the chief of police, whose duty it\n               shall be to cause all offenders hereunder to be prosecuted therefor. (Bylaws of 1942, Art. II, § 12; Emergency/Regular Ord. of 4-22-97) Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8 ; housing code, § 8-26 et seq.; streets, sidewalks and other public places, Ch. 14 ; zoning and subdivision of land, App. A.\n\nFootnotes: --- ( 2 ) --- Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Dogs, 7 M.R.S.A. § 3911 et seq.; municipal duties, 7 M.R.S.A. § 3941 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises of the owner or owner's designee charged with…",
+          "sourceUrl": "https://library.municode.com/me/brunswick/codes/code_of_ordinances?nodeId=PTIIMUCOOR_CH4AN"
+        },
+        {
+          "id": "me:brunswick:4",
+          "prompt": "If your dog bites a person, you must confine it by itself in a secure enclosure for at least how long, and you may not destroy the dog during that time?",
+          "choices": [
+            "7 consecutive days",
+            "10 consecutive days",
+            "14 consecutive days",
+            "30 consecutive days"
+          ],
+          "answer": "14 consecutive days",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Administration, Ch. 2; buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Animals, 7 M.R.S.A. § 3901 et seq.; municipal regulations, 7 M.R.S.A. § 3950.\n\nNo owner or owner's designee having the care or custody of any animal shall permit\n               or suffer it to go at large or to graze on any street, lane, park, square or other\n               public place within the limits of the town, or permit any animal to go or stand upon\n               any sidewalk therein. No person shall fasten any horse or other grazing animal to\n               any tree growing in any street, public way or park within the town. All complaints\n               for violation of this section shall be made to the chief of police, whose duty it\n               shall be to cause all offenders hereunder to be prosecuted therefor. (Bylaws of 1942, Art. II, § 12; Emergency/Regular Ord. of 4-22-97) Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8 ; housing code, § 8-26 et seq.; streets, sidewalks and other public places, Ch. 14 ; zoning and subdivision of land, App. A.\n\nFootnotes: --- ( 2 ) --- Cross reference— Buildings and building regulations, Ch. 5; housing, Ch. 8; housing code, § 8-26 et seq.; solid waste, Ch. 13; streets, sidewalks and other public places, Ch. 14; traffic and vehicles, Ch. 15; zoning and subdivision of land, App. A. State Law reference— Dogs, 7 M.R.S.A. § 3911 et seq.; municipal duties, 7 M.R.S.A. § 3941 et seq.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: At large shall mean off the premises of the owner or owner's designee charged with…",
+          "sourceUrl": "https://library.municode.com/me/brunswick/codes/code_of_ordinances?nodeId=PTIIMUCOOR_CH4AN"
+        }
+      ]
+    },
+    {
+      "id": "casco",
+      "name": "Casco",
+      "sourceIndex": "https://library.municode.com/me/casco",
+      "questions": [
+        {
+          "id": "me:casco:0",
+          "prompt": "In Casco, how many guests can stay in a short-term rental?",
+          "choices": [
+            "Two guests per legally permitted bedroom plus two extra guests",
+            "One family only, no matter the house size",
+            "Six guests total in any home",
+            "No limit if there are enough beds"
+          ],
+          "answer": "Two guests per legally permitted bedroom plus two extra guests",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Town Meeting of the Town of Casco 6-15-2022ATM by Art. 40.\n               Amendments noted where applicable.]\n\nCasco residents prize the peace and quiet of their residential neighborhoods. In recent\n               years, a growing number of property owners are renting out their property to vacationers\n               on a short-term basis throughout the year. In order to preserve the fabric of residential\n               neighborhoods and to protect the safety of visitors and residents, the Town of Casco\n               believes the operation of short-term rentals (STRs) must be efficiently and effectively\n               regulated. This chapter was developed with an interest in balancing the desire of\n               the property owners who wish to rent their properties to short-term tenants with the\n               desire of residents who want to preserve the peaceful quiet and enjoyment of their\n               residential neighborhoods.\n\nAs used in this chapter, the following terms shall have the meanings indicated: DWELLING UNIT — A room or group of rooms designed and equipped exclusively for use\n               as living quarters by one family including provisions for living, sleeping, cooking\n               and eating. This does not include hotels, motels, recreational vehicles, or other\n               temporary trailers. HOSTED SHORT-TERM RENTAL — A dwelling that is occupied by the owner when any part\n               of the dwelling unit is rented as a short-term rental. LONG-TERM RENTAL — A dwelling unit that is rented to renters/guests for a period of\n               more than 30 consecutive days. SHORT-TERM RENTAL (STR) — A dwelling unit that is rented to renters/guests for a period\n               of less than 30 consecutive days. UNHOSTED SHORT-TERM RENTAL — A dwelling that is not occupied by the owner when any\n               part of the dwelling unit is rented as a short-term rental.\n\nA. No dwelling unit may be…",
+          "sourceUrl": "https://library.municode.com/me/casco/codes/code?nodeId=CH139SHRMRERE"
+        },
+        {
+          "id": "me:casco:1",
+          "prompt": "How fast must a short-term rental emergency contact be able to respond to a complaint?",
+          "choices": [
+            "Within three hours, 24 hours a day",
+            "By the next business day",
+            "Only during daytime hours",
+            "Within 48 hours"
+          ],
+          "answer": "Within three hours, 24 hours a day",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Town Meeting of the Town of Casco 6-15-2022ATM by Art. 40.\n               Amendments noted where applicable.]\n\nCasco residents prize the peace and quiet of their residential neighborhoods. In recent\n               years, a growing number of property owners are renting out their property to vacationers\n               on a short-term basis throughout the year. In order to preserve the fabric of residential\n               neighborhoods and to protect the safety of visitors and residents, the Town of Casco\n               believes the operation of short-term rentals (STRs) must be efficiently and effectively\n               regulated. This chapter was developed with an interest in balancing the desire of\n               the property owners who wish to rent their properties to short-term tenants with the\n               desire of residents who want to preserve the peaceful quiet and enjoyment of their\n               residential neighborhoods.\n\nAs used in this chapter, the following terms shall have the meanings indicated: DWELLING UNIT — A room or group of rooms designed and equipped exclusively for use\n               as living quarters by one family including provisions for living, sleeping, cooking\n               and eating. This does not include hotels, motels, recreational vehicles, or other\n               temporary trailers. HOSTED SHORT-TERM RENTAL — A dwelling that is occupied by the owner when any part\n               of the dwelling unit is rented as a short-term rental. LONG-TERM RENTAL — A dwelling unit that is rented to renters/guests for a period of\n               more than 30 consecutive days. SHORT-TERM RENTAL (STR) — A dwelling unit that is rented to renters/guests for a period\n               of less than 30 consecutive days. UNHOSTED SHORT-TERM RENTAL — A dwelling that is not occupied by the owner when any\n               part of the dwelling unit is rented as a short-term rental.\n\nA. No dwelling unit may be…",
+          "sourceUrl": "https://library.municode.com/me/casco/codes/code?nodeId=CH139SHRMRERE"
+        },
+        {
+          "id": "me:casco:2",
+          "prompt": "When must a Casco home be registered as a short-term rental?",
+          "choices": [
+            "Before it is rented or advertised as available",
+            "Only after the first guest complaint",
+            "Only if you rent more than 90 days a year",
+            "Only for homes where the owner does not live there"
+          ],
+          "answer": "Before it is rented or advertised as available",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Town Meeting of the Town of Casco 6-15-2022ATM by Art. 40.\n               Amendments noted where applicable.]\n\nCasco residents prize the peace and quiet of their residential neighborhoods. In recent\n               years, a growing number of property owners are renting out their property to vacationers\n               on a short-term basis throughout the year. In order to preserve the fabric of residential\n               neighborhoods and to protect the safety of visitors and residents, the Town of Casco\n               believes the operation of short-term rentals (STRs) must be efficiently and effectively\n               regulated. This chapter was developed with an interest in balancing the desire of\n               the property owners who wish to rent their properties to short-term tenants with the\n               desire of residents who want to preserve the peaceful quiet and enjoyment of their\n               residential neighborhoods.\n\nAs used in this chapter, the following terms shall have the meanings indicated: DWELLING UNIT — A room or group of rooms designed and equipped exclusively for use\n               as living quarters by one family including provisions for living, sleeping, cooking\n               and eating. This does not include hotels, motels, recreational vehicles, or other\n               temporary trailers. HOSTED SHORT-TERM RENTAL — A dwelling that is occupied by the owner when any part\n               of the dwelling unit is rented as a short-term rental. LONG-TERM RENTAL — A dwelling unit that is rented to renters/guests for a period of\n               more than 30 consecutive days. SHORT-TERM RENTAL (STR) — A dwelling unit that is rented to renters/guests for a period\n               of less than 30 consecutive days. UNHOSTED SHORT-TERM RENTAL — A dwelling that is not occupied by the owner when any\n               part of the dwelling unit is rented as a short-term rental.\n\nA. No dwelling unit may be…",
+          "sourceUrl": "https://library.municode.com/me/casco/codes/code?nodeId=CH139SHRMRERE"
+        },
+        {
+          "id": "me:casco:3",
+          "prompt": "What must a short-term rental owner do with trash at the end of each guest stay?",
+          "choices": [
+            "Make sure it is removed from the property",
+            "Leave it for the next guests",
+            "Leave bags on the porch until weekly pickup",
+            "Bury it on the lot"
+          ],
+          "answer": "Make sure it is removed from the property",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Town Meeting of the Town of Casco 6-15-2022ATM by Art. 40.\n               Amendments noted where applicable.]\n\nCasco residents prize the peace and quiet of their residential neighborhoods. In recent\n               years, a growing number of property owners are renting out their property to vacationers\n               on a short-term basis throughout the year. In order to preserve the fabric of residential\n               neighborhoods and to protect the safety of visitors and residents, the Town of Casco\n               believes the operation of short-term rentals (STRs) must be efficiently and effectively\n               regulated. This chapter was developed with an interest in balancing the desire of\n               the property owners who wish to rent their properties to short-term tenants with the\n               desire of residents who want to preserve the peaceful quiet and enjoyment of their\n               residential neighborhoods.\n\nAs used in this chapter, the following terms shall have the meanings indicated: DWELLING UNIT — A room or group of rooms designed and equipped exclusively for use\n               as living quarters by one family including provisions for living, sleeping, cooking\n               and eating. This does not include hotels, motels, recreational vehicles, or other\n               temporary trailers. HOSTED SHORT-TERM RENTAL — A dwelling that is occupied by the owner when any part\n               of the dwelling unit is rented as a short-term rental. LONG-TERM RENTAL — A dwelling unit that is rented to renters/guests for a period of\n               more than 30 consecutive days. SHORT-TERM RENTAL (STR) — A dwelling unit that is rented to renters/guests for a period\n               of less than 30 consecutive days. UNHOSTED SHORT-TERM RENTAL — A dwelling that is not occupied by the owner when any\n               part of the dwelling unit is rented as a short-term rental.\n\nA. No dwelling unit may be…",
+          "sourceUrl": "https://library.municode.com/me/casco/codes/code?nodeId=CH139SHRMRERE"
+        },
+        {
+          "id": "me:casco:4",
+          "prompt": "How long does a Casco short-term rental registration last?",
+          "choices": [
+            "One year from the date it is issued",
+            "Until the house is sold",
+            "Five years",
+            "It never expires if you keep renting"
+          ],
+          "answer": "One year from the date it is issued",
+          "excerpt": "Footnotes: --- ( 1 ) --- [HISTORY: Adopted by the Town Meeting of the Town of Casco 6-15-2022ATM by Art. 40.\n               Amendments noted where applicable.]\n\nCasco residents prize the peace and quiet of their residential neighborhoods. In recent\n               years, a growing number of property owners are renting out their property to vacationers\n               on a short-term basis throughout the year. In order to preserve the fabric of residential\n               neighborhoods and to protect the safety of visitors and residents, the Town of Casco\n               believes the operation of short-term rentals (STRs) must be efficiently and effectively\n               regulated. This chapter was developed with an interest in balancing the desire of\n               the property owners who wish to rent their properties to short-term tenants with the\n               desire of residents who want to preserve the peaceful quiet and enjoyment of their\n               residential neighborhoods.\n\nAs used in this chapter, the following terms shall have the meanings indicated: DWELLING UNIT — A room or group of rooms designed and equipped exclusively for use\n               as living quarters by one family including provisions for living, sleeping, cooking\n               and eating. This does not include hotels, motels, recreational vehicles, or other\n               temporary trailers. HOSTED SHORT-TERM RENTAL — A dwelling that is occupied by the owner when any part\n               of the dwelling unit is rented as a short-term rental. LONG-TERM RENTAL — A dwelling unit that is rented to renters/guests for a period of\n               more than 30 consecutive days. SHORT-TERM RENTAL (STR) — A dwelling unit that is rented to renters/guests for a period\n               of less than 30 consecutive days. UNHOSTED SHORT-TERM RENTAL — A dwelling that is not occupied by the owner when any\n               part of the dwelling unit is rented as a short-term rental.\n\nA. No dwelling unit may be…",
+          "sourceUrl": "https://library.municode.com/me/casco/codes/code?nodeId=CH139SHRMRERE"
+        }
+      ]
+    },
+    {
+      "id": "eliot",
+      "name": "Eliot",
+      "sourceIndex": "https://library.municode.com/me/eliot",
+      "questions": [
+        {
+          "id": "me:eliot:0",
+          "prompt": "What does Eliot mean by a 'bikini-clad' outfit at a liquor-licensed place?",
+          "choices": [
+            "Opaque clothing covering genitals, pubic area, buttocks, and female breasts below the top of the areolae, but no extra area next to those parts",
+            "Any two-piece swimsuit even if it covers the midriff",
+            "Clothing that leaves the chest fully uncovered",
+            "A one-piece that covers the whole torso"
+          ],
+          "answer": "Opaque clothing covering genitals, pubic area, buttocks, and female breasts below the top of the areolae, but no extra area next to those parts",
+          "excerpt": "The purpose of this article is to control the issuance of special amusement permits\n               for providing activities or entertainment in facilities licensed by the State of Maine\n               for sale of liquor to be consumed on the premises, as required by 28-A M.R.S.A. §\n               1054. It is the further purpose of this article to regulate facilities that are licensed\n               for the sale of liquor to be consumed on the premises in order to promote the health,\n               safety, and general welfare of the citizens of the town, and to establish reasonable\n               and uniform regulations to prevent the potential deleterious secondary effects of\n               such establishments. The provisions of this article have neither the purpose nor effect\n               of imposing a limitation or restriction on the content or reasonable access to any\n               communicative materials or performances, including sexually oriented materials or\n               performances. Similarly, it is neither the purpose nor effect of this article to restrict\n               or deny access by adults to sexually oriented materials protected by the First Amendment,\n               or to deny access by the distributors and exhibitors of sexually oriented entertainment\n               to their intended market. Neither is it the purpose nor effect of this article to\n               condone or legitimize the distribution or presentation of obscene material or performances. Based on evidence of adverse secondary effects associated with certain conduct in\n               alcoholic beverage establishments, which effects have been presented in hearings and\n               in reports made available to the town, and on findings, interpretations, and narrowing\n               constructions incorporated in numerous cases, including, but not limited to California v. LaRue , 409 U.S. 109 (1972); New York State Liquor Authority v. Bellanca , 452 U.S. 714, 718 (1981); City of…",
+          "sourceUrl": "https://library.municode.com/me/eliot/codes/code_of_ordinances?nodeId=MUCOOR_CH6ALBE"
+        },
+        {
+          "id": "me:eliot:1",
+          "prompt": "Who counts as an 'employee' at an Eliot place licensed to sell liquor for drinking on site?",
+          "choices": [
+            "Anyone performing a service there full-time, part-time, or by contract, except people only doing repairs or deliveries",
+            "Only bartenders listed on the official payroll",
+            "Every customer who stays more than an hour",
+            "Just the business owner and family"
+          ],
+          "answer": "Anyone performing a service there full-time, part-time, or by contract, except people only doing repairs or deliveries",
+          "excerpt": "The purpose of this article is to control the issuance of special amusement permits\n               for providing activities or entertainment in facilities licensed by the State of Maine\n               for sale of liquor to be consumed on the premises, as required by 28-A M.R.S.A. §\n               1054. It is the further purpose of this article to regulate facilities that are licensed\n               for the sale of liquor to be consumed on the premises in order to promote the health,\n               safety, and general welfare of the citizens of the town, and to establish reasonable\n               and uniform regulations to prevent the potential deleterious secondary effects of\n               such establishments. The provisions of this article have neither the purpose nor effect\n               of imposing a limitation or restriction on the content or reasonable access to any\n               communicative materials or performances, including sexually oriented materials or\n               performances. Similarly, it is neither the purpose nor effect of this article to restrict\n               or deny access by adults to sexually oriented materials protected by the First Amendment,\n               or to deny access by the distributors and exhibitors of sexually oriented entertainment\n               to their intended market. Neither is it the purpose nor effect of this article to\n               condone or legitimize the distribution or presentation of obscene material or performances. Based on evidence of adverse secondary effects associated with certain conduct in\n               alcoholic beverage establishments, which effects have been presented in hearings and\n               in reports made available to the town, and on findings, interpretations, and narrowing\n               constructions incorporated in numerous cases, including, but not limited to California v. LaRue , 409 U.S. 109 (1972); New York State Liquor Authority v. Bellanca , 452 U.S. 714, 718 (1981); City of…",
+          "sourceUrl": "https://library.municode.com/me/eliot/codes/code_of_ordinances?nodeId=MUCOOR_CH6ALBE"
+        },
+        {
+          "id": "me:eliot:2",
+          "prompt": "Owning how much of an Eliot liquor-licensed business is an 'influential interest'?",
+          "choices": [
+            "30 percent or more",
+            "Any single share of stock",
+            "Exactly 51 percent",
+            "5 percent or more"
+          ],
+          "answer": "30 percent or more",
+          "excerpt": "The purpose of this article is to control the issuance of special amusement permits\n               for providing activities or entertainment in facilities licensed by the State of Maine\n               for sale of liquor to be consumed on the premises, as required by 28-A M.R.S.A. §\n               1054. It is the further purpose of this article to regulate facilities that are licensed\n               for the sale of liquor to be consumed on the premises in order to promote the health,\n               safety, and general welfare of the citizens of the town, and to establish reasonable\n               and uniform regulations to prevent the potential deleterious secondary effects of\n               such establishments. The provisions of this article have neither the purpose nor effect\n               of imposing a limitation or restriction on the content or reasonable access to any\n               communicative materials or performances, including sexually oriented materials or\n               performances. Similarly, it is neither the purpose nor effect of this article to restrict\n               or deny access by adults to sexually oriented materials protected by the First Amendment,\n               or to deny access by the distributors and exhibitors of sexually oriented entertainment\n               to their intended market. Neither is it the purpose nor effect of this article to\n               condone or legitimize the distribution or presentation of obscene material or performances. Based on evidence of adverse secondary effects associated with certain conduct in\n               alcoholic beverage establishments, which effects have been presented in hearings and\n               in reports made available to the town, and on findings, interpretations, and narrowing\n               constructions incorporated in numerous cases, including, but not limited to California v. LaRue , 409 U.S. 109 (1972); New York State Liquor Authority v. Bellanca , 452 U.S. 714, 718 (1981); City of…",
+          "sourceUrl": "https://library.municode.com/me/eliot/codes/code_of_ordinances?nodeId=MUCOOR_CH6ALBE"
+        },
+        {
+          "id": "me:eliot:3",
+          "prompt": "Eliot found that paid lap dances, private dances, or couch dances by scantily-clad workers at liquor places can lead to what?",
+          "choices": [
+            "Illicit sexual activities, lewdness, prostitution, and sexual assault",
+            "Higher food sales and quieter streets",
+            "Automatic extra lighting requirements only",
+            "Lower permit fees for the business"
+          ],
+          "answer": "Illicit sexual activities, lewdness, prostitution, and sexual assault",
+          "excerpt": "The purpose of this article is to control the issuance of special amusement permits\n               for providing activities or entertainment in facilities licensed by the State of Maine\n               for sale of liquor to be consumed on the premises, as required by 28-A M.R.S.A. §\n               1054. It is the further purpose of this article to regulate facilities that are licensed\n               for the sale of liquor to be consumed on the premises in order to promote the health,\n               safety, and general welfare of the citizens of the town, and to establish reasonable\n               and uniform regulations to prevent the potential deleterious secondary effects of\n               such establishments. The provisions of this article have neither the purpose nor effect\n               of imposing a limitation or restriction on the content or reasonable access to any\n               communicative materials or performances, including sexually oriented materials or\n               performances. Similarly, it is neither the purpose nor effect of this article to restrict\n               or deny access by adults to sexually oriented materials protected by the First Amendment,\n               or to deny access by the distributors and exhibitors of sexually oriented entertainment\n               to their intended market. Neither is it the purpose nor effect of this article to\n               condone or legitimize the distribution or presentation of obscene material or performances. Based on evidence of adverse secondary effects associated with certain conduct in\n               alcoholic beverage establishments, which effects have been presented in hearings and\n               in reports made available to the town, and on findings, interpretations, and narrowing\n               constructions incorporated in numerous cases, including, but not limited to California v. LaRue , 409 U.S. 109 (1972); New York State Liquor Authority v. Bellanca , 452 U.S. 714, 718 (1981); City of…",
+          "sourceUrl": "https://library.municode.com/me/eliot/codes/code_of_ordinances?nodeId=MUCOOR_CH6ALBE"
+        },
+        {
+          "id": "me:eliot:4",
+          "prompt": "What is a main goal of Eliot's special amusement permit rules for liquor-licensed places?",
+          "choices": [
+            "Prevent harmful secondary effects and protect public health, safety, and welfare",
+            "Guarantee more adult entertainment options",
+            "Ban all live music after 9 p.m.",
+            "Require every bar to offer outdoor seating"
+          ],
+          "answer": "Prevent harmful secondary effects and protect public health, safety, and welfare",
+          "excerpt": "The purpose of this article is to control the issuance of special amusement permits\n               for providing activities or entertainment in facilities licensed by the State of Maine\n               for sale of liquor to be consumed on the premises, as required by 28-A M.R.S.A. §\n               1054. It is the further purpose of this article to regulate facilities that are licensed\n               for the sale of liquor to be consumed on the premises in order to promote the health,\n               safety, and general welfare of the citizens of the town, and to establish reasonable\n               and uniform regulations to prevent the potential deleterious secondary effects of\n               such establishments. The provisions of this article have neither the purpose nor effect\n               of imposing a limitation or restriction on the content or reasonable access to any\n               communicative materials or performances, including sexually oriented materials or\n               performances. Similarly, it is neither the purpose nor effect of this article to restrict\n               or deny access by adults to sexually oriented materials protected by the First Amendment,\n               or to deny access by the distributors and exhibitors of sexually oriented entertainment\n               to their intended market. Neither is it the purpose nor effect of this article to\n               condone or legitimize the distribution or presentation of obscene material or performances. Based on evidence of adverse secondary effects associated with certain conduct in\n               alcoholic beverage establishments, which effects have been presented in hearings and\n               in reports made available to the town, and on findings, interpretations, and narrowing\n               constructions incorporated in numerous cases, including, but not limited to California v. LaRue , 409 U.S. 109 (1972); New York State Liquor Authority v. Bellanca , 452 U.S. 714, 718 (1981); City of…",
+          "sourceUrl": "https://library.municode.com/me/eliot/codes/code_of_ordinances?nodeId=MUCOOR_CH6ALBE"
+        }
+      ]
+    },
+    {
+      "id": "lisbon",
+      "name": "Lisbon",
+      "sourceIndex": "https://library.municode.com/me/lisbon",
+      "questions": [
+        {
+          "id": "me:lisbon:0",
+          "prompt": "How many regular members serve on Lisbon’s Planning Board?",
+          "choices": [
+            "Three",
+            "Five",
+            "Seven",
+            "Nine"
+          ],
+          "answer": "Five",
+          "excerpt": "Planning Board Bylaws Town of Lisbon, Maine Established October 25, 2012\n\nThe purpose of these Bylaws is: • To provide the Planning Board with a clear and specific legal foundation to clarify\n                  its policies, objectives and methods; • To provide a record for Planning Board members to use in keeping their activities\n                  consistent and legal; • To provide a publicly accessible record outlining Planning Board procedures and\n                  policies, and to inform residents and the public of the Board's general rules and\n                  operating expectations.\n\n• These bylaws shall be in effect immediately upon their adoption by the Town of Lisbon\n               Planning Board. • The effective date of these bylaws is October 25, 2012.\n\n• The provisions of these bylaws shall pertain exclusively to the Town of Lisbon Planning\n               Board (herein known as \"the Board\"). • The provisions of these bylaws shall not be construed to overrule or annul the provisions\n               of other ordinances or regulations in effect in the Town of Lisbon. • The provisions of these bylaws represent a third level of procedural rule. The first\n               level of rules shall be the State of Maine Constitution and Maine Revised Statutes\n               Annotated. The second level of rules shall be the Charter, Ordinances and Regulations\n               of the Town of Lisbon, Maine. These bylaws shall not be considered as to conflict\n               with either of the first two levels of rules. Where there may be the appearance of\n               conflict, one or both of the first two levels shall prevail.\n\nThese bylaws shall be adopted by the Board and may be amended, supplemented or expanded\n               by the Board through the following procedure: • The Board shall present the proposed bylaws and/or proposed change or amendment\n                  to the Lisbon Town Council at least thirty days before the Board meeting at which\n                 …",
+          "sourceUrl": "https://library.municode.com/me/lisbon/codes/code_of_ordinances?nodeId=PTIIIBYONRECOAD"
+        },
+        {
+          "id": "me:lisbon:1",
+          "prompt": "How long is the term for each regular Planning Board member?",
+          "choices": [
+            "One year",
+            "Two years",
+            "Three years",
+            "Five years"
+          ],
+          "answer": "Three years",
+          "excerpt": "Planning Board Bylaws Town of Lisbon, Maine Established October 25, 2012\n\nThe purpose of these Bylaws is: • To provide the Planning Board with a clear and specific legal foundation to clarify\n                  its policies, objectives and methods; • To provide a record for Planning Board members to use in keeping their activities\n                  consistent and legal; • To provide a publicly accessible record outlining Planning Board procedures and\n                  policies, and to inform residents and the public of the Board's general rules and\n                  operating expectations.\n\n• These bylaws shall be in effect immediately upon their adoption by the Town of Lisbon\n               Planning Board. • The effective date of these bylaws is October 25, 2012.\n\n• The provisions of these bylaws shall pertain exclusively to the Town of Lisbon Planning\n               Board (herein known as \"the Board\"). • The provisions of these bylaws shall not be construed to overrule or annul the provisions\n               of other ordinances or regulations in effect in the Town of Lisbon. • The provisions of these bylaws represent a third level of procedural rule. The first\n               level of rules shall be the State of Maine Constitution and Maine Revised Statutes\n               Annotated. The second level of rules shall be the Charter, Ordinances and Regulations\n               of the Town of Lisbon, Maine. These bylaws shall not be considered as to conflict\n               with either of the first two levels of rules. Where there may be the appearance of\n               conflict, one or both of the first two levels shall prevail.\n\nThese bylaws shall be adopted by the Board and may be amended, supplemented or expanded\n               by the Board through the following procedure: • The Board shall present the proposed bylaws and/or proposed change or amendment\n                  to the Lisbon Town Council at least thirty days before the Board meeting at which\n                 …",
+          "sourceUrl": "https://library.municode.com/me/lisbon/codes/code_of_ordinances?nodeId=PTIIIBYONRECOAD"
+        },
+        {
+          "id": "me:lisbon:2",
+          "prompt": "Who is not allowed to serve as a member or associate member of the Planning Board?",
+          "choices": [
+            "A qualified voter of Lisbon",
+            "A municipal officer or Appeals Board member",
+            "Someone who owns land in town",
+            "A former town employee"
+          ],
+          "answer": "A municipal officer or Appeals Board member",
+          "excerpt": "Planning Board Bylaws Town of Lisbon, Maine Established October 25, 2012\n\nThe purpose of these Bylaws is: • To provide the Planning Board with a clear and specific legal foundation to clarify\n                  its policies, objectives and methods; • To provide a record for Planning Board members to use in keeping their activities\n                  consistent and legal; • To provide a publicly accessible record outlining Planning Board procedures and\n                  policies, and to inform residents and the public of the Board's general rules and\n                  operating expectations.\n\n• These bylaws shall be in effect immediately upon their adoption by the Town of Lisbon\n               Planning Board. • The effective date of these bylaws is October 25, 2012.\n\n• The provisions of these bylaws shall pertain exclusively to the Town of Lisbon Planning\n               Board (herein known as \"the Board\"). • The provisions of these bylaws shall not be construed to overrule or annul the provisions\n               of other ordinances or regulations in effect in the Town of Lisbon. • The provisions of these bylaws represent a third level of procedural rule. The first\n               level of rules shall be the State of Maine Constitution and Maine Revised Statutes\n               Annotated. The second level of rules shall be the Charter, Ordinances and Regulations\n               of the Town of Lisbon, Maine. These bylaws shall not be considered as to conflict\n               with either of the first two levels of rules. Where there may be the appearance of\n               conflict, one or both of the first two levels shall prevail.\n\nThese bylaws shall be adopted by the Board and may be amended, supplemented or expanded\n               by the Board through the following procedure: • The Board shall present the proposed bylaws and/or proposed change or amendment\n                  to the Lisbon Town Council at least thirty days before the Board meeting at which\n                 …",
+          "sourceUrl": "https://library.municode.com/me/lisbon/codes/code_of_ordinances?nodeId=PTIIIBYONRECOAD"
+        },
+        {
+          "id": "me:lisbon:3",
+          "prompt": "How many consecutive one-year terms may the Planning Board chair serve?",
+          "choices": [
+            "One",
+            "Two",
+            "Three",
+            "No limit"
+          ],
+          "answer": "Two",
+          "excerpt": "Planning Board Bylaws Town of Lisbon, Maine Established October 25, 2012\n\nThe purpose of these Bylaws is: • To provide the Planning Board with a clear and specific legal foundation to clarify\n                  its policies, objectives and methods; • To provide a record for Planning Board members to use in keeping their activities\n                  consistent and legal; • To provide a publicly accessible record outlining Planning Board procedures and\n                  policies, and to inform residents and the public of the Board's general rules and\n                  operating expectations.\n\n• These bylaws shall be in effect immediately upon their adoption by the Town of Lisbon\n               Planning Board. • The effective date of these bylaws is October 25, 2012.\n\n• The provisions of these bylaws shall pertain exclusively to the Town of Lisbon Planning\n               Board (herein known as \"the Board\"). • The provisions of these bylaws shall not be construed to overrule or annul the provisions\n               of other ordinances or regulations in effect in the Town of Lisbon. • The provisions of these bylaws represent a third level of procedural rule. The first\n               level of rules shall be the State of Maine Constitution and Maine Revised Statutes\n               Annotated. The second level of rules shall be the Charter, Ordinances and Regulations\n               of the Town of Lisbon, Maine. These bylaws shall not be considered as to conflict\n               with either of the first two levels of rules. Where there may be the appearance of\n               conflict, one or both of the first two levels shall prevail.\n\nThese bylaws shall be adopted by the Board and may be amended, supplemented or expanded\n               by the Board through the following procedure: • The Board shall present the proposed bylaws and/or proposed change or amendment\n                  to the Lisbon Town Council at least thirty days before the Board meeting at which\n                 …",
+          "sourceUrl": "https://library.municode.com/me/lisbon/codes/code_of_ordinances?nodeId=PTIIIBYONRECOAD"
+        },
+        {
+          "id": "me:lisbon:4",
+          "prompt": "If a Planning Board seat becomes permanently vacant, how soon must the Town Council fill it?",
+          "choices": [
+            "Within 30 days",
+            "Within 60 days",
+            "Within 90 days",
+            "By the next town election"
+          ],
+          "answer": "Within 60 days",
+          "excerpt": "Planning Board Bylaws Town of Lisbon, Maine Established October 25, 2012\n\nThe purpose of these Bylaws is: • To provide the Planning Board with a clear and specific legal foundation to clarify\n                  its policies, objectives and methods; • To provide a record for Planning Board members to use in keeping their activities\n                  consistent and legal; • To provide a publicly accessible record outlining Planning Board procedures and\n                  policies, and to inform residents and the public of the Board's general rules and\n                  operating expectations.\n\n• These bylaws shall be in effect immediately upon their adoption by the Town of Lisbon\n               Planning Board. • The effective date of these bylaws is October 25, 2012.\n\n• The provisions of these bylaws shall pertain exclusively to the Town of Lisbon Planning\n               Board (herein known as \"the Board\"). • The provisions of these bylaws shall not be construed to overrule or annul the provisions\n               of other ordinances or regulations in effect in the Town of Lisbon. • The provisions of these bylaws represent a third level of procedural rule. The first\n               level of rules shall be the State of Maine Constitution and Maine Revised Statutes\n               Annotated. The second level of rules shall be the Charter, Ordinances and Regulations\n               of the Town of Lisbon, Maine. These bylaws shall not be considered as to conflict\n               with either of the first two levels of rules. Where there may be the appearance of\n               conflict, one or both of the first two levels shall prevail.\n\nThese bylaws shall be adopted by the Board and may be amended, supplemented or expanded\n               by the Board through the following procedure: • The Board shall present the proposed bylaws and/or proposed change or amendment\n                  to the Lisbon Town Council at least thirty days before the Board meeting at which\n                 …",
+          "sourceUrl": "https://library.municode.com/me/lisbon/codes/code_of_ordinances?nodeId=PTIIIBYONRECOAD"
+        }
+      ]
+    },
+    {
+      "id": "old-orchard-beach",
+      "name": "Old Orchard Beach",
+      "sourceIndex": "https://library.municode.com/me/old_orchard_beach",
+      "questions": [
+        {
+          "id": "me:old-orchard-beach:0",
+          "prompt": "Licensed restaurants, bars, and other food or drink places in Old Orchard Beach may not have entertainment such as radio, recorded music, or karaoke between which hours?",
+          "choices": [
+            "1:00 a.m. and 8:00 a.m.",
+            "Midnight and 6:00 a.m.",
+            "10:00 p.m. and 7:00 a.m.",
+            "Anytime they are open"
+          ],
+          "answer": "1:00 a.m. and 8:00 a.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; alcoholic beverages in performing arts facilities, § 18-348; alcoholic beverages\n               in parks, § 42-82. State Law reference— Alcoholic beverages, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- Cross reference— Special events, § 42-231 et seq. State Law reference— Special amusement permit authorized, 28-A M.R.S.A. § 1054.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment includes any amusement, performance, exhibition, or diversion, for the patrons or\n               customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensee whose incidental duties include\n               activities with an entertainment value. State Law reference— Similar provisions, 28-A M.R.S.A. § 1054 10. Licensee includes the holder of a business license for victualer use or a holder of a license\n               issued under the state alcoholic beverages statutes, 28-A M.R.S.A. § 1 et seq., or\n               any other person or any agent or employee of any such licensee. Victualer means a person who serves food or drink prepared for consumption by the public. State Law reference— Definition of licensee, 28-A M.R.S.A. § 2.14 (Ord. of 4-26-1979, § 1.3; Ord. of 5-5-2015, § 3 ) Cross reference— Definitions generally, § 1-2 .\n\nThe purpose of this article is to control the issuance of special permits for music,\n               dancing, or entertainment in facilities licensed by the state to sell liquor as required\n               by 28-A M.R.S.A. § 1054 and facilities that hold a business license for victualer\n               use issued by the town of Old Orchard Beach but do not sell liquor. (Ord. of 4-26-1979, § 1.2; Ord. of 7-7-1992; Ord. of 8-4-1992;…",
+          "sourceUrl": "https://library.municode.com/me/old_orchard_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH6SPAMALBE"
+        },
+        {
+          "id": "me:old-orchard-beach:1",
+          "prompt": "A licensed food or drink business in Old Orchard Beach generally needs a special amusement permit before it can have dancing or entertainment. What kind of music is allowed even without that permit?",
+          "choices": [
+            "A radio or other mechanical device",
+            "A live band",
+            "Karaoke",
+            "A DJ"
+          ],
+          "answer": "A radio or other mechanical device",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; alcoholic beverages in performing arts facilities, § 18-348; alcoholic beverages\n               in parks, § 42-82. State Law reference— Alcoholic beverages, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- Cross reference— Special events, § 42-231 et seq. State Law reference— Special amusement permit authorized, 28-A M.R.S.A. § 1054.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment includes any amusement, performance, exhibition, or diversion, for the patrons or\n               customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensee whose incidental duties include\n               activities with an entertainment value. State Law reference— Similar provisions, 28-A M.R.S.A. § 1054 10. Licensee includes the holder of a business license for victualer use or a holder of a license\n               issued under the state alcoholic beverages statutes, 28-A M.R.S.A. § 1 et seq., or\n               any other person or any agent or employee of any such licensee. Victualer means a person who serves food or drink prepared for consumption by the public. State Law reference— Definition of licensee, 28-A M.R.S.A. § 2.14 (Ord. of 4-26-1979, § 1.3; Ord. of 5-5-2015, § 3 ) Cross reference— Definitions generally, § 1-2 .\n\nThe purpose of this article is to control the issuance of special permits for music,\n               dancing, or entertainment in facilities licensed by the state to sell liquor as required\n               by 28-A M.R.S.A. § 1054 and facilities that hold a business license for victualer\n               use issued by the town of Old Orchard Beach but do not sell liquor. (Ord. of 4-26-1979, § 1.2; Ord. of 7-7-1992; Ord. of 8-4-1992;…",
+          "sourceUrl": "https://library.municode.com/me/old_orchard_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH6SPAMALBE"
+        },
+        {
+          "id": "me:old-orchard-beach:2",
+          "prompt": "Before town officers can inspect a business that has a special amusement permit, they must:",
+          "choices": [
+            "Deliver a written demand that specifies the date and time they want to inspect",
+            "Call ahead the same day",
+            "Get a search warrant",
+            "Inspect only during business hours without notice"
+          ],
+          "answer": "Deliver a written demand that specifies the date and time they want to inspect",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; alcoholic beverages in performing arts facilities, § 18-348; alcoholic beverages\n               in parks, § 42-82. State Law reference— Alcoholic beverages, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- Cross reference— Special events, § 42-231 et seq. State Law reference— Special amusement permit authorized, 28-A M.R.S.A. § 1054.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment includes any amusement, performance, exhibition, or diversion, for the patrons or\n               customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensee whose incidental duties include\n               activities with an entertainment value. State Law reference— Similar provisions, 28-A M.R.S.A. § 1054 10. Licensee includes the holder of a business license for victualer use or a holder of a license\n               issued under the state alcoholic beverages statutes, 28-A M.R.S.A. § 1 et seq., or\n               any other person or any agent or employee of any such licensee. Victualer means a person who serves food or drink prepared for consumption by the public. State Law reference— Definition of licensee, 28-A M.R.S.A. § 2.14 (Ord. of 4-26-1979, § 1.3; Ord. of 5-5-2015, § 3 ) Cross reference— Definitions generally, § 1-2 .\n\nThe purpose of this article is to control the issuance of special permits for music,\n               dancing, or entertainment in facilities licensed by the state to sell liquor as required\n               by 28-A M.R.S.A. § 1054 and facilities that hold a business license for victualer\n               use issued by the town of Old Orchard Beach but do not sell liquor. (Ord. of 4-26-1979, § 1.2; Ord. of 7-7-1992; Ord. of 8-4-1992;…",
+          "sourceUrl": "https://library.municode.com/me/old_orchard_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH6SPAMALBE"
+        },
+        {
+          "id": "me:old-orchard-beach:3",
+          "prompt": "Businesses in Old Orchard Beach that have a special amusement permit may charge admission in:",
+          "choices": [
+            "Designated areas approved by the special amusement permit",
+            "Any part of the building",
+            "Only outdoor areas",
+            "The parking lot only"
+          ],
+          "answer": "Designated areas approved by the special amusement permit",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 18; alcoholic beverages in performing arts facilities, § 18-348; alcoholic beverages\n               in parks, § 42-82. State Law reference— Alcoholic beverages, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- Cross reference— Special events, § 42-231 et seq. State Law reference— Special amusement permit authorized, 28-A M.R.S.A. § 1054.\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment includes any amusement, performance, exhibition, or diversion, for the patrons or\n               customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensee whose incidental duties include\n               activities with an entertainment value. State Law reference— Similar provisions, 28-A M.R.S.A. § 1054 10. Licensee includes the holder of a business license for victualer use or a holder of a license\n               issued under the state alcoholic beverages statutes, 28-A M.R.S.A. § 1 et seq., or\n               any other person or any agent or employee of any such licensee. Victualer means a person who serves food or drink prepared for consumption by the public. State Law reference— Definition of licensee, 28-A M.R.S.A. § 2.14 (Ord. of 4-26-1979, § 1.3; Ord. of 5-5-2015, § 3 ) Cross reference— Definitions generally, § 1-2 .\n\nThe purpose of this article is to control the issuance of special permits for music,\n               dancing, or entertainment in facilities licensed by the state to sell liquor as required\n               by 28-A M.R.S.A. § 1054 and facilities that hold a business license for victualer\n               use issued by the town of Old Orchard Beach but do not sell liquor. (Ord. of 4-26-1979, § 1.2; Ord. of 7-7-1992; Ord. of 8-4-1992;…",
+          "sourceUrl": "https://library.municode.com/me/old_orchard_beach/codes/code_of_ordinances?nodeId=PTIICOOR_CH6SPAMALBE"
+        }
+      ]
+    },
+    {
+      "id": "orono",
+      "name": "Orono",
+      "sourceIndex": "https://library.municode.com/me/orono",
+      "questions": [
+        {
+          "id": "me:orono:0",
+          "prompt": "In Orono, a liquor-licensed bar or restaurant can play which of these without a special amusement permit from the town?",
+          "choices": [
+            "Live music or a band",
+            "Radio or other mechanical music",
+            "Dancing",
+            "Hired entertainers"
+          ],
+          "answer": "Radio or other mechanical music",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Liquors, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Special licenses for the sale of liquor for consumption on the premises where music,\n               dancing or entertainment is provided, 28-A M.R.S.A. § 1054.\n\n(a) This article shall be known and may be cited as the special amusement ordinance. (b) The purpose of this article is to control the issuance of special permits for music,\n               dancing or entertainment in facilities licensed by the state to sell liquor as required\n               by 28 M.R.S.A. § 702. (Code 1981, § 4.1.1)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment means and includes any amusement, performance, exhibition or diversion for patrons\n               or customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensed premises whose incidental duties\n               include activities with an entertainment value. Licensee means and includes the holder of a license issued under the alcoholic beverages statutes\n               of the state, or any person or other legal entity, or any agent or employee of any\n               such licensee. (Code 1981, § 4.1.1) Cross reference— Definitions generally, § 1-2 .\n\n(a) The municipal officers are hereby authorized, after public notice and hearing, to\n               establish written rules and regulations governing the issuance, suspension and revocation\n               of special amusement permits; the classes of permits; the music, dancing or entertainment\n               permitted under each class; and other limitations on these activities required to\n               protect the public health, safety and welfare. These rules and regulations may…",
+          "sourceUrl": "https://library.municode.com/me/orono/codes/code_of_ordinances?nodeId=PTIIOR_CH4ALBE"
+        },
+        {
+          "id": "me:orono:1",
+          "prompt": "Orono liquor places may not exhibit which of the following on the premises?",
+          "choices": [
+            "Bare breasts of girls or women, or breasts covered only by see-through material",
+            "A jukebox or radio",
+            "Patrons dancing",
+            "Sports on television"
+          ],
+          "answer": "Bare breasts of girls or women, or breasts covered only by see-through material",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Liquors, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Special licenses for the sale of liquor for consumption on the premises where music,\n               dancing or entertainment is provided, 28-A M.R.S.A. § 1054.\n\n(a) This article shall be known and may be cited as the special amusement ordinance. (b) The purpose of this article is to control the issuance of special permits for music,\n               dancing or entertainment in facilities licensed by the state to sell liquor as required\n               by 28 M.R.S.A. § 702. (Code 1981, § 4.1.1)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment means and includes any amusement, performance, exhibition or diversion for patrons\n               or customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensed premises whose incidental duties\n               include activities with an entertainment value. Licensee means and includes the holder of a license issued under the alcoholic beverages statutes\n               of the state, or any person or other legal entity, or any agent or employee of any\n               such licensee. (Code 1981, § 4.1.1) Cross reference— Definitions generally, § 1-2 .\n\n(a) The municipal officers are hereby authorized, after public notice and hearing, to\n               establish written rules and regulations governing the issuance, suspension and revocation\n               of special amusement permits; the classes of permits; the music, dancing or entertainment\n               permitted under each class; and other limitations on these activities required to\n               protect the public health, safety and welfare. These rules and regulations may…",
+          "sourceUrl": "https://library.municode.com/me/orono/codes/code_of_ordinances?nodeId=PTIIOR_CH4ALBE"
+        },
+        {
+          "id": "me:orono:2",
+          "prompt": "A hotel, class A restaurant, or similar liquor licensee in Orono that has a special amusement permit may charge admission:",
+          "choices": [
+            "Only in designated areas approved with the permit",
+            "Anywhere on the whole property",
+            "Never",
+            "Only after midnight"
+          ],
+          "answer": "Only in designated areas approved with the permit",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Liquors, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Special licenses for the sale of liquor for consumption on the premises where music,\n               dancing or entertainment is provided, 28-A M.R.S.A. § 1054.\n\n(a) This article shall be known and may be cited as the special amusement ordinance. (b) The purpose of this article is to control the issuance of special permits for music,\n               dancing or entertainment in facilities licensed by the state to sell liquor as required\n               by 28 M.R.S.A. § 702. (Code 1981, § 4.1.1)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment means and includes any amusement, performance, exhibition or diversion for patrons\n               or customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensed premises whose incidental duties\n               include activities with an entertainment value. Licensee means and includes the holder of a license issued under the alcoholic beverages statutes\n               of the state, or any person or other legal entity, or any agent or employee of any\n               such licensee. (Code 1981, § 4.1.1) Cross reference— Definitions generally, § 1-2 .\n\n(a) The municipal officers are hereby authorized, after public notice and hearing, to\n               establish written rules and regulations governing the issuance, suspension and revocation\n               of special amusement permits; the classes of permits; the music, dancing or entertainment\n               permitted under each class; and other limitations on these activities required to\n               protect the public health, safety and welfare. These rules and regulations may…",
+          "sourceUrl": "https://library.municode.com/me/orono/codes/code_of_ordinances?nodeId=PTIIOR_CH4ALBE"
+        },
+        {
+          "id": "me:orono:3",
+          "prompt": "If an authorized town official asks to inspect a special-amusement location in Orono at a reasonable time, the person in charge must:",
+          "choices": [
+            "Let them in",
+            "Demand a warrant first",
+            "Tell them to come back the next day",
+            "Refuse if the place is busy"
+          ],
+          "answer": "Let them in",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Liquors, 28-A M.R.S.A. § 1 et seq.\n\nFootnotes: --- ( 2 ) --- State Law reference— Special licenses for the sale of liquor for consumption on the premises where music,\n               dancing or entertainment is provided, 28-A M.R.S.A. § 1054.\n\n(a) This article shall be known and may be cited as the special amusement ordinance. (b) The purpose of this article is to control the issuance of special permits for music,\n               dancing or entertainment in facilities licensed by the state to sell liquor as required\n               by 28 M.R.S.A. § 702. (Code 1981, § 4.1.1)\n\nThe following words, terms and phrases, when used in this article, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Entertainment means and includes any amusement, performance, exhibition or diversion for patrons\n               or customers of the licensed premises, whether provided by professional entertainers\n               or by full-time or part-time employees of the licensed premises whose incidental duties\n               include activities with an entertainment value. Licensee means and includes the holder of a license issued under the alcoholic beverages statutes\n               of the state, or any person or other legal entity, or any agent or employee of any\n               such licensee. (Code 1981, § 4.1.1) Cross reference— Definitions generally, § 1-2 .\n\n(a) The municipal officers are hereby authorized, after public notice and hearing, to\n               establish written rules and regulations governing the issuance, suspension and revocation\n               of special amusement permits; the classes of permits; the music, dancing or entertainment\n               permitted under each class; and other limitations on these activities required to\n               protect the public health, safety and welfare. These rules and regulations may…",
+          "sourceUrl": "https://library.municode.com/me/orono/codes/code_of_ordinances?nodeId=PTIIOR_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "wiscasset",
+      "name": "Wiscasset",
+      "sourceIndex": "https://library.municode.com/me/wiscasset",
+      "questions": [
+        {
+          "id": "me:wiscasset:0",
+          "prompt": "How far from the normal high-water line of a great pond or river does Wiscasset's Shoreland Zoning Ordinance apply?",
+          "choices": [
+            "75 feet",
+            "150 feet",
+            "250 feet",
+            "500 feet"
+          ],
+          "answer": "250 feet",
+          "excerpt": "This section may be referred to as the \"Shoreland Zoning Ordinance,\" and in this section\n            as \"Ordinance.\" Footnotes: --- ( 1 ) --- (09-2020, Enacted 10-06-2020)\n\nThe purposes of this Ordinance are to further the maintenance of safe and healthful\n               conditions; to prevent and control water pollution; to protect fish spawning grounds,\n               aquatic life, bird and other wildlife habitat; to protect buildings and lands from\n               flooding and accelerated erosion; to protect archaeological and historic resources,\n               to protect commercial fishing and maritime industries; to protect freshwater and coastal\n               wetlands; to control building sites, placement of structures and land uses; to conserve\n               shore cover, and visual as well as actual points of access to inland and coastal waters;\n               to conserve natural beautify and open space; and to anticipate and respond to the\n               impacts of development in shoreland areas. This Ordinance has been prepared in accordance with the provisions of Title 38 Sections\n               435-449 of the Maine Revised Statutes Annotated (MRSA).\n\nThis Ordinance applies to all land areas within two hundred fifty (250) feet, horizontal\n               distance of the a. Normal high-water line of any great pond or river, b. Upland edge of a coastal wetland, including all areas affected by tidal action, or c. Upland edge of a freshwater wetland. and all land areas within seventy-five (75) feet, horizontal distance, of the normal\n               high-water line of a stream. This Ordinance also applies to any structure built on, over or abutting a dock, wharf,\n               pier, or other structure extending or located below the normal high-water line of\n               a water body or within a wetland. The Shoreland Zone is an overlay district which provides additional or superseding\n               requirements to any underlying zoning district. Land uses…",
+          "sourceUrl": "https://library.municode.com/me/wiscasset/codes/the_ordinances?nodeId=ARTXIIISHZOOR"
+        },
+        {
+          "id": "me:wiscasset:1",
+          "prompt": "How far from the normal high-water line of a stream does the ordinance also apply?",
+          "choices": [
+            "25 feet",
+            "75 feet",
+            "250 feet",
+            "the same 250 feet as ponds"
+          ],
+          "answer": "75 feet",
+          "excerpt": "This section may be referred to as the \"Shoreland Zoning Ordinance,\" and in this section\n            as \"Ordinance.\" Footnotes: --- ( 1 ) --- (09-2020, Enacted 10-06-2020)\n\nThe purposes of this Ordinance are to further the maintenance of safe and healthful\n               conditions; to prevent and control water pollution; to protect fish spawning grounds,\n               aquatic life, bird and other wildlife habitat; to protect buildings and lands from\n               flooding and accelerated erosion; to protect archaeological and historic resources,\n               to protect commercial fishing and maritime industries; to protect freshwater and coastal\n               wetlands; to control building sites, placement of structures and land uses; to conserve\n               shore cover, and visual as well as actual points of access to inland and coastal waters;\n               to conserve natural beautify and open space; and to anticipate and respond to the\n               impacts of development in shoreland areas. This Ordinance has been prepared in accordance with the provisions of Title 38 Sections\n               435-449 of the Maine Revised Statutes Annotated (MRSA).\n\nThis Ordinance applies to all land areas within two hundred fifty (250) feet, horizontal\n               distance of the a. Normal high-water line of any great pond or river, b. Upland edge of a coastal wetland, including all areas affected by tidal action, or c. Upland edge of a freshwater wetland. and all land areas within seventy-five (75) feet, horizontal distance, of the normal\n               high-water line of a stream. This Ordinance also applies to any structure built on, over or abutting a dock, wharf,\n               pier, or other structure extending or located below the normal high-water line of\n               a water body or within a wetland. The Shoreland Zone is an overlay district which provides additional or superseding\n               requirements to any underlying zoning district. Land uses…",
+          "sourceUrl": "https://library.municode.com/me/wiscasset/codes/the_ordinances?nodeId=ARTXIIISHZOOR"
+        },
+        {
+          "id": "me:wiscasset:2",
+          "prompt": "If the official Shoreland Zoning Map and the written ordinance disagree about a district boundary, which one controls?",
+          "choices": [
+            "The map",
+            "The written text",
+            "A town-wide vote",
+            "Whichever is less strict"
+          ],
+          "answer": "The written text",
+          "excerpt": "This section may be referred to as the \"Shoreland Zoning Ordinance,\" and in this section\n            as \"Ordinance.\" Footnotes: --- ( 1 ) --- (09-2020, Enacted 10-06-2020)\n\nThe purposes of this Ordinance are to further the maintenance of safe and healthful\n               conditions; to prevent and control water pollution; to protect fish spawning grounds,\n               aquatic life, bird and other wildlife habitat; to protect buildings and lands from\n               flooding and accelerated erosion; to protect archaeological and historic resources,\n               to protect commercial fishing and maritime industries; to protect freshwater and coastal\n               wetlands; to control building sites, placement of structures and land uses; to conserve\n               shore cover, and visual as well as actual points of access to inland and coastal waters;\n               to conserve natural beautify and open space; and to anticipate and respond to the\n               impacts of development in shoreland areas. This Ordinance has been prepared in accordance with the provisions of Title 38 Sections\n               435-449 of the Maine Revised Statutes Annotated (MRSA).\n\nThis Ordinance applies to all land areas within two hundred fifty (250) feet, horizontal\n               distance of the a. Normal high-water line of any great pond or river, b. Upland edge of a coastal wetland, including all areas affected by tidal action, or c. Upland edge of a freshwater wetland. and all land areas within seventy-five (75) feet, horizontal distance, of the normal\n               high-water line of a stream. This Ordinance also applies to any structure built on, over or abutting a dock, wharf,\n               pier, or other structure extending or located below the normal high-water line of\n               a water body or within a wetland. The Shoreland Zone is an overlay district which provides additional or superseding\n               requirements to any underlying zoning district. Land uses…",
+          "sourceUrl": "https://library.municode.com/me/wiscasset/codes/the_ordinances?nodeId=ARTXIIISHZOOR"
+        },
+        {
+          "id": "me:wiscasset:3",
+          "prompt": "If you buy a non-conforming shoreland lot or structure, may you keep using it the same way the previous owner did?",
+          "choices": [
+            "No, you must bring it into full compliance first",
+            "Yes, the new owner may continue the non-conforming use or structure",
+            "Only after getting a new permit",
+            "Only for one year"
+          ],
+          "answer": "Yes, the new owner may continue the non-conforming use or structure",
+          "excerpt": "This section may be referred to as the \"Shoreland Zoning Ordinance,\" and in this section\n            as \"Ordinance.\" Footnotes: --- ( 1 ) --- (09-2020, Enacted 10-06-2020)\n\nThe purposes of this Ordinance are to further the maintenance of safe and healthful\n               conditions; to prevent and control water pollution; to protect fish spawning grounds,\n               aquatic life, bird and other wildlife habitat; to protect buildings and lands from\n               flooding and accelerated erosion; to protect archaeological and historic resources,\n               to protect commercial fishing and maritime industries; to protect freshwater and coastal\n               wetlands; to control building sites, placement of structures and land uses; to conserve\n               shore cover, and visual as well as actual points of access to inland and coastal waters;\n               to conserve natural beautify and open space; and to anticipate and respond to the\n               impacts of development in shoreland areas. This Ordinance has been prepared in accordance with the provisions of Title 38 Sections\n               435-449 of the Maine Revised Statutes Annotated (MRSA).\n\nThis Ordinance applies to all land areas within two hundred fifty (250) feet, horizontal\n               distance of the a. Normal high-water line of any great pond or river, b. Upland edge of a coastal wetland, including all areas affected by tidal action, or c. Upland edge of a freshwater wetland. and all land areas within seventy-five (75) feet, horizontal distance, of the normal\n               high-water line of a stream. This Ordinance also applies to any structure built on, over or abutting a dock, wharf,\n               pier, or other structure extending or located below the normal high-water line of\n               a water body or within a wetland. The Shoreland Zone is an overlay district which provides additional or superseding\n               requirements to any underlying zoning district. Land uses…",
+          "sourceUrl": "https://library.municode.com/me/wiscasset/codes/the_ordinances?nodeId=ARTXIIISHZOOR"
+        },
+        {
+          "id": "me:wiscasset:4",
+          "prompt": "Ordinary repairs and upkeep of a non-conforming shoreland structure generally:",
+          "choices": [
+            "Always need a new permit",
+            "Are allowed without a permit if they do not expand the structure",
+            "Are never allowed",
+            "Require a variance from the Board of Appeals"
+          ],
+          "answer": "Are allowed without a permit if they do not expand the structure",
+          "excerpt": "This section may be referred to as the \"Shoreland Zoning Ordinance,\" and in this section\n            as \"Ordinance.\" Footnotes: --- ( 1 ) --- (09-2020, Enacted 10-06-2020)\n\nThe purposes of this Ordinance are to further the maintenance of safe and healthful\n               conditions; to prevent and control water pollution; to protect fish spawning grounds,\n               aquatic life, bird and other wildlife habitat; to protect buildings and lands from\n               flooding and accelerated erosion; to protect archaeological and historic resources,\n               to protect commercial fishing and maritime industries; to protect freshwater and coastal\n               wetlands; to control building sites, placement of structures and land uses; to conserve\n               shore cover, and visual as well as actual points of access to inland and coastal waters;\n               to conserve natural beautify and open space; and to anticipate and respond to the\n               impacts of development in shoreland areas. This Ordinance has been prepared in accordance with the provisions of Title 38 Sections\n               435-449 of the Maine Revised Statutes Annotated (MRSA).\n\nThis Ordinance applies to all land areas within two hundred fifty (250) feet, horizontal\n               distance of the a. Normal high-water line of any great pond or river, b. Upland edge of a coastal wetland, including all areas affected by tidal action, or c. Upland edge of a freshwater wetland. and all land areas within seventy-five (75) feet, horizontal distance, of the normal\n               high-water line of a stream. This Ordinance also applies to any structure built on, over or abutting a dock, wharf,\n               pier, or other structure extending or located below the normal high-water line of\n               a water body or within a wetland. The Shoreland Zone is an overlay district which provides additional or superseding\n               requirements to any underlying zoning district. Land uses…",
+          "sourceUrl": "https://library.municode.com/me/wiscasset/codes/the_ordinances?nodeId=ARTXIIISHZOOR"
+        }
+      ]
+    }
+  ]
+}

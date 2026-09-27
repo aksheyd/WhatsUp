@@ -1,0 +1,888 @@
+{
+  "state": "nv",
+  "stateName": "Nevada",
+  "places": [
+    {
+      "id": "boulder-city",
+      "name": "Boulder City",
+      "sourceIndex": "https://library.municode.com/nv/boulder_city",
+      "questions": [
+        {
+          "id": "nv:boulder-city:0",
+          "prompt": "If you ride an animal or propel a push cart on a Boulder City roadway, which rules apply to you?",
+          "choices": [
+            "The same traffic rules that apply to vehicle drivers, except rules that cannot apply by their nature",
+            "No traffic rules, because they are not cars",
+            "Only animal-control ordinances",
+            "Rules apply only on dirt roads"
+          ],
+          "answer": "The same traffic rules that apply to vehicle drivers, except rules that cannot apply by their nature",
+          "excerpt": "All definitions applicable to this Title shall be the same as those contained in Nevada\n               Revised Statutes unless specifically defined. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nThe provisions of this Title relating to the operation of vehicles refer to the operation\n               of vehicles upon highways, streets, alleys and thoroughfares whether public or private,\n               public and commercial private parking lots, other places open to the public, and public\n               gatherings, or any place wherein the operation of a vehicle can or may constitute\n               a hazard to persons or property, except where a different place is specifically referred\n               to in a given section. Every person propelling any push cart or riding an animal upon a roadway and every\n               person driving any animal-drawn vehicle, shall be subject to the provisions of this\n               Title applicable to the driver of any vehicle, except those provisions of this Code\n               which by their very nature can have no application. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nA. Chief Of Police. The Chief of Police, by and with the approval of the City Manager, is hereby empowered\n               to make regulations necessary to make effective the provisions of this Title and to\n               make and enforce temporary or experimental regulations to cover emergencies or special\n               conditions. No such temporary or experimental regulation shall remain in effect for\n               more than ninety (90) days. B. Police Officers. 1. Enforce Laws. It shall be the duty of the officers of the Police Department or such officers as\n               are assigned by the Chief of Police to enforce all traffic laws of the City and all\n               of the State of Nevada vehicle laws applicable to traffic in the City. 2. Direct Traffic. Officers of the Police Department or such officers as are assigned by the Chief of\n               Police are hereby…",
+          "sourceUrl": "https://library.municode.com/nv/boulder_city/codes/code_of_ordinances?nodeId=COOR_TIT10TRRE"
+        },
+        {
+          "id": "nv:boulder-city:1",
+          "prompt": "Besides public streets and highways, Boulder City vehicle rules also cover which of these?",
+          "choices": [
+            "Public and commercial private parking lots and other places open to the public",
+            "Only unmarked alleys behind businesses",
+            "Private residential driveways only",
+            "None of the above"
+          ],
+          "answer": "Public and commercial private parking lots and other places open to the public",
+          "excerpt": "All definitions applicable to this Title shall be the same as those contained in Nevada\n               Revised Statutes unless specifically defined. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nThe provisions of this Title relating to the operation of vehicles refer to the operation\n               of vehicles upon highways, streets, alleys and thoroughfares whether public or private,\n               public and commercial private parking lots, other places open to the public, and public\n               gatherings, or any place wherein the operation of a vehicle can or may constitute\n               a hazard to persons or property, except where a different place is specifically referred\n               to in a given section. Every person propelling any push cart or riding an animal upon a roadway and every\n               person driving any animal-drawn vehicle, shall be subject to the provisions of this\n               Title applicable to the driver of any vehicle, except those provisions of this Code\n               which by their very nature can have no application. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nA. Chief Of Police. The Chief of Police, by and with the approval of the City Manager, is hereby empowered\n               to make regulations necessary to make effective the provisions of this Title and to\n               make and enforce temporary or experimental regulations to cover emergencies or special\n               conditions. No such temporary or experimental regulation shall remain in effect for\n               more than ninety (90) days. B. Police Officers. 1. Enforce Laws. It shall be the duty of the officers of the Police Department or such officers as\n               are assigned by the Chief of Police to enforce all traffic laws of the City and all\n               of the State of Nevada vehicle laws applicable to traffic in the City. 2. Direct Traffic. Officers of the Police Department or such officers as are assigned by the Chief of\n               Police are hereby…",
+          "sourceUrl": "https://library.municode.com/nv/boulder_city/codes/code_of_ordinances?nodeId=COOR_TIT10TRRE"
+        },
+        {
+          "id": "nv:boulder-city:2",
+          "prompt": "A temporary or experimental traffic regulation issued by the Chief of Police (with City Manager approval) may stay in effect for how long?",
+          "choices": [
+            "No more than 90 days",
+            "Until City Council meets",
+            "One year",
+            "Until it is posted with a new sign"
+          ],
+          "answer": "No more than 90 days",
+          "excerpt": "All definitions applicable to this Title shall be the same as those contained in Nevada\n               Revised Statutes unless specifically defined. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nThe provisions of this Title relating to the operation of vehicles refer to the operation\n               of vehicles upon highways, streets, alleys and thoroughfares whether public or private,\n               public and commercial private parking lots, other places open to the public, and public\n               gatherings, or any place wherein the operation of a vehicle can or may constitute\n               a hazard to persons or property, except where a different place is specifically referred\n               to in a given section. Every person propelling any push cart or riding an animal upon a roadway and every\n               person driving any animal-drawn vehicle, shall be subject to the provisions of this\n               Title applicable to the driver of any vehicle, except those provisions of this Code\n               which by their very nature can have no application. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nA. Chief Of Police. The Chief of Police, by and with the approval of the City Manager, is hereby empowered\n               to make regulations necessary to make effective the provisions of this Title and to\n               make and enforce temporary or experimental regulations to cover emergencies or special\n               conditions. No such temporary or experimental regulation shall remain in effect for\n               more than ninety (90) days. B. Police Officers. 1. Enforce Laws. It shall be the duty of the officers of the Police Department or such officers as\n               are assigned by the Chief of Police to enforce all traffic laws of the City and all\n               of the State of Nevada vehicle laws applicable to traffic in the City. 2. Direct Traffic. Officers of the Police Department or such officers as are assigned by the Chief of\n               Police are hereby…",
+          "sourceUrl": "https://library.municode.com/nv/boulder_city/codes/code_of_ordinances?nodeId=COOR_TIT10TRRE"
+        },
+        {
+          "id": "nv:boulder-city:3",
+          "prompt": "When firefighters are at the scene of a fire, what traffic power do they have?",
+          "choices": [
+            "They may direct traffic there or in the immediate vicinity, or assist police",
+            "They may only block the street with their trucks",
+            "None; only police may direct traffic",
+            "They may change speed limits for 24 hours"
+          ],
+          "answer": "They may direct traffic there or in the immediate vicinity, or assist police",
+          "excerpt": "All definitions applicable to this Title shall be the same as those contained in Nevada\n               Revised Statutes unless specifically defined. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nThe provisions of this Title relating to the operation of vehicles refer to the operation\n               of vehicles upon highways, streets, alleys and thoroughfares whether public or private,\n               public and commercial private parking lots, other places open to the public, and public\n               gatherings, or any place wherein the operation of a vehicle can or may constitute\n               a hazard to persons or property, except where a different place is specifically referred\n               to in a given section. Every person propelling any push cart or riding an animal upon a roadway and every\n               person driving any animal-drawn vehicle, shall be subject to the provisions of this\n               Title applicable to the driver of any vehicle, except those provisions of this Code\n               which by their very nature can have no application. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nA. Chief Of Police. The Chief of Police, by and with the approval of the City Manager, is hereby empowered\n               to make regulations necessary to make effective the provisions of this Title and to\n               make and enforce temporary or experimental regulations to cover emergencies or special\n               conditions. No such temporary or experimental regulation shall remain in effect for\n               more than ninety (90) days. B. Police Officers. 1. Enforce Laws. It shall be the duty of the officers of the Police Department or such officers as\n               are assigned by the Chief of Police to enforce all traffic laws of the City and all\n               of the State of Nevada vehicle laws applicable to traffic in the City. 2. Direct Traffic. Officers of the Police Department or such officers as are assigned by the Chief of\n               Police are hereby…",
+          "sourceUrl": "https://library.municode.com/nv/boulder_city/codes/code_of_ordinances?nodeId=COOR_TIT10TRRE"
+        },
+        {
+          "id": "nv:boulder-city:4",
+          "prompt": "What does the city say if you willfully fail or refuse to follow a lawful order of a police officer or Fire Department official enforcing this code?",
+          "choices": [
+            "You are guilty of a misdemeanor",
+            "You receive only a verbal warning",
+            "The order does not apply unless you are in a vehicle",
+            "You must be given three chances to comply"
+          ],
+          "answer": "You are guilty of a misdemeanor",
+          "excerpt": "All definitions applicable to this Title shall be the same as those contained in Nevada\n               Revised Statutes unless specifically defined. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nThe provisions of this Title relating to the operation of vehicles refer to the operation\n               of vehicles upon highways, streets, alleys and thoroughfares whether public or private,\n               public and commercial private parking lots, other places open to the public, and public\n               gatherings, or any place wherein the operation of a vehicle can or may constitute\n               a hazard to persons or property, except where a different place is specifically referred\n               to in a given section. Every person propelling any push cart or riding an animal upon a roadway and every\n               person driving any animal-drawn vehicle, shall be subject to the provisions of this\n               Title applicable to the driver of any vehicle, except those provisions of this Code\n               which by their very nature can have no application. (Ord. 296, 2-6-1968, eff. 3-25-1968)\n\nA. Chief Of Police. The Chief of Police, by and with the approval of the City Manager, is hereby empowered\n               to make regulations necessary to make effective the provisions of this Title and to\n               make and enforce temporary or experimental regulations to cover emergencies or special\n               conditions. No such temporary or experimental regulation shall remain in effect for\n               more than ninety (90) days. B. Police Officers. 1. Enforce Laws. It shall be the duty of the officers of the Police Department or such officers as\n               are assigned by the Chief of Police to enforce all traffic laws of the City and all\n               of the State of Nevada vehicle laws applicable to traffic in the City. 2. Direct Traffic. Officers of the Police Department or such officers as are assigned by the Chief of\n               Police are hereby…",
+          "sourceUrl": "https://library.municode.com/nv/boulder_city/codes/code_of_ordinances?nodeId=COOR_TIT10TRRE"
+        }
+      ]
+    },
+    {
+      "id": "carson-city",
+      "name": "Carson City",
+      "sourceIndex": "https://library.municode.com/nv/carson_city",
+      "questions": [
+        {
+          "id": "nv:carson-city:0",
+          "prompt": "Are regular pet dogs allowed in Carson City parks?",
+          "choices": [
+            "Yes, they just have to stay on a leash",
+            "No, unless the dog helps a handicapped person or you have written permission for a dog training class",
+            "Yes, if you clean up after them",
+            "Only in parks that have a dog park section"
+          ],
+          "answer": "No, unless the dog helps a handicapped person or you have written permission for a dog training class",
+          "excerpt": "Chapters:\n\nSections:\n\nAs used in this chapter, unless the context otherwise requires: 1. \"Amplified sound\" means speech or music projected or transmitted by electronic equipment\n               including amplifiers, loudspeakers, microphones, bull horns or similar devices or\n               combinations of devices which are intended to increase the volume, range, distance\n               or intensity of speech or music and are powered by electricity or combustible fuel; 2. \"Department\" means that department of Carson City having authority and control of\n               the Carson City parks; 3. \"Director\" means the director of the department; 4. \"Park\" includes any area designated by the board of supervisors as a public park,\n               playground or recreational facility; 5. \"Parks and recreation commission\" refers to the Carson City parks and recreation commission; 6. \"Persons\" means all persons, associations, partnerships, firms, corporations or public\n               entities. (Ord. 1981-25 § 1 (part), 1981).\n\nThe purpose of this chapter is to regulate the use of city parks and to protect the\n               right of all Carson City residents to enjoy the park system. (Ord. 1981-25 § 1 (part), 1981).\n\nUnless otherwise designated, the provisions of this chapter shall apply to all parks,\n               govern the use of all parks and the observance of such provisions shall be a condition\n               under which the public may use the parks. (Ord. 1981-25 § 1 (part), 1981).\n\n1. The department shall administer, protect and develop the park system for the use and\n               enjoyment of the public. 2. The department may recommend rules and regulations to the board of supervisors which\n               are not inconsistent with law for the government and administration of the park system. (Ord. 1981-25 § 1 (part), 1981).\n\n1. No person shall enter, be or remain in any park of the city unless he complies with\n               this chapter and the regulations…",
+          "sourceUrl": "https://library.municode.com/nv/carson_city/codes/code_of_ordinances?nodeId=TIT13PARE"
+        },
+        {
+          "id": "nv:carson-city:1",
+          "prompt": "Is it legal to use a loudspeaker or amplifier in a Carson City park?",
+          "choices": [
+            "Yes, as long as the total power is 25 watts or less, or you have written permission from the director for more",
+            "No, all amplified sound is banned",
+            "Yes, if it is not after 10 p.m.",
+            "Only for city-sponsored events"
+          ],
+          "answer": "Yes, as long as the total power is 25 watts or less, or you have written permission from the director for more",
+          "excerpt": "Chapters:\n\nSections:\n\nAs used in this chapter, unless the context otherwise requires: 1. \"Amplified sound\" means speech or music projected or transmitted by electronic equipment\n               including amplifiers, loudspeakers, microphones, bull horns or similar devices or\n               combinations of devices which are intended to increase the volume, range, distance\n               or intensity of speech or music and are powered by electricity or combustible fuel; 2. \"Department\" means that department of Carson City having authority and control of\n               the Carson City parks; 3. \"Director\" means the director of the department; 4. \"Park\" includes any area designated by the board of supervisors as a public park,\n               playground or recreational facility; 5. \"Parks and recreation commission\" refers to the Carson City parks and recreation commission; 6. \"Persons\" means all persons, associations, partnerships, firms, corporations or public\n               entities. (Ord. 1981-25 § 1 (part), 1981).\n\nThe purpose of this chapter is to regulate the use of city parks and to protect the\n               right of all Carson City residents to enjoy the park system. (Ord. 1981-25 § 1 (part), 1981).\n\nUnless otherwise designated, the provisions of this chapter shall apply to all parks,\n               govern the use of all parks and the observance of such provisions shall be a condition\n               under which the public may use the parks. (Ord. 1981-25 § 1 (part), 1981).\n\n1. The department shall administer, protect and develop the park system for the use and\n               enjoyment of the public. 2. The department may recommend rules and regulations to the board of supervisors which\n               are not inconsistent with law for the government and administration of the park system. (Ord. 1981-25 § 1 (part), 1981).\n\n1. No person shall enter, be or remain in any park of the city unless he complies with\n               this chapter and the regulations…",
+          "sourceUrl": "https://library.municode.com/nv/carson_city/codes/code_of_ordinances?nodeId=TIT13PARE"
+        },
+        {
+          "id": "nv:carson-city:2",
+          "prompt": "After being told to leave a Carson City park, how long must you stay away?",
+          "choices": [
+            "24 hours, unless the director or a delegate says you can come back sooner",
+            "Until the next calendar day",
+            "One week",
+            "You can return right away if you pay a fine"
+          ],
+          "answer": "24 hours, unless the director or a delegate says you can come back sooner",
+          "excerpt": "Chapters:\n\nSections:\n\nAs used in this chapter, unless the context otherwise requires: 1. \"Amplified sound\" means speech or music projected or transmitted by electronic equipment\n               including amplifiers, loudspeakers, microphones, bull horns or similar devices or\n               combinations of devices which are intended to increase the volume, range, distance\n               or intensity of speech or music and are powered by electricity or combustible fuel; 2. \"Department\" means that department of Carson City having authority and control of\n               the Carson City parks; 3. \"Director\" means the director of the department; 4. \"Park\" includes any area designated by the board of supervisors as a public park,\n               playground or recreational facility; 5. \"Parks and recreation commission\" refers to the Carson City parks and recreation commission; 6. \"Persons\" means all persons, associations, partnerships, firms, corporations or public\n               entities. (Ord. 1981-25 § 1 (part), 1981).\n\nThe purpose of this chapter is to regulate the use of city parks and to protect the\n               right of all Carson City residents to enjoy the park system. (Ord. 1981-25 § 1 (part), 1981).\n\nUnless otherwise designated, the provisions of this chapter shall apply to all parks,\n               govern the use of all parks and the observance of such provisions shall be a condition\n               under which the public may use the parks. (Ord. 1981-25 § 1 (part), 1981).\n\n1. The department shall administer, protect and develop the park system for the use and\n               enjoyment of the public. 2. The department may recommend rules and regulations to the board of supervisors which\n               are not inconsistent with law for the government and administration of the park system. (Ord. 1981-25 § 1 (part), 1981).\n\n1. No person shall enter, be or remain in any park of the city unless he complies with\n               this chapter and the regulations…",
+          "sourceUrl": "https://library.municode.com/nv/carson_city/codes/code_of_ordinances?nodeId=TIT13PARE"
+        },
+        {
+          "id": "nv:carson-city:3",
+          "prompt": "May children younger than 10 years old tend a fire in a Carson City park?",
+          "choices": [
+            "Yes, if an adult is with them",
+            "No, children under the age of 10 years are not qualified to tend a fire",
+            "Yes, in fire pits only",
+            "Only if they have taken a safety class"
+          ],
+          "answer": "No, children under the age of 10 years are not qualified to tend a fire",
+          "excerpt": "Chapters:\n\nSections:\n\nAs used in this chapter, unless the context otherwise requires: 1. \"Amplified sound\" means speech or music projected or transmitted by electronic equipment\n               including amplifiers, loudspeakers, microphones, bull horns or similar devices or\n               combinations of devices which are intended to increase the volume, range, distance\n               or intensity of speech or music and are powered by electricity or combustible fuel; 2. \"Department\" means that department of Carson City having authority and control of\n               the Carson City parks; 3. \"Director\" means the director of the department; 4. \"Park\" includes any area designated by the board of supervisors as a public park,\n               playground or recreational facility; 5. \"Parks and recreation commission\" refers to the Carson City parks and recreation commission; 6. \"Persons\" means all persons, associations, partnerships, firms, corporations or public\n               entities. (Ord. 1981-25 § 1 (part), 1981).\n\nThe purpose of this chapter is to regulate the use of city parks and to protect the\n               right of all Carson City residents to enjoy the park system. (Ord. 1981-25 § 1 (part), 1981).\n\nUnless otherwise designated, the provisions of this chapter shall apply to all parks,\n               govern the use of all parks and the observance of such provisions shall be a condition\n               under which the public may use the parks. (Ord. 1981-25 § 1 (part), 1981).\n\n1. The department shall administer, protect and develop the park system for the use and\n               enjoyment of the public. 2. The department may recommend rules and regulations to the board of supervisors which\n               are not inconsistent with law for the government and administration of the park system. (Ord. 1981-25 § 1 (part), 1981).\n\n1. No person shall enter, be or remain in any park of the city unless he complies with\n               this chapter and the regulations…",
+          "sourceUrl": "https://library.municode.com/nv/carson_city/codes/code_of_ordinances?nodeId=TIT13PARE"
+        }
+      ]
+    },
+    {
+      "id": "churchill-county",
+      "name": "Churchill County",
+      "sourceIndex": "https://library.municode.com/nv/churchill_county",
+      "questions": []
+    },
+    {
+      "id": "clark-county",
+      "name": "Clark County",
+      "sourceIndex": "https://library.municode.com/nv/clark_county",
+      "questions": [
+        {
+          "id": "nv:clark-county:0",
+          "prompt": "In Clark County, which businesses must install a system that keeps shopping carts from leaving the store property or parking lot?",
+          "choices": [
+            "Every store that uses any shopping carts",
+            "Only grocery stores larger than 10,000 square feet",
+            "Businesses that have more than 25 shopping carts on-site",
+            "Stores that stay open after midnight"
+          ],
+          "answer": "Businesses that have more than 25 shopping carts on-site",
+          "excerpt": "Chapters:\n\nSections:\n\nFor purposes of this chapter only, and unless the context clearly requires a different\n               meaning, the words, terms and phrases set forth in this section are defined as follows: (a) \"Notice\" means notice to the owner of a cart or his agent. Notice includes, but is\n               not limited to, any of the following: Telephonic communication from a county employee\n               to a person identifying himself as the owner or the owner's agent, if such communication\n               is subsequently followed by written notice, facsimile to a number provided by the\n               owner or the owner's agent, notice communicated in person to the owner or owner's\n               agent, or written notice personally delivered or sent by certified mail to the business\n               address listed on the business owner's business license application. (b) \"Identification sign\" means a permanently affixed sign, sticker, or similar means\n               of identifying the owner of a shopping cart, or a retailer, or both. (c) \"Parking area\" means a parking lot or other property provided by a business for use\n               by a customer for parking an automobile or other vehicle. In a multi-store complex\n               or shopping center, \"parking area\" includes the entire parking area used by or controlled\n               by the complex or center. (d) \"Shopping cart\" or \"cart\" means a basket which is mounted on wheels or a similar device\n               generally used in a business for the purpose of transporting goods of any kind. (Ord. 2708 § 2 (part), 2002)\n\nAll businesses utilizing shopping carts or similar devices and having more than twenty-five\n               shopping carts on-site shall install and maintain a system to contain all shopping\n               carts within the property boundaries of the business or adjacent parking area. The\n               business shall provide signage in a conspicuous location notifying shopping cart users\n     …",
+          "sourceUrl": "https://library.municode.com/nv/clark_county/codes/code_of_ordinances?nodeId=TIT11ABNU"
+        },
+        {
+          "id": "nv:clark-county:1",
+          "prompt": "After the county notifies a store owner about an abandoned shopping cart, how soon must the owner pick it up?",
+          "choices": [
+            "Within 24 hours",
+            "Within 36 hours",
+            "Within 7 days",
+            "Within 14 days"
+          ],
+          "answer": "Within 36 hours",
+          "excerpt": "Chapters:\n\nSections:\n\nFor purposes of this chapter only, and unless the context clearly requires a different\n               meaning, the words, terms and phrases set forth in this section are defined as follows: (a) \"Notice\" means notice to the owner of a cart or his agent. Notice includes, but is\n               not limited to, any of the following: Telephonic communication from a county employee\n               to a person identifying himself as the owner or the owner's agent, if such communication\n               is subsequently followed by written notice, facsimile to a number provided by the\n               owner or the owner's agent, notice communicated in person to the owner or owner's\n               agent, or written notice personally delivered or sent by certified mail to the business\n               address listed on the business owner's business license application. (b) \"Identification sign\" means a permanently affixed sign, sticker, or similar means\n               of identifying the owner of a shopping cart, or a retailer, or both. (c) \"Parking area\" means a parking lot or other property provided by a business for use\n               by a customer for parking an automobile or other vehicle. In a multi-store complex\n               or shopping center, \"parking area\" includes the entire parking area used by or controlled\n               by the complex or center. (d) \"Shopping cart\" or \"cart\" means a basket which is mounted on wheels or a similar device\n               generally used in a business for the purpose of transporting goods of any kind. (Ord. 2708 § 2 (part), 2002)\n\nAll businesses utilizing shopping carts or similar devices and having more than twenty-five\n               shopping carts on-site shall install and maintain a system to contain all shopping\n               carts within the property boundaries of the business or adjacent parking area. The\n               business shall provide signage in a conspicuous location notifying shopping cart users\n     …",
+          "sourceUrl": "https://library.municode.com/nv/clark_county/codes/code_of_ordinances?nodeId=TIT11ABNU"
+        },
+        {
+          "id": "nv:clark-county:2",
+          "prompt": "Besides the store name and a return phone number or address, what else must appear on every shopping-cart identification sign?",
+          "choices": [
+            "The cart's purchase price",
+            "A notice that unauthorized removal of the cart is a violation of state law",
+            "A map of nearby dumpsters",
+            "The store's daily hours"
+          ],
+          "answer": "A notice that unauthorized removal of the cart is a violation of state law",
+          "excerpt": "Chapters:\n\nSections:\n\nFor purposes of this chapter only, and unless the context clearly requires a different\n               meaning, the words, terms and phrases set forth in this section are defined as follows: (a) \"Notice\" means notice to the owner of a cart or his agent. Notice includes, but is\n               not limited to, any of the following: Telephonic communication from a county employee\n               to a person identifying himself as the owner or the owner's agent, if such communication\n               is subsequently followed by written notice, facsimile to a number provided by the\n               owner or the owner's agent, notice communicated in person to the owner or owner's\n               agent, or written notice personally delivered or sent by certified mail to the business\n               address listed on the business owner's business license application. (b) \"Identification sign\" means a permanently affixed sign, sticker, or similar means\n               of identifying the owner of a shopping cart, or a retailer, or both. (c) \"Parking area\" means a parking lot or other property provided by a business for use\n               by a customer for parking an automobile or other vehicle. In a multi-store complex\n               or shopping center, \"parking area\" includes the entire parking area used by or controlled\n               by the complex or center. (d) \"Shopping cart\" or \"cart\" means a basket which is mounted on wheels or a similar device\n               generally used in a business for the purpose of transporting goods of any kind. (Ord. 2708 § 2 (part), 2002)\n\nAll businesses utilizing shopping carts or similar devices and having more than twenty-five\n               shopping carts on-site shall install and maintain a system to contain all shopping\n               carts within the property boundaries of the business or adjacent parking area. The\n               business shall provide signage in a conspicuous location notifying shopping cart users\n     …",
+          "sourceUrl": "https://library.municode.com/nv/clark_county/codes/code_of_ordinances?nodeId=TIT11ABNU"
+        },
+        {
+          "id": "nv:clark-county:3",
+          "prompt": "If no one claims an impounded shopping cart, how long may the county wait before it can dispose of the cart?",
+          "choices": [
+            "7 days",
+            "More than 14 days",
+            "30 days",
+            "6 months"
+          ],
+          "answer": "More than 14 days",
+          "excerpt": "Chapters:\n\nSections:\n\nFor purposes of this chapter only, and unless the context clearly requires a different\n               meaning, the words, terms and phrases set forth in this section are defined as follows: (a) \"Notice\" means notice to the owner of a cart or his agent. Notice includes, but is\n               not limited to, any of the following: Telephonic communication from a county employee\n               to a person identifying himself as the owner or the owner's agent, if such communication\n               is subsequently followed by written notice, facsimile to a number provided by the\n               owner or the owner's agent, notice communicated in person to the owner or owner's\n               agent, or written notice personally delivered or sent by certified mail to the business\n               address listed on the business owner's business license application. (b) \"Identification sign\" means a permanently affixed sign, sticker, or similar means\n               of identifying the owner of a shopping cart, or a retailer, or both. (c) \"Parking area\" means a parking lot or other property provided by a business for use\n               by a customer for parking an automobile or other vehicle. In a multi-store complex\n               or shopping center, \"parking area\" includes the entire parking area used by or controlled\n               by the complex or center. (d) \"Shopping cart\" or \"cart\" means a basket which is mounted on wheels or a similar device\n               generally used in a business for the purpose of transporting goods of any kind. (Ord. 2708 § 2 (part), 2002)\n\nAll businesses utilizing shopping carts or similar devices and having more than twenty-five\n               shopping carts on-site shall install and maintain a system to contain all shopping\n               carts within the property boundaries of the business or adjacent parking area. The\n               business shall provide signage in a conspicuous location notifying shopping cart users\n     …",
+          "sourceUrl": "https://library.municode.com/nv/clark_county/codes/code_of_ordinances?nodeId=TIT11ABNU"
+        }
+      ]
+    },
+    {
+      "id": "douglas-county",
+      "name": "Douglas County",
+      "sourceIndex": "https://library.municode.com/nv/douglas_county",
+      "questions": [
+        {
+          "id": "nv:douglas-county:0",
+          "prompt": "Besides cars and trucks, Douglas County traffic rules also cover:",
+          "choices": [
+            "Bicycles and people walking",
+            "Only motorcycles",
+            "Airplanes and drones",
+            "Boats on Lake Tahoe"
+          ],
+          "answer": "Bicycles and people walking",
+          "excerpt": "The purpose of this title is to regulate vehicles, bicycles, pedestrians and traffic\n               in the county in order to protect and promote the public health, safety and general\n               welfare. (Ord. 225 (part), 1974)\n\nThe provisions of this title shall apply throughout the county, including general\n               improvement districts organized pursuant to state law, unless otherwise provided in\n               this Code or by state law. (Ord. 225 (part), 1974)\n\nThe traffic and motorcycle provisions of NRS chs. 484A—484E and 486, including the\n               definitions therein but excluding NRS 486.061 through 486.171, as amended and as may\n               be amended from time to time are adopted by reference. (Ord. 1484, 2017; Ord. 225 (part), 1974)\n\nA. Unless specifically declared as a misdemeanor herein, or in NRS chs. 484A through\n               484E, inclusive, or NRS ch. 486 for a particular violation, it shall constitute a\n               civil infraction for any person to do any act forbidden or to fail to perform any\n               act required by this title. B. For particular offenses for which the declared penalty under NRS chs. 484A through\n               484E inclusive, or NRS ch. 486 is a misdemeanor, a person's failure to perform any\n               act required or the person's performance of the act forbidden shall constitute a misdemeanor. (Ord. 1484, 2017; Ord. 264, § 1, 1977; Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nIn the event any person fails to comply with a criminal traffic citation given to\n               such person, or fails to make an appearance pursuant to a summons in a criminal matter\n               directing an appearance in court, the sheriff or his delegate shall secure and issue\n               a warrant for such person's arrest. Warrants will not be secured or issued for civil\n               infractions. (Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nThe general provisions of…",
+          "sourceUrl": "https://library.municode.com/nv/douglas_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "nv:douglas-county:1",
+          "prompt": "In Minden, traffic on Fourth Street between Highway 395 and Esmeralda must travel:",
+          "choices": [
+            "West only",
+            "East only",
+            "Both directions",
+            "North only"
+          ],
+          "answer": "West only",
+          "excerpt": "The purpose of this title is to regulate vehicles, bicycles, pedestrians and traffic\n               in the county in order to protect and promote the public health, safety and general\n               welfare. (Ord. 225 (part), 1974)\n\nThe provisions of this title shall apply throughout the county, including general\n               improvement districts organized pursuant to state law, unless otherwise provided in\n               this Code or by state law. (Ord. 225 (part), 1974)\n\nThe traffic and motorcycle provisions of NRS chs. 484A—484E and 486, including the\n               definitions therein but excluding NRS 486.061 through 486.171, as amended and as may\n               be amended from time to time are adopted by reference. (Ord. 1484, 2017; Ord. 225 (part), 1974)\n\nA. Unless specifically declared as a misdemeanor herein, or in NRS chs. 484A through\n               484E, inclusive, or NRS ch. 486 for a particular violation, it shall constitute a\n               civil infraction for any person to do any act forbidden or to fail to perform any\n               act required by this title. B. For particular offenses for which the declared penalty under NRS chs. 484A through\n               484E inclusive, or NRS ch. 486 is a misdemeanor, a person's failure to perform any\n               act required or the person's performance of the act forbidden shall constitute a misdemeanor. (Ord. 1484, 2017; Ord. 264, § 1, 1977; Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nIn the event any person fails to comply with a criminal traffic citation given to\n               such person, or fails to make an appearance pursuant to a summons in a criminal matter\n               directing an appearance in court, the sheriff or his delegate shall secure and issue\n               a warrant for such person's arrest. Warrants will not be secured or issued for civil\n               infractions. (Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nThe general provisions of…",
+          "sourceUrl": "https://library.municode.com/nv/douglas_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "nv:douglas-county:2",
+          "prompt": "Unless state law or the county code calls a traffic violation a misdemeanor, it is treated as:",
+          "choices": [
+            "A civil infraction",
+            "Always a crime",
+            "An automatic tow",
+            "A parking permit issue"
+          ],
+          "answer": "A civil infraction",
+          "excerpt": "The purpose of this title is to regulate vehicles, bicycles, pedestrians and traffic\n               in the county in order to protect and promote the public health, safety and general\n               welfare. (Ord. 225 (part), 1974)\n\nThe provisions of this title shall apply throughout the county, including general\n               improvement districts organized pursuant to state law, unless otherwise provided in\n               this Code or by state law. (Ord. 225 (part), 1974)\n\nThe traffic and motorcycle provisions of NRS chs. 484A—484E and 486, including the\n               definitions therein but excluding NRS 486.061 through 486.171, as amended and as may\n               be amended from time to time are adopted by reference. (Ord. 1484, 2017; Ord. 225 (part), 1974)\n\nA. Unless specifically declared as a misdemeanor herein, or in NRS chs. 484A through\n               484E, inclusive, or NRS ch. 486 for a particular violation, it shall constitute a\n               civil infraction for any person to do any act forbidden or to fail to perform any\n               act required by this title. B. For particular offenses for which the declared penalty under NRS chs. 484A through\n               484E inclusive, or NRS ch. 486 is a misdemeanor, a person's failure to perform any\n               act required or the person's performance of the act forbidden shall constitute a misdemeanor. (Ord. 1484, 2017; Ord. 264, § 1, 1977; Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nIn the event any person fails to comply with a criminal traffic citation given to\n               such person, or fails to make an appearance pursuant to a summons in a criminal matter\n               directing an appearance in court, the sheriff or his delegate shall secure and issue\n               a warrant for such person's arrest. Warrants will not be secured or issued for civil\n               infractions. (Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nThe general provisions of…",
+          "sourceUrl": "https://library.municode.com/nv/douglas_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "nv:douglas-county:3",
+          "prompt": "If you ignore a criminal traffic citation, the sheriff will:",
+          "choices": [
+            "Issue a warrant for your arrest",
+            "Issue a warrant for civil tickets too",
+            "Tow your car right away",
+            "Send only a reminder letter"
+          ],
+          "answer": "Issue a warrant for your arrest",
+          "excerpt": "The purpose of this title is to regulate vehicles, bicycles, pedestrians and traffic\n               in the county in order to protect and promote the public health, safety and general\n               welfare. (Ord. 225 (part), 1974)\n\nThe provisions of this title shall apply throughout the county, including general\n               improvement districts organized pursuant to state law, unless otherwise provided in\n               this Code or by state law. (Ord. 225 (part), 1974)\n\nThe traffic and motorcycle provisions of NRS chs. 484A—484E and 486, including the\n               definitions therein but excluding NRS 486.061 through 486.171, as amended and as may\n               be amended from time to time are adopted by reference. (Ord. 1484, 2017; Ord. 225 (part), 1974)\n\nA. Unless specifically declared as a misdemeanor herein, or in NRS chs. 484A through\n               484E, inclusive, or NRS ch. 486 for a particular violation, it shall constitute a\n               civil infraction for any person to do any act forbidden or to fail to perform any\n               act required by this title. B. For particular offenses for which the declared penalty under NRS chs. 484A through\n               484E inclusive, or NRS ch. 486 is a misdemeanor, a person's failure to perform any\n               act required or the person's performance of the act forbidden shall constitute a misdemeanor. (Ord. 1484, 2017; Ord. 264, § 1, 1977; Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nIn the event any person fails to comply with a criminal traffic citation given to\n               such person, or fails to make an appearance pursuant to a summons in a criminal matter\n               directing an appearance in court, the sheriff or his delegate shall secure and issue\n               a warrant for such person's arrest. Warrants will not be secured or issued for civil\n               infractions. (Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nThe general provisions of…",
+          "sourceUrl": "https://library.municode.com/nv/douglas_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "nv:douglas-county:4",
+          "prompt": "A stop sign is placed on Jacks Valley Road at the spot where that road:",
+          "choices": [
+            "Ends at Nixon Street",
+            "Meets Highway 395",
+            "Enters Minden",
+            "Crosses the river"
+          ],
+          "answer": "Ends at Nixon Street",
+          "excerpt": "The purpose of this title is to regulate vehicles, bicycles, pedestrians and traffic\n               in the county in order to protect and promote the public health, safety and general\n               welfare. (Ord. 225 (part), 1974)\n\nThe provisions of this title shall apply throughout the county, including general\n               improvement districts organized pursuant to state law, unless otherwise provided in\n               this Code or by state law. (Ord. 225 (part), 1974)\n\nThe traffic and motorcycle provisions of NRS chs. 484A—484E and 486, including the\n               definitions therein but excluding NRS 486.061 through 486.171, as amended and as may\n               be amended from time to time are adopted by reference. (Ord. 1484, 2017; Ord. 225 (part), 1974)\n\nA. Unless specifically declared as a misdemeanor herein, or in NRS chs. 484A through\n               484E, inclusive, or NRS ch. 486 for a particular violation, it shall constitute a\n               civil infraction for any person to do any act forbidden or to fail to perform any\n               act required by this title. B. For particular offenses for which the declared penalty under NRS chs. 484A through\n               484E inclusive, or NRS ch. 486 is a misdemeanor, a person's failure to perform any\n               act required or the person's performance of the act forbidden shall constitute a misdemeanor. (Ord. 1484, 2017; Ord. 264, § 1, 1977; Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nIn the event any person fails to comply with a criminal traffic citation given to\n               such person, or fails to make an appearance pursuant to a summons in a criminal matter\n               directing an appearance in court, the sheriff or his delegate shall secure and issue\n               a warrant for such person's arrest. Warrants will not be secured or issued for civil\n               infractions. (Ord. 225 (part), 1974) ( Ord. No. 2022-1608 , § IV, 12-1-2022)\n\nThe general provisions of…",
+          "sourceUrl": "https://library.municode.com/nv/douglas_county/codes/code_of_ordinances?nodeId=TIT10VETR"
+        }
+      ]
+    },
+    {
+      "id": "fallon",
+      "name": "Fallon",
+      "sourceIndex": "https://library.municode.com/nv/fallon",
+      "questions": [
+        {
+          "id": "nv:fallon:0",
+          "prompt": "If you run a shop in Fallon, how long may you use the sidewalk in front of your business each day to load or unload goods?",
+          "choices": [
+            "No more than 2 hours",
+            "No more than 6 hours",
+            "The whole business day",
+            "Only before 9 a.m."
+          ],
+          "answer": "No more than 6 hours",
+          "excerpt": "Footnotes: --- ( 1 ) --- For statutory provisions on power of cities over streets and sidewalks, see NRS 266.275.\n\nWhenever it shall be deemed advisable to establish a grade on any street where no\n               grade has been theretofore established, or to change any established grade, the city\n               engineer shall cause the necessary survey to be made and prepare and submit to the\n               council a profile map of such proposed grade with his recommendations concerning the\n               same. When any such profile map shall have been approved and adopted by a majority\n               of the city council as a correct map of the grade of such street, the action of the\n               council shall be endorsed on the map by the city clerk and the map shall then be filed\n               in the office of the city engineer. The grade on any such street shall thereafter\n               be considered as established as shown on such profile map. It shall be unlawful for\n               any person to erect or construct, or to commence the erection and construction of\n               any building or other structure upon the line of any street where the grade of such\n               street has already been established, without first making application to the city\n               engineer to indicate the grade of the street upon which the building or other structure\n               is to be erected, or to thereafter build to any grade other than that indicated by\n               the engineer. (Prior code §20-1).\n\nAll streets in the city shall be known by the names by which they are respectively\n               designated in the official plats thereof filed in the office of the county recorder\n               in and for the county, unless such names have been or shall be changed by ordinance;\n               provided, that the names of all streets extending north and south shall, as to the\n               portion thereof lying north of Williams Avenue, bear the prefix…",
+          "sourceUrl": "https://library.municode.com/nv/fallon/codes/code_of_ordinances?nodeId=TIT13STSI"
+        },
+        {
+          "id": "nv:fallon:1",
+          "prompt": "While goods are being loaded or unloaded, how much of the sidewalk must stay clear for people walking?",
+          "choices": [
+            "At least 3 feet",
+            "At least 5 feet",
+            "Half the sidewalk",
+            "A path for one person"
+          ],
+          "answer": "At least 5 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- For statutory provisions on power of cities over streets and sidewalks, see NRS 266.275.\n\nWhenever it shall be deemed advisable to establish a grade on any street where no\n               grade has been theretofore established, or to change any established grade, the city\n               engineer shall cause the necessary survey to be made and prepare and submit to the\n               council a profile map of such proposed grade with his recommendations concerning the\n               same. When any such profile map shall have been approved and adopted by a majority\n               of the city council as a correct map of the grade of such street, the action of the\n               council shall be endorsed on the map by the city clerk and the map shall then be filed\n               in the office of the city engineer. The grade on any such street shall thereafter\n               be considered as established as shown on such profile map. It shall be unlawful for\n               any person to erect or construct, or to commence the erection and construction of\n               any building or other structure upon the line of any street where the grade of such\n               street has already been established, without first making application to the city\n               engineer to indicate the grade of the street upon which the building or other structure\n               is to be erected, or to thereafter build to any grade other than that indicated by\n               the engineer. (Prior code §20-1).\n\nAll streets in the city shall be known by the names by which they are respectively\n               designated in the official plats thereof filed in the office of the county recorder\n               in and for the county, unless such names have been or shall be changed by ordinance;\n               provided, that the names of all streets extending north and south shall, as to the\n               portion thereof lying north of Williams Avenue, bear the prefix…",
+          "sourceUrl": "https://library.municode.com/nv/fallon/codes/code_of_ordinances?nodeId=TIT13STSI"
+        },
+        {
+          "id": "nv:fallon:2",
+          "prompt": "After a storm, owners of property along a city street must remove ice or snow within how long?",
+          "choices": [
+            "12 hours",
+            "24 hours",
+            "48 hours",
+            "One week"
+          ],
+          "answer": "24 hours",
+          "excerpt": "Footnotes: --- ( 1 ) --- For statutory provisions on power of cities over streets and sidewalks, see NRS 266.275.\n\nWhenever it shall be deemed advisable to establish a grade on any street where no\n               grade has been theretofore established, or to change any established grade, the city\n               engineer shall cause the necessary survey to be made and prepare and submit to the\n               council a profile map of such proposed grade with his recommendations concerning the\n               same. When any such profile map shall have been approved and adopted by a majority\n               of the city council as a correct map of the grade of such street, the action of the\n               council shall be endorsed on the map by the city clerk and the map shall then be filed\n               in the office of the city engineer. The grade on any such street shall thereafter\n               be considered as established as shown on such profile map. It shall be unlawful for\n               any person to erect or construct, or to commence the erection and construction of\n               any building or other structure upon the line of any street where the grade of such\n               street has already been established, without first making application to the city\n               engineer to indicate the grade of the street upon which the building or other structure\n               is to be erected, or to thereafter build to any grade other than that indicated by\n               the engineer. (Prior code §20-1).\n\nAll streets in the city shall be known by the names by which they are respectively\n               designated in the official plats thereof filed in the office of the county recorder\n               in and for the county, unless such names have been or shall be changed by ordinance;\n               provided, that the names of all streets extending north and south shall, as to the\n               portion thereof lying north of Williams Avenue, bear the prefix…",
+          "sourceUrl": "https://library.municode.com/nv/fallon/codes/code_of_ordinances?nodeId=TIT13STSI"
+        },
+        {
+          "id": "nv:fallon:3",
+          "prompt": "North-south streets get the prefix “North” or “South” based on which dividing street?",
+          "choices": [
+            "Maine Street",
+            "Williams Avenue",
+            "Stillwater Avenue",
+            "Center Street"
+          ],
+          "answer": "Williams Avenue",
+          "excerpt": "Footnotes: --- ( 1 ) --- For statutory provisions on power of cities over streets and sidewalks, see NRS 266.275.\n\nWhenever it shall be deemed advisable to establish a grade on any street where no\n               grade has been theretofore established, or to change any established grade, the city\n               engineer shall cause the necessary survey to be made and prepare and submit to the\n               council a profile map of such proposed grade with his recommendations concerning the\n               same. When any such profile map shall have been approved and adopted by a majority\n               of the city council as a correct map of the grade of such street, the action of the\n               council shall be endorsed on the map by the city clerk and the map shall then be filed\n               in the office of the city engineer. The grade on any such street shall thereafter\n               be considered as established as shown on such profile map. It shall be unlawful for\n               any person to erect or construct, or to commence the erection and construction of\n               any building or other structure upon the line of any street where the grade of such\n               street has already been established, without first making application to the city\n               engineer to indicate the grade of the street upon which the building or other structure\n               is to be erected, or to thereafter build to any grade other than that indicated by\n               the engineer. (Prior code §20-1).\n\nAll streets in the city shall be known by the names by which they are respectively\n               designated in the official plats thereof filed in the office of the county recorder\n               in and for the county, unless such names have been or shall be changed by ordinance;\n               provided, that the names of all streets extending north and south shall, as to the\n               portion thereof lying north of Williams Avenue, bear the prefix…",
+          "sourceUrl": "https://library.municode.com/nv/fallon/codes/code_of_ordinances?nodeId=TIT13STSI"
+        },
+        {
+          "id": "nv:fallon:4",
+          "prompt": "What is Fallon’s old Main Street now called?",
+          "choices": [
+            "Center Street",
+            "Richards Street",
+            "Maine Street",
+            "Jones Street"
+          ],
+          "answer": "Maine Street",
+          "excerpt": "Footnotes: --- ( 1 ) --- For statutory provisions on power of cities over streets and sidewalks, see NRS 266.275.\n\nWhenever it shall be deemed advisable to establish a grade on any street where no\n               grade has been theretofore established, or to change any established grade, the city\n               engineer shall cause the necessary survey to be made and prepare and submit to the\n               council a profile map of such proposed grade with his recommendations concerning the\n               same. When any such profile map shall have been approved and adopted by a majority\n               of the city council as a correct map of the grade of such street, the action of the\n               council shall be endorsed on the map by the city clerk and the map shall then be filed\n               in the office of the city engineer. The grade on any such street shall thereafter\n               be considered as established as shown on such profile map. It shall be unlawful for\n               any person to erect or construct, or to commence the erection and construction of\n               any building or other structure upon the line of any street where the grade of such\n               street has already been established, without first making application to the city\n               engineer to indicate the grade of the street upon which the building or other structure\n               is to be erected, or to thereafter build to any grade other than that indicated by\n               the engineer. (Prior code §20-1).\n\nAll streets in the city shall be known by the names by which they are respectively\n               designated in the official plats thereof filed in the office of the county recorder\n               in and for the county, unless such names have been or shall be changed by ordinance;\n               provided, that the names of all streets extending north and south shall, as to the\n               portion thereof lying north of Williams Avenue, bear the prefix…",
+          "sourceUrl": "https://library.municode.com/nv/fallon/codes/code_of_ordinances?nodeId=TIT13STSI"
+        }
+      ]
+    },
+    {
+      "id": "fernley",
+      "name": "Fernley",
+      "sourceIndex": "https://library.municode.com/nv/fernley",
+      "questions": [
+        {
+          "id": "nv:fernley:0",
+          "prompt": "In Fernley, a drink counts as an alcoholic beverage if it has at least this much alcohol.",
+          "choices": [
+            "One-half of one percent by volume",
+            "Two percent by volume",
+            "Five percent by volume",
+            "Any detectable alcohol"
+          ],
+          "answer": "One-half of one percent by volume",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2021-003 , adopted February 17, 2021, amended tit. 4 in its entirety to read as herein set\n               out. Former tit. 4 pertained to the same subject matter, consisted of §§ 4.01—4.21,\n               and derived from the prior code.\n\nThe city council declares that this liquor control title is an exercise of the regulatory\n               powers delegated to the council by the state pursuant to NRS 266.355 and NRS 268.090. (1) This title establishes the minimum procedural requirements for the city to issue a\n                  liquor license, provides a basis to regulate entities which sell liquor in the city,\n                  and shall be known as the liquor code. (2) The provisions of this title apply to all businesses selling liquor in the city. Nothing\n                  in this title shall be deemed or construed to exempt any organization from complying\n                  with the provisions of any other city ordinance, including, but not limited to, permit\n                  requirements, zoning requirements, and restrictions on privileged or illegal activities. ( Ord. No. 2021-003, 2-17-2021 )\n\nThe following words, terms and phrases, when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Alcoholic beverage shall be defined as pursuant to the most recently adopted version of NRS 202.015\n               which currently reads: (1) Beer, ale, porter, stout and other similar fermented beverages, including sake and\n                  similar products, of any name or description containing one-half of one percent or\n                  more alcohol by volume, brewed or produced from malt, wholly or in part, or from any\n                  substitute therefor. (2) Any beverage obtained by the fermentation of the natural content of fruits or other\n                  agricultural products containing sugar,…",
+          "sourceUrl": "https://library.municode.com/nv/fernley/codes/code_of_ordinances?nodeId=CD_ORD_TIT4AL"
+        },
+        {
+          "id": "nv:fernley:1",
+          "prompt": "What is a growler in Fernley's liquor rules?",
+          "choices": [
+            "A fillable, sealable container meant only for beer or cider",
+            "Any wine bottle customers can refill",
+            "A plastic cup for mixed drinks",
+            "A keg of any size"
+          ],
+          "answer": "A fillable, sealable container meant only for beer or cider",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2021-003 , adopted February 17, 2021, amended tit. 4 in its entirety to read as herein set\n               out. Former tit. 4 pertained to the same subject matter, consisted of §§ 4.01—4.21,\n               and derived from the prior code.\n\nThe city council declares that this liquor control title is an exercise of the regulatory\n               powers delegated to the council by the state pursuant to NRS 266.355 and NRS 268.090. (1) This title establishes the minimum procedural requirements for the city to issue a\n                  liquor license, provides a basis to regulate entities which sell liquor in the city,\n                  and shall be known as the liquor code. (2) The provisions of this title apply to all businesses selling liquor in the city. Nothing\n                  in this title shall be deemed or construed to exempt any organization from complying\n                  with the provisions of any other city ordinance, including, but not limited to, permit\n                  requirements, zoning requirements, and restrictions on privileged or illegal activities. ( Ord. No. 2021-003, 2-17-2021 )\n\nThe following words, terms and phrases, when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Alcoholic beverage shall be defined as pursuant to the most recently adopted version of NRS 202.015\n               which currently reads: (1) Beer, ale, porter, stout and other similar fermented beverages, including sake and\n                  similar products, of any name or description containing one-half of one percent or\n                  more alcohol by volume, brewed or produced from malt, wholly or in part, or from any\n                  substitute therefor. (2) Any beverage obtained by the fermentation of the natural content of fruits or other\n                  agricultural products containing sugar,…",
+          "sourceUrl": "https://library.municode.com/nv/fernley/codes/code_of_ordinances?nodeId=CD_ORD_TIT4AL"
+        },
+        {
+          "id": "nv:fernley:2",
+          "prompt": "Which Fernley businesses may sell beer or cider in growlers?",
+          "choices": [
+            "Only full-service liquor sellers and brew pubs",
+            "Any store with a liquor license",
+            "Only grocery stores",
+            "Only restaurants"
+          ],
+          "answer": "Only full-service liquor sellers and brew pubs",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2021-003 , adopted February 17, 2021, amended tit. 4 in its entirety to read as herein set\n               out. Former tit. 4 pertained to the same subject matter, consisted of §§ 4.01—4.21,\n               and derived from the prior code.\n\nThe city council declares that this liquor control title is an exercise of the regulatory\n               powers delegated to the council by the state pursuant to NRS 266.355 and NRS 268.090. (1) This title establishes the minimum procedural requirements for the city to issue a\n                  liquor license, provides a basis to regulate entities which sell liquor in the city,\n                  and shall be known as the liquor code. (2) The provisions of this title apply to all businesses selling liquor in the city. Nothing\n                  in this title shall be deemed or construed to exempt any organization from complying\n                  with the provisions of any other city ordinance, including, but not limited to, permit\n                  requirements, zoning requirements, and restrictions on privileged or illegal activities. ( Ord. No. 2021-003, 2-17-2021 )\n\nThe following words, terms and phrases, when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Alcoholic beverage shall be defined as pursuant to the most recently adopted version of NRS 202.015\n               which currently reads: (1) Beer, ale, porter, stout and other similar fermented beverages, including sake and\n                  similar products, of any name or description containing one-half of one percent or\n                  more alcohol by volume, brewed or produced from malt, wholly or in part, or from any\n                  substitute therefor. (2) Any beverage obtained by the fermentation of the natural content of fruits or other\n                  agricultural products containing sugar,…",
+          "sourceUrl": "https://library.municode.com/nv/fernley/codes/code_of_ordinances?nodeId=CD_ORD_TIT4AL"
+        },
+        {
+          "id": "nv:fernley:3",
+          "prompt": "A catering company based outside Fernley that serves alcohol at an event in the city must:",
+          "choices": [
+            "Get a temporary liquor license from Fernley",
+            "Use only a local restaurant's license",
+            "Skip extra city paperwork if licensed elsewhere",
+            "Serve food but not alcohol"
+          ],
+          "answer": "Get a temporary liquor license from Fernley",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2021-003 , adopted February 17, 2021, amended tit. 4 in its entirety to read as herein set\n               out. Former tit. 4 pertained to the same subject matter, consisted of §§ 4.01—4.21,\n               and derived from the prior code.\n\nThe city council declares that this liquor control title is an exercise of the regulatory\n               powers delegated to the council by the state pursuant to NRS 266.355 and NRS 268.090. (1) This title establishes the minimum procedural requirements for the city to issue a\n                  liquor license, provides a basis to regulate entities which sell liquor in the city,\n                  and shall be known as the liquor code. (2) The provisions of this title apply to all businesses selling liquor in the city. Nothing\n                  in this title shall be deemed or construed to exempt any organization from complying\n                  with the provisions of any other city ordinance, including, but not limited to, permit\n                  requirements, zoning requirements, and restrictions on privileged or illegal activities. ( Ord. No. 2021-003, 2-17-2021 )\n\nThe following words, terms and phrases, when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Alcoholic beverage shall be defined as pursuant to the most recently adopted version of NRS 202.015\n               which currently reads: (1) Beer, ale, porter, stout and other similar fermented beverages, including sake and\n                  similar products, of any name or description containing one-half of one percent or\n                  more alcohol by volume, brewed or produced from malt, wholly or in part, or from any\n                  substitute therefor. (2) Any beverage obtained by the fermentation of the natural content of fruits or other\n                  agricultural products containing sugar,…",
+          "sourceUrl": "https://library.municode.com/nv/fernley/codes/code_of_ordinances?nodeId=CD_ORD_TIT4AL"
+        },
+        {
+          "id": "nv:fernley:4",
+          "prompt": "In Fernley, off-premises liquor sales means:",
+          "choices": [
+            "Packaged liquor sold at retail that is not drunk at the store",
+            "Drinks poured at a bar or restaurant",
+            "Wholesale sales to other businesses",
+            "Sales only at special events"
+          ],
+          "answer": "Packaged liquor sold at retail that is not drunk at the store",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2021-003 , adopted February 17, 2021, amended tit. 4 in its entirety to read as herein set\n               out. Former tit. 4 pertained to the same subject matter, consisted of §§ 4.01—4.21,\n               and derived from the prior code.\n\nThe city council declares that this liquor control title is an exercise of the regulatory\n               powers delegated to the council by the state pursuant to NRS 266.355 and NRS 268.090. (1) This title establishes the minimum procedural requirements for the city to issue a\n                  liquor license, provides a basis to regulate entities which sell liquor in the city,\n                  and shall be known as the liquor code. (2) The provisions of this title apply to all businesses selling liquor in the city. Nothing\n                  in this title shall be deemed or construed to exempt any organization from complying\n                  with the provisions of any other city ordinance, including, but not limited to, permit\n                  requirements, zoning requirements, and restrictions on privileged or illegal activities. ( Ord. No. 2021-003, 2-17-2021 )\n\nThe following words, terms and phrases, when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Alcoholic beverage shall be defined as pursuant to the most recently adopted version of NRS 202.015\n               which currently reads: (1) Beer, ale, porter, stout and other similar fermented beverages, including sake and\n                  similar products, of any name or description containing one-half of one percent or\n                  more alcohol by volume, brewed or produced from malt, wholly or in part, or from any\n                  substitute therefor. (2) Any beverage obtained by the fermentation of the natural content of fruits or other\n                  agricultural products containing sugar,…",
+          "sourceUrl": "https://library.municode.com/nv/fernley/codes/code_of_ordinances?nodeId=CD_ORD_TIT4AL"
+        }
+      ]
+    },
+    {
+      "id": "henderson",
+      "name": "Henderson",
+      "sourceIndex": "https://library.municode.com/nv/henderson",
+      "questions": [
+        {
+          "id": "nv:henderson:0",
+          "prompt": "Before you dig or do construction on a street, sidewalk, alley, or right-of-way in Henderson, what do you need?",
+          "choices": [
+            "An excavation permit from the department of public works, parks and recreation",
+            "Only a verbal okay from a neighbor",
+            "A state mining license",
+            "Nothing if the hole is small"
+          ],
+          "answer": "An excavation permit from the department of public works, parks and recreation",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 3380 , §§ 1, 2, adopted January 3, 2017, repealed and reenacted title 11 in its entirety\n               to read as herein set out. Formerly, title 11, chapters 11.04, 11.08, 11.12, 11.15,\n               11.20 and 11.30, pertained to similar subject matter, and derived from Ord. No. 218,\n               §§ 1, 2, 5, adopted October 7, 1957; Ord. No. 224, §§ 1, 4—7, adopted November 4,\n               1957; Ord. No. 277, adopted September 19, 1960; Ord. No. 295, §§ 1, 2, 5, adopted\n               March 19, 1962; Ord. No. 343, adopted July 6, 1964; Ord. No. 1912, § 1, adopted in\n               1999; Ord. No. 1965, § 2, adopted in 1999; Ord. No. 3234 , § 1, 11-18-2014; Ord. No. 3235 , § 1, adopted November 18, 2014.\n\nA. At the direction of the director of public works, parks and recreation, or designee,\n               all subdivision improvements construction and any work within the public right-of-way\n               must conform to the standard and specifications, the standard drawings, the City of\n               Henderson Development Code, and, as applicable, the additional specifications described\n               in subsection 11.01.010 (D), as amended. B. All references to \"standard specifications\" are to the most recent edition of the\n               Uniform Standard Specifications for Public Works Construction Off-Site Improvements,\n               Clark County Area, Nevada. C. All references to \"standard drawings\" are to the most recent edition of the Uniform\n               Standard Drawings for Public Works Construction Off-Site Improvements, Clark County\n               Area, Nevada. D. At the direction of the director of public works, parks and recreation, or designee,\n               additional specifications or standards may govern subdivision improvements and right-of-way\n               construction. Such additional specifications or standards shall include, but are not\n               limited to, the following: 1.…",
+          "sourceUrl": "https://library.municode.com/nv/henderson/codes/code_of_ordinances?nodeId=TIT11STSI"
+        },
+        {
+          "id": "nv:henderson:1",
+          "prompt": "If a pavement cut in a Henderson street will be patched, how must the cut be made?",
+          "choices": [
+            "By power saw, leaving vertical edges",
+            "With a jackhammer in any shape",
+            "By hand with a shovel only",
+            "It does not matter as long as it is filled the same day"
+          ],
+          "answer": "By power saw, leaving vertical edges",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 3380 , §§ 1, 2, adopted January 3, 2017, repealed and reenacted title 11 in its entirety\n               to read as herein set out. Formerly, title 11, chapters 11.04, 11.08, 11.12, 11.15,\n               11.20 and 11.30, pertained to similar subject matter, and derived from Ord. No. 218,\n               §§ 1, 2, 5, adopted October 7, 1957; Ord. No. 224, §§ 1, 4—7, adopted November 4,\n               1957; Ord. No. 277, adopted September 19, 1960; Ord. No. 295, §§ 1, 2, 5, adopted\n               March 19, 1962; Ord. No. 343, adopted July 6, 1964; Ord. No. 1912, § 1, adopted in\n               1999; Ord. No. 1965, § 2, adopted in 1999; Ord. No. 3234 , § 1, 11-18-2014; Ord. No. 3235 , § 1, adopted November 18, 2014.\n\nA. At the direction of the director of public works, parks and recreation, or designee,\n               all subdivision improvements construction and any work within the public right-of-way\n               must conform to the standard and specifications, the standard drawings, the City of\n               Henderson Development Code, and, as applicable, the additional specifications described\n               in subsection 11.01.010 (D), as amended. B. All references to \"standard specifications\" are to the most recent edition of the\n               Uniform Standard Specifications for Public Works Construction Off-Site Improvements,\n               Clark County Area, Nevada. C. All references to \"standard drawings\" are to the most recent edition of the Uniform\n               Standard Drawings for Public Works Construction Off-Site Improvements, Clark County\n               Area, Nevada. D. At the direction of the director of public works, parks and recreation, or designee,\n               additional specifications or standards may govern subdivision improvements and right-of-way\n               construction. Such additional specifications or standards shall include, but are not\n               limited to, the following: 1.…",
+          "sourceUrl": "https://library.municode.com/nv/henderson/codes/code_of_ordinances?nodeId=TIT11STSI"
+        },
+        {
+          "id": "nv:henderson:2",
+          "prompt": "While a trench is open in a Henderson street, what must stay true from start to finish?",
+          "choices": [
+            "The trench must be kept safe for people walking and for vehicles",
+            "Work is allowed only after midnight",
+            "A city inspector must camp on site overnight",
+            "Neighbors must sign a daily log"
+          ],
+          "answer": "The trench must be kept safe for people walking and for vehicles",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 3380 , §§ 1, 2, adopted January 3, 2017, repealed and reenacted title 11 in its entirety\n               to read as herein set out. Formerly, title 11, chapters 11.04, 11.08, 11.12, 11.15,\n               11.20 and 11.30, pertained to similar subject matter, and derived from Ord. No. 218,\n               §§ 1, 2, 5, adopted October 7, 1957; Ord. No. 224, §§ 1, 4—7, adopted November 4,\n               1957; Ord. No. 277, adopted September 19, 1960; Ord. No. 295, §§ 1, 2, 5, adopted\n               March 19, 1962; Ord. No. 343, adopted July 6, 1964; Ord. No. 1912, § 1, adopted in\n               1999; Ord. No. 1965, § 2, adopted in 1999; Ord. No. 3234 , § 1, 11-18-2014; Ord. No. 3235 , § 1, adopted November 18, 2014.\n\nA. At the direction of the director of public works, parks and recreation, or designee,\n               all subdivision improvements construction and any work within the public right-of-way\n               must conform to the standard and specifications, the standard drawings, the City of\n               Henderson Development Code, and, as applicable, the additional specifications described\n               in subsection 11.01.010 (D), as amended. B. All references to \"standard specifications\" are to the most recent edition of the\n               Uniform Standard Specifications for Public Works Construction Off-Site Improvements,\n               Clark County Area, Nevada. C. All references to \"standard drawings\" are to the most recent edition of the Uniform\n               Standard Drawings for Public Works Construction Off-Site Improvements, Clark County\n               Area, Nevada. D. At the direction of the director of public works, parks and recreation, or designee,\n               additional specifications or standards may govern subdivision improvements and right-of-way\n               construction. Such additional specifications or standards shall include, but are not\n               limited to, the following: 1.…",
+          "sourceUrl": "https://library.municode.com/nv/henderson/codes/code_of_ordinances?nodeId=TIT11STSI"
+        },
+        {
+          "id": "nv:henderson:3",
+          "prompt": "If you are digging to connect a drain to a public sewer in Henderson, whose written approval do you also need besides public works?",
+          "choices": [
+            "The department of utility services",
+            "The police department",
+            "Your homeowners association",
+            "The state tourism office"
+          ],
+          "answer": "The department of utility services",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 3380 , §§ 1, 2, adopted January 3, 2017, repealed and reenacted title 11 in its entirety\n               to read as herein set out. Formerly, title 11, chapters 11.04, 11.08, 11.12, 11.15,\n               11.20 and 11.30, pertained to similar subject matter, and derived from Ord. No. 218,\n               §§ 1, 2, 5, adopted October 7, 1957; Ord. No. 224, §§ 1, 4—7, adopted November 4,\n               1957; Ord. No. 277, adopted September 19, 1960; Ord. No. 295, §§ 1, 2, 5, adopted\n               March 19, 1962; Ord. No. 343, adopted July 6, 1964; Ord. No. 1912, § 1, adopted in\n               1999; Ord. No. 1965, § 2, adopted in 1999; Ord. No. 3234 , § 1, 11-18-2014; Ord. No. 3235 , § 1, adopted November 18, 2014.\n\nA. At the direction of the director of public works, parks and recreation, or designee,\n               all subdivision improvements construction and any work within the public right-of-way\n               must conform to the standard and specifications, the standard drawings, the City of\n               Henderson Development Code, and, as applicable, the additional specifications described\n               in subsection 11.01.010 (D), as amended. B. All references to \"standard specifications\" are to the most recent edition of the\n               Uniform Standard Specifications for Public Works Construction Off-Site Improvements,\n               Clark County Area, Nevada. C. All references to \"standard drawings\" are to the most recent edition of the Uniform\n               Standard Drawings for Public Works Construction Off-Site Improvements, Clark County\n               Area, Nevada. D. At the direction of the director of public works, parks and recreation, or designee,\n               additional specifications or standards may govern subdivision improvements and right-of-way\n               construction. Such additional specifications or standards shall include, but are not\n               limited to, the following: 1.…",
+          "sourceUrl": "https://library.municode.com/nv/henderson/codes/code_of_ordinances?nodeId=TIT11STSI"
+        }
+      ]
+    },
+    {
+      "id": "lander-county",
+      "name": "Lander County",
+      "sourceIndex": "https://library.municode.com/nv/lander_county",
+      "questions": [
+        {
+          "id": "nv:lander-county:0",
+          "prompt": "What kind of offense is it to interfere with the public's right to travel on a Lander County public road (outside the listed exceptions)?",
+          "choices": [
+            "A misdemeanor",
+            "A traffic ticket only",
+            "No offense if the road is unpaved",
+            "A federal crime"
+          ],
+          "answer": "A misdemeanor",
+          "excerpt": "Chapters:\n\nSections:\n\nA. Lander County, a political subdivision of the state of Nevada, holds title, as trustee\n               for the public, to all public roads situated in Lander County, of every kind whatsoever,\n               except for state and federal highways, however such roads may have come into being.\n               Title to those roads commonly known as R.S. 2477 roads, irrevocably granted to the\n               public by act of Congress (Mining Law of 1866), is held in trust by Lander County\n               as the unit of government closest to the people. B. Lander County will: 1. Protect and defend against all interference the right of the public to travel and\n               use the public roads within the county; 2. Oppose closure of any public roads except as authorized by this chapter; and 3. Maintain the public roads by conventional or other appropriate means, as from time\n               to time authorized by the board of Lander County commissioners, or designate certain\n               public roads as roads to be maintained only by passage and use without liability to\n               the county, as permitted by Nevada Revised Statutes. (Ord. 94-6 § 1 (part), 1994)\n\nAs used in this chapter, unless the context requires otherwise: \"Construction\" means the establishment of a road by mechanical or other means, including\n               repeated use. \"County road\" means any public road situated within Lander County, except for designated\n               state and federal highways; also, any road maintained by Lander County for county\n               purposes which is not open to the public. \"Highway\" means: 1. Modern usage: any state or federally designated road, usually paved or graveled; 2. Traditional (R.S. 2477) usage: any road, trace, trail, canal, navigable waterway or\n                  other route used by humans for travel by wheeled vehicle, horseback, foot or boat,\n                  or otherwise. This definition applies to all highways established…",
+          "sourceUrl": "https://library.municode.com/nv/lander_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:lander-county:1",
+          "prompt": "Who is allowed to maintain a public road that Lander County itself does not maintain?",
+          "choices": [
+            "The public, by using the road or with machinery",
+            "Only county employees",
+            "No one, to protect the original condition",
+            "The nearest town"
+          ],
+          "answer": "The public, by using the road or with machinery",
+          "excerpt": "Chapters:\n\nSections:\n\nA. Lander County, a political subdivision of the state of Nevada, holds title, as trustee\n               for the public, to all public roads situated in Lander County, of every kind whatsoever,\n               except for state and federal highways, however such roads may have come into being.\n               Title to those roads commonly known as R.S. 2477 roads, irrevocably granted to the\n               public by act of Congress (Mining Law of 1866), is held in trust by Lander County\n               as the unit of government closest to the people. B. Lander County will: 1. Protect and defend against all interference the right of the public to travel and\n               use the public roads within the county; 2. Oppose closure of any public roads except as authorized by this chapter; and 3. Maintain the public roads by conventional or other appropriate means, as from time\n               to time authorized by the board of Lander County commissioners, or designate certain\n               public roads as roads to be maintained only by passage and use without liability to\n               the county, as permitted by Nevada Revised Statutes. (Ord. 94-6 § 1 (part), 1994)\n\nAs used in this chapter, unless the context requires otherwise: \"Construction\" means the establishment of a road by mechanical or other means, including\n               repeated use. \"County road\" means any public road situated within Lander County, except for designated\n               state and federal highways; also, any road maintained by Lander County for county\n               purposes which is not open to the public. \"Highway\" means: 1. Modern usage: any state or federally designated road, usually paved or graveled; 2. Traditional (R.S. 2477) usage: any road, trace, trail, canal, navigable waterway or\n                  other route used by humans for travel by wheeled vehicle, horseback, foot or boat,\n                  or otherwise. This definition applies to all highways established…",
+          "sourceUrl": "https://library.municode.com/nv/lander_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:lander-county:2",
+          "prompt": "When keeping up a public road the county does not maintain, what are people not allowed to do?",
+          "choices": [
+            "Reconstruct or reroute it outside its original right-of-way",
+            "Drive on it more than once a year",
+            "Use a pickup truck",
+            "Clear fallen rocks by hand"
+          ],
+          "answer": "Reconstruct or reroute it outside its original right-of-way",
+          "excerpt": "Chapters:\n\nSections:\n\nA. Lander County, a political subdivision of the state of Nevada, holds title, as trustee\n               for the public, to all public roads situated in Lander County, of every kind whatsoever,\n               except for state and federal highways, however such roads may have come into being.\n               Title to those roads commonly known as R.S. 2477 roads, irrevocably granted to the\n               public by act of Congress (Mining Law of 1866), is held in trust by Lander County\n               as the unit of government closest to the people. B. Lander County will: 1. Protect and defend against all interference the right of the public to travel and\n               use the public roads within the county; 2. Oppose closure of any public roads except as authorized by this chapter; and 3. Maintain the public roads by conventional or other appropriate means, as from time\n               to time authorized by the board of Lander County commissioners, or designate certain\n               public roads as roads to be maintained only by passage and use without liability to\n               the county, as permitted by Nevada Revised Statutes. (Ord. 94-6 § 1 (part), 1994)\n\nAs used in this chapter, unless the context requires otherwise: \"Construction\" means the establishment of a road by mechanical or other means, including\n               repeated use. \"County road\" means any public road situated within Lander County, except for designated\n               state and federal highways; also, any road maintained by Lander County for county\n               purposes which is not open to the public. \"Highway\" means: 1. Modern usage: any state or federally designated road, usually paved or graveled; 2. Traditional (R.S. 2477) usage: any road, trace, trail, canal, navigable waterway or\n                  other route used by humans for travel by wheeled vehicle, horseback, foot or boat,\n                  or otherwise. This definition applies to all highways established…",
+          "sourceUrl": "https://library.municode.com/nv/lander_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:lander-county:3",
+          "prompt": "What must happen before Lander County can permanently close a public road?",
+          "choices": [
+            "Thirty days' notice of intent and a public hearing",
+            "Signatures from every nearby landowner",
+            "Wait until the next election",
+            "State highway department approval"
+          ],
+          "answer": "Thirty days' notice of intent and a public hearing",
+          "excerpt": "Chapters:\n\nSections:\n\nA. Lander County, a political subdivision of the state of Nevada, holds title, as trustee\n               for the public, to all public roads situated in Lander County, of every kind whatsoever,\n               except for state and federal highways, however such roads may have come into being.\n               Title to those roads commonly known as R.S. 2477 roads, irrevocably granted to the\n               public by act of Congress (Mining Law of 1866), is held in trust by Lander County\n               as the unit of government closest to the people. B. Lander County will: 1. Protect and defend against all interference the right of the public to travel and\n               use the public roads within the county; 2. Oppose closure of any public roads except as authorized by this chapter; and 3. Maintain the public roads by conventional or other appropriate means, as from time\n               to time authorized by the board of Lander County commissioners, or designate certain\n               public roads as roads to be maintained only by passage and use without liability to\n               the county, as permitted by Nevada Revised Statutes. (Ord. 94-6 § 1 (part), 1994)\n\nAs used in this chapter, unless the context requires otherwise: \"Construction\" means the establishment of a road by mechanical or other means, including\n               repeated use. \"County road\" means any public road situated within Lander County, except for designated\n               state and federal highways; also, any road maintained by Lander County for county\n               purposes which is not open to the public. \"Highway\" means: 1. Modern usage: any state or federally designated road, usually paved or graveled; 2. Traditional (R.S. 2477) usage: any road, trace, trail, canal, navigable waterway or\n                  other route used by humans for travel by wheeled vehicle, horseback, foot or boat,\n                  or otherwise. This definition applies to all highways established…",
+          "sourceUrl": "https://library.municode.com/nv/lander_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "las-vegas",
+      "name": "Las Vegas",
+      "sourceIndex": "https://library.municode.com/nv/las_vegas",
+      "questions": []
+    },
+    {
+      "id": "north-las-vegas",
+      "name": "North Las Vegas",
+      "sourceIndex": "https://library.municode.com/nv/north_las_vegas",
+      "questions": []
+    },
+    {
+      "id": "nye-county",
+      "name": "Nye County",
+      "sourceIndex": "https://library.municode.com/nv/nye_county",
+      "questions": []
+    },
+    {
+      "id": "reno",
+      "name": "Reno",
+      "sourceIndex": "https://library.municode.com/nv/reno",
+      "questions": [
+        {
+          "id": "nv:reno:0",
+          "prompt": "What does Reno call this set of rules for city business licenses?",
+          "choices": [
+            "The Business License Code",
+            "The City Commerce Act",
+            "The Privilege Tax Handbook",
+            "The Franchise Ordinance"
+          ],
+          "answer": "The Business License Code",
+          "excerpt": "* _____ Editor's note— Ord. No. 4763, § 1, adopted July 8, 1997, repealed Title 4, in its entirety, which\n               pertained to business licenses and regulations. Subsequently, Ord. No. 4764, adopted\n               July 8, 1997, added a new Ch. 4.04 to read as herein set out. See the Code Comparative\n               Table. Charter reference— Authority to regulate and impose a license tax for revenue upon all businesses, trades\n               and professions, § 2.140 . State Law reference— Power of municipal governing bodies to fix, impose and collect license taxes on all\n               lawful businesses, NRS 268.095. Case Law reference— (1) City license and county license may be required for the same business. If a person\n               combines within himself more than one distinct occupation or business, he could be\n               compelled to take out a license for each occupation or business. Ex parte Siebenhaur,\n               14 Nev. 365 (1879). (2) Licensee takes his license subject to such conditions as the legislature sees\n               fit to impose. Wallace v. Mayor of City of Reno, 27 Nev. 71, 73 Pac. 528, 63 L.R.A. 337, 103 Am. St. Rep. 747 (1903). (3) Purpose of an exaction from the public in the form of a tax or license, either\n               for revenue or in the exercise of the police power, is for the benefit of the locality\n               from which the money is collected. State v. Boyd, 27 Nev. 249, 74 Pac. 654 (1903). (4) Under our statutes and decisions it is well settled that a license may be revoked.\n               State v. Reno City Council, 36 Nev. 334, 136 Pac. 110, 50 L.R.A. (N.S.) 195 (1913). (5) Under city ordinance providing that every person engaged in the business of selling\n               at retail, or any manner other than at a fixed place of business within the city,\n               any goods, wares, or merchandise shall obtain a license, a person owning a place of\n               business outside the city limits where he…",
+          "sourceUrl": "https://library.municode.com/nv/reno/codes/administrative_code?nodeId=PT2READCO_TIT4BULICO"
+        },
+        {
+          "id": "nv:reno:1",
+          "prompt": "If you have a Reno business license, can you skip other city rules like zoning or nuisance laws?",
+          "choices": [
+            "No, you still have to follow those other rules",
+            "Yes, the license covers everything",
+            "Only zoning can be ignored",
+            "Only if your business is a franchise"
+          ],
+          "answer": "No, you still have to follow those other rules",
+          "excerpt": "* _____ Editor's note— Ord. No. 4763, § 1, adopted July 8, 1997, repealed Title 4, in its entirety, which\n               pertained to business licenses and regulations. Subsequently, Ord. No. 4764, adopted\n               July 8, 1997, added a new Ch. 4.04 to read as herein set out. See the Code Comparative\n               Table. Charter reference— Authority to regulate and impose a license tax for revenue upon all businesses, trades\n               and professions, § 2.140 . State Law reference— Power of municipal governing bodies to fix, impose and collect license taxes on all\n               lawful businesses, NRS 268.095. Case Law reference— (1) City license and county license may be required for the same business. If a person\n               combines within himself more than one distinct occupation or business, he could be\n               compelled to take out a license for each occupation or business. Ex parte Siebenhaur,\n               14 Nev. 365 (1879). (2) Licensee takes his license subject to such conditions as the legislature sees\n               fit to impose. Wallace v. Mayor of City of Reno, 27 Nev. 71, 73 Pac. 528, 63 L.R.A. 337, 103 Am. St. Rep. 747 (1903). (3) Purpose of an exaction from the public in the form of a tax or license, either\n               for revenue or in the exercise of the police power, is for the benefit of the locality\n               from which the money is collected. State v. Boyd, 27 Nev. 249, 74 Pac. 654 (1903). (4) Under our statutes and decisions it is well settled that a license may be revoked.\n               State v. Reno City Council, 36 Nev. 334, 136 Pac. 110, 50 L.R.A. (N.S.) 195 (1913). (5) Under city ordinance providing that every person engaged in the business of selling\n               at retail, or any manner other than at a fixed place of business within the city,\n               any goods, wares, or merchandise shall obtain a license, a person owning a place of\n               business outside the city limits where he…",
+          "sourceUrl": "https://library.municode.com/nv/reno/codes/administrative_code?nodeId=PT2READCO_TIT4BULICO"
+        },
+        {
+          "id": "nv:reno:2",
+          "prompt": "In Reno, does renting out even one commercial or industrial property count as doing business?",
+          "choices": [
+            "Yes",
+            "No, only residential rentals count",
+            "No, you need three or more properties",
+            "Only if the property is outside city limits"
+          ],
+          "answer": "Yes",
+          "excerpt": "* _____ Editor's note— Ord. No. 4763, § 1, adopted July 8, 1997, repealed Title 4, in its entirety, which\n               pertained to business licenses and regulations. Subsequently, Ord. No. 4764, adopted\n               July 8, 1997, added a new Ch. 4.04 to read as herein set out. See the Code Comparative\n               Table. Charter reference— Authority to regulate and impose a license tax for revenue upon all businesses, trades\n               and professions, § 2.140 . State Law reference— Power of municipal governing bodies to fix, impose and collect license taxes on all\n               lawful businesses, NRS 268.095. Case Law reference— (1) City license and county license may be required for the same business. If a person\n               combines within himself more than one distinct occupation or business, he could be\n               compelled to take out a license for each occupation or business. Ex parte Siebenhaur,\n               14 Nev. 365 (1879). (2) Licensee takes his license subject to such conditions as the legislature sees\n               fit to impose. Wallace v. Mayor of City of Reno, 27 Nev. 71, 73 Pac. 528, 63 L.R.A. 337, 103 Am. St. Rep. 747 (1903). (3) Purpose of an exaction from the public in the form of a tax or license, either\n               for revenue or in the exercise of the police power, is for the benefit of the locality\n               from which the money is collected. State v. Boyd, 27 Nev. 249, 74 Pac. 654 (1903). (4) Under our statutes and decisions it is well settled that a license may be revoked.\n               State v. Reno City Council, 36 Nev. 334, 136 Pac. 110, 50 L.R.A. (N.S.) 195 (1913). (5) Under city ordinance providing that every person engaged in the business of selling\n               at retail, or any manner other than at a fixed place of business within the city,\n               any goods, wares, or merchandise shall obtain a license, a person owning a place of\n               business outside the city limits where he…",
+          "sourceUrl": "https://library.municode.com/nv/reno/codes/administrative_code?nodeId=PT2READCO_TIT4BULICO"
+        },
+        {
+          "id": "nv:reno:3",
+          "prompt": "Does Reno treat independent contractors and commissioned sales agents as doing business if they work for pay in the city?",
+          "choices": [
+            "Yes",
+            "No, only regular employees count",
+            "Only if they have a storefront",
+            "Only farm work counts"
+          ],
+          "answer": "Yes",
+          "excerpt": "* _____ Editor's note— Ord. No. 4763, § 1, adopted July 8, 1997, repealed Title 4, in its entirety, which\n               pertained to business licenses and regulations. Subsequently, Ord. No. 4764, adopted\n               July 8, 1997, added a new Ch. 4.04 to read as herein set out. See the Code Comparative\n               Table. Charter reference— Authority to regulate and impose a license tax for revenue upon all businesses, trades\n               and professions, § 2.140 . State Law reference— Power of municipal governing bodies to fix, impose and collect license taxes on all\n               lawful businesses, NRS 268.095. Case Law reference— (1) City license and county license may be required for the same business. If a person\n               combines within himself more than one distinct occupation or business, he could be\n               compelled to take out a license for each occupation or business. Ex parte Siebenhaur,\n               14 Nev. 365 (1879). (2) Licensee takes his license subject to such conditions as the legislature sees\n               fit to impose. Wallace v. Mayor of City of Reno, 27 Nev. 71, 73 Pac. 528, 63 L.R.A. 337, 103 Am. St. Rep. 747 (1903). (3) Purpose of an exaction from the public in the form of a tax or license, either\n               for revenue or in the exercise of the police power, is for the benefit of the locality\n               from which the money is collected. State v. Boyd, 27 Nev. 249, 74 Pac. 654 (1903). (4) Under our statutes and decisions it is well settled that a license may be revoked.\n               State v. Reno City Council, 36 Nev. 334, 136 Pac. 110, 50 L.R.A. (N.S.) 195 (1913). (5) Under city ordinance providing that every person engaged in the business of selling\n               at retail, or any manner other than at a fixed place of business within the city,\n               any goods, wares, or merchandise shall obtain a license, a person owning a place of\n               business outside the city limits where he…",
+          "sourceUrl": "https://library.municode.com/nv/reno/codes/administrative_code?nodeId=PT2READCO_TIT4BULICO"
+        }
+      ]
+    },
+    {
+      "id": "sparks",
+      "name": "Sparks",
+      "sourceIndex": "https://library.municode.com/nv/sparks",
+      "questions": [
+        {
+          "id": "nv:sparks:0",
+          "prompt": "How much open space must be kept around a fire hydrant in Sparks?",
+          "choices": [
+            "A three-foot radius",
+            "A ten-foot square",
+            "Whatever space is left after parking",
+            "No local rule is listed"
+          ],
+          "answer": "A three-foot radius",
+          "excerpt": "Chapters:\n\nWhen adopted by Sparks City Council, an applicant who submits his or her completed\n               building permit application to the City of Sparks prior to July 1, 2019, may comply\n               with any of the City's applicable fire code provisions under SMC 14.04 or 14.05 . (Ord. 2569, § 1, Amended, 11/13/2018; Ord. 2267, Add, 02/28/2005)\n\nThose certain documents, one copy of each which are on file in the office of the City\n               Clerk of the City of Sparks, being marked and designated as the International Fire\n               Code, 2018 edition, including Appendix Chapters B, C, D & L as published by the International\n               Code Council, except portions which are modified under or amended by provisions of\n               this title, the 2018 International Wildland-Urban Interface Code, except portions\n               which are modified under or amended by provisions of this title, the 2018 Northern\n               Nevada Fire Amendments, and the 2018 Northern Nevada Fire Amendments to the 2018 International\n               Wildland-Urban Interface Code, as well as all sections that reference the International\n               Plumbing Code, shall be amended to reference the Uniform Plumbing Code, be and are\n               hereby adopted as the Fire Code of the City of Sparks, in the State of Nevada regulating\n               and governing the safeguarding of life and property from fire and explosion hazards\n               arising from the storage, handling and use of hazardous substances, materials and\n               devices, and from conditions hazardous to life or property in the occupancy of buildings\n               and premises as herein provided; providing for the issuance of permits and collection\n               of fees therefor; and each and all of the regulations, provisions, penalties, conditions\n               and terms of said fire code on file in the office of the City Clerk are hereby referred\n               to, adopted, and…",
+          "sourceUrl": "https://library.municode.com/nv/sparks/codes/code_of_ordinances?nodeId=TIT14FIPRPR"
+        },
+        {
+          "id": "nv:sparks:1",
+          "prompt": "If Sparks officials say a building is unfit for people to occupy, what must occupants do?",
+          "choices": [
+            "Leave right away and stay out until a city official says they may return",
+            "Stay until they find another place",
+            "Wait for a court date",
+            "Leave only if there is smoke"
+          ],
+          "answer": "Leave right away and stay out until a city official says they may return",
+          "excerpt": "Chapters:\n\nWhen adopted by Sparks City Council, an applicant who submits his or her completed\n               building permit application to the City of Sparks prior to July 1, 2019, may comply\n               with any of the City's applicable fire code provisions under SMC 14.04 or 14.05 . (Ord. 2569, § 1, Amended, 11/13/2018; Ord. 2267, Add, 02/28/2005)\n\nThose certain documents, one copy of each which are on file in the office of the City\n               Clerk of the City of Sparks, being marked and designated as the International Fire\n               Code, 2018 edition, including Appendix Chapters B, C, D & L as published by the International\n               Code Council, except portions which are modified under or amended by provisions of\n               this title, the 2018 International Wildland-Urban Interface Code, except portions\n               which are modified under or amended by provisions of this title, the 2018 Northern\n               Nevada Fire Amendments, and the 2018 Northern Nevada Fire Amendments to the 2018 International\n               Wildland-Urban Interface Code, as well as all sections that reference the International\n               Plumbing Code, shall be amended to reference the Uniform Plumbing Code, be and are\n               hereby adopted as the Fire Code of the City of Sparks, in the State of Nevada regulating\n               and governing the safeguarding of life and property from fire and explosion hazards\n               arising from the storage, handling and use of hazardous substances, materials and\n               devices, and from conditions hazardous to life or property in the occupancy of buildings\n               and premises as herein provided; providing for the issuance of permits and collection\n               of fees therefor; and each and all of the regulations, provisions, penalties, conditions\n               and terms of said fire code on file in the office of the City Clerk are hereby referred\n               to, adopted, and…",
+          "sourceUrl": "https://library.municode.com/nv/sparks/codes/code_of_ordinances?nodeId=TIT14FIPRPR"
+        },
+        {
+          "id": "nv:sparks:2",
+          "prompt": "If you break Sparks fire-code rules and keep doing so after notice, what does the code say?",
+          "choices": [
+            "It is a misdemeanor, and each extra day can be a separate offense",
+            "You get only a warning letter",
+            "It is always treated as a civil bill",
+            "Nothing happens unless someone is injured"
+          ],
+          "answer": "It is a misdemeanor, and each extra day can be a separate offense",
+          "excerpt": "Chapters:\n\nWhen adopted by Sparks City Council, an applicant who submits his or her completed\n               building permit application to the City of Sparks prior to July 1, 2019, may comply\n               with any of the City's applicable fire code provisions under SMC 14.04 or 14.05 . (Ord. 2569, § 1, Amended, 11/13/2018; Ord. 2267, Add, 02/28/2005)\n\nThose certain documents, one copy of each which are on file in the office of the City\n               Clerk of the City of Sparks, being marked and designated as the International Fire\n               Code, 2018 edition, including Appendix Chapters B, C, D & L as published by the International\n               Code Council, except portions which are modified under or amended by provisions of\n               this title, the 2018 International Wildland-Urban Interface Code, except portions\n               which are modified under or amended by provisions of this title, the 2018 Northern\n               Nevada Fire Amendments, and the 2018 Northern Nevada Fire Amendments to the 2018 International\n               Wildland-Urban Interface Code, as well as all sections that reference the International\n               Plumbing Code, shall be amended to reference the Uniform Plumbing Code, be and are\n               hereby adopted as the Fire Code of the City of Sparks, in the State of Nevada regulating\n               and governing the safeguarding of life and property from fire and explosion hazards\n               arising from the storage, handling and use of hazardous substances, materials and\n               devices, and from conditions hazardous to life or property in the occupancy of buildings\n               and premises as herein provided; providing for the issuance of permits and collection\n               of fees therefor; and each and all of the regulations, provisions, penalties, conditions\n               and terms of said fire code on file in the office of the City Clerk are hereby referred\n               to, adopted, and…",
+          "sourceUrl": "https://library.municode.com/nv/sparks/codes/code_of_ordinances?nodeId=TIT14FIPRPR"
+        },
+        {
+          "id": "nv:sparks:3",
+          "prompt": "Under the Sparks fire code, what counts as a casino?",
+          "choices": [
+            "A building with an assembly occupancy where gaming is licensed under state and local law",
+            "Any bar that has a few slot machines",
+            "Only a hotel with more than 200 rooms",
+            "A structure used only for video poker"
+          ],
+          "answer": "A building with an assembly occupancy where gaming is licensed under state and local law",
+          "excerpt": "Chapters:\n\nWhen adopted by Sparks City Council, an applicant who submits his or her completed\n               building permit application to the City of Sparks prior to July 1, 2019, may comply\n               with any of the City's applicable fire code provisions under SMC 14.04 or 14.05 . (Ord. 2569, § 1, Amended, 11/13/2018; Ord. 2267, Add, 02/28/2005)\n\nThose certain documents, one copy of each which are on file in the office of the City\n               Clerk of the City of Sparks, being marked and designated as the International Fire\n               Code, 2018 edition, including Appendix Chapters B, C, D & L as published by the International\n               Code Council, except portions which are modified under or amended by provisions of\n               this title, the 2018 International Wildland-Urban Interface Code, except portions\n               which are modified under or amended by provisions of this title, the 2018 Northern\n               Nevada Fire Amendments, and the 2018 Northern Nevada Fire Amendments to the 2018 International\n               Wildland-Urban Interface Code, as well as all sections that reference the International\n               Plumbing Code, shall be amended to reference the Uniform Plumbing Code, be and are\n               hereby adopted as the Fire Code of the City of Sparks, in the State of Nevada regulating\n               and governing the safeguarding of life and property from fire and explosion hazards\n               arising from the storage, handling and use of hazardous substances, materials and\n               devices, and from conditions hazardous to life or property in the occupancy of buildings\n               and premises as herein provided; providing for the issuance of permits and collection\n               of fees therefor; and each and all of the regulations, provisions, penalties, conditions\n               and terms of said fire code on file in the office of the City Clerk are hereby referred\n               to, adopted, and…",
+          "sourceUrl": "https://library.municode.com/nv/sparks/codes/code_of_ordinances?nodeId=TIT14FIPRPR"
+        }
+      ]
+    },
+    {
+      "id": "storey-county",
+      "name": "Storey County",
+      "sourceIndex": "https://library.municode.com/nv/storey_county",
+      "questions": [
+        {
+          "id": "nv:storey-county:0",
+          "prompt": "If you own or run a shop in Storey County, who must keep the sidewalk and porch right in front of the business from falling into disrepair or staying hazardous?",
+          "choices": [
+            "The property owner, shop owner, lessee, proprietor or merchant",
+            "County road crews",
+            "Anyone walking past the shop",
+            "The nearest fire station"
+          ],
+          "answer": "The property owner, shop owner, lessee, proprietor or merchant",
+          "excerpt": "Chapters:\n\nSections:\n\nIt is unlawful for any property owner, shop owner/lessee, proprietor or merchant in\n               Storey County to allow the sidewalks or porches or any individual portions thereof\n               to fall into disrepair or remain in a hazardous condition with respect to that portion\n               of the subject sidewalk or porch which is immediately in front of the respective shop\n               or business. (Ord. 185, 2003: Ord. 104A § 1, 1986)\n\nAny person violating this chapter is guilty of a misdemeanor and may be subject to\n               civil penalties. (Ord. 104A § 2, 1986) (Ord. No. 13-249, § I, 10-1-2013)\n\nSections:\n\nA. Hours of accessibility to the county cemeteries located within Storey County are seasonal,\n               September through April 6:00 a.m. to 6:30 p.m., May through August 5:30 a.m. to 8:30\n               p.m., daily. Accessibility may be allowed at other times only with the presence of\n               a member of the Comstock Cemetery Foundation or a Storey County employee. An escort\n               is not required for family members and they are authorized to use their vehicles within\n               the cemetery. The cemetery keys will be available for authorized persons at a location\n               designated by Storey County. Proper identification procedures will be required to\n               obtain the keys. The Comstock Cemetery Foundation will insure current keys are provided. B. Dogs may be walked in the cemetery during hours of operation so long as animal feces\n               is properly picked up and carried out by the dog walkers. C. No overnight parking is permitted in cemetery parking lots or access roads. D. No smoking is allowed within the cemetery boundaries except in designated areas with\n               ash dispensers. E. No unauthorized vehicles are permitted within the cemetery grounds. F. Any person violating the provisions of this chapter is guilty of a misdemeanor unless\n               a different…",
+          "sourceUrl": "https://library.municode.com/nv/storey_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:storey-county:1",
+          "prompt": "From September through April, when are Storey County cemeteries generally open each day?",
+          "choices": [
+            "6:00 a.m. to 6:30 p.m.",
+            "5:30 a.m. to 8:30 p.m.",
+            "Sunrise to sunset",
+            "24 hours a day"
+          ],
+          "answer": "6:00 a.m. to 6:30 p.m.",
+          "excerpt": "Chapters:\n\nSections:\n\nIt is unlawful for any property owner, shop owner/lessee, proprietor or merchant in\n               Storey County to allow the sidewalks or porches or any individual portions thereof\n               to fall into disrepair or remain in a hazardous condition with respect to that portion\n               of the subject sidewalk or porch which is immediately in front of the respective shop\n               or business. (Ord. 185, 2003: Ord. 104A § 1, 1986)\n\nAny person violating this chapter is guilty of a misdemeanor and may be subject to\n               civil penalties. (Ord. 104A § 2, 1986) (Ord. No. 13-249, § I, 10-1-2013)\n\nSections:\n\nA. Hours of accessibility to the county cemeteries located within Storey County are seasonal,\n               September through April 6:00 a.m. to 6:30 p.m., May through August 5:30 a.m. to 8:30\n               p.m., daily. Accessibility may be allowed at other times only with the presence of\n               a member of the Comstock Cemetery Foundation or a Storey County employee. An escort\n               is not required for family members and they are authorized to use their vehicles within\n               the cemetery. The cemetery keys will be available for authorized persons at a location\n               designated by Storey County. Proper identification procedures will be required to\n               obtain the keys. The Comstock Cemetery Foundation will insure current keys are provided. B. Dogs may be walked in the cemetery during hours of operation so long as animal feces\n               is properly picked up and carried out by the dog walkers. C. No overnight parking is permitted in cemetery parking lots or access roads. D. No smoking is allowed within the cemetery boundaries except in designated areas with\n               ash dispensers. E. No unauthorized vehicles are permitted within the cemetery grounds. F. Any person violating the provisions of this chapter is guilty of a misdemeanor unless\n               a different…",
+          "sourceUrl": "https://library.municode.com/nv/storey_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:storey-county:2",
+          "prompt": "May you walk a dog in a Storey County cemetery?",
+          "choices": [
+            "Yes, during open hours if you pick up the feces and carry it out",
+            "No, dogs are banned from cemetery grounds",
+            "Only small dogs on a short leash",
+            "Yes, including after hours"
+          ],
+          "answer": "Yes, during open hours if you pick up the feces and carry it out",
+          "excerpt": "Chapters:\n\nSections:\n\nIt is unlawful for any property owner, shop owner/lessee, proprietor or merchant in\n               Storey County to allow the sidewalks or porches or any individual portions thereof\n               to fall into disrepair or remain in a hazardous condition with respect to that portion\n               of the subject sidewalk or porch which is immediately in front of the respective shop\n               or business. (Ord. 185, 2003: Ord. 104A § 1, 1986)\n\nAny person violating this chapter is guilty of a misdemeanor and may be subject to\n               civil penalties. (Ord. 104A § 2, 1986) (Ord. No. 13-249, § I, 10-1-2013)\n\nSections:\n\nA. Hours of accessibility to the county cemeteries located within Storey County are seasonal,\n               September through April 6:00 a.m. to 6:30 p.m., May through August 5:30 a.m. to 8:30\n               p.m., daily. Accessibility may be allowed at other times only with the presence of\n               a member of the Comstock Cemetery Foundation or a Storey County employee. An escort\n               is not required for family members and they are authorized to use their vehicles within\n               the cemetery. The cemetery keys will be available for authorized persons at a location\n               designated by Storey County. Proper identification procedures will be required to\n               obtain the keys. The Comstock Cemetery Foundation will insure current keys are provided. B. Dogs may be walked in the cemetery during hours of operation so long as animal feces\n               is properly picked up and carried out by the dog walkers. C. No overnight parking is permitted in cemetery parking lots or access roads. D. No smoking is allowed within the cemetery boundaries except in designated areas with\n               ash dispensers. E. No unauthorized vehicles are permitted within the cemetery grounds. F. Any person violating the provisions of this chapter is guilty of a misdemeanor unless\n               a different…",
+          "sourceUrl": "https://library.municode.com/nv/storey_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:storey-county:3",
+          "prompt": "Is overnight parking allowed in Storey County cemetery parking lots or access roads?",
+          "choices": [
+            "No",
+            "Yes if you are a family member",
+            "Yes with cemetery keys",
+            "Only on weekends"
+          ],
+          "answer": "No",
+          "excerpt": "Chapters:\n\nSections:\n\nIt is unlawful for any property owner, shop owner/lessee, proprietor or merchant in\n               Storey County to allow the sidewalks or porches or any individual portions thereof\n               to fall into disrepair or remain in a hazardous condition with respect to that portion\n               of the subject sidewalk or porch which is immediately in front of the respective shop\n               or business. (Ord. 185, 2003: Ord. 104A § 1, 1986)\n\nAny person violating this chapter is guilty of a misdemeanor and may be subject to\n               civil penalties. (Ord. 104A § 2, 1986) (Ord. No. 13-249, § I, 10-1-2013)\n\nSections:\n\nA. Hours of accessibility to the county cemeteries located within Storey County are seasonal,\n               September through April 6:00 a.m. to 6:30 p.m., May through August 5:30 a.m. to 8:30\n               p.m., daily. Accessibility may be allowed at other times only with the presence of\n               a member of the Comstock Cemetery Foundation or a Storey County employee. An escort\n               is not required for family members and they are authorized to use their vehicles within\n               the cemetery. The cemetery keys will be available for authorized persons at a location\n               designated by Storey County. Proper identification procedures will be required to\n               obtain the keys. The Comstock Cemetery Foundation will insure current keys are provided. B. Dogs may be walked in the cemetery during hours of operation so long as animal feces\n               is properly picked up and carried out by the dog walkers. C. No overnight parking is permitted in cemetery parking lots or access roads. D. No smoking is allowed within the cemetery boundaries except in designated areas with\n               ash dispensers. E. No unauthorized vehicles are permitted within the cemetery grounds. F. Any person violating the provisions of this chapter is guilty of a misdemeanor unless\n               a different…",
+          "sourceUrl": "https://library.municode.com/nv/storey_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:storey-county:4",
+          "prompt": "Where may you smoke inside a Storey County cemetery?",
+          "choices": [
+            "Only in designated areas that have ash dispensers",
+            "Anywhere on the grounds",
+            "Smoking is completely banned",
+            "Only while sitting in a vehicle"
+          ],
+          "answer": "Only in designated areas that have ash dispensers",
+          "excerpt": "Chapters:\n\nSections:\n\nIt is unlawful for any property owner, shop owner/lessee, proprietor or merchant in\n               Storey County to allow the sidewalks or porches or any individual portions thereof\n               to fall into disrepair or remain in a hazardous condition with respect to that portion\n               of the subject sidewalk or porch which is immediately in front of the respective shop\n               or business. (Ord. 185, 2003: Ord. 104A § 1, 1986)\n\nAny person violating this chapter is guilty of a misdemeanor and may be subject to\n               civil penalties. (Ord. 104A § 2, 1986) (Ord. No. 13-249, § I, 10-1-2013)\n\nSections:\n\nA. Hours of accessibility to the county cemeteries located within Storey County are seasonal,\n               September through April 6:00 a.m. to 6:30 p.m., May through August 5:30 a.m. to 8:30\n               p.m., daily. Accessibility may be allowed at other times only with the presence of\n               a member of the Comstock Cemetery Foundation or a Storey County employee. An escort\n               is not required for family members and they are authorized to use their vehicles within\n               the cemetery. The cemetery keys will be available for authorized persons at a location\n               designated by Storey County. Proper identification procedures will be required to\n               obtain the keys. The Comstock Cemetery Foundation will insure current keys are provided. B. Dogs may be walked in the cemetery during hours of operation so long as animal feces\n               is properly picked up and carried out by the dog walkers. C. No overnight parking is permitted in cemetery parking lots or access roads. D. No smoking is allowed within the cemetery boundaries except in designated areas with\n               ash dispensers. E. No unauthorized vehicles are permitted within the cemetery grounds. F. Any person violating the provisions of this chapter is guilty of a misdemeanor unless\n               a different…",
+          "sourceUrl": "https://library.municode.com/nv/storey_county/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "washoe-county",
+      "name": "Washoe County",
+      "sourceIndex": "https://library.municode.com/nv/washoe_county",
+      "questions": [
+        {
+          "id": "nv:washoe-county:0",
+          "prompt": "Before you put a fence, landscaping plants or trees, a driveway, or decorative brick in a public road right-of-way in unincorporated Washoe County, what do you need?",
+          "choices": [
+            "Permission from nearby neighbors only",
+            "An encroachment permit from the engineering division of the department of public works",
+            "Approval from the regional transportation commission",
+            "Nothing if it does not fully close the road"
+          ],
+          "answer": "An encroachment permit from the engineering division of the department of public works",
+          "excerpt": "1. There is hereby created, pursuant to the provisions of NRS 244.195, the Washoe County\n               regional transportation department. 2. The department is responsible for the functions and administration of the programs\n               established by chapter 373 of NRS and sections 20.321 to 20.433, inclusive, of this\n               code (county motor vehicle fuel tax), and shall perform such other functions as may\n               be assigned from time to time by the board of county commissioners and the regional\n               transportation commission. (Ord. No. 409, § 1; Ord. No. 431)\n\n1. The position of executive director of the regional transportation department is hereby\n               created. The executive director shall be appointed and serve at the pleasure of the\n               board of county commissioners. 2. The executive director shall appoint, pursuant to the provisions of chapter 5 of this Code regulating county personnel, such technical, clerical and operating\n               staff as the execution of his duties and operation of his department may require. (Ord. No. 409, § 2; Ord. No. 431)\n\nAs the head of the department, the executive director shall direct and supervise all\n               administrative and technical activities of the department. In addition to such activities\n               as may be required in the daily administration of the department, the board of county\n               commissioners and the regional transportation commission may make additional assignments\n               as are deemed necessary. (Ord. No. 409, § 3; Ord. No. 431)\n\n1. Except as provided in subsection 2, the salaries and other fringe benefits of the\n               executive director and employees of the regional transportation department shall be\n               established in accordance with the provisions of chapter 5 of this Code and other county ordinances regulating the employment of county personnel. 2. The salary of the executive director shall be…",
+          "sourceUrl": "https://library.municode.com/nv/washoe_county/codes/code_of_ordinances?nodeId=CH85HIROSI"
+        },
+        {
+          "id": "nv:washoe-county:1",
+          "prompt": "Which of these does not count as an obstacle or encroachment that needs a permit in a Washoe County right-of-way?",
+          "choices": [
+            "A concrete or asphaltic driveway",
+            "Fences, plants and trees used for landscaping",
+            "Vehicles parked in a lawful manner",
+            "Decorative brick and stonework"
+          ],
+          "answer": "Vehicles parked in a lawful manner",
+          "excerpt": "1. There is hereby created, pursuant to the provisions of NRS 244.195, the Washoe County\n               regional transportation department. 2. The department is responsible for the functions and administration of the programs\n               established by chapter 373 of NRS and sections 20.321 to 20.433, inclusive, of this\n               code (county motor vehicle fuel tax), and shall perform such other functions as may\n               be assigned from time to time by the board of county commissioners and the regional\n               transportation commission. (Ord. No. 409, § 1; Ord. No. 431)\n\n1. The position of executive director of the regional transportation department is hereby\n               created. The executive director shall be appointed and serve at the pleasure of the\n               board of county commissioners. 2. The executive director shall appoint, pursuant to the provisions of chapter 5 of this Code regulating county personnel, such technical, clerical and operating\n               staff as the execution of his duties and operation of his department may require. (Ord. No. 409, § 2; Ord. No. 431)\n\nAs the head of the department, the executive director shall direct and supervise all\n               administrative and technical activities of the department. In addition to such activities\n               as may be required in the daily administration of the department, the board of county\n               commissioners and the regional transportation commission may make additional assignments\n               as are deemed necessary. (Ord. No. 409, § 3; Ord. No. 431)\n\n1. Except as provided in subsection 2, the salaries and other fringe benefits of the\n               executive director and employees of the regional transportation department shall be\n               established in accordance with the provisions of chapter 5 of this Code and other county ordinances regulating the employment of county personnel. 2. The salary of the executive director shall be…",
+          "sourceUrl": "https://library.municode.com/nv/washoe_county/codes/code_of_ordinances?nodeId=CH85HIROSI"
+        },
+        {
+          "id": "nv:washoe-county:2",
+          "prompt": "What service fee must you include with a written encroachment permit application?",
+          "choices": [
+            "$10.00",
+            "$25.00 payable to the County of Washoe",
+            "$50.00",
+            "A recording fee only"
+          ],
+          "answer": "$25.00 payable to the County of Washoe",
+          "excerpt": "1. There is hereby created, pursuant to the provisions of NRS 244.195, the Washoe County\n               regional transportation department. 2. The department is responsible for the functions and administration of the programs\n               established by chapter 373 of NRS and sections 20.321 to 20.433, inclusive, of this\n               code (county motor vehicle fuel tax), and shall perform such other functions as may\n               be assigned from time to time by the board of county commissioners and the regional\n               transportation commission. (Ord. No. 409, § 1; Ord. No. 431)\n\n1. The position of executive director of the regional transportation department is hereby\n               created. The executive director shall be appointed and serve at the pleasure of the\n               board of county commissioners. 2. The executive director shall appoint, pursuant to the provisions of chapter 5 of this Code regulating county personnel, such technical, clerical and operating\n               staff as the execution of his duties and operation of his department may require. (Ord. No. 409, § 2; Ord. No. 431)\n\nAs the head of the department, the executive director shall direct and supervise all\n               administrative and technical activities of the department. In addition to such activities\n               as may be required in the daily administration of the department, the board of county\n               commissioners and the regional transportation commission may make additional assignments\n               as are deemed necessary. (Ord. No. 409, § 3; Ord. No. 431)\n\n1. Except as provided in subsection 2, the salaries and other fringe benefits of the\n               executive director and employees of the regional transportation department shall be\n               established in accordance with the provisions of chapter 5 of this Code and other county ordinances regulating the employment of county personnel. 2. The salary of the executive director shall be…",
+          "sourceUrl": "https://library.municode.com/nv/washoe_county/codes/code_of_ordinances?nodeId=CH85HIROSI"
+        },
+        {
+          "id": "nv:washoe-county:3",
+          "prompt": "If an emergency requires a full road closure at night when the public works office is closed, who must you notify before placing the obstacle?",
+          "choices": [
+            "Only the county engineer the next morning",
+            "The sheriff and appropriate fire departments",
+            "The board of county commissioners",
+            "No one if you remove it the next day"
+          ],
+          "answer": "The sheriff and appropriate fire departments",
+          "excerpt": "1. There is hereby created, pursuant to the provisions of NRS 244.195, the Washoe County\n               regional transportation department. 2. The department is responsible for the functions and administration of the programs\n               established by chapter 373 of NRS and sections 20.321 to 20.433, inclusive, of this\n               code (county motor vehicle fuel tax), and shall perform such other functions as may\n               be assigned from time to time by the board of county commissioners and the regional\n               transportation commission. (Ord. No. 409, § 1; Ord. No. 431)\n\n1. The position of executive director of the regional transportation department is hereby\n               created. The executive director shall be appointed and serve at the pleasure of the\n               board of county commissioners. 2. The executive director shall appoint, pursuant to the provisions of chapter 5 of this Code regulating county personnel, such technical, clerical and operating\n               staff as the execution of his duties and operation of his department may require. (Ord. No. 409, § 2; Ord. No. 431)\n\nAs the head of the department, the executive director shall direct and supervise all\n               administrative and technical activities of the department. In addition to such activities\n               as may be required in the daily administration of the department, the board of county\n               commissioners and the regional transportation commission may make additional assignments\n               as are deemed necessary. (Ord. No. 409, § 3; Ord. No. 431)\n\n1. Except as provided in subsection 2, the salaries and other fringe benefits of the\n               executive director and employees of the regional transportation department shall be\n               established in accordance with the provisions of chapter 5 of this Code and other county ordinances regulating the employment of county personnel. 2. The salary of the executive director shall be…",
+          "sourceUrl": "https://library.municode.com/nv/washoe_county/codes/code_of_ordinances?nodeId=CH85HIROSI"
+        },
+        {
+          "id": "nv:washoe-county:4",
+          "prompt": "The drawing that must accompany an encroachment permit application has to be on bond paper of what size, in black waterproof india ink?",
+          "choices": [
+            "8½ by 11 inches",
+            "8½ by 13 inches",
+            "11 by 17 inches",
+            "Any size as long as it is to scale"
+          ],
+          "answer": "8½ by 13 inches",
+          "excerpt": "1. There is hereby created, pursuant to the provisions of NRS 244.195, the Washoe County\n               regional transportation department. 2. The department is responsible for the functions and administration of the programs\n               established by chapter 373 of NRS and sections 20.321 to 20.433, inclusive, of this\n               code (county motor vehicle fuel tax), and shall perform such other functions as may\n               be assigned from time to time by the board of county commissioners and the regional\n               transportation commission. (Ord. No. 409, § 1; Ord. No. 431)\n\n1. The position of executive director of the regional transportation department is hereby\n               created. The executive director shall be appointed and serve at the pleasure of the\n               board of county commissioners. 2. The executive director shall appoint, pursuant to the provisions of chapter 5 of this Code regulating county personnel, such technical, clerical and operating\n               staff as the execution of his duties and operation of his department may require. (Ord. No. 409, § 2; Ord. No. 431)\n\nAs the head of the department, the executive director shall direct and supervise all\n               administrative and technical activities of the department. In addition to such activities\n               as may be required in the daily administration of the department, the board of county\n               commissioners and the regional transportation commission may make additional assignments\n               as are deemed necessary. (Ord. No. 409, § 3; Ord. No. 431)\n\n1. Except as provided in subsection 2, the salaries and other fringe benefits of the\n               executive director and employees of the regional transportation department shall be\n               established in accordance with the provisions of chapter 5 of this Code and other county ordinances regulating the employment of county personnel. 2. The salary of the executive director shall be…",
+          "sourceUrl": "https://library.municode.com/nv/washoe_county/codes/code_of_ordinances?nodeId=CH85HIROSI"
+        }
+      ]
+    },
+    {
+      "id": "winnemucca",
+      "name": "Winnemucca",
+      "sourceIndex": "https://library.municode.com/nv/winnemucca",
+      "questions": [
+        {
+          "id": "nv:winnemucca:0",
+          "prompt": "If you own a house in Winnemucca, who is responsible for sweeping the sidewalk out front and clearing snow, ice, and weeds?",
+          "choices": [
+            "The city street crew",
+            "You, the property owner",
+            "Humboldt County",
+            "Whoever walks there most"
+          ],
+          "answer": "You, the property owner",
+          "excerpt": "Chapters:\n\nSections:\n\nA. It is the duty of the owner of any property along which any sidewalk, curb or gutter\n               has been constructed to maintain the same in good repair and safe condition. Specifically,\n               the owner shall be responsible for: 1. The repair and reconstruction of a sidewalk, curb or gutter in the public right-of-way\n               that abuts the property of the owner if the owner caused a need for such repair or\n               reconstruction; 2. The general maintenance of a sidewalk, curb or gutter in the public right-of-way that\n               abuts the property of the owner, including without limitation, sweeping, removal of\n               snow, ice and weeds, and maintenance of any grass, shrubs or trees in the public right-of-way\n               that adjoins the sidewalk, curb and gutter. B. The duty to maintain a sidewalk, curb or gutter pursuant to this chapter shall apply\n               to any sidewalk, curb or gutter constructed of concrete, asphalt, paving stones, payers\n               or similar type materials. C. Should an owner fail to maintain a sidewalk, curb or gutter as determined by the city\n               engineer or his designee, the owner will be considered in violation of this chapter\n               and subject to the provisions of this chapter. D. A person who owns property is liable in a civil action for any injury or damage that\n               occurs as a result of the use of a sidewalk, curb or gutter in a public right-of-way\n               that abuts the person's property if the person fails to comply with this chapter,\n               or if the person creates the dangerous condition that caused the injury or damage. (Ord. 730 § 1.1, 2007)\n\nA. Upon determination by the city engineer or his designee that a sidewalk, curb or gutter\n               is in need of construction or rehabilitation in violation of this chapter, the city\n               engineer or his designee shall prepare a written notice of the…",
+          "sourceUrl": "https://library.municode.com/nv/winnemucca/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:winnemucca:1",
+          "prompt": "Can someone build a sidewalk in an alley in Winnemucca?",
+          "choices": [
+            "Yes, if it is made of concrete",
+            "No. Sidewalks are not allowed in alleys",
+            "Yes, if every neighbor signs off",
+            "Only during summer months"
+          ],
+          "answer": "No. Sidewalks are not allowed in alleys",
+          "excerpt": "Chapters:\n\nSections:\n\nA. It is the duty of the owner of any property along which any sidewalk, curb or gutter\n               has been constructed to maintain the same in good repair and safe condition. Specifically,\n               the owner shall be responsible for: 1. The repair and reconstruction of a sidewalk, curb or gutter in the public right-of-way\n               that abuts the property of the owner if the owner caused a need for such repair or\n               reconstruction; 2. The general maintenance of a sidewalk, curb or gutter in the public right-of-way that\n               abuts the property of the owner, including without limitation, sweeping, removal of\n               snow, ice and weeds, and maintenance of any grass, shrubs or trees in the public right-of-way\n               that adjoins the sidewalk, curb and gutter. B. The duty to maintain a sidewalk, curb or gutter pursuant to this chapter shall apply\n               to any sidewalk, curb or gutter constructed of concrete, asphalt, paving stones, payers\n               or similar type materials. C. Should an owner fail to maintain a sidewalk, curb or gutter as determined by the city\n               engineer or his designee, the owner will be considered in violation of this chapter\n               and subject to the provisions of this chapter. D. A person who owns property is liable in a civil action for any injury or damage that\n               occurs as a result of the use of a sidewalk, curb or gutter in a public right-of-way\n               that abuts the person's property if the person fails to comply with this chapter,\n               or if the person creates the dangerous condition that caused the injury or damage. (Ord. 730 § 1.1, 2007)\n\nA. Upon determination by the city engineer or his designee that a sidewalk, curb or gutter\n               is in need of construction or rehabilitation in violation of this chapter, the city\n               engineer or his designee shall prepare a written notice of the…",
+          "sourceUrl": "https://library.municode.com/nv/winnemucca/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:winnemucca:2",
+          "prompt": "If someone is hurt because the sidewalk next to your property was not kept safe, who can be held liable?",
+          "choices": [
+            "Only the City of Winnemucca",
+            "You, the property owner",
+            "The person who got hurt",
+            "The previous owner of the house"
+          ],
+          "answer": "You, the property owner",
+          "excerpt": "Chapters:\n\nSections:\n\nA. It is the duty of the owner of any property along which any sidewalk, curb or gutter\n               has been constructed to maintain the same in good repair and safe condition. Specifically,\n               the owner shall be responsible for: 1. The repair and reconstruction of a sidewalk, curb or gutter in the public right-of-way\n               that abuts the property of the owner if the owner caused a need for such repair or\n               reconstruction; 2. The general maintenance of a sidewalk, curb or gutter in the public right-of-way that\n               abuts the property of the owner, including without limitation, sweeping, removal of\n               snow, ice and weeds, and maintenance of any grass, shrubs or trees in the public right-of-way\n               that adjoins the sidewalk, curb and gutter. B. The duty to maintain a sidewalk, curb or gutter pursuant to this chapter shall apply\n               to any sidewalk, curb or gutter constructed of concrete, asphalt, paving stones, payers\n               or similar type materials. C. Should an owner fail to maintain a sidewalk, curb or gutter as determined by the city\n               engineer or his designee, the owner will be considered in violation of this chapter\n               and subject to the provisions of this chapter. D. A person who owns property is liable in a civil action for any injury or damage that\n               occurs as a result of the use of a sidewalk, curb or gutter in a public right-of-way\n               that abuts the person's property if the person fails to comply with this chapter,\n               or if the person creates the dangerous condition that caused the injury or damage. (Ord. 730 § 1.1, 2007)\n\nA. Upon determination by the city engineer or his designee that a sidewalk, curb or gutter\n               is in need of construction or rehabilitation in violation of this chapter, the city\n               engineer or his designee shall prepare a written notice of the…",
+          "sourceUrl": "https://library.municode.com/nv/winnemucca/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:winnemucca:3",
+          "prompt": "After a first written notice that your sidewalk, curb, or gutter needs work, how long do you have to make arrangements to fix it?",
+          "choices": [
+            "72 hours",
+            "15 days",
+            "30 days",
+            "Until the next winter"
+          ],
+          "answer": "30 days",
+          "excerpt": "Chapters:\n\nSections:\n\nA. It is the duty of the owner of any property along which any sidewalk, curb or gutter\n               has been constructed to maintain the same in good repair and safe condition. Specifically,\n               the owner shall be responsible for: 1. The repair and reconstruction of a sidewalk, curb or gutter in the public right-of-way\n               that abuts the property of the owner if the owner caused a need for such repair or\n               reconstruction; 2. The general maintenance of a sidewalk, curb or gutter in the public right-of-way that\n               abuts the property of the owner, including without limitation, sweeping, removal of\n               snow, ice and weeds, and maintenance of any grass, shrubs or trees in the public right-of-way\n               that adjoins the sidewalk, curb and gutter. B. The duty to maintain a sidewalk, curb or gutter pursuant to this chapter shall apply\n               to any sidewalk, curb or gutter constructed of concrete, asphalt, paving stones, payers\n               or similar type materials. C. Should an owner fail to maintain a sidewalk, curb or gutter as determined by the city\n               engineer or his designee, the owner will be considered in violation of this chapter\n               and subject to the provisions of this chapter. D. A person who owns property is liable in a civil action for any injury or damage that\n               occurs as a result of the use of a sidewalk, curb or gutter in a public right-of-way\n               that abuts the person's property if the person fails to comply with this chapter,\n               or if the person creates the dangerous condition that caused the injury or damage. (Ord. 730 § 1.1, 2007)\n\nA. Upon determination by the city engineer or his designee that a sidewalk, curb or gutter\n               is in need of construction or rehabilitation in violation of this chapter, the city\n               engineer or his designee shall prepare a written notice of the…",
+          "sourceUrl": "https://library.municode.com/nv/winnemucca/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nv:winnemucca:4",
+          "prompt": "If you still do not fix a sidewalk problem after a second notice, what extra penalty can the city add?",
+          "choices": [
+            "A one-time $150 filing fee",
+            "Up to $500 per day",
+            "Free city repairs paid by neighbors",
+            "A warning letter with no fine"
+          ],
+          "answer": "Up to $500 per day",
+          "excerpt": "Chapters:\n\nSections:\n\nA. It is the duty of the owner of any property along which any sidewalk, curb or gutter\n               has been constructed to maintain the same in good repair and safe condition. Specifically,\n               the owner shall be responsible for: 1. The repair and reconstruction of a sidewalk, curb or gutter in the public right-of-way\n               that abuts the property of the owner if the owner caused a need for such repair or\n               reconstruction; 2. The general maintenance of a sidewalk, curb or gutter in the public right-of-way that\n               abuts the property of the owner, including without limitation, sweeping, removal of\n               snow, ice and weeds, and maintenance of any grass, shrubs or trees in the public right-of-way\n               that adjoins the sidewalk, curb and gutter. B. The duty to maintain a sidewalk, curb or gutter pursuant to this chapter shall apply\n               to any sidewalk, curb or gutter constructed of concrete, asphalt, paving stones, payers\n               or similar type materials. C. Should an owner fail to maintain a sidewalk, curb or gutter as determined by the city\n               engineer or his designee, the owner will be considered in violation of this chapter\n               and subject to the provisions of this chapter. D. A person who owns property is liable in a civil action for any injury or damage that\n               occurs as a result of the use of a sidewalk, curb or gutter in a public right-of-way\n               that abuts the person's property if the person fails to comply with this chapter,\n               or if the person creates the dangerous condition that caused the injury or damage. (Ord. 730 § 1.1, 2007)\n\nA. Upon determination by the city engineer or his designee that a sidewalk, curb or gutter\n               is in need of construction or rehabilitation in violation of this chapter, the city\n               engineer or his designee shall prepare a written notice of the…",
+          "sourceUrl": "https://library.municode.com/nv/winnemucca/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    }
+  ]
+}

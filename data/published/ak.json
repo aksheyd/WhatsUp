@@ -1,0 +1,1001 @@
+{
+  "state": "ak",
+  "stateName": "Alaska",
+  "places": [
+    {
+      "id": "adak",
+      "name": "Adak",
+      "sourceIndex": "https://library.municode.com/ak/adak",
+      "questions": []
+    },
+    {
+      "id": "anchorage",
+      "name": "Anchorage",
+      "sourceIndex": "https://library.municode.com/ak/anchorage",
+      "questions": [
+        {
+          "id": "ak:anchorage:0",
+          "prompt": "Imagine your neighbor's tree branch is hanging way over your property line. According to this ordinance, who is generally responsible for trimming that branch?",
+          "choices": [
+            "The city government will send someone to take care of it.",
+            "You are responsible for trimming the branch back to the property line.",
+            "Your neighbor is always responsible for trimming any part of their tree, even if it's over your property.",
+            "You and your neighbor have to split the cost of hiring a professional."
+          ],
+          "answer": "You are responsible for trimming the branch back to the property line.",
+          "excerpt": "Load more",
+          "sourceUrl": "https://library.municode.com/ak/anchorage/codes/code_of_ordinances?nodeId=TIT12TA"
+        }
+      ]
+    },
+    {
+      "id": "angoon",
+      "name": "Angoon",
+      "sourceIndex": "https://library.municode.com/ak/angoon",
+      "questions": [
+        {
+          "id": "ak:angoon:0",
+          "prompt": "Imagine you're writing a history report about Angoon. According to this information, what's the *latest* date that local laws included in this online collection were officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "Sometime before 2012",
+            "We can't tell from this information",
+            "The date the website was created"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:1",
+          "prompt": "Imagine you're writing a history book about Angoon. According to this information, up to what date would the laws included in the book be considered officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "The date the history book is published",
+            "The current date",
+            "The date the Municipality decides to update the code"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:2",
+          "prompt": "Imagine you're writing a history report about Angoon. According to this information, what's the *latest* date that local laws included in this online collection were officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "Sometime before 2012",
+            "We can't tell from this information",
+            "The date the website was created"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:3",
+          "prompt": "Imagine you're writing a history book about Angoon. According to this information, up to what date would the laws included in the book be considered officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "The date the history book is published",
+            "The current date",
+            "The date the Municipality decides to update the code"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:4",
+          "prompt": "Imagine you're writing a history book about Angoon. According to this information, up to what date would the laws included in the book be considered officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "The date the history book is published",
+            "The current date",
+            "The date the Municipality decides to update the code"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:5",
+          "prompt": "Imagine you're writing a history report about Angoon. According to this information, what's the *latest* date that local laws included in this online collection were officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "Sometime before 2012",
+            "We can't tell from this information",
+            "The date the website was created"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:6",
+          "prompt": "Imagine you're writing a history book about Angoon. According to this information, up to what date would the laws included in the book be considered officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "The date the history book is published",
+            "The current date",
+            "The date the Municipality decides to update the code"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        },
+        {
+          "id": "ak:angoon:7",
+          "prompt": "Imagine you're writing a history book about Angoon. According to this information, up to what date would the laws included in the book be considered officially updated?",
+          "choices": [
+            "January 14, 2020",
+            "The date the history book is published",
+            "The current date",
+            "The date the Municipality decides to update the code"
+          ],
+          "answer": "January 14, 2020",
+          "excerpt": "ANGOON MUNICIPAL CODE\nANGOON, ALASKA\n\nCodified through\nOrdinance No. 20-12, adopted January 14, 2020.\n(Supp. No. 4)\n\nThis Code of Ordinances and/or any other documents that appear on this site may not reflect the most current legislation adopted by the Municipality.",
+          "sourceUrl": "https://library.municode.com/ak/angoon"
+        }
+      ]
+    },
+    {
+      "id": "cordova",
+      "name": "Cordova",
+      "sourceIndex": "https://library.municode.com/ak/cordova",
+      "questions": [
+        {
+          "id": "ak:cordova:0",
+          "prompt": "According to the ordinance, what is the duty of the city engineer or their appointee?",
+          "choices": [
+            "Collect taxes from residents",
+            "Repair the roads when it rains",
+            "Fix, establish and declare the grades of streets, alleys, sidewalks and gutters when ordered by council",
+            "Design new houses in the city"
+          ],
+          "answer": "Fix, establish and declare the grades of streets, alleys, sidewalks and gutters when ordered by council",
+          "excerpt": "All streets and alleys laid and shown in the recorded plat of the city, which is on\n               record in the office of the District Recorder, on Page 10 of Book I of the town plats,\n               as well as all streets and alleys that may hereafter be laid out and dedicated within\n               the corporate limits of the city, are declared public streets, alleys and free highways. (Prior code § 3.301)\n\nIt is declared to be the duty of the city engineer, or such other officer as the city\n               manager may appoint, to fix, establish and declare the grades of all streets, alleys,\n               sidewalks and gutters within the city whenever ordered so to do by resolution of the\n               council, and to report the same in writing to the council. Said grades so fixed, established,\n               declared and reported, upon approval and adoption of the council, shall be obligatory\n               and binding on all property holders of the city. (Prior code § 3.302)\n\nPursuant to the provisions of Alaska Statutes 20.48.037, the city exercises extraterritorial\n               jurisdiction for the purpose of proving the survey and preliminary design of Whiteshed\n               Road from its present terminus southeast of the municipal boundary, and thence in\n               a southeasterly direction to Point Whiteshed, such jurisdiction to be limited to a\n               strip of land beginning at the present southeasterly terminus of Whiteshed Road and\n               ending at Point Whiteshed to a width not to exceed two hundred feet. (Ord. 523, 1980)\n\nPursuant to the provisions of AS 29.48.037, the city exercises extraterritorial jurisdiction\n               for the purpose of providing for the planning, survey and design of transportation\n               corridors to serve the Bering River area with roads and access points. Such jurisdiction\n               will be limited to an area east of the city bounded by the northerly right-of-way\n               lines…",
+          "sourceUrl": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:cordova:1",
+          "prompt": "What does the term 'Driveway' mean under these city rules?",
+          "choices": [
+            "Any road that connects to two lots",
+            "Any road with a paved surface",
+            "Any road that connects only one lot to another road",
+            "Any road built after 2012"
+          ],
+          "answer": "Any road that connects only one lot to another road",
+          "excerpt": "All streets and alleys laid and shown in the recorded plat of the city, which is on\n               record in the office of the District Recorder, on Page 10 of Book I of the town plats,\n               as well as all streets and alleys that may hereafter be laid out and dedicated within\n               the corporate limits of the city, are declared public streets, alleys and free highways. (Prior code § 3.301)\n\nIt is declared to be the duty of the city engineer, or such other officer as the city\n               manager may appoint, to fix, establish and declare the grades of all streets, alleys,\n               sidewalks and gutters within the city whenever ordered so to do by resolution of the\n               council, and to report the same in writing to the council. Said grades so fixed, established,\n               declared and reported, upon approval and adoption of the council, shall be obligatory\n               and binding on all property holders of the city. (Prior code § 3.302)\n\nPursuant to the provisions of Alaska Statutes 20.48.037, the city exercises extraterritorial\n               jurisdiction for the purpose of proving the survey and preliminary design of Whiteshed\n               Road from its present terminus southeast of the municipal boundary, and thence in\n               a southeasterly direction to Point Whiteshed, such jurisdiction to be limited to a\n               strip of land beginning at the present southeasterly terminus of Whiteshed Road and\n               ending at Point Whiteshed to a width not to exceed two hundred feet. (Ord. 523, 1980)\n\nPursuant to the provisions of AS 29.48.037, the city exercises extraterritorial jurisdiction\n               for the purpose of providing for the planning, survey and design of transportation\n               corridors to serve the Bering River area with roads and access points. Such jurisdiction\n               will be limited to an area east of the city bounded by the northerly right-of-way\n               lines…",
+          "sourceUrl": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:cordova:2",
+          "prompt": "To what extent does the city exercise extraterritorial jurisdiction for Whiteshed Road?",
+          "choices": [
+            "Throughout the entire state of Alaska",
+            "A strip not to exceed two hundred feet wide, from the current end to Point Whiteshed",
+            "The entire Bering River area",
+            "Only on public land owned by the state"
+          ],
+          "answer": "A strip not to exceed two hundred feet wide, from the current end to Point Whiteshed",
+          "excerpt": "All streets and alleys laid and shown in the recorded plat of the city, which is on\n               record in the office of the District Recorder, on Page 10 of Book I of the town plats,\n               as well as all streets and alleys that may hereafter be laid out and dedicated within\n               the corporate limits of the city, are declared public streets, alleys and free highways. (Prior code § 3.301)\n\nIt is declared to be the duty of the city engineer, or such other officer as the city\n               manager may appoint, to fix, establish and declare the grades of all streets, alleys,\n               sidewalks and gutters within the city whenever ordered so to do by resolution of the\n               council, and to report the same in writing to the council. Said grades so fixed, established,\n               declared and reported, upon approval and adoption of the council, shall be obligatory\n               and binding on all property holders of the city. (Prior code § 3.302)\n\nPursuant to the provisions of Alaska Statutes 20.48.037, the city exercises extraterritorial\n               jurisdiction for the purpose of proving the survey and preliminary design of Whiteshed\n               Road from its present terminus southeast of the municipal boundary, and thence in\n               a southeasterly direction to Point Whiteshed, such jurisdiction to be limited to a\n               strip of land beginning at the present southeasterly terminus of Whiteshed Road and\n               ending at Point Whiteshed to a width not to exceed two hundred feet. (Ord. 523, 1980)\n\nPursuant to the provisions of AS 29.48.037, the city exercises extraterritorial jurisdiction\n               for the purpose of providing for the planning, survey and design of transportation\n               corridors to serve the Bering River area with roads and access points. Such jurisdiction\n               will be limited to an area east of the city bounded by the northerly right-of-way\n               lines…",
+          "sourceUrl": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:cordova:3",
+          "prompt": "Why was the city's road and address system chapter updated in 2012?",
+          "choices": [
+            "To lower the cost of paving",
+            "To improve public safety and property locating efficiency",
+            "To ban private roads",
+            "To name all streets after famous scientists"
+          ],
+          "answer": "To improve public safety and property locating efficiency",
+          "excerpt": "All streets and alleys laid and shown in the recorded plat of the city, which is on\n               record in the office of the District Recorder, on Page 10 of Book I of the town plats,\n               as well as all streets and alleys that may hereafter be laid out and dedicated within\n               the corporate limits of the city, are declared public streets, alleys and free highways. (Prior code § 3.301)\n\nIt is declared to be the duty of the city engineer, or such other officer as the city\n               manager may appoint, to fix, establish and declare the grades of all streets, alleys,\n               sidewalks and gutters within the city whenever ordered so to do by resolution of the\n               council, and to report the same in writing to the council. Said grades so fixed, established,\n               declared and reported, upon approval and adoption of the council, shall be obligatory\n               and binding on all property holders of the city. (Prior code § 3.302)\n\nPursuant to the provisions of Alaska Statutes 20.48.037, the city exercises extraterritorial\n               jurisdiction for the purpose of proving the survey and preliminary design of Whiteshed\n               Road from its present terminus southeast of the municipal boundary, and thence in\n               a southeasterly direction to Point Whiteshed, such jurisdiction to be limited to a\n               strip of land beginning at the present southeasterly terminus of Whiteshed Road and\n               ending at Point Whiteshed to a width not to exceed two hundred feet. (Ord. 523, 1980)\n\nPursuant to the provisions of AS 29.48.037, the city exercises extraterritorial jurisdiction\n               for the purpose of providing for the planning, survey and design of transportation\n               corridors to serve the Bering River area with roads and access points. Such jurisdiction\n               will be limited to an area east of the city bounded by the northerly right-of-way\n               lines…",
+          "sourceUrl": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:cordova:4",
+          "prompt": "Which ordinance granted jurisdiction for the Bering River area transportation corridors?",
+          "choices": [
+            "Ord. 523, 1980",
+            "Ord. 550, 1982",
+            "Ord. No. 1097",
+            "Prior code § 3.301"
+          ],
+          "answer": "Ord. 550, 1982",
+          "excerpt": "All streets and alleys laid and shown in the recorded plat of the city, which is on\n               record in the office of the District Recorder, on Page 10 of Book I of the town plats,\n               as well as all streets and alleys that may hereafter be laid out and dedicated within\n               the corporate limits of the city, are declared public streets, alleys and free highways. (Prior code § 3.301)\n\nIt is declared to be the duty of the city engineer, or such other officer as the city\n               manager may appoint, to fix, establish and declare the grades of all streets, alleys,\n               sidewalks and gutters within the city whenever ordered so to do by resolution of the\n               council, and to report the same in writing to the council. Said grades so fixed, established,\n               declared and reported, upon approval and adoption of the council, shall be obligatory\n               and binding on all property holders of the city. (Prior code § 3.302)\n\nPursuant to the provisions of Alaska Statutes 20.48.037, the city exercises extraterritorial\n               jurisdiction for the purpose of proving the survey and preliminary design of Whiteshed\n               Road from its present terminus southeast of the municipal boundary, and thence in\n               a southeasterly direction to Point Whiteshed, such jurisdiction to be limited to a\n               strip of land beginning at the present southeasterly terminus of Whiteshed Road and\n               ending at Point Whiteshed to a width not to exceed two hundred feet. (Ord. 523, 1980)\n\nPursuant to the provisions of AS 29.48.037, the city exercises extraterritorial jurisdiction\n               for the purpose of providing for the planning, survey and design of transportation\n               corridors to serve the Bering River area with roads and access points. Such jurisdiction\n               will be limited to an area east of the city bounded by the northerly right-of-way\n               lines…",
+          "sourceUrl": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT13STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "fairbanks",
+      "name": "Fairbanks",
+      "sourceIndex": "https://library.municode.com/ak/fairbanks",
+      "questions": [
+        {
+          "id": "ak:fairbanks:0",
+          "prompt": "What must you do with a dead animal in Fairbanks within 24 hours?",
+          "choices": [
+            "Take it to an animal shelter.",
+            "Call the director of public safety immediately.",
+            "Leave it for the city to clean up.",
+            "Bury it or dispose of it inside the city."
+          ],
+          "answer": "Take it to an animal shelter.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Regulations regarding animals in the Fairbanks North Star Borough Code, chapter 6,\n               entitled \"Animals,\" are applicable in the city. Cross reference— Health, ch. 34.\n\nIt shall be unlawful for any person to stall-feed any cattle, sheep or hogs or keep\n               them in any manner for the purpose of fattening the animal within the city. (Code 1960, § 10.228)\n\nThe owner of any animal which may die within the city shall, within 24 hours after\n               its death, remove and bury the animal outside the city limits or, alternatively, provide\n               for disposition of the animal at an animal shelter. If any person shall fail to comply\n               with the provisions of this section and shall fail to remove any dead animal belonging\n               to him, the director of public safety shall make such disposal of the animal as the\n               law directs; and the costs of such disposal shall be recovered of such owner by action\n               before the magistrate, with costs of suit. It shall be the duty of the director of\n               public safety to remove all dead animals at the cost of the city when the owner is\n               unknown or refuses or fails to comply with this provision, and to prosecute all persons\n               violating this section. (Code 1960, § 10.230) Cross reference— Solid waste, ch. 66 .\n\nFailure of a dog or cat owner to remove the excrement deposited by his dog or cat\n               on any public way or on another person's property is made a minor offense under Chapter 46 , Article IV, Division 3 Littering, Section 46-162 (10). ( Ord. No. 6010, § 3, 5-28-2016 )",
+          "sourceUrl": "https://library.municode.com/ak/fairbanks/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "ak:fairbanks:1",
+          "prompt": "Is it legal to raise cattle for fattening in the Fairbanks city limits?",
+          "choices": [
+            "Yes, if you have a special permit.",
+            "No, it is unlawful to stall-feed them here.",
+            "Yes, but only if they are already adult.",
+            "Only on the outskirts of town."
+          ],
+          "answer": "No, it is unlawful to stall-feed them here.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Regulations regarding animals in the Fairbanks North Star Borough Code, chapter 6,\n               entitled \"Animals,\" are applicable in the city. Cross reference— Health, ch. 34.\n\nIt shall be unlawful for any person to stall-feed any cattle, sheep or hogs or keep\n               them in any manner for the purpose of fattening the animal within the city. (Code 1960, § 10.228)\n\nThe owner of any animal which may die within the city shall, within 24 hours after\n               its death, remove and bury the animal outside the city limits or, alternatively, provide\n               for disposition of the animal at an animal shelter. If any person shall fail to comply\n               with the provisions of this section and shall fail to remove any dead animal belonging\n               to him, the director of public safety shall make such disposal of the animal as the\n               law directs; and the costs of such disposal shall be recovered of such owner by action\n               before the magistrate, with costs of suit. It shall be the duty of the director of\n               public safety to remove all dead animals at the cost of the city when the owner is\n               unknown or refuses or fails to comply with this provision, and to prosecute all persons\n               violating this section. (Code 1960, § 10.230) Cross reference— Solid waste, ch. 66 .\n\nFailure of a dog or cat owner to remove the excrement deposited by his dog or cat\n               on any public way or on another person's property is made a minor offense under Chapter 46 , Article IV, Division 3 Littering, Section 46-162 (10). ( Ord. No. 6010, § 3, 5-28-2016 )",
+          "sourceUrl": "https://library.municode.com/ak/fairbanks/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "ak:fairbanks:2",
+          "prompt": "What happens if the city removes a dead animal because you don't?",
+          "choices": [
+            "The owner pays the cost through a court action.",
+            "The neighbor's animal shelter absorbs the bill.",
+            "The city charges nothing and drops it.",
+            "You get a warning instead of paying."
+          ],
+          "answer": "The owner pays the cost through a court action.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Regulations regarding animals in the Fairbanks North Star Borough Code, chapter 6,\n               entitled \"Animals,\" are applicable in the city. Cross reference— Health, ch. 34.\n\nIt shall be unlawful for any person to stall-feed any cattle, sheep or hogs or keep\n               them in any manner for the purpose of fattening the animal within the city. (Code 1960, § 10.228)\n\nThe owner of any animal which may die within the city shall, within 24 hours after\n               its death, remove and bury the animal outside the city limits or, alternatively, provide\n               for disposition of the animal at an animal shelter. If any person shall fail to comply\n               with the provisions of this section and shall fail to remove any dead animal belonging\n               to him, the director of public safety shall make such disposal of the animal as the\n               law directs; and the costs of such disposal shall be recovered of such owner by action\n               before the magistrate, with costs of suit. It shall be the duty of the director of\n               public safety to remove all dead animals at the cost of the city when the owner is\n               unknown or refuses or fails to comply with this provision, and to prosecute all persons\n               violating this section. (Code 1960, § 10.230) Cross reference— Solid waste, ch. 66 .\n\nFailure of a dog or cat owner to remove the excrement deposited by his dog or cat\n               on any public way or on another person's property is made a minor offense under Chapter 46 , Article IV, Division 3 Littering, Section 46-162 (10). ( Ord. No. 6010, § 3, 5-28-2016 )",
+          "sourceUrl": "https://library.municode.com/ak/fairbanks/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        },
+        {
+          "id": "ak:fairbanks:3",
+          "prompt": "What is the legal status of letting your dog poop on a sidewalk?",
+          "choices": [
+            "It is considered a major felony.",
+            "It counts as littering and is a minor offense.",
+            "It is only allowed on private property.",
+            "There are no rules about dog waste in the city."
+          ],
+          "answer": "It counts as littering and is a minor offense.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Regulations regarding animals in the Fairbanks North Star Borough Code, chapter 6,\n               entitled \"Animals,\" are applicable in the city. Cross reference— Health, ch. 34.\n\nIt shall be unlawful for any person to stall-feed any cattle, sheep or hogs or keep\n               them in any manner for the purpose of fattening the animal within the city. (Code 1960, § 10.228)\n\nThe owner of any animal which may die within the city shall, within 24 hours after\n               its death, remove and bury the animal outside the city limits or, alternatively, provide\n               for disposition of the animal at an animal shelter. If any person shall fail to comply\n               with the provisions of this section and shall fail to remove any dead animal belonging\n               to him, the director of public safety shall make such disposal of the animal as the\n               law directs; and the costs of such disposal shall be recovered of such owner by action\n               before the magistrate, with costs of suit. It shall be the duty of the director of\n               public safety to remove all dead animals at the cost of the city when the owner is\n               unknown or refuses or fails to comply with this provision, and to prosecute all persons\n               violating this section. (Code 1960, § 10.230) Cross reference— Solid waste, ch. 66 .\n\nFailure of a dog or cat owner to remove the excrement deposited by his dog or cat\n               on any public way or on another person's property is made a minor offense under Chapter 46 , Article IV, Division 3 Littering, Section 46-162 (10). ( Ord. No. 6010, § 3, 5-28-2016 )",
+          "sourceUrl": "https://library.municode.com/ak/fairbanks/codes/code_of_ordinances?nodeId=PTIICOOR_CH6AN"
+        }
+      ]
+    },
+    {
+      "id": "galena",
+      "name": "Galena",
+      "sourceIndex": "https://library.municode.com/ak/galena",
+      "questions": [
+        {
+          "id": "ak:galena:0",
+          "prompt": "Which streets are included in Road Service Area I—Old Townsite?",
+          "choices": [
+            "Eighth Avenue, J Street, Seventh Avenue, I Street, H Street, Sixth Avenue",
+            "Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive",
+            "Sparrow Lane, Eagle Drive, Falcon Drive, Raven Drive, and Ptarmigan Drive",
+            "Only streets that can be regularly maintained with current equipment"
+          ],
+          "answer": "Eighth Avenue, J Street, Seventh Avenue, I Street, H Street, Sixth Avenue",
+          "excerpt": "Sections:\n\nThe city assumes all powers necessary to provide road maintenance and construction\n               services within the city boundaries. (Prior code § 21.01.010)\n\nA. Road maintenance service areas shall be established as follows. Streets to be maintained\n               by the city within each service area shall be listed. 1. Road Service Area I—Old Townsite. Streets: Eighth Avenue, J Street, Seventh Avenue, I Street, H Street, Sixth Avenue,\n               G Street, Second Avenue, E Street, Fifth Avenue, Fourth Avenue, Third Avenue, F Street,\n               Ninth Avenue, C Street, B Street, Tenth Avenue and B Street. 2. Road Service Area II—Alexander Lake Townsite and Alexander Lake Townsite Subdivision\n                  I and II. Streets: Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive, Sooga\n               Drive, Tom Cook Loop, Louden Loop and Gabe's Drive. 3. Road Service Area III—Crow Creek Subdivision. Streets: Sparrow Lane, Eagle Drive, Falcon Drive, Raven Drive, and Ptarmigan Drive. B. The above named streets shall be regularly maintained by the city on the basis of\n               need and availability of equipment and labor. (Prior code § 21.01.020)\n\nThe city council may add new roads/streets to existing service areas or establish\n               new service areas by council resolution. (Prior code § 21.01.030)",
+          "sourceUrl": "https://library.municode.com/ak/galena/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:galena:1",
+          "prompt": "Can the city council add new streets to existing service areas?",
+          "choices": [
+            "Yes, by passing a resolution",
+            "No, only the city manager can add streets",
+            "Only if they are part of New Road Service Area IV",
+            "Not before the next budget approval"
+          ],
+          "answer": "Yes, by passing a resolution",
+          "excerpt": "Sections:\n\nThe city assumes all powers necessary to provide road maintenance and construction\n               services within the city boundaries. (Prior code § 21.01.010)\n\nA. Road maintenance service areas shall be established as follows. Streets to be maintained\n               by the city within each service area shall be listed. 1. Road Service Area I—Old Townsite. Streets: Eighth Avenue, J Street, Seventh Avenue, I Street, H Street, Sixth Avenue,\n               G Street, Second Avenue, E Street, Fifth Avenue, Fourth Avenue, Third Avenue, F Street,\n               Ninth Avenue, C Street, B Street, Tenth Avenue and B Street. 2. Road Service Area II—Alexander Lake Townsite and Alexander Lake Townsite Subdivision\n                  I and II. Streets: Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive, Sooga\n               Drive, Tom Cook Loop, Louden Loop and Gabe's Drive. 3. Road Service Area III—Crow Creek Subdivision. Streets: Sparrow Lane, Eagle Drive, Falcon Drive, Raven Drive, and Ptarmigan Drive. B. The above named streets shall be regularly maintained by the city on the basis of\n               need and availability of equipment and labor. (Prior code § 21.01.020)\n\nThe city council may add new roads/streets to existing service areas or establish\n               new service areas by council resolution. (Prior code § 21.01.030)",
+          "sourceUrl": "https://library.municode.com/ak/galena/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:galena:2",
+          "prompt": "What determines how often streets in Road Service Area III are maintained?",
+          "choices": [
+            "Every Monday at 7 AM",
+            "Year-round regardless of conditions",
+            "Need and availability of equipment and labor",
+            "Only when residents complain"
+          ],
+          "answer": "Need and availability of equipment and labor",
+          "excerpt": "Sections:\n\nThe city assumes all powers necessary to provide road maintenance and construction\n               services within the city boundaries. (Prior code § 21.01.010)\n\nA. Road maintenance service areas shall be established as follows. Streets to be maintained\n               by the city within each service area shall be listed. 1. Road Service Area I—Old Townsite. Streets: Eighth Avenue, J Street, Seventh Avenue, I Street, H Street, Sixth Avenue,\n               G Street, Second Avenue, E Street, Fifth Avenue, Fourth Avenue, Third Avenue, F Street,\n               Ninth Avenue, C Street, B Street, Tenth Avenue and B Street. 2. Road Service Area II—Alexander Lake Townsite and Alexander Lake Townsite Subdivision\n                  I and II. Streets: Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive, Sooga\n               Drive, Tom Cook Loop, Louden Loop and Gabe's Drive. 3. Road Service Area III—Crow Creek Subdivision. Streets: Sparrow Lane, Eagle Drive, Falcon Drive, Raven Drive, and Ptarmigan Drive. B. The above named streets shall be regularly maintained by the city on the basis of\n               need and availability of equipment and labor. (Prior code § 21.01.020)\n\nThe city council may add new roads/streets to existing service areas or establish\n               new service areas by council resolution. (Prior code § 21.01.030)",
+          "sourceUrl": "https://library.municode.com/ak/galena/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:galena:3",
+          "prompt": "Which streets belong to Road Service Area II?",
+          "choices": [
+            "C Street, B Street, Tenth Avenue and B Street",
+            "Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive, Sooga Drive, Tom Cook Loop, Louden Loop and Gabe's Drive",
+            "Eighth Avenue, J Street, Seventh Avenue, I Street, H Street",
+            "Sparrow Lane, Eagle Drive, Falcon Drive"
+          ],
+          "answer": "Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive, Sooga Drive, Tom Cook Loop, Louden Loop and Gabe's Drive",
+          "excerpt": "Sections:\n\nThe city assumes all powers necessary to provide road maintenance and construction\n               services within the city boundaries. (Prior code § 21.01.010)\n\nA. Road maintenance service areas shall be established as follows. Streets to be maintained\n               by the city within each service area shall be listed. 1. Road Service Area I—Old Townsite. Streets: Eighth Avenue, J Street, Seventh Avenue, I Street, H Street, Sixth Avenue,\n               G Street, Second Avenue, E Street, Fifth Avenue, Fourth Avenue, Third Avenue, F Street,\n               Ninth Avenue, C Street, B Street, Tenth Avenue and B Street. 2. Road Service Area II—Alexander Lake Townsite and Alexander Lake Townsite Subdivision\n                  I and II. Streets: Antoski Avenue, Alexander Avenue, Deenaga Lane, George Jimmie Drive, Sooga\n               Drive, Tom Cook Loop, Louden Loop and Gabe's Drive. 3. Road Service Area III—Crow Creek Subdivision. Streets: Sparrow Lane, Eagle Drive, Falcon Drive, Raven Drive, and Ptarmigan Drive. B. The above named streets shall be regularly maintained by the city on the basis of\n               need and availability of equipment and labor. (Prior code § 21.01.020)\n\nThe city council may add new roads/streets to existing service areas or establish\n               new service areas by council resolution. (Prior code § 21.01.030)",
+          "sourceUrl": "https://library.municode.com/ak/galena/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "gustavus",
+      "name": "Gustavus",
+      "sourceIndex": "https://library.municode.com/ak/gustavus",
+      "questions": [
+        {
+          "id": "ak:gustavus:0",
+          "prompt": "When is the Day of certification of the election?",
+          "choices": [
+            "The date the city council is scheduled to certify the results, or 14 days after the election.",
+            "30 days after the election.",
+            "On election day itself.",
+            "The first Tuesday of October."
+          ],
+          "answer": "The date the city council is scheduled to certify the results, or 14 days after the election.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Ordinance first published August 12, 2004; ordinance adopted August 19, 2004; changes\n               to ordinance published April 13, 2006; changes to ordinance adopted May 11, 2006.\n\nSections: Footnotes: --- ( 2 ) --- Editor's note— Ord. No. FY21-15 , § 3, adopted Feb. 8, 2021, amended Ch. 5.10 in its entirety to read as herein set\n               out. Former Ch. 5.10, §§ 5.10.010—5.10.140, pertained to similar subject matter, and\n               derived from Code of 2013; and Ord. No. FY19-03 , § 3, adopted Sept. 17, 2018.\n\nBallot: Any document provided by the Clerk on which votes may be cast for candidates, propositions,\n               or questions. City: The City of Gustavus. Clerk: The city clerk or any properly authorized assistant to the city clerk. Day of certification of the election: The day of the certification of the election is the date the city council is scheduled\n               to certify the entirety of the election results or fourteen (14) days after the date\n               of the election, whichever is earlier. Election: Includes any regular or special city election. Election board: Is comprised of the election judges. Election board chair: One judge is designated chair of the board by the city clerk. Election judges: Appointed by the city clerk and approved by resolution of the council to serve at\n               the polling place on the day of the election. Election official: Includes election judges, the city clerk, election review committee, counting teams,\n               election clerks and absentee voting officials. Election review committee: City of Gustavus council members serve in this capacity. Majority vote: More than half of the votes cast. Oath: Any form or attestation by which a person signifies the person is bound in conscience\n               to perform and act faithfully and truthfully. \"Oath\" includes affirmations. Proposition: A proposal offered for acceptance or rejection, which is stated as a…",
+          "sourceUrl": "https://library.municode.com/ak/gustavus/codes/code_of_ordinances?nodeId=CD_ORD_TIT5EL"
+        },
+        {
+          "id": "ak:gustavus:1",
+          "prompt": "Who appoints the election judges for city elections?",
+          "choices": [
+            "The Mayor.",
+            "The City Council.",
+            "A random draw.",
+            "The city clerk."
+          ],
+          "answer": "The city clerk.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Ordinance first published August 12, 2004; ordinance adopted August 19, 2004; changes\n               to ordinance published April 13, 2006; changes to ordinance adopted May 11, 2006.\n\nSections: Footnotes: --- ( 2 ) --- Editor's note— Ord. No. FY21-15 , § 3, adopted Feb. 8, 2021, amended Ch. 5.10 in its entirety to read as herein set\n               out. Former Ch. 5.10, §§ 5.10.010—5.10.140, pertained to similar subject matter, and\n               derived from Code of 2013; and Ord. No. FY19-03 , § 3, adopted Sept. 17, 2018.\n\nBallot: Any document provided by the Clerk on which votes may be cast for candidates, propositions,\n               or questions. City: The City of Gustavus. Clerk: The city clerk or any properly authorized assistant to the city clerk. Day of certification of the election: The day of the certification of the election is the date the city council is scheduled\n               to certify the entirety of the election results or fourteen (14) days after the date\n               of the election, whichever is earlier. Election: Includes any regular or special city election. Election board: Is comprised of the election judges. Election board chair: One judge is designated chair of the board by the city clerk. Election judges: Appointed by the city clerk and approved by resolution of the council to serve at\n               the polling place on the day of the election. Election official: Includes election judges, the city clerk, election review committee, counting teams,\n               election clerks and absentee voting officials. Election review committee: City of Gustavus council members serve in this capacity. Majority vote: More than half of the votes cast. Oath: Any form or attestation by which a person signifies the person is bound in conscience\n               to perform and act faithfully and truthfully. \"Oath\" includes affirmations. Proposition: A proposal offered for acceptance or rejection, which is stated as a…",
+          "sourceUrl": "https://library.municode.com/ak/gustavus/codes/code_of_ordinances?nodeId=CD_ORD_TIT5EL"
+        },
+        {
+          "id": "ak:gustavus:2",
+          "prompt": "What does the term \"Questioned voter\" include?",
+          "choices": [
+            "Someone whose name does not appear on the register.",
+            "People who vote early for no reason.",
+            "Voters who wear sunglasses.",
+            "Only mail-in voters."
+          ],
+          "answer": "Someone whose name does not appear on the register.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Ordinance first published August 12, 2004; ordinance adopted August 19, 2004; changes\n               to ordinance published April 13, 2006; changes to ordinance adopted May 11, 2006.\n\nSections: Footnotes: --- ( 2 ) --- Editor's note— Ord. No. FY21-15 , § 3, adopted Feb. 8, 2021, amended Ch. 5.10 in its entirety to read as herein set\n               out. Former Ch. 5.10, §§ 5.10.010—5.10.140, pertained to similar subject matter, and\n               derived from Code of 2013; and Ord. No. FY19-03 , § 3, adopted Sept. 17, 2018.\n\nBallot: Any document provided by the Clerk on which votes may be cast for candidates, propositions,\n               or questions. City: The City of Gustavus. Clerk: The city clerk or any properly authorized assistant to the city clerk. Day of certification of the election: The day of the certification of the election is the date the city council is scheduled\n               to certify the entirety of the election results or fourteen (14) days after the date\n               of the election, whichever is earlier. Election: Includes any regular or special city election. Election board: Is comprised of the election judges. Election board chair: One judge is designated chair of the board by the city clerk. Election judges: Appointed by the city clerk and approved by resolution of the council to serve at\n               the polling place on the day of the election. Election official: Includes election judges, the city clerk, election review committee, counting teams,\n               election clerks and absentee voting officials. Election review committee: City of Gustavus council members serve in this capacity. Majority vote: More than half of the votes cast. Oath: Any form or attestation by which a person signifies the person is bound in conscience\n               to perform and act faithfully and truthfully. \"Oath\" includes affirmations. Proposition: A proposal offered for acceptance or rejection, which is stated as a…",
+          "sourceUrl": "https://library.municode.com/ak/gustavus/codes/code_of_ordinances?nodeId=CD_ORD_TIT5EL"
+        },
+        {
+          "id": "ak:gustavus:3",
+          "prompt": "How many days before a city election must someone be registered to vote in the precinct?",
+          "choices": [
+            "60 days.",
+            "90 days.",
+            "30 calendar days.",
+            "14 days."
+          ],
+          "answer": "30 calendar days.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Ordinance first published August 12, 2004; ordinance adopted August 19, 2004; changes\n               to ordinance published April 13, 2006; changes to ordinance adopted May 11, 2006.\n\nSections: Footnotes: --- ( 2 ) --- Editor's note— Ord. No. FY21-15 , § 3, adopted Feb. 8, 2021, amended Ch. 5.10 in its entirety to read as herein set\n               out. Former Ch. 5.10, §§ 5.10.010—5.10.140, pertained to similar subject matter, and\n               derived from Code of 2013; and Ord. No. FY19-03 , § 3, adopted Sept. 17, 2018.\n\nBallot: Any document provided by the Clerk on which votes may be cast for candidates, propositions,\n               or questions. City: The City of Gustavus. Clerk: The city clerk or any properly authorized assistant to the city clerk. Day of certification of the election: The day of the certification of the election is the date the city council is scheduled\n               to certify the entirety of the election results or fourteen (14) days after the date\n               of the election, whichever is earlier. Election: Includes any regular or special city election. Election board: Is comprised of the election judges. Election board chair: One judge is designated chair of the board by the city clerk. Election judges: Appointed by the city clerk and approved by resolution of the council to serve at\n               the polling place on the day of the election. Election official: Includes election judges, the city clerk, election review committee, counting teams,\n               election clerks and absentee voting officials. Election review committee: City of Gustavus council members serve in this capacity. Majority vote: More than half of the votes cast. Oath: Any form or attestation by which a person signifies the person is bound in conscience\n               to perform and act faithfully and truthfully. \"Oath\" includes affirmations. Proposition: A proposal offered for acceptance or rejection, which is stated as a…",
+          "sourceUrl": "https://library.municode.com/ak/gustavus/codes/code_of_ordinances?nodeId=CD_ORD_TIT5EL"
+        },
+        {
+          "id": "ak:gustavus:4",
+          "prompt": "What is the regular city election in Gustavus?",
+          "choices": [
+            "The last Monday of September.",
+            "The first Tuesday of October annually, unless specified by ordinance.",
+            "Every four years in May.",
+            "Whichever day the election board picks."
+          ],
+          "answer": "The first Tuesday of October annually, unless specified by ordinance.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- Ordinance first published August 12, 2004; ordinance adopted August 19, 2004; changes\n               to ordinance published April 13, 2006; changes to ordinance adopted May 11, 2006.\n\nSections: Footnotes: --- ( 2 ) --- Editor's note— Ord. No. FY21-15 , § 3, adopted Feb. 8, 2021, amended Ch. 5.10 in its entirety to read as herein set\n               out. Former Ch. 5.10, §§ 5.10.010—5.10.140, pertained to similar subject matter, and\n               derived from Code of 2013; and Ord. No. FY19-03 , § 3, adopted Sept. 17, 2018.\n\nBallot: Any document provided by the Clerk on which votes may be cast for candidates, propositions,\n               or questions. City: The City of Gustavus. Clerk: The city clerk or any properly authorized assistant to the city clerk. Day of certification of the election: The day of the certification of the election is the date the city council is scheduled\n               to certify the entirety of the election results or fourteen (14) days after the date\n               of the election, whichever is earlier. Election: Includes any regular or special city election. Election board: Is comprised of the election judges. Election board chair: One judge is designated chair of the board by the city clerk. Election judges: Appointed by the city clerk and approved by resolution of the council to serve at\n               the polling place on the day of the election. Election official: Includes election judges, the city clerk, election review committee, counting teams,\n               election clerks and absentee voting officials. Election review committee: City of Gustavus council members serve in this capacity. Majority vote: More than half of the votes cast. Oath: Any form or attestation by which a person signifies the person is bound in conscience\n               to perform and act faithfully and truthfully. \"Oath\" includes affirmations. Proposition: A proposal offered for acceptance or rejection, which is stated as a…",
+          "sourceUrl": "https://library.municode.com/ak/gustavus/codes/code_of_ordinances?nodeId=CD_ORD_TIT5EL"
+        }
+      ]
+    },
+    {
+      "id": "hoonah",
+      "name": "Hoonah",
+      "sourceIndex": "https://library.municode.com/ak/hoonah",
+      "questions": [
+        {
+          "id": "ak:hoonah:0",
+          "prompt": "If a traffic violation does not have a fine amount listed and is followed by the letters 'MCA', what must you do before the ticket is dismissed?",
+          "choices": [
+            "Pay the fine within five days",
+            "Make a mandatory court appearance",
+            "Wait for a letter from the police chief",
+            "Send a plea of no contest to mail"
+          ],
+          "answer": "Make a mandatory court appearance",
+          "excerpt": "The state uniform traffic laws found in administrative code 13 AAC and AS 28 are adopted\n               in their entirety by the ordinance codified in this section and made a part of the\n               city of Hoonah Code by reference. (Ord. 07-02-04 § 2 (part))\n\nA. The traffic bail forfeiture schedule in AdR 43.1, 43.6 and 43.8, adopted and amended\n               from time to time by the Alaska Supreme Court pursuant to AS 28.05.151(a), are adopted\n               as the schedule of fines for violations of the provisions of this title that adopt\n               an Alaska Statute or state regulation by reference. B. The scheduled amount of fine for an offense that is committed in a highway work zone\n               shall be double the amount of the fine for the offense if it had not been committed\n               in a highway work zone. C. When an officer charges a traffic offense, the officer must cite both this code and\n               the corresponding Alaska Statute or Alaska Administrative Code section. D. A citation for a violation of a provision of this title that does not adopt by reference\n               a provision of the state motor vehicle laws shall reference only the appropriate city\n               code section. (Ord. 07-02-04 § 2 (part))\n\nViolation of a provision of this title constitutes a lesser offense deemed regulatory\n               in nature for which a fine of not to exceed three hundred dollars ($300.00) may be\n               imposed upon conviction, if no fine amount is specified. (Ord. 07-02-04 § 2 (part))\n\nIn the event conflicting maximum penalties are prescribed by adopted statute or regulation,\n               or by the traffic bail forfeiture schedule, or by separate code section, the lesser\n               penalty shall be the controlling maximum. (Ord. 07-02-04 § 2 (part))\n\nA. Violation of a provision of this title that is followed by the letters \"MCA\" or for\n               which no fine amount is shown shall require a mandatory court…",
+          "sourceUrl": "https://library.municode.com/ak/hoonah/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ak:hoonah:1",
+          "prompt": "According to the ordinance, what happens if there is a conflict between a penalty set by state law and one set in the city code?",
+          "choices": [
+            "The state penalty is always used",
+            "You have to pay the higher fine to be safe",
+            "The lesser penalty becomes the controlling maximum",
+            "You must appeal to the Alaska Supreme Court"
+          ],
+          "answer": "The lesser penalty becomes the controlling maximum",
+          "excerpt": "The state uniform traffic laws found in administrative code 13 AAC and AS 28 are adopted\n               in their entirety by the ordinance codified in this section and made a part of the\n               city of Hoonah Code by reference. (Ord. 07-02-04 § 2 (part))\n\nA. The traffic bail forfeiture schedule in AdR 43.1, 43.6 and 43.8, adopted and amended\n               from time to time by the Alaska Supreme Court pursuant to AS 28.05.151(a), are adopted\n               as the schedule of fines for violations of the provisions of this title that adopt\n               an Alaska Statute or state regulation by reference. B. The scheduled amount of fine for an offense that is committed in a highway work zone\n               shall be double the amount of the fine for the offense if it had not been committed\n               in a highway work zone. C. When an officer charges a traffic offense, the officer must cite both this code and\n               the corresponding Alaska Statute or Alaska Administrative Code section. D. A citation for a violation of a provision of this title that does not adopt by reference\n               a provision of the state motor vehicle laws shall reference only the appropriate city\n               code section. (Ord. 07-02-04 § 2 (part))\n\nViolation of a provision of this title constitutes a lesser offense deemed regulatory\n               in nature for which a fine of not to exceed three hundred dollars ($300.00) may be\n               imposed upon conviction, if no fine amount is specified. (Ord. 07-02-04 § 2 (part))\n\nIn the event conflicting maximum penalties are prescribed by adopted statute or regulation,\n               or by the traffic bail forfeiture schedule, or by separate code section, the lesser\n               penalty shall be the controlling maximum. (Ord. 07-02-04 § 2 (part))\n\nA. Violation of a provision of this title that is followed by the letters \"MCA\" or for\n               which no fine amount is shown shall require a mandatory court…",
+          "sourceUrl": "https://library.municode.com/ak/hoonah/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ak:hoonah:2",
+          "prompt": "When can a person pay a traffic fine directly without going to court and pleading no contest?",
+          "choices": [
+            "Within ten days of receiving the citation",
+            "After receiving a letter from the clerk of the district court",
+            "Within five days after the citation is issued",
+            "Only for violations marked with 'Corr'"
+          ],
+          "answer": "Within five days after the citation is issued",
+          "excerpt": "The state uniform traffic laws found in administrative code 13 AAC and AS 28 are adopted\n               in their entirety by the ordinance codified in this section and made a part of the\n               city of Hoonah Code by reference. (Ord. 07-02-04 § 2 (part))\n\nA. The traffic bail forfeiture schedule in AdR 43.1, 43.6 and 43.8, adopted and amended\n               from time to time by the Alaska Supreme Court pursuant to AS 28.05.151(a), are adopted\n               as the schedule of fines for violations of the provisions of this title that adopt\n               an Alaska Statute or state regulation by reference. B. The scheduled amount of fine for an offense that is committed in a highway work zone\n               shall be double the amount of the fine for the offense if it had not been committed\n               in a highway work zone. C. When an officer charges a traffic offense, the officer must cite both this code and\n               the corresponding Alaska Statute or Alaska Administrative Code section. D. A citation for a violation of a provision of this title that does not adopt by reference\n               a provision of the state motor vehicle laws shall reference only the appropriate city\n               code section. (Ord. 07-02-04 § 2 (part))\n\nViolation of a provision of this title constitutes a lesser offense deemed regulatory\n               in nature for which a fine of not to exceed three hundred dollars ($300.00) may be\n               imposed upon conviction, if no fine amount is specified. (Ord. 07-02-04 § 2 (part))\n\nIn the event conflicting maximum penalties are prescribed by adopted statute or regulation,\n               or by the traffic bail forfeiture schedule, or by separate code section, the lesser\n               penalty shall be the controlling maximum. (Ord. 07-02-04 § 2 (part))\n\nA. Violation of a provision of this title that is followed by the letters \"MCA\" or for\n               which no fine amount is shown shall require a mandatory court…",
+          "sourceUrl": "https://library.municode.com/ak/hoonah/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ak:hoonah:3",
+          "prompt": "What role does the city council play in setting up bus stops on Hoonah streets?",
+          "choices": [
+            "They automatically approve any location the police pick",
+            "The council's committees deny every proposal to save money",
+            "The council must affirm or deny the police chief's specific recommendations after committee review",
+            "They decide where stops go instead of the chief of police"
+          ],
+          "answer": "The council must affirm or deny the police chief's specific recommendations after committee review",
+          "excerpt": "The state uniform traffic laws found in administrative code 13 AAC and AS 28 are adopted\n               in their entirety by the ordinance codified in this section and made a part of the\n               city of Hoonah Code by reference. (Ord. 07-02-04 § 2 (part))\n\nA. The traffic bail forfeiture schedule in AdR 43.1, 43.6 and 43.8, adopted and amended\n               from time to time by the Alaska Supreme Court pursuant to AS 28.05.151(a), are adopted\n               as the schedule of fines for violations of the provisions of this title that adopt\n               an Alaska Statute or state regulation by reference. B. The scheduled amount of fine for an offense that is committed in a highway work zone\n               shall be double the amount of the fine for the offense if it had not been committed\n               in a highway work zone. C. When an officer charges a traffic offense, the officer must cite both this code and\n               the corresponding Alaska Statute or Alaska Administrative Code section. D. A citation for a violation of a provision of this title that does not adopt by reference\n               a provision of the state motor vehicle laws shall reference only the appropriate city\n               code section. (Ord. 07-02-04 § 2 (part))\n\nViolation of a provision of this title constitutes a lesser offense deemed regulatory\n               in nature for which a fine of not to exceed three hundred dollars ($300.00) may be\n               imposed upon conviction, if no fine amount is specified. (Ord. 07-02-04 § 2 (part))\n\nIn the event conflicting maximum penalties are prescribed by adopted statute or regulation,\n               or by the traffic bail forfeiture schedule, or by separate code section, the lesser\n               penalty shall be the controlling maximum. (Ord. 07-02-04 § 2 (part))\n\nA. Violation of a provision of this title that is followed by the letters \"MCA\" or for\n               which no fine amount is shown shall require a mandatory court…",
+          "sourceUrl": "https://library.municode.com/ak/hoonah/codes/code_of_ordinances?nodeId=TIT10VETR"
+        },
+        {
+          "id": "ak:hoonah:4",
+          "prompt": "What is the maximum fine you could face if a traffic violation does not list a specific dollar amount?",
+          "choices": [
+            "$100",
+            "$300.00",
+            "$500.00",
+            "Double the base rate for work zones"
+          ],
+          "answer": "$300.00",
+          "excerpt": "The state uniform traffic laws found in administrative code 13 AAC and AS 28 are adopted\n               in their entirety by the ordinance codified in this section and made a part of the\n               city of Hoonah Code by reference. (Ord. 07-02-04 § 2 (part))\n\nA. The traffic bail forfeiture schedule in AdR 43.1, 43.6 and 43.8, adopted and amended\n               from time to time by the Alaska Supreme Court pursuant to AS 28.05.151(a), are adopted\n               as the schedule of fines for violations of the provisions of this title that adopt\n               an Alaska Statute or state regulation by reference. B. The scheduled amount of fine for an offense that is committed in a highway work zone\n               shall be double the amount of the fine for the offense if it had not been committed\n               in a highway work zone. C. When an officer charges a traffic offense, the officer must cite both this code and\n               the corresponding Alaska Statute or Alaska Administrative Code section. D. A citation for a violation of a provision of this title that does not adopt by reference\n               a provision of the state motor vehicle laws shall reference only the appropriate city\n               code section. (Ord. 07-02-04 § 2 (part))\n\nViolation of a provision of this title constitutes a lesser offense deemed regulatory\n               in nature for which a fine of not to exceed three hundred dollars ($300.00) may be\n               imposed upon conviction, if no fine amount is specified. (Ord. 07-02-04 § 2 (part))\n\nIn the event conflicting maximum penalties are prescribed by adopted statute or regulation,\n               or by the traffic bail forfeiture schedule, or by separate code section, the lesser\n               penalty shall be the controlling maximum. (Ord. 07-02-04 § 2 (part))\n\nA. Violation of a provision of this title that is followed by the letters \"MCA\" or for\n               which no fine amount is shown shall require a mandatory court…",
+          "sourceUrl": "https://library.municode.com/ak/hoonah/codes/code_of_ordinances?nodeId=TIT10VETR"
+        }
+      ]
+    },
+    {
+      "id": "juneau",
+      "name": "Juneau",
+      "sourceIndex": "https://library.municode.com/ak/juneau",
+      "questions": [
+        {
+          "id": "ak:juneau:0",
+          "prompt": "What does the ordinance define as 'abandoning' an animal?",
+          "choices": [
+            "Leaving an animal for less than 12 hours.",
+            "Leaving an animal for more than 24 continuous hours without adequate provision for its physical needs.",
+            "Leaving an animal with a neighbor to watch.",
+            "Leaving an animal in the backyard without a fence."
+          ],
+          "answer": "Leaving an animal for more than 24 continuous hours without adequate provision for its physical needs.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety, to read as herein set out. See also the Code Comparative\n               Table for a detailed analysis of inclusion. Cross reference— Animal control, CBJ Code § 03.30.054; health and sanitation, CBJ Code tit. 36; animals on public premises, CBJ Code ch. 36.25; animals on highways and other areas, CBJ Code § 72.02.505. State Law reference— Animals, AS 03.05.010 et seq.\n\nFootnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety. See also the Code Comparative Table.\n\nThe following words, terms and phrases when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Abandon means to leave an animal for a period in excess of 24 continuous hours without adequate\n               provision for its physical needs. Altered animal means any animal which has been surgically or pharmacologically sterilized. Animal means all domesticated nonhuman members of the kingdom Animalia. Animal control officer means the director of animal control and the employees of any entity to whom the\n               function of animal control and protection has been contracted pursuant to section 08.10.010 who serve as enforcement agents. Animal shelter means any premises designated by the manager or the manager's designee for the purpose\n               of impounding and caring for animals pursuant to this title. At large means any animal which is not under restraint. Canidae hybrid means an owned and domesticated offspring of a wild member of the genus and the family\n               Canidae bred to a member of the genus and species Canis familiaris. Competent voice control means when all the following are…",
+          "sourceUrl": "https://library.municode.com/ak/juneau/codes/code_of_ordinances?nodeId=PTIICOOR_TIT08ANCOPR"
+        },
+        {
+          "id": "ak:juneau:1",
+          "prompt": "What is the standard for 'voice control' of an animal?",
+          "choices": [
+            "The person must be able to yell at the animal to make it stop.",
+            "The person must always be using hand signals instead of voice.",
+            "The animal must follow verbal commands quickly and accurately while the person is present and monitoring its activities.",
+            "Voice control only applies to dangerous dogs."
+          ],
+          "answer": "The animal must follow verbal commands quickly and accurately while the person is present and monitoring its activities.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety, to read as herein set out. See also the Code Comparative\n               Table for a detailed analysis of inclusion. Cross reference— Animal control, CBJ Code § 03.30.054; health and sanitation, CBJ Code tit. 36; animals on public premises, CBJ Code ch. 36.25; animals on highways and other areas, CBJ Code § 72.02.505. State Law reference— Animals, AS 03.05.010 et seq.\n\nFootnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety. See also the Code Comparative Table.\n\nThe following words, terms and phrases when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Abandon means to leave an animal for a period in excess of 24 continuous hours without adequate\n               provision for its physical needs. Altered animal means any animal which has been surgically or pharmacologically sterilized. Animal means all domesticated nonhuman members of the kingdom Animalia. Animal control officer means the director of animal control and the employees of any entity to whom the\n               function of animal control and protection has been contracted pursuant to section 08.10.010 who serve as enforcement agents. Animal shelter means any premises designated by the manager or the manager's designee for the purpose\n               of impounding and caring for animals pursuant to this title. At large means any animal which is not under restraint. Canidae hybrid means an owned and domesticated offspring of a wild member of the genus and the family\n               Canidae bred to a member of the genus and species Canis familiaris. Competent voice control means when all the following are…",
+          "sourceUrl": "https://library.municode.com/ak/juneau/codes/code_of_ordinances?nodeId=PTIICOOR_TIT08ANCOPR"
+        },
+        {
+          "id": "ak:juneau:2",
+          "prompt": "What animals are specifically excluded from being called 'dogs' under this ordinance?",
+          "choices": [
+            "Cats and birds.",
+            "Ferrets and guinea pigs.",
+            "Foxes, coyotes, wolves, or other game species regulated by the state of Alaska.",
+            "Wild members of the Canidae family."
+          ],
+          "answer": "Foxes, coyotes, wolves, or other game species regulated by the state of Alaska.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety, to read as herein set out. See also the Code Comparative\n               Table for a detailed analysis of inclusion. Cross reference— Animal control, CBJ Code § 03.30.054; health and sanitation, CBJ Code tit. 36; animals on public premises, CBJ Code ch. 36.25; animals on highways and other areas, CBJ Code § 72.02.505. State Law reference— Animals, AS 03.05.010 et seq.\n\nFootnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety. See also the Code Comparative Table.\n\nThe following words, terms and phrases when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Abandon means to leave an animal for a period in excess of 24 continuous hours without adequate\n               provision for its physical needs. Altered animal means any animal which has been surgically or pharmacologically sterilized. Animal means all domesticated nonhuman members of the kingdom Animalia. Animal control officer means the director of animal control and the employees of any entity to whom the\n               function of animal control and protection has been contracted pursuant to section 08.10.010 who serve as enforcement agents. Animal shelter means any premises designated by the manager or the manager's designee for the purpose\n               of impounding and caring for animals pursuant to this title. At large means any animal which is not under restraint. Canidae hybrid means an owned and domesticated offspring of a wild member of the genus and the family\n               Canidae bred to a member of the genus and species Canis familiaris. Competent voice control means when all the following are…",
+          "sourceUrl": "https://library.municode.com/ak/juneau/codes/code_of_ordinances?nodeId=PTIICOOR_TIT08ANCOPR"
+        },
+        {
+          "id": "ak:juneau:3",
+          "prompt": "What counts as a 'domestic animal' under this title?",
+          "choices": [
+            "Any member of the kingdom Animalia.",
+            "Dog, cat, ferret, guinea pig, gerbil, snake, lizard, or bird.",
+            "Animals kept under state or federal permits are not considered domestic animals here.",
+            "Canis familiaris only."
+          ],
+          "answer": "Dog, cat, ferret, guinea pig, gerbil, snake, lizard, or bird.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety, to read as herein set out. See also the Code Comparative\n               Table for a detailed analysis of inclusion. Cross reference— Animal control, CBJ Code § 03.30.054; health and sanitation, CBJ Code tit. 36; animals on public premises, CBJ Code ch. 36.25; animals on highways and other areas, CBJ Code § 72.02.505. State Law reference— Animals, AS 03.05.010 et seq.\n\nFootnotes: --- ( 1 ) --- Editor's note— Serial No. 2009-12(d), § 2, adopted October 12, 2009, effective November 12, 2009,\n               amended Title 8, in its entirety. See also the Code Comparative Table.\n\nThe following words, terms and phrases when used in this title, shall have the meanings\n               ascribed to them in this section, except where the context clearly indicates a different\n               meaning: Abandon means to leave an animal for a period in excess of 24 continuous hours without adequate\n               provision for its physical needs. Altered animal means any animal which has been surgically or pharmacologically sterilized. Animal means all domesticated nonhuman members of the kingdom Animalia. Animal control officer means the director of animal control and the employees of any entity to whom the\n               function of animal control and protection has been contracted pursuant to section 08.10.010 who serve as enforcement agents. Animal shelter means any premises designated by the manager or the manager's designee for the purpose\n               of impounding and caring for animals pursuant to this title. At large means any animal which is not under restraint. Canidae hybrid means an owned and domesticated offspring of a wild member of the genus and the family\n               Canidae bred to a member of the genus and species Canis familiaris. Competent voice control means when all the following are…",
+          "sourceUrl": "https://library.municode.com/ak/juneau/codes/code_of_ordinances?nodeId=PTIICOOR_TIT08ANCOPR"
+        }
+      ]
+    },
+    {
+      "id": "kenai-peninsula-borough",
+      "name": "Kenai Peninsula Borough",
+      "sourceIndex": "https://library.municode.com/ak/kenai_peninsula_borough",
+      "questions": [
+        {
+          "id": "ak:kenai-peninsula-borough:0",
+          "prompt": "If the Mayor gets an easement from a landowner for road improvement projects that cost no more than $10,000 per easement, does the Assembly need to approve it?",
+          "choices": [
+            "Yes, all easements require Assembly approval.",
+            "No, the Mayor can do this without Assembly approval up to $10,000 per easement.",
+            "Yes, but only if the owner asks for it.",
+            "It depends on how much land is involved."
+          ],
+          "answer": "No, the Mayor can do this without Assembly approval up to $10,000 per easement.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2011-15, § 1, adopted June 21, 2011, amended the Code by renaming Ch. 14.04.\n               Formerly, Ch. 14.04 was entitled \"Road Construction and Right-of-Way Acquisition.\"\n\nEditor's note— Ord. No. 2011-15, § 2, adopted June 21, 2011, amended the Code by repealing former\n               § 14.04.010 in its entirety. Former § 14.04.010 pertained to general provisions, and\n               derived from Ord. No. 81-86 of 1981.\n\nA. Right-of-way acquisition may be accomplished by the methods set forth in KPB 17.10.030 (A), (B) and (C). B. In accord with KPB 17.10.030 (B)(4) the Borough Mayor may acquire easements from property owners for the purpose\n               of road service area improvement and maintenance projects not to exceed $10,000.00\n               per easement without Assembly approval. C. There is adopted a Borough policy governing right-of-way acquisitions, to be effective\n               when the borough administration and the private property owner(s) affected cannot\n               reach agreement on the right-of-way acquisition as follows: 1. The borough administration shall have an appraisal made of the property. Property\n               owner(s) may have additional appraisals made for assembly consideration at their own\n               expense. The appraisal shall be conducted in accordance with procedures established\n               by the Alaska Department of Transportation for acquisition of right-of-way. 2. The highest price paid for the land needed for the right-of-way shall not exceed the\n               highest appraised value, or the assembly may elect not to acquire the right-of-way\n               when the matter is presented to it. 3. The Borough shall compensate the private owner(s) for the land needed for the right-of-way\n               by payment of money, and not by any other method. Compensation for direct damage such\n               as relocation of fences, septic systems, wells, etc., will…",
+          "sourceUrl": "https://library.municode.com/ak/kenai_peninsula_borough/codes/code_of_ordinances?nodeId=TIT14STSIROTR"
+        },
+        {
+          "id": "ak:kenai-peninsula-borough:1",
+          "prompt": "What is the maximum amount the Borough must pay for land needed to take a right-of-way?",
+          "choices": [
+            "There is no limit on how much they can pay.",
+            "The highest price cannot exceed the highest appraised value of the property.",
+            "$10,000 flat, no matter what.",
+            "It depends on how long the road is."
+          ],
+          "answer": "The highest price cannot exceed the highest appraised value of the property.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2011-15, § 1, adopted June 21, 2011, amended the Code by renaming Ch. 14.04.\n               Formerly, Ch. 14.04 was entitled \"Road Construction and Right-of-Way Acquisition.\"\n\nEditor's note— Ord. No. 2011-15, § 2, adopted June 21, 2011, amended the Code by repealing former\n               § 14.04.010 in its entirety. Former § 14.04.010 pertained to general provisions, and\n               derived from Ord. No. 81-86 of 1981.\n\nA. Right-of-way acquisition may be accomplished by the methods set forth in KPB 17.10.030 (A), (B) and (C). B. In accord with KPB 17.10.030 (B)(4) the Borough Mayor may acquire easements from property owners for the purpose\n               of road service area improvement and maintenance projects not to exceed $10,000.00\n               per easement without Assembly approval. C. There is adopted a Borough policy governing right-of-way acquisitions, to be effective\n               when the borough administration and the private property owner(s) affected cannot\n               reach agreement on the right-of-way acquisition as follows: 1. The borough administration shall have an appraisal made of the property. Property\n               owner(s) may have additional appraisals made for assembly consideration at their own\n               expense. The appraisal shall be conducted in accordance with procedures established\n               by the Alaska Department of Transportation for acquisition of right-of-way. 2. The highest price paid for the land needed for the right-of-way shall not exceed the\n               highest appraised value, or the assembly may elect not to acquire the right-of-way\n               when the matter is presented to it. 3. The Borough shall compensate the private owner(s) for the land needed for the right-of-way\n               by payment of money, and not by any other method. Compensation for direct damage such\n               as relocation of fences, septic systems, wells, etc., will…",
+          "sourceUrl": "https://library.municode.com/ak/kenai_peninsula_borough/codes/code_of_ordinances?nodeId=TIT14STSIROTR"
+        },
+        {
+          "id": "ak:kenai-peninsula-borough:2",
+          "prompt": "How must the Borough compensate a private owner for land taken for a right-of-way?",
+          "choices": [
+            "By paying them in cash, or by giving them other land instead.",
+            "Only in cash, never by any other method.",
+            "They can just take the land without paying if it's for a road.",
+            "By offering to lower property taxes."
+          ],
+          "answer": "Only in cash, never by any other method.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2011-15, § 1, adopted June 21, 2011, amended the Code by renaming Ch. 14.04.\n               Formerly, Ch. 14.04 was entitled \"Road Construction and Right-of-Way Acquisition.\"\n\nEditor's note— Ord. No. 2011-15, § 2, adopted June 21, 2011, amended the Code by repealing former\n               § 14.04.010 in its entirety. Former § 14.04.010 pertained to general provisions, and\n               derived from Ord. No. 81-86 of 1981.\n\nA. Right-of-way acquisition may be accomplished by the methods set forth in KPB 17.10.030 (A), (B) and (C). B. In accord with KPB 17.10.030 (B)(4) the Borough Mayor may acquire easements from property owners for the purpose\n               of road service area improvement and maintenance projects not to exceed $10,000.00\n               per easement without Assembly approval. C. There is adopted a Borough policy governing right-of-way acquisitions, to be effective\n               when the borough administration and the private property owner(s) affected cannot\n               reach agreement on the right-of-way acquisition as follows: 1. The borough administration shall have an appraisal made of the property. Property\n               owner(s) may have additional appraisals made for assembly consideration at their own\n               expense. The appraisal shall be conducted in accordance with procedures established\n               by the Alaska Department of Transportation for acquisition of right-of-way. 2. The highest price paid for the land needed for the right-of-way shall not exceed the\n               highest appraised value, or the assembly may elect not to acquire the right-of-way\n               when the matter is presented to it. 3. The Borough shall compensate the private owner(s) for the land needed for the right-of-way\n               by payment of money, and not by any other method. Compensation for direct damage such\n               as relocation of fences, septic systems, wells, etc., will…",
+          "sourceUrl": "https://library.municode.com/ak/kenai_peninsula_borough/codes/code_of_ordinances?nodeId=TIT14STSIROTR"
+        },
+        {
+          "id": "ak:kenai-peninsula-borough:3",
+          "prompt": "What kind of permission do you need before starting road construction inside a dedicated right-of-way?",
+          "choices": [
+            "A right-of-way construction permit.",
+            "A business license from the State.",
+            "Written permission from your next-door neighbor.",
+            "No permit is needed if the road already exists."
+          ],
+          "answer": "A right-of-way construction permit.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2011-15, § 1, adopted June 21, 2011, amended the Code by renaming Ch. 14.04.\n               Formerly, Ch. 14.04 was entitled \"Road Construction and Right-of-Way Acquisition.\"\n\nEditor's note— Ord. No. 2011-15, § 2, adopted June 21, 2011, amended the Code by repealing former\n               § 14.04.010 in its entirety. Former § 14.04.010 pertained to general provisions, and\n               derived from Ord. No. 81-86 of 1981.\n\nA. Right-of-way acquisition may be accomplished by the methods set forth in KPB 17.10.030 (A), (B) and (C). B. In accord with KPB 17.10.030 (B)(4) the Borough Mayor may acquire easements from property owners for the purpose\n               of road service area improvement and maintenance projects not to exceed $10,000.00\n               per easement without Assembly approval. C. There is adopted a Borough policy governing right-of-way acquisitions, to be effective\n               when the borough administration and the private property owner(s) affected cannot\n               reach agreement on the right-of-way acquisition as follows: 1. The borough administration shall have an appraisal made of the property. Property\n               owner(s) may have additional appraisals made for assembly consideration at their own\n               expense. The appraisal shall be conducted in accordance with procedures established\n               by the Alaska Department of Transportation for acquisition of right-of-way. 2. The highest price paid for the land needed for the right-of-way shall not exceed the\n               highest appraised value, or the assembly may elect not to acquire the right-of-way\n               when the matter is presented to it. 3. The Borough shall compensate the private owner(s) for the land needed for the right-of-way\n               by payment of money, and not by any other method. Compensation for direct damage such\n               as relocation of fences, septic systems, wells, etc., will…",
+          "sourceUrl": "https://library.municode.com/ak/kenai_peninsula_borough/codes/code_of_ordinances?nodeId=TIT14STSIROTR"
+        },
+        {
+          "id": "ak:kenai-peninsula-borough:4",
+          "prompt": "If there is a conflict between road construction rules in this chapter and the subdivision ordinance, which one wins?",
+          "choices": [
+            "The subdivision ordinance always takes priority.",
+            "The road construction standards in KPB 14.06 control.",
+            "They have to match each other or nothing gets built.",
+            "The State of Alaska decides which one wins."
+          ],
+          "answer": "The road construction standards in KPB 14.06 control.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2011-15, § 1, adopted June 21, 2011, amended the Code by renaming Ch. 14.04.\n               Formerly, Ch. 14.04 was entitled \"Road Construction and Right-of-Way Acquisition.\"\n\nEditor's note— Ord. No. 2011-15, § 2, adopted June 21, 2011, amended the Code by repealing former\n               § 14.04.010 in its entirety. Former § 14.04.010 pertained to general provisions, and\n               derived from Ord. No. 81-86 of 1981.\n\nA. Right-of-way acquisition may be accomplished by the methods set forth in KPB 17.10.030 (A), (B) and (C). B. In accord with KPB 17.10.030 (B)(4) the Borough Mayor may acquire easements from property owners for the purpose\n               of road service area improvement and maintenance projects not to exceed $10,000.00\n               per easement without Assembly approval. C. There is adopted a Borough policy governing right-of-way acquisitions, to be effective\n               when the borough administration and the private property owner(s) affected cannot\n               reach agreement on the right-of-way acquisition as follows: 1. The borough administration shall have an appraisal made of the property. Property\n               owner(s) may have additional appraisals made for assembly consideration at their own\n               expense. The appraisal shall be conducted in accordance with procedures established\n               by the Alaska Department of Transportation for acquisition of right-of-way. 2. The highest price paid for the land needed for the right-of-way shall not exceed the\n               highest appraised value, or the assembly may elect not to acquire the right-of-way\n               when the matter is presented to it. 3. The Borough shall compensate the private owner(s) for the land needed for the right-of-way\n               by payment of money, and not by any other method. Compensation for direct damage such\n               as relocation of fences, septic systems, wells, etc., will…",
+          "sourceUrl": "https://library.municode.com/ak/kenai_peninsula_borough/codes/code_of_ordinances?nodeId=TIT14STSIROTR"
+        }
+      ]
+    },
+    {
+      "id": "kotzebue",
+      "name": "Kotzebue",
+      "sourceIndex": "https://library.municode.com/ak/kotzebue",
+      "questions": [
+        {
+          "id": "ak:kotzebue:0",
+          "prompt": "According to Kotzebue ordinance, what is the standard size requirement for street numbers placed on occupied premises?",
+          "choices": [
+            "No less than two inches in height.",
+            "No less than three inches in height and must contrast with the building color.",
+            "Must be painted white or gold regardless of background.",
+            "Size is not specified by the city."
+          ],
+          "answer": "No less than three inches in height and must contrast with the building color.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- * Footnotes are numbered throughout the text and appear at the end of this title.\n\nSections:\n\nAll streets shall be known and designated by the names applied thereto, respectively,\n               on the map of this city filed with the city clerk, which map is adopted and made a\n               part hereof. The naming of any new street or the changing of the name of any street\n               shall be done by resolution or ordinance, which resolution or ordinance shall amend\n               such map. Vacated portions of streets and alleys shall be shown on such map. (Prior code § 12.05.010).\n\nA. On the street numbering map, the Sound is designated as the north-south axis and the\n               airport is designated as the east-west axis, and all streets and alleys running generally\n               north and south shall be numbered from the east-west axis consecutively to the corporate\n               limits of the extremity of such alley or street. Avenues, or alleys running generally\n               east and west shall be numbered from the north-south axis in the same manner. B. Wherever possible, one hundred numbers shall be allotted to each block so that the\n               number of each consecutive block shall commence with consecutive hundreds and one.\n               One whole number shall be assigned for every twenty-five feet of ground whether improved\n               property or vacant lot on every street within the corporate limits, including the\n               business district. C. Odd numbers shall be assigned to the west side of the street on all north-south streets\n               and even numbers to the east side. On east-west streets, odd numbers shall be assigned\n               to the south side of the street and even numbers to the north side. Houses will be\n               numbered from the street by which it is approached year-round. (Ord. 84-13 (part), 1984).\n\nA. Preference shall be given to the use of the first names of…",
+          "sourceUrl": "https://library.municode.com/ak/kotzebue/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:kotzebue:1",
+          "prompt": "How are north-south streets numbered in Kotzebue's street system?",
+          "choices": [
+            "Numbered from the north, starting with even numbers on the east side.",
+            "Even numbers on the west side and odd numbers on the east side.",
+            "Odd numbers on the west side and even numbers on the east side.",
+            "Numbered from the south based on block distance."
+          ],
+          "answer": "Odd numbers on the west side and even numbers on the east side.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- * Footnotes are numbered throughout the text and appear at the end of this title.\n\nSections:\n\nAll streets shall be known and designated by the names applied thereto, respectively,\n               on the map of this city filed with the city clerk, which map is adopted and made a\n               part hereof. The naming of any new street or the changing of the name of any street\n               shall be done by resolution or ordinance, which resolution or ordinance shall amend\n               such map. Vacated portions of streets and alleys shall be shown on such map. (Prior code § 12.05.010).\n\nA. On the street numbering map, the Sound is designated as the north-south axis and the\n               airport is designated as the east-west axis, and all streets and alleys running generally\n               north and south shall be numbered from the east-west axis consecutively to the corporate\n               limits of the extremity of such alley or street. Avenues, or alleys running generally\n               east and west shall be numbered from the north-south axis in the same manner. B. Wherever possible, one hundred numbers shall be allotted to each block so that the\n               number of each consecutive block shall commence with consecutive hundreds and one.\n               One whole number shall be assigned for every twenty-five feet of ground whether improved\n               property or vacant lot on every street within the corporate limits, including the\n               business district. C. Odd numbers shall be assigned to the west side of the street on all north-south streets\n               and even numbers to the east side. On east-west streets, odd numbers shall be assigned\n               to the south side of the street and even numbers to the north side. Houses will be\n               numbered from the street by which it is approached year-round. (Ord. 84-13 (part), 1984).\n\nA. Preference shall be given to the use of the first names of…",
+          "sourceUrl": "https://library.municode.com/ak/kotzebue/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:kotzebue:2",
+          "prompt": "When naming new streets in Kotzebue, which names are preferred for the area south of Third Street and east of Bison?",
+          "choices": [
+            "Deceased Kotzebue elders.",
+            "Arctic animals.",
+            "American presidents with the affix 'Way'.",
+            "Famous local businesses."
+          ],
+          "answer": "Arctic animals.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- * Footnotes are numbered throughout the text and appear at the end of this title.\n\nSections:\n\nAll streets shall be known and designated by the names applied thereto, respectively,\n               on the map of this city filed with the city clerk, which map is adopted and made a\n               part hereof. The naming of any new street or the changing of the name of any street\n               shall be done by resolution or ordinance, which resolution or ordinance shall amend\n               such map. Vacated portions of streets and alleys shall be shown on such map. (Prior code § 12.05.010).\n\nA. On the street numbering map, the Sound is designated as the north-south axis and the\n               airport is designated as the east-west axis, and all streets and alleys running generally\n               north and south shall be numbered from the east-west axis consecutively to the corporate\n               limits of the extremity of such alley or street. Avenues, or alleys running generally\n               east and west shall be numbered from the north-south axis in the same manner. B. Wherever possible, one hundred numbers shall be allotted to each block so that the\n               number of each consecutive block shall commence with consecutive hundreds and one.\n               One whole number shall be assigned for every twenty-five feet of ground whether improved\n               property or vacant lot on every street within the corporate limits, including the\n               business district. C. Odd numbers shall be assigned to the west side of the street on all north-south streets\n               and even numbers to the east side. On east-west streets, odd numbers shall be assigned\n               to the south side of the street and even numbers to the north side. Houses will be\n               numbered from the street by which it is approached year-round. (Ord. 84-13 (part), 1984).\n\nA. Preference shall be given to the use of the first names of…",
+          "sourceUrl": "https://library.municode.com/ak/kotzebue/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:kotzebue:3",
+          "prompt": "What is required before using a roadway or sidewalk for temporary storage?",
+          "choices": [
+            "Verbal approval from a police officer.",
+            "A posted sign visible for 24 hours.",
+            "A written permit from the director of public works.",
+            "No approval is needed if stored at night."
+          ],
+          "answer": "A written permit from the director of public works.",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- * Footnotes are numbered throughout the text and appear at the end of this title.\n\nSections:\n\nAll streets shall be known and designated by the names applied thereto, respectively,\n               on the map of this city filed with the city clerk, which map is adopted and made a\n               part hereof. The naming of any new street or the changing of the name of any street\n               shall be done by resolution or ordinance, which resolution or ordinance shall amend\n               such map. Vacated portions of streets and alleys shall be shown on such map. (Prior code § 12.05.010).\n\nA. On the street numbering map, the Sound is designated as the north-south axis and the\n               airport is designated as the east-west axis, and all streets and alleys running generally\n               north and south shall be numbered from the east-west axis consecutively to the corporate\n               limits of the extremity of such alley or street. Avenues, or alleys running generally\n               east and west shall be numbered from the north-south axis in the same manner. B. Wherever possible, one hundred numbers shall be allotted to each block so that the\n               number of each consecutive block shall commence with consecutive hundreds and one.\n               One whole number shall be assigned for every twenty-five feet of ground whether improved\n               property or vacant lot on every street within the corporate limits, including the\n               business district. C. Odd numbers shall be assigned to the west side of the street on all north-south streets\n               and even numbers to the east side. On east-west streets, odd numbers shall be assigned\n               to the south side of the street and even numbers to the north side. Houses will be\n               numbered from the street by which it is approached year-round. (Ord. 84-13 (part), 1984).\n\nA. Preference shall be given to the use of the first names of…",
+          "sourceUrl": "https://library.municode.com/ak/kotzebue/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "north-slope-borough",
+      "name": "North Slope Borough",
+      "sourceIndex": "https://library.municode.com/ak/north_slope_borough",
+      "questions": [
+        {
+          "id": "ak:north-slope-borough:0",
+          "prompt": "Who appoints the Director of Planning and Community Services in the North Slope Borough?",
+          "choices": [
+            "The Mayor",
+            "The Department Head",
+            "The Borough Council",
+            "Residents"
+          ],
+          "answer": "The Mayor",
+          "excerpt": "Editor's Note: Title 19 land use regulations are part of the North Slope Borough Comprehensive Plan,\n               which is on file in the office of the Borough Clerk. Cross-reference: Water and submerged land regulations, see Charter § 16.130 Statutory reference: Responsibility of Borough for zoning, see AS 29.40.010 and 29.40.040(a) et seq.\n\nThere is created within the North Slope Borough a Department of Planning and Community\n               Services. (Ord. 91-08, passed 10-8-91)\n\n(A) The principal executive officer of the Department of Planning and Community Services\n               shall be the Director of Planning and Community Services. (B) The Mayor shall appoint the Director of Planning and Community Services. (Ord. 91-08, passed 10-8-91; Am. Ord. 91-08-04, passed 11-9-04)\n\n(A) The Director of Planning and Community Services shall: (1) Act in furtherance of the Department's goals of providing for a balanced and orderly\n               community development process and the encouragement of economic development throughout\n               the North Slope Borough; (2) Perform and exercise all powers incident to the duties of this office as prescribed\n               by state and federal law, this code of ordinances and such other duties not in conflict\n               therewith as may be assigned by the Mayor; (3) Have authority over and direct the activities and functions of the Department; and (4) Prescribe policy and procedure, with the approval of the Mayor, as be necessary for\n               the efficient and effective operation of the Department. (Ord. 91-08, passed 10-8-91)\n\n(A) The Department of Planning and Community Services shall be responsible for the following\n               functions: (1) Administer the Borough's planning and zoning ordinances, the Coastal Zone Management\n               Plan and the Utqiaġvik Zoning Ordinance. (2) Ensure compliance with local, state and federal law regarding land use. (3) Provide review and comment on development…",
+          "sourceUrl": "https://library.municode.com/ak/north_slope_borough/codes/code_of_ordinances?nodeId=TIT19ZO"
+        },
+        {
+          "id": "ak:north-slope-borough:1",
+          "prompt": "What is one responsibility of the Director of Planning and Community Services?",
+          "choices": [
+            "Hire all Department staff",
+            "Prescribe policy and procedure with the approval of the Mayor",
+            "Collect taxes from property owners",
+            "Enforce local noise ordinances"
+          ],
+          "answer": "Prescribe policy and procedure with the approval of the Mayor",
+          "excerpt": "Editor's Note: Title 19 land use regulations are part of the North Slope Borough Comprehensive Plan,\n               which is on file in the office of the Borough Clerk. Cross-reference: Water and submerged land regulations, see Charter § 16.130 Statutory reference: Responsibility of Borough for zoning, see AS 29.40.010 and 29.40.040(a) et seq.\n\nThere is created within the North Slope Borough a Department of Planning and Community\n               Services. (Ord. 91-08, passed 10-8-91)\n\n(A) The principal executive officer of the Department of Planning and Community Services\n               shall be the Director of Planning and Community Services. (B) The Mayor shall appoint the Director of Planning and Community Services. (Ord. 91-08, passed 10-8-91; Am. Ord. 91-08-04, passed 11-9-04)\n\n(A) The Director of Planning and Community Services shall: (1) Act in furtherance of the Department's goals of providing for a balanced and orderly\n               community development process and the encouragement of economic development throughout\n               the North Slope Borough; (2) Perform and exercise all powers incident to the duties of this office as prescribed\n               by state and federal law, this code of ordinances and such other duties not in conflict\n               therewith as may be assigned by the Mayor; (3) Have authority over and direct the activities and functions of the Department; and (4) Prescribe policy and procedure, with the approval of the Mayor, as be necessary for\n               the efficient and effective operation of the Department. (Ord. 91-08, passed 10-8-91)\n\n(A) The Department of Planning and Community Services shall be responsible for the following\n               functions: (1) Administer the Borough's planning and zoning ordinances, the Coastal Zone Management\n               Plan and the Utqiaġvik Zoning Ordinance. (2) Ensure compliance with local, state and federal law regarding land use. (3) Provide review and comment on development…",
+          "sourceUrl": "https://library.municode.com/ak/north_slope_borough/codes/code_of_ordinances?nodeId=TIT19ZO"
+        },
+        {
+          "id": "ak:north-slope-borough:2",
+          "prompt": "What does the Department of Planning and Community Services do regarding land use?",
+          "choices": [
+            "Ensures compliance with local, state and federal law regarding land use",
+            "Sells parcels of land to the highest bidder",
+            "Decides which homes should be demolished for new development",
+            "Reviews applications for driver's licenses"
+          ],
+          "answer": "Ensures compliance with local, state and federal law regarding land use",
+          "excerpt": "Editor's Note: Title 19 land use regulations are part of the North Slope Borough Comprehensive Plan,\n               which is on file in the office of the Borough Clerk. Cross-reference: Water and submerged land regulations, see Charter § 16.130 Statutory reference: Responsibility of Borough for zoning, see AS 29.40.010 and 29.40.040(a) et seq.\n\nThere is created within the North Slope Borough a Department of Planning and Community\n               Services. (Ord. 91-08, passed 10-8-91)\n\n(A) The principal executive officer of the Department of Planning and Community Services\n               shall be the Director of Planning and Community Services. (B) The Mayor shall appoint the Director of Planning and Community Services. (Ord. 91-08, passed 10-8-91; Am. Ord. 91-08-04, passed 11-9-04)\n\n(A) The Director of Planning and Community Services shall: (1) Act in furtherance of the Department's goals of providing for a balanced and orderly\n               community development process and the encouragement of economic development throughout\n               the North Slope Borough; (2) Perform and exercise all powers incident to the duties of this office as prescribed\n               by state and federal law, this code of ordinances and such other duties not in conflict\n               therewith as may be assigned by the Mayor; (3) Have authority over and direct the activities and functions of the Department; and (4) Prescribe policy and procedure, with the approval of the Mayor, as be necessary for\n               the efficient and effective operation of the Department. (Ord. 91-08, passed 10-8-91)\n\n(A) The Department of Planning and Community Services shall be responsible for the following\n               functions: (1) Administer the Borough's planning and zoning ordinances, the Coastal Zone Management\n               Plan and the Utqiaġvik Zoning Ordinance. (2) Ensure compliance with local, state and federal law regarding land use. (3) Provide review and comment on development…",
+          "sourceUrl": "https://library.municode.com/ak/north_slope_borough/codes/code_of_ordinances?nodeId=TIT19ZO"
+        },
+        {
+          "id": "ak:north-slope-borough:3",
+          "prompt": "How was this set of land management principles and procedures for the Borough created?",
+          "choices": [
+            "By state lawmakers",
+            "Through public meetings with Borough officials and residents",
+            "By a private consulting firm",
+            "In accordance with federal zoning rules"
+          ],
+          "answer": "Through public meetings with Borough officials and residents",
+          "excerpt": "Editor's Note: Title 19 land use regulations are part of the North Slope Borough Comprehensive Plan,\n               which is on file in the office of the Borough Clerk. Cross-reference: Water and submerged land regulations, see Charter § 16.130 Statutory reference: Responsibility of Borough for zoning, see AS 29.40.010 and 29.40.040(a) et seq.\n\nThere is created within the North Slope Borough a Department of Planning and Community\n               Services. (Ord. 91-08, passed 10-8-91)\n\n(A) The principal executive officer of the Department of Planning and Community Services\n               shall be the Director of Planning and Community Services. (B) The Mayor shall appoint the Director of Planning and Community Services. (Ord. 91-08, passed 10-8-91; Am. Ord. 91-08-04, passed 11-9-04)\n\n(A) The Director of Planning and Community Services shall: (1) Act in furtherance of the Department's goals of providing for a balanced and orderly\n               community development process and the encouragement of economic development throughout\n               the North Slope Borough; (2) Perform and exercise all powers incident to the duties of this office as prescribed\n               by state and federal law, this code of ordinances and such other duties not in conflict\n               therewith as may be assigned by the Mayor; (3) Have authority over and direct the activities and functions of the Department; and (4) Prescribe policy and procedure, with the approval of the Mayor, as be necessary for\n               the efficient and effective operation of the Department. (Ord. 91-08, passed 10-8-91)\n\n(A) The Department of Planning and Community Services shall be responsible for the following\n               functions: (1) Administer the Borough's planning and zoning ordinances, the Coastal Zone Management\n               Plan and the Utqiaġvik Zoning Ordinance. (2) Ensure compliance with local, state and federal law regarding land use. (3) Provide review and comment on development…",
+          "sourceUrl": "https://library.municode.com/ak/north_slope_borough/codes/code_of_ordinances?nodeId=TIT19ZO"
+        }
+      ]
+    },
+    {
+      "id": "petersburg",
+      "name": "Petersburg",
+      "sourceIndex": "https://library.municode.com/ak/petersburg",
+      "questions": [
+        {
+          "id": "ak:petersburg:0",
+          "prompt": "What is the name of the department that can issue a camping permit for temporary use of borough-owned land?",
+          "choices": [
+            "The Parks and Recreation Director",
+            "The Police Department",
+            "The City Council",
+            "The Parks and Recreation Department"
+          ],
+          "answer": "The Parks and Recreation Director",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 2014-09, § 3, adopted June 2, 2014 , transferred and incorporated Chapter 13.12 to read as herein set out as a borough\n               ordinance. See Ordinance List and Code Comparative Table and Disposition List for\n               complete derivation from City Code.\n\nThe purpose of this chapter is to protect, preserve and control all recreation areas,\n               campgrounds, campsites and camping on all lands owned or controlled by the borough. ( Ord. No. 2014-09, § 3, 6-2-2014 )\n\nAs used in this chapter, unless otherwise indicated, the following words and terms\n               shall have the meanings set out in this section: \"Camp\" or \"Camping\" means: 1. The erection of any tent for human occupancy regardless of whether said tent is of\n                  commercial manufacture or has been constructed in whole or part by any person; 2. The placing or leaving of any items normally found at a campsite such as cook stoves,\n                  lanterns, etc., if sleeping bags and/or other forms of bedding are also placed or\n                  left at the location; 3. The sleeping in any motor vehicle or camper unit; 4. Sleeping on the ground, with or without any tent, sleeping pad, or other form of bedding. \"Camping permit\" means a permit issued by the parks and recreation department allowing\n               the use of a designated area of borough owned or controlled property, including the\n               Sandy Beach Recreation Area, for temporary camping upon proper application. \"Officer\" or \"official\" means any borough official authorized to enforce the laws\n               and protect land being unlawfully used for camping. \"Parks and recreation department\" means the department established as defined in chapter\n               3.56 of this code. \"Sandy Beach Recreation Area\" means that sector of land described as parcel number\n               000 01014190, located at 1031 Sandy Beach Road, to be used for picnicking…",
+          "sourceUrl": "https://library.municode.com/ak/petersburg/codes/borough_code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:petersburg:1",
+          "prompt": "Which area is prohibited from being used for overnight camping, according to this ordinance?",
+          "choices": [
+            "Any borough-owned public campground",
+            "The Sandy Beach recreation area",
+            "Designated picnic areas outside of posted times",
+            "All park trails"
+          ],
+          "answer": "The Sandy Beach recreation area",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 2014-09, § 3, adopted June 2, 2014 , transferred and incorporated Chapter 13.12 to read as herein set out as a borough\n               ordinance. See Ordinance List and Code Comparative Table and Disposition List for\n               complete derivation from City Code.\n\nThe purpose of this chapter is to protect, preserve and control all recreation areas,\n               campgrounds, campsites and camping on all lands owned or controlled by the borough. ( Ord. No. 2014-09, § 3, 6-2-2014 )\n\nAs used in this chapter, unless otherwise indicated, the following words and terms\n               shall have the meanings set out in this section: \"Camp\" or \"Camping\" means: 1. The erection of any tent for human occupancy regardless of whether said tent is of\n                  commercial manufacture or has been constructed in whole or part by any person; 2. The placing or leaving of any items normally found at a campsite such as cook stoves,\n                  lanterns, etc., if sleeping bags and/or other forms of bedding are also placed or\n                  left at the location; 3. The sleeping in any motor vehicle or camper unit; 4. Sleeping on the ground, with or without any tent, sleeping pad, or other form of bedding. \"Camping permit\" means a permit issued by the parks and recreation department allowing\n               the use of a designated area of borough owned or controlled property, including the\n               Sandy Beach Recreation Area, for temporary camping upon proper application. \"Officer\" or \"official\" means any borough official authorized to enforce the laws\n               and protect land being unlawfully used for camping. \"Parks and recreation department\" means the department established as defined in chapter\n               3.56 of this code. \"Sandy Beach Recreation Area\" means that sector of land described as parcel number\n               000 01014190, located at 1031 Sandy Beach Road, to be used for picnicking…",
+          "sourceUrl": "https://library.municode.com/ak/petersburg/codes/borough_code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:petersburg:2",
+          "prompt": "When are you only allowed to enter the Sandy Beach recreation area?",
+          "choices": [
+            "Between 7:00 a.m. and midnight",
+            "Whenever the weather is nice",
+            "During posted permitted use times only",
+            "Anytime as long as you're camping"
+          ],
+          "answer": "Between 7:00 a.m. and midnight",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 2014-09, § 3, adopted June 2, 2014 , transferred and incorporated Chapter 13.12 to read as herein set out as a borough\n               ordinance. See Ordinance List and Code Comparative Table and Disposition List for\n               complete derivation from City Code.\n\nThe purpose of this chapter is to protect, preserve and control all recreation areas,\n               campgrounds, campsites and camping on all lands owned or controlled by the borough. ( Ord. No. 2014-09, § 3, 6-2-2014 )\n\nAs used in this chapter, unless otherwise indicated, the following words and terms\n               shall have the meanings set out in this section: \"Camp\" or \"Camping\" means: 1. The erection of any tent for human occupancy regardless of whether said tent is of\n                  commercial manufacture or has been constructed in whole or part by any person; 2. The placing or leaving of any items normally found at a campsite such as cook stoves,\n                  lanterns, etc., if sleeping bags and/or other forms of bedding are also placed or\n                  left at the location; 3. The sleeping in any motor vehicle or camper unit; 4. Sleeping on the ground, with or without any tent, sleeping pad, or other form of bedding. \"Camping permit\" means a permit issued by the parks and recreation department allowing\n               the use of a designated area of borough owned or controlled property, including the\n               Sandy Beach Recreation Area, for temporary camping upon proper application. \"Officer\" or \"official\" means any borough official authorized to enforce the laws\n               and protect land being unlawfully used for camping. \"Parks and recreation department\" means the department established as defined in chapter\n               3.56 of this code. \"Sandy Beach Recreation Area\" means that sector of land described as parcel number\n               000 01014190, located at 1031 Sandy Beach Road, to be used for picnicking…",
+          "sourceUrl": "https://library.municode.com/ak/petersburg/codes/borough_code_of_ordinances?nodeId=TIT13STSIPUPL"
+        },
+        {
+          "id": "ak:petersburg:3",
+          "prompt": "What is considered 'camping' under this ordinance?",
+          "choices": [
+            "Only staying in a manufactured home",
+            "Sleeping on the ground, with or without a tent, pad, or other bedding",
+            "Having cook stoves and lanterns in your backyard",
+            "Visiting a designated public campground without a permit"
+          ],
+          "answer": "Sleeping on the ground, with or without a tent, pad, or other bedding",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 2014-09, § 3, adopted June 2, 2014 , transferred and incorporated Chapter 13.12 to read as herein set out as a borough\n               ordinance. See Ordinance List and Code Comparative Table and Disposition List for\n               complete derivation from City Code.\n\nThe purpose of this chapter is to protect, preserve and control all recreation areas,\n               campgrounds, campsites and camping on all lands owned or controlled by the borough. ( Ord. No. 2014-09, § 3, 6-2-2014 )\n\nAs used in this chapter, unless otherwise indicated, the following words and terms\n               shall have the meanings set out in this section: \"Camp\" or \"Camping\" means: 1. The erection of any tent for human occupancy regardless of whether said tent is of\n                  commercial manufacture or has been constructed in whole or part by any person; 2. The placing or leaving of any items normally found at a campsite such as cook stoves,\n                  lanterns, etc., if sleeping bags and/or other forms of bedding are also placed or\n                  left at the location; 3. The sleeping in any motor vehicle or camper unit; 4. Sleeping on the ground, with or without any tent, sleeping pad, or other form of bedding. \"Camping permit\" means a permit issued by the parks and recreation department allowing\n               the use of a designated area of borough owned or controlled property, including the\n               Sandy Beach Recreation Area, for temporary camping upon proper application. \"Officer\" or \"official\" means any borough official authorized to enforce the laws\n               and protect land being unlawfully used for camping. \"Parks and recreation department\" means the department established as defined in chapter\n               3.56 of this code. \"Sandy Beach Recreation Area\" means that sector of land described as parcel number\n               000 01014190, located at 1031 Sandy Beach Road, to be used for picnicking…",
+          "sourceUrl": "https://library.municode.com/ak/petersburg/codes/borough_code_of_ordinances?nodeId=TIT13STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "seward",
+      "name": "Seward",
+      "sourceIndex": "https://library.municode.com/ak/seward",
+      "questions": [
+        {
+          "id": "ak:seward:0",
+          "prompt": "What is the fine for transporting a live animal outside of a motor vehicle in Seward?",
+          "choices": [
+            "$25.00",
+            "$300.00",
+            "$100.00",
+            "$50.00"
+          ],
+          "answer": "$50.00",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2015-003, § 1, adopted August 24, 2015, amended title II in its entirety\n               to read as herein set out. Former title II, §§ 11.01.010—11.50.070, pertained to vehicles\n               and traffic. See Ordinance Identification and Disposition Table for complete derivation.\n\nThe city adopts by reference all vehicle and traffic statutes and regulations of the\n               State of Alaska, creating minor offenses, as that term is defined in Minor Offense\n               Rule 2 of the Alaska Rules of Court, as they presently exist and as they may be revised\n               in the future, as part of the traffic code for the city. (Ord. 2015-003, § 1)\n\nThe city adopts as its traffic fine schedule for state offenses the \"Traffic Bail\n               Forfeiture Schedule\" and the \"Oversize Vehicle Bail Forfeiture Schedule\" in Administrative\n               Rules 43.1 and 43.6 of the Alaska Rules of Court and any other bail forfeiture schedules\n               relating to vehicles adopted by the Alaska Supreme Court. In addition, the city adopts\n               all amendments of those schedules that become effective after the effective date of\n               this ordinance. Citations for offenses listed on these schedules may be disposed of\n               as provided in AS 12.25.195—.230, without a court appearance, upon payment of the\n               amounts listed plus the state surcharge required by AS 12.55.039 and AS 29.25.074.\n               If a person charged with one of these offenses appears in court and is found guilty,\n               the penalty imposed for the offense may not exceed the amount listed for that offense\n               on the schedule. Citations charging these offenses must meet the requirements of Minor\n               Offense Rule 3 of the Alaska Rules of Court. If an offense is not listed on the fine\n               schedule, the defendant must appear in court to answer to the charges. (Ord.…",
+          "sourceUrl": "https://library.municode.com/ak/seward/codes/code_of_ordinances?nodeId=CD_ORD_TIT11VETR"
+        },
+        {
+          "id": "ak:seward:1",
+          "prompt": "How much does it cost to park next to a school if it's against the signs?",
+          "choices": [
+            "$25.00",
+            "$75.00",
+            "$300.00",
+            "$50.00"
+          ],
+          "answer": "$25.00",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2015-003, § 1, adopted August 24, 2015, amended title II in its entirety\n               to read as herein set out. Former title II, §§ 11.01.010—11.50.070, pertained to vehicles\n               and traffic. See Ordinance Identification and Disposition Table for complete derivation.\n\nThe city adopts by reference all vehicle and traffic statutes and regulations of the\n               State of Alaska, creating minor offenses, as that term is defined in Minor Offense\n               Rule 2 of the Alaska Rules of Court, as they presently exist and as they may be revised\n               in the future, as part of the traffic code for the city. (Ord. 2015-003, § 1)\n\nThe city adopts as its traffic fine schedule for state offenses the \"Traffic Bail\n               Forfeiture Schedule\" and the \"Oversize Vehicle Bail Forfeiture Schedule\" in Administrative\n               Rules 43.1 and 43.6 of the Alaska Rules of Court and any other bail forfeiture schedules\n               relating to vehicles adopted by the Alaska Supreme Court. In addition, the city adopts\n               all amendments of those schedules that become effective after the effective date of\n               this ordinance. Citations for offenses listed on these schedules may be disposed of\n               as provided in AS 12.25.195—.230, without a court appearance, upon payment of the\n               amounts listed plus the state surcharge required by AS 12.55.039 and AS 29.25.074.\n               If a person charged with one of these offenses appears in court and is found guilty,\n               the penalty imposed for the offense may not exceed the amount listed for that offense\n               on the schedule. Citations charging these offenses must meet the requirements of Minor\n               Offense Rule 3 of the Alaska Rules of Court. If an offense is not listed on the fine\n               schedule, the defendant must appear in court to answer to the charges. (Ord.…",
+          "sourceUrl": "https://library.municode.com/ak/seward/codes/code_of_ordinances?nodeId=CD_ORD_TIT11VETR"
+        },
+        {
+          "id": "ak:seward:2",
+          "prompt": "What is the daily fine for an abandoned vehicle?",
+          "choices": [
+            "$50.00/day",
+            "$25.00/day",
+            "$100.00/day",
+            "$30.00/day"
+          ],
+          "answer": "$25.00/day",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2015-003, § 1, adopted August 24, 2015, amended title II in its entirety\n               to read as herein set out. Former title II, §§ 11.01.010—11.50.070, pertained to vehicles\n               and traffic. See Ordinance Identification and Disposition Table for complete derivation.\n\nThe city adopts by reference all vehicle and traffic statutes and regulations of the\n               State of Alaska, creating minor offenses, as that term is defined in Minor Offense\n               Rule 2 of the Alaska Rules of Court, as they presently exist and as they may be revised\n               in the future, as part of the traffic code for the city. (Ord. 2015-003, § 1)\n\nThe city adopts as its traffic fine schedule for state offenses the \"Traffic Bail\n               Forfeiture Schedule\" and the \"Oversize Vehicle Bail Forfeiture Schedule\" in Administrative\n               Rules 43.1 and 43.6 of the Alaska Rules of Court and any other bail forfeiture schedules\n               relating to vehicles adopted by the Alaska Supreme Court. In addition, the city adopts\n               all amendments of those schedules that become effective after the effective date of\n               this ordinance. Citations for offenses listed on these schedules may be disposed of\n               as provided in AS 12.25.195—.230, without a court appearance, upon payment of the\n               amounts listed plus the state surcharge required by AS 12.55.039 and AS 29.25.074.\n               If a person charged with one of these offenses appears in court and is found guilty,\n               the penalty imposed for the offense may not exceed the amount listed for that offense\n               on the schedule. Citations charging these offenses must meet the requirements of Minor\n               Offense Rule 3 of the Alaska Rules of Court. If an offense is not listed on the fine\n               schedule, the defendant must appear in court to answer to the charges. (Ord.…",
+          "sourceUrl": "https://library.municode.com/ak/seward/codes/code_of_ordinances?nodeId=CD_ORD_TIT11VETR"
+        },
+        {
+          "id": "ak:seward:3",
+          "prompt": "What is the maximum fine for a Seward city traffic violation?",
+          "choices": [
+            "$200.00",
+            "$500.00",
+            "$300.00",
+            "$150.00"
+          ],
+          "answer": "$300.00",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2015-003, § 1, adopted August 24, 2015, amended title II in its entirety\n               to read as herein set out. Former title II, §§ 11.01.010—11.50.070, pertained to vehicles\n               and traffic. See Ordinance Identification and Disposition Table for complete derivation.\n\nThe city adopts by reference all vehicle and traffic statutes and regulations of the\n               State of Alaska, creating minor offenses, as that term is defined in Minor Offense\n               Rule 2 of the Alaska Rules of Court, as they presently exist and as they may be revised\n               in the future, as part of the traffic code for the city. (Ord. 2015-003, § 1)\n\nThe city adopts as its traffic fine schedule for state offenses the \"Traffic Bail\n               Forfeiture Schedule\" and the \"Oversize Vehicle Bail Forfeiture Schedule\" in Administrative\n               Rules 43.1 and 43.6 of the Alaska Rules of Court and any other bail forfeiture schedules\n               relating to vehicles adopted by the Alaska Supreme Court. In addition, the city adopts\n               all amendments of those schedules that become effective after the effective date of\n               this ordinance. Citations for offenses listed on these schedules may be disposed of\n               as provided in AS 12.25.195—.230, without a court appearance, upon payment of the\n               amounts listed plus the state surcharge required by AS 12.55.039 and AS 29.25.074.\n               If a person charged with one of these offenses appears in court and is found guilty,\n               the penalty imposed for the offense may not exceed the amount listed for that offense\n               on the schedule. Citations charging these offenses must meet the requirements of Minor\n               Offense Rule 3 of the Alaska Rules of Court. If an offense is not listed on the fine\n               schedule, the defendant must appear in court to answer to the charges. (Ord.…",
+          "sourceUrl": "https://library.municode.com/ak/seward/codes/code_of_ordinances?nodeId=CD_ORD_TIT11VETR"
+        },
+        {
+          "id": "ak:seward:4",
+          "prompt": "What happens to the fine amount if a motor vehicle traffic offense is committed in a highway work zone?",
+          "choices": [
+            "It stays the same",
+            "It is halved",
+            "It is doubled",
+            "It is reduced by $10.00"
+          ],
+          "answer": "It is doubled",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 2015-003, § 1, adopted August 24, 2015, amended title II in its entirety\n               to read as herein set out. Former title II, §§ 11.01.010—11.50.070, pertained to vehicles\n               and traffic. See Ordinance Identification and Disposition Table for complete derivation.\n\nThe city adopts by reference all vehicle and traffic statutes and regulations of the\n               State of Alaska, creating minor offenses, as that term is defined in Minor Offense\n               Rule 2 of the Alaska Rules of Court, as they presently exist and as they may be revised\n               in the future, as part of the traffic code for the city. (Ord. 2015-003, § 1)\n\nThe city adopts as its traffic fine schedule for state offenses the \"Traffic Bail\n               Forfeiture Schedule\" and the \"Oversize Vehicle Bail Forfeiture Schedule\" in Administrative\n               Rules 43.1 and 43.6 of the Alaska Rules of Court and any other bail forfeiture schedules\n               relating to vehicles adopted by the Alaska Supreme Court. In addition, the city adopts\n               all amendments of those schedules that become effective after the effective date of\n               this ordinance. Citations for offenses listed on these schedules may be disposed of\n               as provided in AS 12.25.195—.230, without a court appearance, upon payment of the\n               amounts listed plus the state surcharge required by AS 12.55.039 and AS 29.25.074.\n               If a person charged with one of these offenses appears in court and is found guilty,\n               the penalty imposed for the offense may not exceed the amount listed for that offense\n               on the schedule. Citations charging these offenses must meet the requirements of Minor\n               Offense Rule 3 of the Alaska Rules of Court. If an offense is not listed on the fine\n               schedule, the defendant must appear in court to answer to the charges. (Ord.…",
+          "sourceUrl": "https://library.municode.com/ak/seward/codes/code_of_ordinances?nodeId=CD_ORD_TIT11VETR"
+        }
+      ]
+    },
+    {
+      "id": "soldotna",
+      "name": "Soldotna",
+      "sourceIndex": "https://library.municode.com/ak/soldotna",
+      "questions": [
+        {
+          "id": "ak:soldotna:0",
+          "prompt": "According to the ordinance, what is the recommended full width for an alley?",
+          "choices": [
+            "20 feet",
+            "60 feet",
+            "80 feet",
+            "100 feet"
+          ],
+          "answer": "20 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- All plats having current preliminary approval as of the effective date of Ord. 334,\n               as codified in Chs. 12.04, 12.06, 12.08 and 12.10, shall be exempt from the requirements stated in such chapters.\n\nThe following definitions apply to this chapter: A. \"Alleys\" are dedicated service ways that provide a secondary means of access to abutting\n               property which are not intended for general traffic circulation. The recommended right-of-way\n               for an alley is 20 feet full width. Alleys are not maintained by the city. B. \"Arterial streets\" provide direct service between cities and towns. The recommended\n               right-of-way for an arterial street is 100 feet full width. C. \"Collector streets\" serve the city directly and connect arterial streets with local\n               streets or local traffic generators such as schools or commercial land uses. The recommended\n               right-of-way for a collector street is 80 feet full width. Collector streets include,\n               but are not limited to Knight Drive, Smith Way, Birch Street, Kobuk Street, Redoubt\n               Avenue, Marydale Avenue, Fireweed Street and Binkley Street. D. \"Local streets\" are designed primarily to provide direct access to residences or businesses\n               on abutting land. Local streets are designed for localized traffic volumes, low speeds,\n               and serve a limited amount of through-traffic. The recommended right-of-way for a\n               local street is 60 feet in full width. Within a planned unit development, a minimum\n               50-foot width may be allowed subject to the provisions of Section 17.10.255 (D)(11). E. \"Cul-de-sacs\" are local streets that are open at one end and have a special turning\n               area at the closed end. F. \"Easements\" grant rights of passage through and/or use of privately owned property.\n               Easements can provide access to utilities as do rights-of-way.…",
+          "sourceUrl": "https://library.municode.com/ak/soldotna/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:soldotna:1",
+          "prompt": "What is the recommended right-of-way width for a local street in Soldotna?",
+          "choices": [
+            "60 feet",
+            "80 feet",
+            "100 feet",
+            "50 feet"
+          ],
+          "answer": "60 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- All plats having current preliminary approval as of the effective date of Ord. 334,\n               as codified in Chs. 12.04, 12.06, 12.08 and 12.10, shall be exempt from the requirements stated in such chapters.\n\nThe following definitions apply to this chapter: A. \"Alleys\" are dedicated service ways that provide a secondary means of access to abutting\n               property which are not intended for general traffic circulation. The recommended right-of-way\n               for an alley is 20 feet full width. Alleys are not maintained by the city. B. \"Arterial streets\" provide direct service between cities and towns. The recommended\n               right-of-way for an arterial street is 100 feet full width. C. \"Collector streets\" serve the city directly and connect arterial streets with local\n               streets or local traffic generators such as schools or commercial land uses. The recommended\n               right-of-way for a collector street is 80 feet full width. Collector streets include,\n               but are not limited to Knight Drive, Smith Way, Birch Street, Kobuk Street, Redoubt\n               Avenue, Marydale Avenue, Fireweed Street and Binkley Street. D. \"Local streets\" are designed primarily to provide direct access to residences or businesses\n               on abutting land. Local streets are designed for localized traffic volumes, low speeds,\n               and serve a limited amount of through-traffic. The recommended right-of-way for a\n               local street is 60 feet in full width. Within a planned unit development, a minimum\n               50-foot width may be allowed subject to the provisions of Section 17.10.255 (D)(11). E. \"Cul-de-sacs\" are local streets that are open at one end and have a special turning\n               area at the closed end. F. \"Easements\" grant rights of passage through and/or use of privately owned property.\n               Easements can provide access to utilities as do rights-of-way.…",
+          "sourceUrl": "https://library.municode.com/ak/soldotna/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:soldotna:2",
+          "prompt": "Which of the following streets is listed as a collector street?",
+          "choices": [
+            "Kobuk Street",
+            "Miller Drive",
+            "Airport Road",
+            "Elm Avenue"
+          ],
+          "answer": "Kobuk Street",
+          "excerpt": "Footnotes: --- ( 1 ) --- All plats having current preliminary approval as of the effective date of Ord. 334,\n               as codified in Chs. 12.04, 12.06, 12.08 and 12.10, shall be exempt from the requirements stated in such chapters.\n\nThe following definitions apply to this chapter: A. \"Alleys\" are dedicated service ways that provide a secondary means of access to abutting\n               property which are not intended for general traffic circulation. The recommended right-of-way\n               for an alley is 20 feet full width. Alleys are not maintained by the city. B. \"Arterial streets\" provide direct service between cities and towns. The recommended\n               right-of-way for an arterial street is 100 feet full width. C. \"Collector streets\" serve the city directly and connect arterial streets with local\n               streets or local traffic generators such as schools or commercial land uses. The recommended\n               right-of-way for a collector street is 80 feet full width. Collector streets include,\n               but are not limited to Knight Drive, Smith Way, Birch Street, Kobuk Street, Redoubt\n               Avenue, Marydale Avenue, Fireweed Street and Binkley Street. D. \"Local streets\" are designed primarily to provide direct access to residences or businesses\n               on abutting land. Local streets are designed for localized traffic volumes, low speeds,\n               and serve a limited amount of through-traffic. The recommended right-of-way for a\n               local street is 60 feet in full width. Within a planned unit development, a minimum\n               50-foot width may be allowed subject to the provisions of Section 17.10.255 (D)(11). E. \"Cul-de-sacs\" are local streets that are open at one end and have a special turning\n               area at the closed end. F. \"Easements\" grant rights of passage through and/or use of privately owned property.\n               Easements can provide access to utilities as do rights-of-way.…",
+          "sourceUrl": "https://library.municode.com/ak/soldotna/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:soldotna:3",
+          "prompt": "Where should utilities like natural gas and electrical service be located on residential streets if the right-of-way is less than 60 feet?",
+          "choices": [
+            "In a separate easement",
+            "On the curb",
+            "Under the sidewalk",
+            "In a storm drain"
+          ],
+          "answer": "In a separate easement",
+          "excerpt": "Footnotes: --- ( 1 ) --- All plats having current preliminary approval as of the effective date of Ord. 334,\n               as codified in Chs. 12.04, 12.06, 12.08 and 12.10, shall be exempt from the requirements stated in such chapters.\n\nThe following definitions apply to this chapter: A. \"Alleys\" are dedicated service ways that provide a secondary means of access to abutting\n               property which are not intended for general traffic circulation. The recommended right-of-way\n               for an alley is 20 feet full width. Alleys are not maintained by the city. B. \"Arterial streets\" provide direct service between cities and towns. The recommended\n               right-of-way for an arterial street is 100 feet full width. C. \"Collector streets\" serve the city directly and connect arterial streets with local\n               streets or local traffic generators such as schools or commercial land uses. The recommended\n               right-of-way for a collector street is 80 feet full width. Collector streets include,\n               but are not limited to Knight Drive, Smith Way, Birch Street, Kobuk Street, Redoubt\n               Avenue, Marydale Avenue, Fireweed Street and Binkley Street. D. \"Local streets\" are designed primarily to provide direct access to residences or businesses\n               on abutting land. Local streets are designed for localized traffic volumes, low speeds,\n               and serve a limited amount of through-traffic. The recommended right-of-way for a\n               local street is 60 feet in full width. Within a planned unit development, a minimum\n               50-foot width may be allowed subject to the provisions of Section 17.10.255 (D)(11). E. \"Cul-de-sacs\" are local streets that are open at one end and have a special turning\n               area at the closed end. F. \"Easements\" grant rights of passage through and/or use of privately owned property.\n               Easements can provide access to utilities as do rights-of-way.…",
+          "sourceUrl": "https://library.municode.com/ak/soldotna/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "ak:soldotna:4",
+          "prompt": "What is the minimum right-of-way width that can accommodate utilities on residential streets according to the ordinance?",
+          "choices": [
+            "40 feet",
+            "50 feet",
+            "60 feet",
+            "75 feet"
+          ],
+          "answer": "60 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- All plats having current preliminary approval as of the effective date of Ord. 334,\n               as codified in Chs. 12.04, 12.06, 12.08 and 12.10, shall be exempt from the requirements stated in such chapters.\n\nThe following definitions apply to this chapter: A. \"Alleys\" are dedicated service ways that provide a secondary means of access to abutting\n               property which are not intended for general traffic circulation. The recommended right-of-way\n               for an alley is 20 feet full width. Alleys are not maintained by the city. B. \"Arterial streets\" provide direct service between cities and towns. The recommended\n               right-of-way for an arterial street is 100 feet full width. C. \"Collector streets\" serve the city directly and connect arterial streets with local\n               streets or local traffic generators such as schools or commercial land uses. The recommended\n               right-of-way for a collector street is 80 feet full width. Collector streets include,\n               but are not limited to Knight Drive, Smith Way, Birch Street, Kobuk Street, Redoubt\n               Avenue, Marydale Avenue, Fireweed Street and Binkley Street. D. \"Local streets\" are designed primarily to provide direct access to residences or businesses\n               on abutting land. Local streets are designed for localized traffic volumes, low speeds,\n               and serve a limited amount of through-traffic. The recommended right-of-way for a\n               local street is 60 feet in full width. Within a planned unit development, a minimum\n               50-foot width may be allowed subject to the provisions of Section 17.10.255 (D)(11). E. \"Cul-de-sacs\" are local streets that are open at one end and have a special turning\n               area at the closed end. F. \"Easements\" grant rights of passage through and/or use of privately owned property.\n               Easements can provide access to utilities as do rights-of-way.…",
+          "sourceUrl": "https://library.municode.com/ak/soldotna/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "whittier",
+      "name": "Whittier",
+      "sourceIndex": "https://library.municode.com/ak/whittier",
+      "questions": [
+        {
+          "id": "ak:whittier:0",
+          "prompt": "If someone nails up a poster on city property without first getting written permission from the city, what can happen to that poster?",
+          "choices": [
+            "The city must wait 30 days before touching it.",
+            "A city employee can remove or destroy it without warning to the owner.",
+            "It stays up as long as the person lives in Whittier.",
+            "The poster is automatically considered an official city notice."
+          ],
+          "answer": "A city employee can remove or destroy it without warning to the owner.",
+          "excerpt": "All advertising matter and signs or other plaques nailed or attached by any means\n               without the prior written consent of the city to any property owned or under the custody\n               and control of the city be removed. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nAny employee of the city may remove from any public property owned or under the control\n               or custody of the city any advertising, signs or advertising matter whatsoever which\n               has been attached or adhered to the property without being required to give notice\n               of such intent to remove to the owners of, or the persons who originally attached,\n               the item. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nThe city may confiscate or destroy any advertising matter, signs or plaques removed\n               pursuant to section 14.08.020 . ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nOfficial legal notices may be posted on city property at a public bulletin board or\n               other public location designated by the manager for such purpose. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nA. Except in areas specifically designated for such use in accordance with law, no person\n               may engage in any of the following activities on city land: 1. Camping; 2. Building fires; 3. Operating motor vehicles of any kind; 4. Constructing trails; 5. Discharging firearms or shooting into city land from beyond its boundaries; 6. Cutting or otherwise damaging live trees, shrubbery, brush or other vegetation; 7. Removing soil, rocks, gravel or plants of any kind; 8. Constructing structures of any kind. B. On any city land no person may (except as otherwise authorized by law): 1. Kill or injure any animal unless such act is necessary to protect a human being or\n               domesticated animal from attack; 2. Harass, torment, poison, provoke, trap or abuse any animal; 3. Interfere with, obstruct, mutilate, conceal or tear down any official notice, sign\n               or placard…",
+          "sourceUrl": "https://library.municode.com/ak/whittier/codes/code_of_ordinances?nodeId=TIT14PACAPUPL"
+        },
+        {
+          "id": "ak:whittier:1",
+          "prompt": "What is one thing you are NOT allowed to do on city land if that activity isn't specifically designated for it?",
+          "choices": [
+            "Build a fire.",
+            "Walk through the area.",
+            "Pick up your own trash.",
+            "Call the city if you see broken glass."
+          ],
+          "answer": "Build a fire.",
+          "excerpt": "All advertising matter and signs or other plaques nailed or attached by any means\n               without the prior written consent of the city to any property owned or under the custody\n               and control of the city be removed. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nAny employee of the city may remove from any public property owned or under the control\n               or custody of the city any advertising, signs or advertising matter whatsoever which\n               has been attached or adhered to the property without being required to give notice\n               of such intent to remove to the owners of, or the persons who originally attached,\n               the item. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nThe city may confiscate or destroy any advertising matter, signs or plaques removed\n               pursuant to section 14.08.020 . ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nOfficial legal notices may be posted on city property at a public bulletin board or\n               other public location designated by the manager for such purpose. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nA. Except in areas specifically designated for such use in accordance with law, no person\n               may engage in any of the following activities on city land: 1. Camping; 2. Building fires; 3. Operating motor vehicles of any kind; 4. Constructing trails; 5. Discharging firearms or shooting into city land from beyond its boundaries; 6. Cutting or otherwise damaging live trees, shrubbery, brush or other vegetation; 7. Removing soil, rocks, gravel or plants of any kind; 8. Constructing structures of any kind. B. On any city land no person may (except as otherwise authorized by law): 1. Kill or injure any animal unless such act is necessary to protect a human being or\n               domesticated animal from attack; 2. Harass, torment, poison, provoke, trap or abuse any animal; 3. Interfere with, obstruct, mutilate, conceal or tear down any official notice, sign\n               or placard…",
+          "sourceUrl": "https://library.municode.com/ak/whittier/codes/code_of_ordinances?nodeId=TIT14PACAPUPL"
+        },
+        {
+          "id": "ak:whittier:2",
+          "prompt": "If you break glass in an area covered by these rules, how do you have to handle the pieces?",
+          "choices": [
+            "Leave them as long as they aren't on the sidewalk.",
+            "Sweep them up immediately.",
+            "It's okay if you're wearing gloves.",
+            "Leave the largest piece so someone else can see it."
+          ],
+          "answer": "Sweep them up immediately.",
+          "excerpt": "All advertising matter and signs or other plaques nailed or attached by any means\n               without the prior written consent of the city to any property owned or under the custody\n               and control of the city be removed. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nAny employee of the city may remove from any public property owned or under the control\n               or custody of the city any advertising, signs or advertising matter whatsoever which\n               has been attached or adhered to the property without being required to give notice\n               of such intent to remove to the owners of, or the persons who originally attached,\n               the item. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nThe city may confiscate or destroy any advertising matter, signs or plaques removed\n               pursuant to section 14.08.020 . ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nOfficial legal notices may be posted on city property at a public bulletin board or\n               other public location designated by the manager for such purpose. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nA. Except in areas specifically designated for such use in accordance with law, no person\n               may engage in any of the following activities on city land: 1. Camping; 2. Building fires; 3. Operating motor vehicles of any kind; 4. Constructing trails; 5. Discharging firearms or shooting into city land from beyond its boundaries; 6. Cutting or otherwise damaging live trees, shrubbery, brush or other vegetation; 7. Removing soil, rocks, gravel or plants of any kind; 8. Constructing structures of any kind. B. On any city land no person may (except as otherwise authorized by law): 1. Kill or injure any animal unless such act is necessary to protect a human being or\n               domesticated animal from attack; 2. Harass, torment, poison, provoke, trap or abuse any animal; 3. Interfere with, obstruct, mutilate, conceal or tear down any official notice, sign\n               or placard…",
+          "sourceUrl": "https://library.municode.com/ak/whittier/codes/code_of_ordinances?nodeId=TIT14PACAPUPL"
+        },
+        {
+          "id": "ak:whittier:3",
+          "prompt": "What happens if you commit a violation against these rules on multiple days?",
+          "choices": [
+            "You only get fined for the first day.",
+            "Each day is treated as a separate offense.",
+            "You get double the fine but only once a year.",
+            "The city only gets one notice per month."
+          ],
+          "answer": "Each day is treated as a separate offense.",
+          "excerpt": "All advertising matter and signs or other plaques nailed or attached by any means\n               without the prior written consent of the city to any property owned or under the custody\n               and control of the city be removed. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nAny employee of the city may remove from any public property owned or under the control\n               or custody of the city any advertising, signs or advertising matter whatsoever which\n               has been attached or adhered to the property without being required to give notice\n               of such intent to remove to the owners of, or the persons who originally attached,\n               the item. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nThe city may confiscate or destroy any advertising matter, signs or plaques removed\n               pursuant to section 14.08.020 . ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nOfficial legal notices may be posted on city property at a public bulletin board or\n               other public location designated by the manager for such purpose. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nA. Except in areas specifically designated for such use in accordance with law, no person\n               may engage in any of the following activities on city land: 1. Camping; 2. Building fires; 3. Operating motor vehicles of any kind; 4. Constructing trails; 5. Discharging firearms or shooting into city land from beyond its boundaries; 6. Cutting or otherwise damaging live trees, shrubbery, brush or other vegetation; 7. Removing soil, rocks, gravel or plants of any kind; 8. Constructing structures of any kind. B. On any city land no person may (except as otherwise authorized by law): 1. Kill or injure any animal unless such act is necessary to protect a human being or\n               domesticated animal from attack; 2. Harass, torment, poison, provoke, trap or abuse any animal; 3. Interfere with, obstruct, mutilate, conceal or tear down any official notice, sign\n               or placard…",
+          "sourceUrl": "https://library.municode.com/ak/whittier/codes/code_of_ordinances?nodeId=TIT14PACAPUPL"
+        },
+        {
+          "id": "ak:whittier:4",
+          "prompt": "Who do you need to give permission to before putting up signs on city-owned land?",
+          "choices": [
+            "The mayor or city council.",
+            "A city employee without a ticket.",
+            "No one because it's all public land.",
+            "The neighborhood association."
+          ],
+          "answer": "A city employee without a ticket.",
+          "excerpt": "All advertising matter and signs or other plaques nailed or attached by any means\n               without the prior written consent of the city to any property owned or under the custody\n               and control of the city be removed. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nAny employee of the city may remove from any public property owned or under the control\n               or custody of the city any advertising, signs or advertising matter whatsoever which\n               has been attached or adhered to the property without being required to give notice\n               of such intent to remove to the owners of, or the persons who originally attached,\n               the item. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nThe city may confiscate or destroy any advertising matter, signs or plaques removed\n               pursuant to section 14.08.020 . ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nOfficial legal notices may be posted on city property at a public bulletin board or\n               other public location designated by the manager for such purpose. ( Ord. No. 2023-010 , § 5, 3-19-2024)\n\nA. Except in areas specifically designated for such use in accordance with law, no person\n               may engage in any of the following activities on city land: 1. Camping; 2. Building fires; 3. Operating motor vehicles of any kind; 4. Constructing trails; 5. Discharging firearms or shooting into city land from beyond its boundaries; 6. Cutting or otherwise damaging live trees, shrubbery, brush or other vegetation; 7. Removing soil, rocks, gravel or plants of any kind; 8. Constructing structures of any kind. B. On any city land no person may (except as otherwise authorized by law): 1. Kill or injure any animal unless such act is necessary to protect a human being or\n               domesticated animal from attack; 2. Harass, torment, poison, provoke, trap or abuse any animal; 3. Interfere with, obstruct, mutilate, conceal or tear down any official notice, sign\n               or placard…",
+          "sourceUrl": "https://library.municode.com/ak/whittier/codes/code_of_ordinances?nodeId=TIT14PACAPUPL"
+        }
+      ]
+    }
+  ]
+}

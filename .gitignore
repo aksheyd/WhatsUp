@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Pipeline output that stays local
+data/raw/
+.traces/
+*.log
+
+# Site
+site/node_modules/
+site/dist/
+site/public/data/

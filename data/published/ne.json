@@ -1,0 +1,786 @@
+{
+  "state": "ne",
+  "stateName": "Nebraska",
+  "places": [
+    {
+      "id": "alliance",
+      "name": "Alliance",
+      "sourceIndex": "https://library.municode.com/ne/alliance",
+      "questions": []
+    },
+    {
+      "id": "arlington",
+      "name": "Arlington",
+      "sourceIndex": "https://library.municode.com/ne/arlington",
+      "questions": []
+    },
+    {
+      "id": "bayard",
+      "name": "Bayard",
+      "sourceIndex": "https://library.municode.com/ne/bayard",
+      "questions": []
+    },
+    {
+      "id": "beatrice",
+      "name": "Beatrice",
+      "sourceIndex": "https://library.municode.com/ne/beatrice",
+      "questions": []
+    },
+    {
+      "id": "crete",
+      "name": "Crete",
+      "sourceIndex": "https://library.municode.com/ne/crete",
+      "questions": []
+    },
+    {
+      "id": "dakota-city",
+      "name": "Dakota City",
+      "sourceIndex": "https://library.municode.com/ne/dakota_city",
+      "questions": [
+        {
+          "id": "ne:dakota-city:0",
+          "prompt": "On city-owned land in Dakota City, where may you drink alcohol without extra permission from the government that owns the land?",
+          "choices": [
+            "Anywhere in a city park",
+            "In Cottonwood Cove camping spots you have rented from the city",
+            "Only at a licensed bar",
+            "Nowhere on city land"
+          ],
+          "answer": "In Cottonwood Cove camping spots you have rented from the city",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.; local regulation of alcoholic\n               beverages generally, R.R.S. 1943, § 53-134.02 et seq.\n\nAll words and phrases used in this chapter are to have the definitions applied thereto,\n               as defined in the Nebraska Liquor Control Act (R.R.S. 1943, § 53-101 et seq.). (Code 1973, § 10-101; Code 1998, § 6-1) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\n(a) Except when the state liquor control commission has issued a license as provided in\n               R.R.S. 1943, § 53-186(2), and except as provided in subsection (b) of this section,\n               it is unlawful for any person to consume alcoholic liquor upon property owned or controlled\n               by the state or any governmental subdivision thereof unless authorized by the governing\n               bodies having jurisdiction over such property, except that alcoholic liquor may be\n               consumed in those areas within Cottonwood Cove occupied by campers who have rented\n               the area from the city. (b) (1) It is unlawful for any person in the passenger area of a motor vehicle to possess\n               an open alcoholic beverage container while the motor vehicle is located in a public\n               parking area or on any highway in this municipality. Except as provided in R.R.S.\n               1943, § 53-186, it is unlawful for any person to consume an alcoholic beverage in\n               a public parking area or on any highway in this municipality or inside a motor vehicle\n               while in a public parking area or on any highway in this municipality. (2) The following words, terms and phrases, when used in this subsection (b), shall have\n               the meanings ascribed to them in this subsection (b)(2), except where the context\n               clearly indicates a different meaning: Alcoholic beverage . a. The term \"alcoholic beverage\" means: 1.…",
+          "sourceUrl": "https://library.municode.com/ne/dakota_city/codes/code_of_ordinances?nodeId=COOR_CH4ALLI"
+        },
+        {
+          "id": "ne:dakota-city:1",
+          "prompt": "While a car is in a public parking area or on a street in Dakota City, may someone in the passenger area have an open alcoholic drink?",
+          "choices": [
+            "Yes, if the engine is off",
+            "Yes, if no one is drinking it",
+            "No",
+            "Yes, for beer only"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.; local regulation of alcoholic\n               beverages generally, R.R.S. 1943, § 53-134.02 et seq.\n\nAll words and phrases used in this chapter are to have the definitions applied thereto,\n               as defined in the Nebraska Liquor Control Act (R.R.S. 1943, § 53-101 et seq.). (Code 1973, § 10-101; Code 1998, § 6-1) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\n(a) Except when the state liquor control commission has issued a license as provided in\n               R.R.S. 1943, § 53-186(2), and except as provided in subsection (b) of this section,\n               it is unlawful for any person to consume alcoholic liquor upon property owned or controlled\n               by the state or any governmental subdivision thereof unless authorized by the governing\n               bodies having jurisdiction over such property, except that alcoholic liquor may be\n               consumed in those areas within Cottonwood Cove occupied by campers who have rented\n               the area from the city. (b) (1) It is unlawful for any person in the passenger area of a motor vehicle to possess\n               an open alcoholic beverage container while the motor vehicle is located in a public\n               parking area or on any highway in this municipality. Except as provided in R.R.S.\n               1943, § 53-186, it is unlawful for any person to consume an alcoholic beverage in\n               a public parking area or on any highway in this municipality or inside a motor vehicle\n               while in a public parking area or on any highway in this municipality. (2) The following words, terms and phrases, when used in this subsection (b), shall have\n               the meanings ascribed to them in this subsection (b)(2), except where the context\n               clearly indicates a different meaning: Alcoholic beverage . a. The term \"alcoholic beverage\" means: 1.…",
+          "sourceUrl": "https://library.municode.com/ne/dakota_city/codes/code_of_ordinances?nodeId=COOR_CH4ALLI"
+        },
+        {
+          "id": "ne:dakota-city:2",
+          "prompt": "How old must you be to serve or sell alcoholic drinks as part of your job in Dakota City?",
+          "choices": [
+            "16",
+            "18",
+            "19",
+            "21"
+          ],
+          "answer": "19",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.; local regulation of alcoholic\n               beverages generally, R.R.S. 1943, § 53-134.02 et seq.\n\nAll words and phrases used in this chapter are to have the definitions applied thereto,\n               as defined in the Nebraska Liquor Control Act (R.R.S. 1943, § 53-101 et seq.). (Code 1973, § 10-101; Code 1998, § 6-1) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\n(a) Except when the state liquor control commission has issued a license as provided in\n               R.R.S. 1943, § 53-186(2), and except as provided in subsection (b) of this section,\n               it is unlawful for any person to consume alcoholic liquor upon property owned or controlled\n               by the state or any governmental subdivision thereof unless authorized by the governing\n               bodies having jurisdiction over such property, except that alcoholic liquor may be\n               consumed in those areas within Cottonwood Cove occupied by campers who have rented\n               the area from the city. (b) (1) It is unlawful for any person in the passenger area of a motor vehicle to possess\n               an open alcoholic beverage container while the motor vehicle is located in a public\n               parking area or on any highway in this municipality. Except as provided in R.R.S.\n               1943, § 53-186, it is unlawful for any person to consume an alcoholic beverage in\n               a public parking area or on any highway in this municipality or inside a motor vehicle\n               while in a public parking area or on any highway in this municipality. (2) The following words, terms and phrases, when used in this subsection (b), shall have\n               the meanings ascribed to them in this subsection (b)(2), except where the context\n               clearly indicates a different meaning: Alcoholic beverage . a. The term \"alcoholic beverage\" means: 1.…",
+          "sourceUrl": "https://library.municode.com/ne/dakota_city/codes/code_of_ordinances?nodeId=COOR_CH4ALLI"
+        },
+        {
+          "id": "ne:dakota-city:3",
+          "prompt": "May a 16-year-old carry alcohol out of a licensed store in Dakota City?",
+          "choices": [
+            "No, never",
+            "Yes, if accompanied by a person who is not a minor",
+            "Yes, if they paid for it themselves",
+            "Only beer, not other alcohol"
+          ],
+          "answer": "Yes, if accompanied by a person who is not a minor",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.; local regulation of alcoholic\n               beverages generally, R.R.S. 1943, § 53-134.02 et seq.\n\nAll words and phrases used in this chapter are to have the definitions applied thereto,\n               as defined in the Nebraska Liquor Control Act (R.R.S. 1943, § 53-101 et seq.). (Code 1973, § 10-101; Code 1998, § 6-1) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\n(a) Except when the state liquor control commission has issued a license as provided in\n               R.R.S. 1943, § 53-186(2), and except as provided in subsection (b) of this section,\n               it is unlawful for any person to consume alcoholic liquor upon property owned or controlled\n               by the state or any governmental subdivision thereof unless authorized by the governing\n               bodies having jurisdiction over such property, except that alcoholic liquor may be\n               consumed in those areas within Cottonwood Cove occupied by campers who have rented\n               the area from the city. (b) (1) It is unlawful for any person in the passenger area of a motor vehicle to possess\n               an open alcoholic beverage container while the motor vehicle is located in a public\n               parking area or on any highway in this municipality. Except as provided in R.R.S.\n               1943, § 53-186, it is unlawful for any person to consume an alcoholic beverage in\n               a public parking area or on any highway in this municipality or inside a motor vehicle\n               while in a public parking area or on any highway in this municipality. (2) The following words, terms and phrases, when used in this subsection (b), shall have\n               the meanings ascribed to them in this subsection (b)(2), except where the context\n               clearly indicates a different meaning: Alcoholic beverage . a. The term \"alcoholic beverage\" means: 1.…",
+          "sourceUrl": "https://library.municode.com/ne/dakota_city/codes/code_of_ordinances?nodeId=COOR_CH4ALLI"
+        },
+        {
+          "id": "ne:dakota-city:4",
+          "prompt": "A store selling alcohol at retail generally may not open within how many feet of a church, school, hospital, or home for aged or indigent people in Dakota City?",
+          "choices": [
+            "50 feet",
+            "100 feet",
+            "150 feet",
+            "500 feet"
+          ],
+          "answer": "150 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.; local regulation of alcoholic\n               beverages generally, R.R.S. 1943, § 53-134.02 et seq.\n\nAll words and phrases used in this chapter are to have the definitions applied thereto,\n               as defined in the Nebraska Liquor Control Act (R.R.S. 1943, § 53-101 et seq.). (Code 1973, § 10-101; Code 1998, § 6-1) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\n(a) Except when the state liquor control commission has issued a license as provided in\n               R.R.S. 1943, § 53-186(2), and except as provided in subsection (b) of this section,\n               it is unlawful for any person to consume alcoholic liquor upon property owned or controlled\n               by the state or any governmental subdivision thereof unless authorized by the governing\n               bodies having jurisdiction over such property, except that alcoholic liquor may be\n               consumed in those areas within Cottonwood Cove occupied by campers who have rented\n               the area from the city. (b) (1) It is unlawful for any person in the passenger area of a motor vehicle to possess\n               an open alcoholic beverage container while the motor vehicle is located in a public\n               parking area or on any highway in this municipality. Except as provided in R.R.S.\n               1943, § 53-186, it is unlawful for any person to consume an alcoholic beverage in\n               a public parking area or on any highway in this municipality or inside a motor vehicle\n               while in a public parking area or on any highway in this municipality. (2) The following words, terms and phrases, when used in this subsection (b), shall have\n               the meanings ascribed to them in this subsection (b)(2), except where the context\n               clearly indicates a different meaning: Alcoholic beverage . a. The term \"alcoholic beverage\" means: 1.…",
+          "sourceUrl": "https://library.municode.com/ne/dakota_city/codes/code_of_ordinances?nodeId=COOR_CH4ALLI"
+        }
+      ]
+    },
+    {
+      "id": "fremont",
+      "name": "Fremont",
+      "sourceIndex": "https://library.municode.com/ne/fremont",
+      "questions": [
+        {
+          "id": "ne:fremont:0",
+          "prompt": "When are Fremont’s public parks closed to the public?",
+          "choices": [
+            "From 11:00 p.m. until 6:00 a.m.",
+            "From sunset until sunrise",
+            "From midnight until 7:00 a.m.",
+            "They stay open 24 hours"
+          ],
+          "answer": "From 11:00 p.m. until 6:00 a.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 5308, effective June 25, 2014, amended and reorganized Chapter 12 in\n               its entirety to read as set out herein.\n\nThe City owns and operates the City Parks and other recreational areas through the\n               Director of Parks and Recreation and the Parks and Recreation Department. The Parks\n               and Recreation Department is also authorized to supervise and manage the Ridge Cemetery\n               and the City Auditorium, and to regulate and direct the planting and cultivation of\n               trees, shrubs, and vines on all streets, avenues and parkways in the City. The City\n               Council, for the purpose of defraying the cost of the care, management, and maintenance\n               of the Parks and Recreation Department may each year levy a tax not exceeding the\n               maximum limit prescribed by State law, on the actual valuation of all real estate\n               and personal property within the corporate limits that is subject to taxation. The\n               revenue from said tax shall be known as the Park Fund and shall remain in the custody\n               of the Director of Finance. The Department shall recommend to the City Council rules\n               and regulations for the efficient management of the City Parks and other recreational\n               areas of the City. The Department shall not enter into a contract of any nature which\n               involves an expenditure of funds, except for ordinary operating expenses, unless the\n               contract has been approved by resolution of the majority of the members of the City\n               Council prior to the contractual agreement.\n\nEach applicant for the use of park areas or facilities for events or activities shall\n               deposit with the Parks and Recreation Department a sum to be determined by the Board\n               of Park and Recreation Commissioners as a rental fee and damage deposit, such…",
+          "sourceUrl": "https://library.municode.com/ne/fremont/codes/code_of_ordinances?nodeId=CD_ORD_CH12PARECE"
+        },
+        {
+          "id": "ne:fremont:1",
+          "prompt": "After parks close at night, when may you still be inside without a permit?",
+          "choices": [
+            "If you are walking a dog",
+            "If you stay on the grass",
+            "If you are traveling straight through on a public street or sidewalk",
+            "Never"
+          ],
+          "answer": "If you are traveling straight through on a public street or sidewalk",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 5308, effective June 25, 2014, amended and reorganized Chapter 12 in\n               its entirety to read as set out herein.\n\nThe City owns and operates the City Parks and other recreational areas through the\n               Director of Parks and Recreation and the Parks and Recreation Department. The Parks\n               and Recreation Department is also authorized to supervise and manage the Ridge Cemetery\n               and the City Auditorium, and to regulate and direct the planting and cultivation of\n               trees, shrubs, and vines on all streets, avenues and parkways in the City. The City\n               Council, for the purpose of defraying the cost of the care, management, and maintenance\n               of the Parks and Recreation Department may each year levy a tax not exceeding the\n               maximum limit prescribed by State law, on the actual valuation of all real estate\n               and personal property within the corporate limits that is subject to taxation. The\n               revenue from said tax shall be known as the Park Fund and shall remain in the custody\n               of the Director of Finance. The Department shall recommend to the City Council rules\n               and regulations for the efficient management of the City Parks and other recreational\n               areas of the City. The Department shall not enter into a contract of any nature which\n               involves an expenditure of funds, except for ordinary operating expenses, unless the\n               contract has been approved by resolution of the majority of the members of the City\n               Council prior to the contractual agreement.\n\nEach applicant for the use of park areas or facilities for events or activities shall\n               deposit with the Parks and Recreation Department a sum to be determined by the Board\n               of Park and Recreation Commissioners as a rental fee and damage deposit, such…",
+          "sourceUrl": "https://library.municode.com/ne/fremont/codes/code_of_ordinances?nodeId=CD_ORD_CH12PARECE"
+        },
+        {
+          "id": "ne:fremont:2",
+          "prompt": "Where may you park or drive a motor vehicle in a Fremont city park?",
+          "choices": [
+            "Anywhere the grass looks firm enough",
+            "Only on roadways and parking areas built for vehicles",
+            "On fields during an event",
+            "Along any park path"
+          ],
+          "answer": "Only on roadways and parking areas built for vehicles",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 5308, effective June 25, 2014, amended and reorganized Chapter 12 in\n               its entirety to read as set out herein.\n\nThe City owns and operates the City Parks and other recreational areas through the\n               Director of Parks and Recreation and the Parks and Recreation Department. The Parks\n               and Recreation Department is also authorized to supervise and manage the Ridge Cemetery\n               and the City Auditorium, and to regulate and direct the planting and cultivation of\n               trees, shrubs, and vines on all streets, avenues and parkways in the City. The City\n               Council, for the purpose of defraying the cost of the care, management, and maintenance\n               of the Parks and Recreation Department may each year levy a tax not exceeding the\n               maximum limit prescribed by State law, on the actual valuation of all real estate\n               and personal property within the corporate limits that is subject to taxation. The\n               revenue from said tax shall be known as the Park Fund and shall remain in the custody\n               of the Director of Finance. The Department shall recommend to the City Council rules\n               and regulations for the efficient management of the City Parks and other recreational\n               areas of the City. The Department shall not enter into a contract of any nature which\n               involves an expenditure of funds, except for ordinary operating expenses, unless the\n               contract has been approved by resolution of the majority of the members of the City\n               Council prior to the contractual agreement.\n\nEach applicant for the use of park areas or facilities for events or activities shall\n               deposit with the Parks and Recreation Department a sum to be determined by the Board\n               of Park and Recreation Commissioners as a rental fee and damage deposit, such…",
+          "sourceUrl": "https://library.municode.com/ne/fremont/codes/code_of_ordinances?nodeId=CD_ORD_CH12PARECE"
+        },
+        {
+          "id": "ne:fremont:3",
+          "prompt": "If you want to use a park area or facility for an event, what must you leave with Parks and Recreation?",
+          "choices": [
+            "A copy of your insurance only",
+            "A rental fee and a damage deposit",
+            "A letter from nearby neighbors",
+            "Nothing if the event is free"
+          ],
+          "answer": "A rental fee and a damage deposit",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ordinance No. 5308, effective June 25, 2014, amended and reorganized Chapter 12 in\n               its entirety to read as set out herein.\n\nThe City owns and operates the City Parks and other recreational areas through the\n               Director of Parks and Recreation and the Parks and Recreation Department. The Parks\n               and Recreation Department is also authorized to supervise and manage the Ridge Cemetery\n               and the City Auditorium, and to regulate and direct the planting and cultivation of\n               trees, shrubs, and vines on all streets, avenues and parkways in the City. The City\n               Council, for the purpose of defraying the cost of the care, management, and maintenance\n               of the Parks and Recreation Department may each year levy a tax not exceeding the\n               maximum limit prescribed by State law, on the actual valuation of all real estate\n               and personal property within the corporate limits that is subject to taxation. The\n               revenue from said tax shall be known as the Park Fund and shall remain in the custody\n               of the Director of Finance. The Department shall recommend to the City Council rules\n               and regulations for the efficient management of the City Parks and other recreational\n               areas of the City. The Department shall not enter into a contract of any nature which\n               involves an expenditure of funds, except for ordinary operating expenses, unless the\n               contract has been approved by resolution of the majority of the members of the City\n               Council prior to the contractual agreement.\n\nEach applicant for the use of park areas or facilities for events or activities shall\n               deposit with the Parks and Recreation Department a sum to be determined by the Board\n               of Park and Recreation Commissioners as a rental fee and damage deposit, such…",
+          "sourceUrl": "https://library.municode.com/ne/fremont/codes/code_of_ordinances?nodeId=CD_ORD_CH12PARECE"
+        }
+      ]
+    },
+    {
+      "id": "geneva",
+      "name": "Geneva",
+      "sourceIndex": "https://library.municode.com/ne/geneva",
+      "questions": []
+    },
+    {
+      "id": "grand-island",
+      "name": "Grand Island",
+      "sourceIndex": "https://library.municode.com/ne/grand_island",
+      "questions": []
+    },
+    {
+      "id": "hastings",
+      "name": "Hastings",
+      "sourceIndex": "https://library.municode.com/ne/hastings",
+      "questions": []
+    },
+    {
+      "id": "kearney",
+      "name": "Kearney",
+      "sourceIndex": "https://library.municode.com/ne/kearney",
+      "questions": [
+        {
+          "id": "ne:kearney:0",
+          "prompt": "If a lot sits next to the Kearney East Expressway or I-80, how deep must the front yard be?",
+          "choices": [
+            "25 feet",
+            "50 feet",
+            "10 feet",
+            "No front yard is required"
+          ],
+          "answer": "50 feet",
+          "excerpt": "This District is designed to promote the development of planned business parks that\n               accommodate corporate offices, research facilities, and structures which can combine\n               office, distribution, and limited industrial uses. These facilities serve a more regional\n               audience, but may provide services to local residents. They are characterized by landscaping,\n               parking facilities, and good visual connectivity relationships among buildings. District\n               will typically be found along the Kearney East Expressway and other developing highway\n               and major arterial corridors. Additionally, this District will likely abut other commercial\n               and/or industrial districts. (Ord. No. 8443 , § 1, 10-13-2020)\n\nExpand Regulator Permitted Uses Minimum Lot Area (square feet) 20,000 Minimum Lot Width (feet) 100 Minimum Yards (feet) Front Yard (Note 1) 25; 50 adjacent to the Kearney East Expressway and I-80 Side Yard 10 Street Side Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Rear Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Maximum Height (feet) 60 Maximum Building Coverage 60% Maximum Impervious Coverage 80% Maximum Floor Area Ratio 2.0 Minimum Project Size Requiring Planned Development District (PD) 20 acres Minimum street-facing facades utilizing a masonry material, including brick, split-faced\n                              concrete masonry units, building stone, or simulated building stone 35% Minimum off-set of building for every 100 feet of horizontal distance for building\n                              articulation 5 feet Minimum Depth of Landscaping adjacent to street right-of-way line (feet) 10; 20 adjacent to the Kearney East Expressway and I-80 Minimum Bufferyard to be provided adjacent to residential uses or vacant land in RR-1\n                              through R-4 and RM zoning districts The lesser of 20 feet or 10% of the average of the sides…",
+          "sourceUrl": "https://library.municode.com/ne/kearney/codes/code_of_ordinances?nodeId=CH30DIBPBUPADI"
+        },
+        {
+          "id": "ne:kearney:1",
+          "prompt": "At least how much of a building’s street-facing walls must use masonry such as brick, stone, or similar materials?",
+          "choices": [
+            "35%",
+            "10%",
+            "80%",
+            "None of it"
+          ],
+          "answer": "35%",
+          "excerpt": "This District is designed to promote the development of planned business parks that\n               accommodate corporate offices, research facilities, and structures which can combine\n               office, distribution, and limited industrial uses. These facilities serve a more regional\n               audience, but may provide services to local residents. They are characterized by landscaping,\n               parking facilities, and good visual connectivity relationships among buildings. District\n               will typically be found along the Kearney East Expressway and other developing highway\n               and major arterial corridors. Additionally, this District will likely abut other commercial\n               and/or industrial districts. (Ord. No. 8443 , § 1, 10-13-2020)\n\nExpand Regulator Permitted Uses Minimum Lot Area (square feet) 20,000 Minimum Lot Width (feet) 100 Minimum Yards (feet) Front Yard (Note 1) 25; 50 adjacent to the Kearney East Expressway and I-80 Side Yard 10 Street Side Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Rear Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Maximum Height (feet) 60 Maximum Building Coverage 60% Maximum Impervious Coverage 80% Maximum Floor Area Ratio 2.0 Minimum Project Size Requiring Planned Development District (PD) 20 acres Minimum street-facing facades utilizing a masonry material, including brick, split-faced\n                              concrete masonry units, building stone, or simulated building stone 35% Minimum off-set of building for every 100 feet of horizontal distance for building\n                              articulation 5 feet Minimum Depth of Landscaping adjacent to street right-of-way line (feet) 10; 20 adjacent to the Kearney East Expressway and I-80 Minimum Bufferyard to be provided adjacent to residential uses or vacant land in RR-1\n                              through R-4 and RM zoning districts The lesser of 20 feet or 10% of the average of the sides…",
+          "sourceUrl": "https://library.municode.com/ne/kearney/codes/code_of_ordinances?nodeId=CH30DIBPBUPADI"
+        },
+        {
+          "id": "ne:kearney:2",
+          "prompt": "How wide must the landscaping strip next to the street be along the Kearney East Expressway or I-80?",
+          "choices": [
+            "10 feet",
+            "20 feet",
+            "5 feet",
+            "50 feet"
+          ],
+          "answer": "20 feet",
+          "excerpt": "This District is designed to promote the development of planned business parks that\n               accommodate corporate offices, research facilities, and structures which can combine\n               office, distribution, and limited industrial uses. These facilities serve a more regional\n               audience, but may provide services to local residents. They are characterized by landscaping,\n               parking facilities, and good visual connectivity relationships among buildings. District\n               will typically be found along the Kearney East Expressway and other developing highway\n               and major arterial corridors. Additionally, this District will likely abut other commercial\n               and/or industrial districts. (Ord. No. 8443 , § 1, 10-13-2020)\n\nExpand Regulator Permitted Uses Minimum Lot Area (square feet) 20,000 Minimum Lot Width (feet) 100 Minimum Yards (feet) Front Yard (Note 1) 25; 50 adjacent to the Kearney East Expressway and I-80 Side Yard 10 Street Side Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Rear Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Maximum Height (feet) 60 Maximum Building Coverage 60% Maximum Impervious Coverage 80% Maximum Floor Area Ratio 2.0 Minimum Project Size Requiring Planned Development District (PD) 20 acres Minimum street-facing facades utilizing a masonry material, including brick, split-faced\n                              concrete masonry units, building stone, or simulated building stone 35% Minimum off-set of building for every 100 feet of horizontal distance for building\n                              articulation 5 feet Minimum Depth of Landscaping adjacent to street right-of-way line (feet) 10; 20 adjacent to the Kearney East Expressway and I-80 Minimum Bufferyard to be provided adjacent to residential uses or vacant land in RR-1\n                              through R-4 and RM zoning districts The lesser of 20 feet or 10% of the average of the sides…",
+          "sourceUrl": "https://library.municode.com/ne/kearney/codes/code_of_ordinances?nodeId=CH30DIBPBUPADI"
+        },
+        {
+          "id": "ne:kearney:3",
+          "prompt": "For every 100 feet of building length, how much of a jog or offset is required in the wall?",
+          "choices": [
+            "5 feet",
+            "10 feet",
+            "25 feet",
+            "No offset is required"
+          ],
+          "answer": "5 feet",
+          "excerpt": "This District is designed to promote the development of planned business parks that\n               accommodate corporate offices, research facilities, and structures which can combine\n               office, distribution, and limited industrial uses. These facilities serve a more regional\n               audience, but may provide services to local residents. They are characterized by landscaping,\n               parking facilities, and good visual connectivity relationships among buildings. District\n               will typically be found along the Kearney East Expressway and other developing highway\n               and major arterial corridors. Additionally, this District will likely abut other commercial\n               and/or industrial districts. (Ord. No. 8443 , § 1, 10-13-2020)\n\nExpand Regulator Permitted Uses Minimum Lot Area (square feet) 20,000 Minimum Lot Width (feet) 100 Minimum Yards (feet) Front Yard (Note 1) 25; 50 adjacent to the Kearney East Expressway and I-80 Side Yard 10 Street Side Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Rear Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Maximum Height (feet) 60 Maximum Building Coverage 60% Maximum Impervious Coverage 80% Maximum Floor Area Ratio 2.0 Minimum Project Size Requiring Planned Development District (PD) 20 acres Minimum street-facing facades utilizing a masonry material, including brick, split-faced\n                              concrete masonry units, building stone, or simulated building stone 35% Minimum off-set of building for every 100 feet of horizontal distance for building\n                              articulation 5 feet Minimum Depth of Landscaping adjacent to street right-of-way line (feet) 10; 20 adjacent to the Kearney East Expressway and I-80 Minimum Bufferyard to be provided adjacent to residential uses or vacant land in RR-1\n                              through R-4 and RM zoning districts The lesser of 20 feet or 10% of the average of the sides…",
+          "sourceUrl": "https://library.municode.com/ne/kearney/codes/code_of_ordinances?nodeId=CH30DIBPBUPADI"
+        },
+        {
+          "id": "ne:kearney:4",
+          "prompt": "What is the smallest lot allowed in this district?",
+          "choices": [
+            "20,000 square feet",
+            "20 acres",
+            "5,000 square feet",
+            "No minimum"
+          ],
+          "answer": "20,000 square feet",
+          "excerpt": "This District is designed to promote the development of planned business parks that\n               accommodate corporate offices, research facilities, and structures which can combine\n               office, distribution, and limited industrial uses. These facilities serve a more regional\n               audience, but may provide services to local residents. They are characterized by landscaping,\n               parking facilities, and good visual connectivity relationships among buildings. District\n               will typically be found along the Kearney East Expressway and other developing highway\n               and major arterial corridors. Additionally, this District will likely abut other commercial\n               and/or industrial districts. (Ord. No. 8443 , § 1, 10-13-2020)\n\nExpand Regulator Permitted Uses Minimum Lot Area (square feet) 20,000 Minimum Lot Width (feet) 100 Minimum Yards (feet) Front Yard (Note 1) 25; 50 adjacent to the Kearney East Expressway and I-80 Side Yard 10 Street Side Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Rear Yard 25; 50 adjacent to the Kearney East Expressway and I-80 Maximum Height (feet) 60 Maximum Building Coverage 60% Maximum Impervious Coverage 80% Maximum Floor Area Ratio 2.0 Minimum Project Size Requiring Planned Development District (PD) 20 acres Minimum street-facing facades utilizing a masonry material, including brick, split-faced\n                              concrete masonry units, building stone, or simulated building stone 35% Minimum off-set of building for every 100 feet of horizontal distance for building\n                              articulation 5 feet Minimum Depth of Landscaping adjacent to street right-of-way line (feet) 10; 20 adjacent to the Kearney East Expressway and I-80 Minimum Bufferyard to be provided adjacent to residential uses or vacant land in RR-1\n                              through R-4 and RM zoning districts The lesser of 20 feet or 10% of the average of the sides…",
+          "sourceUrl": "https://library.municode.com/ne/kearney/codes/code_of_ordinances?nodeId=CH30DIBPBUPADI"
+        }
+      ]
+    },
+    {
+      "id": "lexington",
+      "name": "Lexington",
+      "sourceIndex": "https://library.municode.com/ne/lexington",
+      "questions": [
+        {
+          "id": "ne:lexington:0",
+          "prompt": "When was Lexington’s city code adopted and made effective?",
+          "choices": [
+            "October 9, 2012",
+            "November 12, 2007",
+            "January 1, 2013",
+            "1990"
+          ],
+          "answer": "October 9, 2012",
+          "excerpt": "____________ Published in 2012 by Order of the City Council ____________ Adopted: October 9, 2012 Effective: October 9, 2012 ____________\n\n____________ John Fagot Mayor ____________ Joni Bennett Linda Miller John Salem Steve Tomasek City Council ____________ Joe Pepplitsch City Manager ____________ Will Weinhold City Attorney ____________ Pam Berke City Clerk\n\nThis Code constitutes a recodification of the general and permanent ordinances of\n            the City of Lexington, Nebraska. Source materials used in the preparation of the Code were the 1990 Code, as supplemented\n            through November 12, 2007, and ordinances subsequently adopted by the city. The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the 1990\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure after the dash refers to the position of the section within the…",
+          "sourceUrl": "https://library.municode.com/ne/lexington/codes/code_of_ordinances?nodeId=COLENE"
+        },
+        {
+          "id": "ne:lexington:1",
+          "prompt": "Who was mayor of Lexington when the city code was published in 2012?",
+          "choices": [
+            "John Fagot",
+            "Joe Pepplitsch",
+            "Will Weinhold",
+            "Steve Tomasek"
+          ],
+          "answer": "John Fagot",
+          "excerpt": "____________ Published in 2012 by Order of the City Council ____________ Adopted: October 9, 2012 Effective: October 9, 2012 ____________\n\n____________ John Fagot Mayor ____________ Joni Bennett Linda Miller John Salem Steve Tomasek City Council ____________ Joe Pepplitsch City Manager ____________ Will Weinhold City Attorney ____________ Pam Berke City Clerk\n\nThis Code constitutes a recodification of the general and permanent ordinances of\n            the City of Lexington, Nebraska. Source materials used in the preparation of the Code were the 1990 Code, as supplemented\n            through November 12, 2007, and ordinances subsequently adopted by the city. The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the 1990\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure after the dash refers to the position of the section within the…",
+          "sourceUrl": "https://library.municode.com/ne/lexington/codes/code_of_ordinances?nodeId=COLENE"
+        },
+        {
+          "id": "ne:lexington:2",
+          "prompt": "How are the chapters of Lexington’s city code arranged?",
+          "choices": [
+            "In alphabetical order",
+            "By the date each rule was passed",
+            "By city department",
+            "From shortest to longest"
+          ],
+          "answer": "In alphabetical order",
+          "excerpt": "____________ Published in 2012 by Order of the City Council ____________ Adopted: October 9, 2012 Effective: October 9, 2012 ____________\n\n____________ John Fagot Mayor ____________ Joni Bennett Linda Miller John Salem Steve Tomasek City Council ____________ Joe Pepplitsch City Manager ____________ Will Weinhold City Attorney ____________ Pam Berke City Clerk\n\nThis Code constitutes a recodification of the general and permanent ordinances of\n            the City of Lexington, Nebraska. Source materials used in the preparation of the Code were the 1990 Code, as supplemented\n            through November 12, 2007, and ordinances subsequently adopted by the city. The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the 1990\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure after the dash refers to the position of the section within the…",
+          "sourceUrl": "https://library.municode.com/ne/lexington/codes/code_of_ordinances?nodeId=COLENE"
+        },
+        {
+          "id": "ne:lexington:3",
+          "prompt": "The 2012 Lexington code recodified which earlier set of city rules?",
+          "choices": [
+            "The 1990 Code",
+            "Only brand-new 2012 rules",
+            "Nebraska state law only",
+            "A 2000 county code"
+          ],
+          "answer": "The 1990 Code",
+          "excerpt": "____________ Published in 2012 by Order of the City Council ____________ Adopted: October 9, 2012 Effective: October 9, 2012 ____________\n\n____________ John Fagot Mayor ____________ Joni Bennett Linda Miller John Salem Steve Tomasek City Council ____________ Joe Pepplitsch City Manager ____________ Will Weinhold City Attorney ____________ Pam Berke City Clerk\n\nThis Code constitutes a recodification of the general and permanent ordinances of\n            the City of Lexington, Nebraska. Source materials used in the preparation of the Code were the 1990 Code, as supplemented\n            through November 12, 2007, and ordinances subsequently adopted by the city. The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the 1990\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order, and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. A table listing the state law citations and setting\n            forth their location within the Code is included at the back of this Code. Chapter and Section Numbering System The chapter and section numbering system used in this Code is the same system used\n            in many state and local government codes. Each section number consists of two parts\n            separated by a dash. The figure before the dash refers to the chapter number, and\n            the figure after the dash refers to the position of the section within the…",
+          "sourceUrl": "https://library.municode.com/ne/lexington/codes/code_of_ordinances?nodeId=COLENE"
+        }
+      ]
+    },
+    {
+      "id": "malcolm",
+      "name": "Malcolm",
+      "sourceIndex": "https://library.municode.com/ne/malcolm",
+      "questions": []
+    },
+    {
+      "id": "minden",
+      "name": "Minden",
+      "sourceIndex": "https://library.municode.com/ne/minden",
+      "questions": [
+        {
+          "id": "ne:minden:0",
+          "prompt": "What is the only material Minden allows for sidewalks?",
+          "choices": [
+            "Concrete and no other material",
+            "Brick or pavers",
+            "Wood with a concrete base",
+            "Any durable surface the owner picks"
+          ],
+          "answer": "Concrete and no other material",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Buildings and building regulations, ch. 14; traffic and vehicles, ch. 82; utilities, ch. 86; vegetation, ch. 90; zoning, ch. 94. State Law reference— Overseer of streets, R.R.S. 1943, § 17-119; grading and repair, R.R.S. 1943, § 17-508\n               et seq.\n\nIf any contractor, owner, lessee, or person shall hereafter build or construct or\n               repair a sidewalk within the city, contrary to the provisions of this article, the\n               city administrator shall at once, and he is hereby authorized to remove the sidewalk\n               without notice, and such contractor, owner, lessee, or person violating any of the\n               provisions of this article shall, upon conviction thereof, be fined in any sum not\n               more than $500.00 and costs of prosecution. (Code 1982, § 9-105)\n\nAll sidewalks shall be constructed of concrete and no other material. Such concrete\n               walks shall be not less than four inches in thickness. (Code 1982, § 9-101) State Law reference— Construction of sidewalks, R.R.S. 1943, § 17-523 et seq.\n\nAll sidewalks shall be parallel with the adjoining lot line and upon such grade as\n               may be established by the city administrator or the city engineer until such time\n               as a permanent grade shall be established by ordinance. No sidewalks shall be constructed\n               until such grade has been established. Whenever sidewalks shall be laid along a paved\n               street, they shall be laid to a grade sloping evenly from the lot line to the curb\n               on a slope of approximately three-eighths inch to the foot. (Code 1982, § 9-102)\n\nAll sidewalks in the city shall be not less than four feet wide except that along\n               the east end of lots 4, 5, and 6, block 12; the south side of block 21, the east end\n               of lots 4, 5, and 6, block 21; the west end of lots 7, 8, and south half of 9, block\n               28; the…",
+          "sourceUrl": "https://library.municode.com/ne/minden/codes/code_of_ordinances?nodeId=CO_CH70STSIOTPUPL"
+        },
+        {
+          "id": "ne:minden:1",
+          "prompt": "How thick must a new sidewalk be?",
+          "choices": [
+            "At least two inches",
+            "At least four inches",
+            "At least six inches",
+            "Whatever the contractor prefers"
+          ],
+          "answer": "At least four inches",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Buildings and building regulations, ch. 14; traffic and vehicles, ch. 82; utilities, ch. 86; vegetation, ch. 90; zoning, ch. 94. State Law reference— Overseer of streets, R.R.S. 1943, § 17-119; grading and repair, R.R.S. 1943, § 17-508\n               et seq.\n\nIf any contractor, owner, lessee, or person shall hereafter build or construct or\n               repair a sidewalk within the city, contrary to the provisions of this article, the\n               city administrator shall at once, and he is hereby authorized to remove the sidewalk\n               without notice, and such contractor, owner, lessee, or person violating any of the\n               provisions of this article shall, upon conviction thereof, be fined in any sum not\n               more than $500.00 and costs of prosecution. (Code 1982, § 9-105)\n\nAll sidewalks shall be constructed of concrete and no other material. Such concrete\n               walks shall be not less than four inches in thickness. (Code 1982, § 9-101) State Law reference— Construction of sidewalks, R.R.S. 1943, § 17-523 et seq.\n\nAll sidewalks shall be parallel with the adjoining lot line and upon such grade as\n               may be established by the city administrator or the city engineer until such time\n               as a permanent grade shall be established by ordinance. No sidewalks shall be constructed\n               until such grade has been established. Whenever sidewalks shall be laid along a paved\n               street, they shall be laid to a grade sloping evenly from the lot line to the curb\n               on a slope of approximately three-eighths inch to the foot. (Code 1982, § 9-102)\n\nAll sidewalks in the city shall be not less than four feet wide except that along\n               the east end of lots 4, 5, and 6, block 12; the south side of block 21, the east end\n               of lots 4, 5, and 6, block 21; the west end of lots 7, 8, and south half of 9, block\n               28; the…",
+          "sourceUrl": "https://library.municode.com/ne/minden/codes/code_of_ordinances?nodeId=CO_CH70STSIOTPUPL"
+        },
+        {
+          "id": "ne:minden:2",
+          "prompt": "If you already have an old sidewalk that is not concrete, can you patch it?",
+          "choices": [
+            "Yes, as long as the patch matches",
+            "Only with a city permit",
+            "No, you must replace it with concrete",
+            "Yes, historic materials are allowed"
+          ],
+          "answer": "No, you must replace it with concrete",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Buildings and building regulations, ch. 14; traffic and vehicles, ch. 82; utilities, ch. 86; vegetation, ch. 90; zoning, ch. 94. State Law reference— Overseer of streets, R.R.S. 1943, § 17-119; grading and repair, R.R.S. 1943, § 17-508\n               et seq.\n\nIf any contractor, owner, lessee, or person shall hereafter build or construct or\n               repair a sidewalk within the city, contrary to the provisions of this article, the\n               city administrator shall at once, and he is hereby authorized to remove the sidewalk\n               without notice, and such contractor, owner, lessee, or person violating any of the\n               provisions of this article shall, upon conviction thereof, be fined in any sum not\n               more than $500.00 and costs of prosecution. (Code 1982, § 9-105)\n\nAll sidewalks shall be constructed of concrete and no other material. Such concrete\n               walks shall be not less than four inches in thickness. (Code 1982, § 9-101) State Law reference— Construction of sidewalks, R.R.S. 1943, § 17-523 et seq.\n\nAll sidewalks shall be parallel with the adjoining lot line and upon such grade as\n               may be established by the city administrator or the city engineer until such time\n               as a permanent grade shall be established by ordinance. No sidewalks shall be constructed\n               until such grade has been established. Whenever sidewalks shall be laid along a paved\n               street, they shall be laid to a grade sloping evenly from the lot line to the curb\n               on a slope of approximately three-eighths inch to the foot. (Code 1982, § 9-102)\n\nAll sidewalks in the city shall be not less than four feet wide except that along\n               the east end of lots 4, 5, and 6, block 12; the south side of block 21, the east end\n               of lots 4, 5, and 6, block 21; the west end of lots 7, 8, and south half of 9, block\n               28; the…",
+          "sourceUrl": "https://library.municode.com/ne/minden/codes/code_of_ordinances?nodeId=CO_CH70STSIOTPUPL"
+        },
+        {
+          "id": "ne:minden:3",
+          "prompt": "After the city notifies you that your sidewalk is broken, how long do you have to fix it?",
+          "choices": [
+            "24 hours",
+            "Five days",
+            "Two weeks",
+            "Until the next inspection"
+          ],
+          "answer": "Five days",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Buildings and building regulations, ch. 14; traffic and vehicles, ch. 82; utilities, ch. 86; vegetation, ch. 90; zoning, ch. 94. State Law reference— Overseer of streets, R.R.S. 1943, § 17-119; grading and repair, R.R.S. 1943, § 17-508\n               et seq.\n\nIf any contractor, owner, lessee, or person shall hereafter build or construct or\n               repair a sidewalk within the city, contrary to the provisions of this article, the\n               city administrator shall at once, and he is hereby authorized to remove the sidewalk\n               without notice, and such contractor, owner, lessee, or person violating any of the\n               provisions of this article shall, upon conviction thereof, be fined in any sum not\n               more than $500.00 and costs of prosecution. (Code 1982, § 9-105)\n\nAll sidewalks shall be constructed of concrete and no other material. Such concrete\n               walks shall be not less than four inches in thickness. (Code 1982, § 9-101) State Law reference— Construction of sidewalks, R.R.S. 1943, § 17-523 et seq.\n\nAll sidewalks shall be parallel with the adjoining lot line and upon such grade as\n               may be established by the city administrator or the city engineer until such time\n               as a permanent grade shall be established by ordinance. No sidewalks shall be constructed\n               until such grade has been established. Whenever sidewalks shall be laid along a paved\n               street, they shall be laid to a grade sloping evenly from the lot line to the curb\n               on a slope of approximately three-eighths inch to the foot. (Code 1982, § 9-102)\n\nAll sidewalks in the city shall be not less than four feet wide except that along\n               the east end of lots 4, 5, and 6, block 12; the south side of block 21, the east end\n               of lots 4, 5, and 6, block 21; the west end of lots 7, 8, and south half of 9, block\n               28; the…",
+          "sourceUrl": "https://library.municode.com/ne/minden/codes/code_of_ordinances?nodeId=CO_CH70STSIOTPUPL"
+        },
+        {
+          "id": "ne:minden:4",
+          "prompt": "If you put a planter or other object against a building, how far can it stick out onto the sidewalk?",
+          "choices": [
+            "No more than two feet",
+            "No more than four feet",
+            "Halfway to the curb",
+            "As far as you like if people can still walk"
+          ],
+          "answer": "No more than two feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Buildings and building regulations, ch. 14; traffic and vehicles, ch. 82; utilities, ch. 86; vegetation, ch. 90; zoning, ch. 94. State Law reference— Overseer of streets, R.R.S. 1943, § 17-119; grading and repair, R.R.S. 1943, § 17-508\n               et seq.\n\nIf any contractor, owner, lessee, or person shall hereafter build or construct or\n               repair a sidewalk within the city, contrary to the provisions of this article, the\n               city administrator shall at once, and he is hereby authorized to remove the sidewalk\n               without notice, and such contractor, owner, lessee, or person violating any of the\n               provisions of this article shall, upon conviction thereof, be fined in any sum not\n               more than $500.00 and costs of prosecution. (Code 1982, § 9-105)\n\nAll sidewalks shall be constructed of concrete and no other material. Such concrete\n               walks shall be not less than four inches in thickness. (Code 1982, § 9-101) State Law reference— Construction of sidewalks, R.R.S. 1943, § 17-523 et seq.\n\nAll sidewalks shall be parallel with the adjoining lot line and upon such grade as\n               may be established by the city administrator or the city engineer until such time\n               as a permanent grade shall be established by ordinance. No sidewalks shall be constructed\n               until such grade has been established. Whenever sidewalks shall be laid along a paved\n               street, they shall be laid to a grade sloping evenly from the lot line to the curb\n               on a slope of approximately three-eighths inch to the foot. (Code 1982, § 9-102)\n\nAll sidewalks in the city shall be not less than four feet wide except that along\n               the east end of lots 4, 5, and 6, block 12; the south side of block 21, the east end\n               of lots 4, 5, and 6, block 21; the west end of lots 7, 8, and south half of 9, block\n               28; the…",
+          "sourceUrl": "https://library.municode.com/ne/minden/codes/code_of_ordinances?nodeId=CO_CH70STSIOTPUPL"
+        }
+      ]
+    },
+    {
+      "id": "nebraska-city",
+      "name": "Nebraska City",
+      "sourceIndex": "https://library.municode.com/ne/nebraska_city",
+      "questions": [
+        {
+          "id": "ne:nebraska-city:0",
+          "prompt": "If you ride a bicycle in Nebraska City from 30 minutes after sunset until 30 minutes before sunrise, what lighting does the bike need?",
+          "choices": [
+            "A white front light visible at least 500 feet and a red rear reflector or light visible 500 feet",
+            "Any flashlight taped to the handlebars",
+            "Only a rear reflector",
+            "No extra lights are required"
+          ],
+          "answer": "A white front light visible at least 500 feet and a red rear reflector or light visible 500 feet",
+          "excerpt": "A bicycle is hereby defined as a two (2) wheeled vehicle, propelled by human power,\n               having tandem arrangement of wheels with tires either of which is over twelve (12)\n               inches in diameter.\n\nIt shall be unlawful for any rental agency to offer any bicycle for rent unless said\n               bicycle shall first have been registered and the registration number plate attached\n               thereto as required by this chapter. Bicycles offered for rent by a rental agency\n               shall be equipped by such agency with lights and other safety equipment as is required\n               by this chapter and shall be kept in good and safe working order. (Ord. No. 868, § 16, 5-15-50)\n\nIt shall be unlawful for any person to wilfully or maliciously remove, destroy, mutilate\n               or alter the manufacturer's serial frame number of any bicycle registered pursuant\n               to the provisions of this chapter. It shall also be unlawful for any person to remove,\n               destroy, mutilate or alter any registration number plate during the period when such\n               registration is operative. (Ord. No. 868, § 18, 5-15-50)\n\nIt shall be unlawful for any person to operate a bicycle within the city unless such\n               bicycle is equipped with a brake adequate to control the movement of and to stop such\n               bicycle within reasonable limits. (Ord. No. 868, § 8, 5-15-50)\n\nNo person shall operate a bicycle upon the streets, alleys, or public ways of the\n               city from one-half (½) hour after sunset to one-half (½) hour before sunrise, unless\n               the same shall be equipped with and have operating a light on the front of the bicycle\n               which shall emit a white light visible from a distance of at least five hundred (500)\n               feet to the front and with a red reflector or light on the rear of a type which shall\n               be visible from a distance of five hundred (500) feet to…",
+          "sourceUrl": "https://library.municode.com/ne/nebraska_city/codes/code_of_ordinances?nodeId=CO_CH8BIMODE"
+        },
+        {
+          "id": "ne:nebraska-city:1",
+          "prompt": "Where is it illegal to ride a bicycle on the sidewalk in Nebraska City?",
+          "choices": [
+            "In the business districts",
+            "On any sidewalk in town",
+            "Only after dark",
+            "Nowhere; sidewalks are always allowed"
+          ],
+          "answer": "In the business districts",
+          "excerpt": "A bicycle is hereby defined as a two (2) wheeled vehicle, propelled by human power,\n               having tandem arrangement of wheels with tires either of which is over twelve (12)\n               inches in diameter.\n\nIt shall be unlawful for any rental agency to offer any bicycle for rent unless said\n               bicycle shall first have been registered and the registration number plate attached\n               thereto as required by this chapter. Bicycles offered for rent by a rental agency\n               shall be equipped by such agency with lights and other safety equipment as is required\n               by this chapter and shall be kept in good and safe working order. (Ord. No. 868, § 16, 5-15-50)\n\nIt shall be unlawful for any person to wilfully or maliciously remove, destroy, mutilate\n               or alter the manufacturer's serial frame number of any bicycle registered pursuant\n               to the provisions of this chapter. It shall also be unlawful for any person to remove,\n               destroy, mutilate or alter any registration number plate during the period when such\n               registration is operative. (Ord. No. 868, § 18, 5-15-50)\n\nIt shall be unlawful for any person to operate a bicycle within the city unless such\n               bicycle is equipped with a brake adequate to control the movement of and to stop such\n               bicycle within reasonable limits. (Ord. No. 868, § 8, 5-15-50)\n\nNo person shall operate a bicycle upon the streets, alleys, or public ways of the\n               city from one-half (½) hour after sunset to one-half (½) hour before sunrise, unless\n               the same shall be equipped with and have operating a light on the front of the bicycle\n               which shall emit a white light visible from a distance of at least five hundred (500)\n               feet to the front and with a red reflector or light on the rear of a type which shall\n               be visible from a distance of five hundred (500) feet to…",
+          "sourceUrl": "https://library.municode.com/ne/nebraska_city/codes/code_of_ordinances?nodeId=CO_CH8BIMODE"
+        },
+        {
+          "id": "ne:nebraska-city:2",
+          "prompt": "If you park a bicycle on a sidewalk, how close to the curb must it be?",
+          "choices": [
+            "Within 4 feet of the curb",
+            "Anywhere on the sidewalk is fine",
+            "At least 10 feet from the curb",
+            "Right against a building wall"
+          ],
+          "answer": "Within 4 feet of the curb",
+          "excerpt": "A bicycle is hereby defined as a two (2) wheeled vehicle, propelled by human power,\n               having tandem arrangement of wheels with tires either of which is over twelve (12)\n               inches in diameter.\n\nIt shall be unlawful for any rental agency to offer any bicycle for rent unless said\n               bicycle shall first have been registered and the registration number plate attached\n               thereto as required by this chapter. Bicycles offered for rent by a rental agency\n               shall be equipped by such agency with lights and other safety equipment as is required\n               by this chapter and shall be kept in good and safe working order. (Ord. No. 868, § 16, 5-15-50)\n\nIt shall be unlawful for any person to wilfully or maliciously remove, destroy, mutilate\n               or alter the manufacturer's serial frame number of any bicycle registered pursuant\n               to the provisions of this chapter. It shall also be unlawful for any person to remove,\n               destroy, mutilate or alter any registration number plate during the period when such\n               registration is operative. (Ord. No. 868, § 18, 5-15-50)\n\nIt shall be unlawful for any person to operate a bicycle within the city unless such\n               bicycle is equipped with a brake adequate to control the movement of and to stop such\n               bicycle within reasonable limits. (Ord. No. 868, § 8, 5-15-50)\n\nNo person shall operate a bicycle upon the streets, alleys, or public ways of the\n               city from one-half (½) hour after sunset to one-half (½) hour before sunrise, unless\n               the same shall be equipped with and have operating a light on the front of the bicycle\n               which shall emit a white light visible from a distance of at least five hundred (500)\n               feet to the front and with a red reflector or light on the rear of a type which shall\n               be visible from a distance of five hundred (500) feet to…",
+          "sourceUrl": "https://library.municode.com/ne/nebraska_city/codes/code_of_ordinances?nodeId=CO_CH8BIMODE"
+        },
+        {
+          "id": "ne:nebraska-city:3",
+          "prompt": "How many people may ride on one bicycle?",
+          "choices": [
+            "Only one person unless the bike is built for more, and never anyone in front of the rider",
+            "As many as can squeeze on",
+            "Two if they both hold the handlebars",
+            "Unlimited if everyone wears a helmet"
+          ],
+          "answer": "Only one person unless the bike is built for more, and never anyone in front of the rider",
+          "excerpt": "A bicycle is hereby defined as a two (2) wheeled vehicle, propelled by human power,\n               having tandem arrangement of wheels with tires either of which is over twelve (12)\n               inches in diameter.\n\nIt shall be unlawful for any rental agency to offer any bicycle for rent unless said\n               bicycle shall first have been registered and the registration number plate attached\n               thereto as required by this chapter. Bicycles offered for rent by a rental agency\n               shall be equipped by such agency with lights and other safety equipment as is required\n               by this chapter and shall be kept in good and safe working order. (Ord. No. 868, § 16, 5-15-50)\n\nIt shall be unlawful for any person to wilfully or maliciously remove, destroy, mutilate\n               or alter the manufacturer's serial frame number of any bicycle registered pursuant\n               to the provisions of this chapter. It shall also be unlawful for any person to remove,\n               destroy, mutilate or alter any registration number plate during the period when such\n               registration is operative. (Ord. No. 868, § 18, 5-15-50)\n\nIt shall be unlawful for any person to operate a bicycle within the city unless such\n               bicycle is equipped with a brake adequate to control the movement of and to stop such\n               bicycle within reasonable limits. (Ord. No. 868, § 8, 5-15-50)\n\nNo person shall operate a bicycle upon the streets, alleys, or public ways of the\n               city from one-half (½) hour after sunset to one-half (½) hour before sunrise, unless\n               the same shall be equipped with and have operating a light on the front of the bicycle\n               which shall emit a white light visible from a distance of at least five hundred (500)\n               feet to the front and with a red reflector or light on the rear of a type which shall\n               be visible from a distance of five hundred (500) feet to…",
+          "sourceUrl": "https://library.municode.com/ne/nebraska_city/codes/code_of_ordinances?nodeId=CO_CH8BIMODE"
+        }
+      ]
+    },
+    {
+      "id": "omaha",
+      "name": "Omaha",
+      "sourceIndex": "https://library.municode.com/ne/omaha",
+      "questions": [
+        {
+          "id": "ne:omaha:0",
+          "prompt": "When is a mini-pig considered at large in Omaha?",
+          "choices": [
+            "Anytime it is outdoors on your property",
+            "When it is off your property and not in a crate, enclosed car, or on a leash (except in a city-recognized dog park)",
+            "Only if it is mixed with farm livestock",
+            "Whenever it is not wearing a collar"
+          ],
+          "answer": "When it is off your property and not in a crate, enclosed car, or on a leash (except in a city-recognized dog park)",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 36463, § 2, adopted Dec. 16, 2003, amended ch. 6 in its entirety. Formerly,\n               said chapter pertained to similar subject matter as enacted by Code 1980, §§ 6-1—6-326,\n               as amended. Cross reference— Stockyards, slaughterhouses and other objectionable businesses, § 11-3; health and sanitation, ch. 12; nuisances, ch. 18; prohibited treatment of police dogs and police horses, § 20-27; animals at large in parks, § 21-5. State Law reference— Regulation of animals, R.R.S. 1943, §§ 14-102(11), 14-102(16).\n\nFor the purposes of this chapter, the following words and phrases shall have the meanings\n               respectively ascribed to them: Adequate drainage: That the living area for each animal being kept confined or restrained shall have\n               adequate drainage such that the animal shall be free to walk or lie down without coming\n               in contact with standing water or other liquid. Animal care professional: Veterinarian, veterinary technician, veterinarian staff assistant, kennel operator/staff,\n               groomer, shelter operator/staff, breeder. Animal control authority: The entity with whom the city contracts for enforcement of this chapter. Animal control officer: The person employed by the animal control authority for the enforcement of the provisions\n               of this chapter. Animal rescue: An entity or person(s) who: Provides care or fosters pet animals that have been lost, abandoned, surrendered or\n                  otherwise disowned; trains, alters (spay/neuter), vaccinates, rehabilitates and otherwise\n                  treats rescued pet animals to bring them into adoptable condition; finds suitable\n                  adoptive homes for rescued pet animals; provides assistance to insure the permanent\n                  welfare of the adopted pet; and educates the public regarding the scope of animal\n                  rescue activities and pet animal owners to…",
+          "sourceUrl": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN"
+        },
+        {
+          "id": "ne:omaha:1",
+          "prompt": "Without a pet avocation or pet shop permit, how many dogs over four months old make a home a kennel in Omaha?",
+          "choices": [
+            "Two or more",
+            "Four or more",
+            "Six or more",
+            "Ten or more"
+          ],
+          "answer": "Four or more",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 36463, § 2, adopted Dec. 16, 2003, amended ch. 6 in its entirety. Formerly,\n               said chapter pertained to similar subject matter as enacted by Code 1980, §§ 6-1—6-326,\n               as amended. Cross reference— Stockyards, slaughterhouses and other objectionable businesses, § 11-3; health and sanitation, ch. 12; nuisances, ch. 18; prohibited treatment of police dogs and police horses, § 20-27; animals at large in parks, § 21-5. State Law reference— Regulation of animals, R.R.S. 1943, §§ 14-102(11), 14-102(16).\n\nFor the purposes of this chapter, the following words and phrases shall have the meanings\n               respectively ascribed to them: Adequate drainage: That the living area for each animal being kept confined or restrained shall have\n               adequate drainage such that the animal shall be free to walk or lie down without coming\n               in contact with standing water or other liquid. Animal care professional: Veterinarian, veterinary technician, veterinarian staff assistant, kennel operator/staff,\n               groomer, shelter operator/staff, breeder. Animal control authority: The entity with whom the city contracts for enforcement of this chapter. Animal control officer: The person employed by the animal control authority for the enforcement of the provisions\n               of this chapter. Animal rescue: An entity or person(s) who: Provides care or fosters pet animals that have been lost, abandoned, surrendered or\n                  otherwise disowned; trains, alters (spay/neuter), vaccinates, rehabilitates and otherwise\n                  treats rescued pet animals to bring them into adoptable condition; finds suitable\n                  adoptive homes for rescued pet animals; provides assistance to insure the permanent\n                  welfare of the adopted pet; and educates the public regarding the scope of animal\n                  rescue activities and pet animal owners to…",
+          "sourceUrl": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN"
+        },
+        {
+          "id": "ne:omaha:2",
+          "prompt": "Which extra feature on a dog collar is banned in Omaha?",
+          "choices": [
+            "ID and vaccination tags",
+            "A properly fitted blunt-pronged training collar left as manufactured",
+            "Sharp prongs on the inside or weighted devices that can injure the neck",
+            "A matching leash"
+          ],
+          "answer": "Sharp prongs on the inside or weighted devices that can injure the neck",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 36463, § 2, adopted Dec. 16, 2003, amended ch. 6 in its entirety. Formerly,\n               said chapter pertained to similar subject matter as enacted by Code 1980, §§ 6-1—6-326,\n               as amended. Cross reference— Stockyards, slaughterhouses and other objectionable businesses, § 11-3; health and sanitation, ch. 12; nuisances, ch. 18; prohibited treatment of police dogs and police horses, § 20-27; animals at large in parks, § 21-5. State Law reference— Regulation of animals, R.R.S. 1943, §§ 14-102(11), 14-102(16).\n\nFor the purposes of this chapter, the following words and phrases shall have the meanings\n               respectively ascribed to them: Adequate drainage: That the living area for each animal being kept confined or restrained shall have\n               adequate drainage such that the animal shall be free to walk or lie down without coming\n               in contact with standing water or other liquid. Animal care professional: Veterinarian, veterinary technician, veterinarian staff assistant, kennel operator/staff,\n               groomer, shelter operator/staff, breeder. Animal control authority: The entity with whom the city contracts for enforcement of this chapter. Animal control officer: The person employed by the animal control authority for the enforcement of the provisions\n               of this chapter. Animal rescue: An entity or person(s) who: Provides care or fosters pet animals that have been lost, abandoned, surrendered or\n                  otherwise disowned; trains, alters (spay/neuter), vaccinates, rehabilitates and otherwise\n                  treats rescued pet animals to bring them into adoptable condition; finds suitable\n                  adoptive homes for rescued pet animals; provides assistance to insure the permanent\n                  welfare of the adopted pet; and educates the public regarding the scope of animal\n                  rescue activities and pet animal owners to…",
+          "sourceUrl": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN"
+        },
+        {
+          "id": "ne:omaha:3",
+          "prompt": "Besides inside city limits, how far outside Omaha do these animal rules still apply?",
+          "choices": [
+            "The entire county",
+            "Within three miles of the city limits",
+            "Only on city park land",
+            "Anywhere an officer happens to be"
+          ],
+          "answer": "Within three miles of the city limits",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 36463, § 2, adopted Dec. 16, 2003, amended ch. 6 in its entirety. Formerly,\n               said chapter pertained to similar subject matter as enacted by Code 1980, §§ 6-1—6-326,\n               as amended. Cross reference— Stockyards, slaughterhouses and other objectionable businesses, § 11-3; health and sanitation, ch. 12; nuisances, ch. 18; prohibited treatment of police dogs and police horses, § 20-27; animals at large in parks, § 21-5. State Law reference— Regulation of animals, R.R.S. 1943, §§ 14-102(11), 14-102(16).\n\nFor the purposes of this chapter, the following words and phrases shall have the meanings\n               respectively ascribed to them: Adequate drainage: That the living area for each animal being kept confined or restrained shall have\n               adequate drainage such that the animal shall be free to walk or lie down without coming\n               in contact with standing water or other liquid. Animal care professional: Veterinarian, veterinary technician, veterinarian staff assistant, kennel operator/staff,\n               groomer, shelter operator/staff, breeder. Animal control authority: The entity with whom the city contracts for enforcement of this chapter. Animal control officer: The person employed by the animal control authority for the enforcement of the provisions\n               of this chapter. Animal rescue: An entity or person(s) who: Provides care or fosters pet animals that have been lost, abandoned, surrendered or\n                  otherwise disowned; trains, alters (spay/neuter), vaccinates, rehabilitates and otherwise\n                  treats rescued pet animals to bring them into adoptable condition; finds suitable\n                  adoptive homes for rescued pet animals; provides assistance to insure the permanent\n                  welfare of the adopted pet; and educates the public regarding the scope of animal\n                  rescue activities and pet animal owners to…",
+          "sourceUrl": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN"
+        },
+        {
+          "id": "ne:omaha:4",
+          "prompt": "Which of these can still be kept as a legal pet animal in Omaha?",
+          "choices": [
+            "A non-venomous lizard that will grow to six feet",
+            "A non-venomous snake that will not grow more than eight feet",
+            "A wolf hybrid",
+            "Any animal that has gone back to a wild state"
+          ],
+          "answer": "A non-venomous snake that will not grow more than eight feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Ord. No. 36463, § 2, adopted Dec. 16, 2003, amended ch. 6 in its entirety. Formerly,\n               said chapter pertained to similar subject matter as enacted by Code 1980, §§ 6-1—6-326,\n               as amended. Cross reference— Stockyards, slaughterhouses and other objectionable businesses, § 11-3; health and sanitation, ch. 12; nuisances, ch. 18; prohibited treatment of police dogs and police horses, § 20-27; animals at large in parks, § 21-5. State Law reference— Regulation of animals, R.R.S. 1943, §§ 14-102(11), 14-102(16).\n\nFor the purposes of this chapter, the following words and phrases shall have the meanings\n               respectively ascribed to them: Adequate drainage: That the living area for each animal being kept confined or restrained shall have\n               adequate drainage such that the animal shall be free to walk or lie down without coming\n               in contact with standing water or other liquid. Animal care professional: Veterinarian, veterinary technician, veterinarian staff assistant, kennel operator/staff,\n               groomer, shelter operator/staff, breeder. Animal control authority: The entity with whom the city contracts for enforcement of this chapter. Animal control officer: The person employed by the animal control authority for the enforcement of the provisions\n               of this chapter. Animal rescue: An entity or person(s) who: Provides care or fosters pet animals that have been lost, abandoned, surrendered or\n                  otherwise disowned; trains, alters (spay/neuter), vaccinates, rehabilitates and otherwise\n                  treats rescued pet animals to bring them into adoptable condition; finds suitable\n                  adoptive homes for rescued pet animals; provides assistance to insure the permanent\n                  welfare of the adopted pet; and educates the public regarding the scope of animal\n                  rescue activities and pet animal owners to…",
+          "sourceUrl": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN"
+        }
+      ]
+    },
+    {
+      "id": "south-sioux-city",
+      "name": "South Sioux City",
+      "sourceIndex": "https://library.municode.com/ne/south_sioux_city",
+      "questions": [
+        {
+          "id": "ne:south-sioux-city:0",
+          "prompt": "During hours when alcohol may legally be sold in South Sioux City, the front public entrance of a licensed liquor business must be:",
+          "choices": [
+            "Locked for security after dark",
+            "Unlocked so the public and police can easily enter",
+            "Open only from a side or back door",
+            "Covered so people cannot see inside"
+          ],
+          "answer": "Unlocked so the public and police can easily enter",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 22; driving under the influence, § 110-72. State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Retail business means a business primarily engaged in the buying of goods at wholesale and the selling\n               at retail of such goods to consumers. Retail liquor business means any person holding a license to sell alcoholic liquors at retail under the\n               Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq., that is primarily engaged\n               in the buying of alcoholic liquors at wholesale and the selling at retail of such\n               alcoholic liquors. (Code 1975, §§ 10-106, 10-125) Cross reference— Definitions generally, § 1-2 .\n\nNo person holding a license for the sale at retail of alcoholic liquors, including\n               beer, shall sell at retail any such beverages on premises not provided with a public\n               entrance at the front, opening upon a public street. During the hours when alcoholic\n               beverages may legally be sold, all public entrances at the front shall be unlocked\n               or otherwise unsecured so that the general public and law enforcement officers may\n               have easy access to such premises. (Code 1975, § 10-101)\n\nIt shall be unlawful for any person to sell, give away, dispose of, exchange or deliver,\n               or permit the sale, gift or procuring of any alcoholic liquors to or for any minor,\n               or to any person who is mentally incompetent. (Code 1975, § 10-102) Cross reference— Offenses related to minors, § 66-321 et seq. State Law reference— Similar provisions, R.R.S. 1943, § 53-180.\n\nNo person shall sell or furnish alcoholic liquor at retail to any person for…",
+          "sourceUrl": "https://library.municode.com/ne/south_sioux_city/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ne:south-sioux-city:1",
+          "prompt": "A regular liquor store in South Sioux City generally may not sell alcohol:",
+          "choices": [
+            "In the original bottle or can",
+            "On credit, or in trade for work or barter",
+            "While a person 21 or older is on duty",
+            "On weekdays before 1 a.m."
+          ],
+          "answer": "On credit, or in trade for work or barter",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 22; driving under the influence, § 110-72. State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Retail business means a business primarily engaged in the buying of goods at wholesale and the selling\n               at retail of such goods to consumers. Retail liquor business means any person holding a license to sell alcoholic liquors at retail under the\n               Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq., that is primarily engaged\n               in the buying of alcoholic liquors at wholesale and the selling at retail of such\n               alcoholic liquors. (Code 1975, §§ 10-106, 10-125) Cross reference— Definitions generally, § 1-2 .\n\nNo person holding a license for the sale at retail of alcoholic liquors, including\n               beer, shall sell at retail any such beverages on premises not provided with a public\n               entrance at the front, opening upon a public street. During the hours when alcoholic\n               beverages may legally be sold, all public entrances at the front shall be unlocked\n               or otherwise unsecured so that the general public and law enforcement officers may\n               have easy access to such premises. (Code 1975, § 10-101)\n\nIt shall be unlawful for any person to sell, give away, dispose of, exchange or deliver,\n               or permit the sale, gift or procuring of any alcoholic liquors to or for any minor,\n               or to any person who is mentally incompetent. (Code 1975, § 10-102) Cross reference— Offenses related to minors, § 66-321 et seq. State Law reference— Similar provisions, R.R.S. 1943, § 53-180.\n\nNo person shall sell or furnish alcoholic liquor at retail to any person for…",
+          "sourceUrl": "https://library.municode.com/ne/south_sioux_city/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ne:south-sioux-city:2",
+          "prompt": "On a licensed premises in South Sioux City, it is unlawful to serve beer that has had extra alcohol added to it. Bars and stores also may not:",
+          "choices": [
+            "Stay open for other business when alcohol sales are closed",
+            "Sell liquor from anything other than the original package",
+            "Have toilets for customers",
+            "Sell beer starting at 6 a.m. on Sunday"
+          ],
+          "answer": "Sell liquor from anything other than the original package",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 22; driving under the influence, § 110-72. State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Retail business means a business primarily engaged in the buying of goods at wholesale and the selling\n               at retail of such goods to consumers. Retail liquor business means any person holding a license to sell alcoholic liquors at retail under the\n               Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq., that is primarily engaged\n               in the buying of alcoholic liquors at wholesale and the selling at retail of such\n               alcoholic liquors. (Code 1975, §§ 10-106, 10-125) Cross reference— Definitions generally, § 1-2 .\n\nNo person holding a license for the sale at retail of alcoholic liquors, including\n               beer, shall sell at retail any such beverages on premises not provided with a public\n               entrance at the front, opening upon a public street. During the hours when alcoholic\n               beverages may legally be sold, all public entrances at the front shall be unlocked\n               or otherwise unsecured so that the general public and law enforcement officers may\n               have easy access to such premises. (Code 1975, § 10-101)\n\nIt shall be unlawful for any person to sell, give away, dispose of, exchange or deliver,\n               or permit the sale, gift or procuring of any alcoholic liquors to or for any minor,\n               or to any person who is mentally incompetent. (Code 1975, § 10-102) Cross reference— Offenses related to minors, § 66-321 et seq. State Law reference— Similar provisions, R.R.S. 1943, § 53-180.\n\nNo person shall sell or furnish alcoholic liquor at retail to any person for…",
+          "sourceUrl": "https://library.municode.com/ne/south_sioux_city/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ne:south-sioux-city:3",
+          "prompt": "After a South Sioux City bar or liquor store stops selling alcohol for the night, how long may people keep drinking what they already bought on the premises?",
+          "choices": [
+            "No extra time",
+            "15 minutes",
+            "Until 6 a.m.",
+            "Until they finish their drinks"
+          ],
+          "answer": "15 minutes",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 22; driving under the influence, § 110-72. State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Retail business means a business primarily engaged in the buying of goods at wholesale and the selling\n               at retail of such goods to consumers. Retail liquor business means any person holding a license to sell alcoholic liquors at retail under the\n               Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq., that is primarily engaged\n               in the buying of alcoholic liquors at wholesale and the selling at retail of such\n               alcoholic liquors. (Code 1975, §§ 10-106, 10-125) Cross reference— Definitions generally, § 1-2 .\n\nNo person holding a license for the sale at retail of alcoholic liquors, including\n               beer, shall sell at retail any such beverages on premises not provided with a public\n               entrance at the front, opening upon a public street. During the hours when alcoholic\n               beverages may legally be sold, all public entrances at the front shall be unlocked\n               or otherwise unsecured so that the general public and law enforcement officers may\n               have easy access to such premises. (Code 1975, § 10-101)\n\nIt shall be unlawful for any person to sell, give away, dispose of, exchange or deliver,\n               or permit the sale, gift or procuring of any alcoholic liquors to or for any minor,\n               or to any person who is mentally incompetent. (Code 1975, § 10-102) Cross reference— Offenses related to minors, § 66-321 et seq. State Law reference— Similar provisions, R.R.S. 1943, § 53-180.\n\nNo person shall sell or furnish alcoholic liquor at retail to any person for…",
+          "sourceUrl": "https://library.municode.com/ne/south_sioux_city/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        },
+        {
+          "id": "ne:south-sioux-city:4",
+          "prompt": "Between 9 p.m. and 6 a.m., a person under 18 may be inside a South Sioux City place that sells alcohol only if they are:",
+          "choices": [
+            "Buying food or non-alcohol items",
+            "Accompanied by someone at least 21 years old",
+            "With any adult relative",
+            "Working as an employee"
+          ],
+          "answer": "Accompanied by someone at least 21 years old",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Businesses, ch. 22; driving under the influence, § 110-72. State Law reference— Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Retail business means a business primarily engaged in the buying of goods at wholesale and the selling\n               at retail of such goods to consumers. Retail liquor business means any person holding a license to sell alcoholic liquors at retail under the\n               Nebraska Liquor Control Act, R.R.S. 1943, § 53-101 et seq., that is primarily engaged\n               in the buying of alcoholic liquors at wholesale and the selling at retail of such\n               alcoholic liquors. (Code 1975, §§ 10-106, 10-125) Cross reference— Definitions generally, § 1-2 .\n\nNo person holding a license for the sale at retail of alcoholic liquors, including\n               beer, shall sell at retail any such beverages on premises not provided with a public\n               entrance at the front, opening upon a public street. During the hours when alcoholic\n               beverages may legally be sold, all public entrances at the front shall be unlocked\n               or otherwise unsecured so that the general public and law enforcement officers may\n               have easy access to such premises. (Code 1975, § 10-101)\n\nIt shall be unlawful for any person to sell, give away, dispose of, exchange or deliver,\n               or permit the sale, gift or procuring of any alcoholic liquors to or for any minor,\n               or to any person who is mentally incompetent. (Code 1975, § 10-102) Cross reference— Offenses related to minors, § 66-321 et seq. State Law reference— Similar provisions, R.R.S. 1943, § 53-180.\n\nNo person shall sell or furnish alcoholic liquor at retail to any person for…",
+          "sourceUrl": "https://library.municode.com/ne/south_sioux_city/codes/code_of_ordinances?nodeId=COOR_CH6ALBE"
+        }
+      ]
+    },
+    {
+      "id": "syracuse",
+      "name": "Syracuse",
+      "sourceIndex": "https://library.municode.com/ne/syracuse",
+      "questions": [
+        {
+          "id": "ne:syracuse:0",
+          "prompt": "Where in Syracuse is it against the rules to smoke or use chewing tobacco?",
+          "choices": [
+            "Inside the fenced Syracuse Sports Complex",
+            "On every city sidewalk",
+            "Inside any restaurant",
+            "At the water tower"
+          ],
+          "answer": "Inside the fenced Syracuse Sports Complex",
+          "excerpt": "(a) It shall be unlawful for any person to smoke or use smokeless tobacco product within\n               the fenced boundaries of the Syracuse Sports Complex, located at: (1) Lot 11 in Lot 7, and Lot 12 in Lot 8, all in the south half of the southeast quarter\n               of Section 17, Township 8, Range 11, Otoe County, Nebraska, containing approximately\n               11.75 acres; (2) Lot 9 in the south half of the southeast quarter of Section 17, Township 8, Range\n               11, Otoe County, Nebraska, containing approximately 5.0 acres; (3) Lots 7 and 8 in Lot 1 in the northeast quarter of Section 20, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 3.60 acres; The southwest quarter\n               south of road, all except Lot 24 in Lot 5 of Section 16, Township 8, Range 11, Otoe\n               County, Nebraska, containing approximately 35.22 acres; and (4) Lots 1 and 2 in Lot 6, Lots 7 and 8 in Lot 5 of Section 21, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 16.92 acres, except that portion of\n               real estate located south of the Little Nemaha River. (b) The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Smoke or smoking means the lighting of any cigarette, cigar, or pipe; or the possession of any lighted\n               cigarette, cigar or pipe, regardless of its composition. Smokeless tobacco product means: (1) Loose tobacco or a flat compressed cake of tobacco that may be chewed or held in the\n                  mouth; or (2) A small amount of shredded, powdered, or pulverized tobacco that may be inhaled through\n                  the nostrils, chewed, or held in the mouth. (c) From and after the passage of the ordinance from which this section is derived, there\n               shall be signs placed at…",
+          "sourceUrl": "https://library.municode.com/ne/syracuse/codes/code_of_ordinances?nodeId=COOR_CH24PARE"
+        },
+        {
+          "id": "ne:syracuse:1",
+          "prompt": "What counts as smoking at the sports complex besides lighting something up?",
+          "choices": [
+            "Just holding a lit cigarette, cigar, or pipe",
+            "Talking about cigarettes",
+            "Keeping an unlit pack in your pocket",
+            "Standing near someone who is smoking"
+          ],
+          "answer": "Just holding a lit cigarette, cigar, or pipe",
+          "excerpt": "(a) It shall be unlawful for any person to smoke or use smokeless tobacco product within\n               the fenced boundaries of the Syracuse Sports Complex, located at: (1) Lot 11 in Lot 7, and Lot 12 in Lot 8, all in the south half of the southeast quarter\n               of Section 17, Township 8, Range 11, Otoe County, Nebraska, containing approximately\n               11.75 acres; (2) Lot 9 in the south half of the southeast quarter of Section 17, Township 8, Range\n               11, Otoe County, Nebraska, containing approximately 5.0 acres; (3) Lots 7 and 8 in Lot 1 in the northeast quarter of Section 20, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 3.60 acres; The southwest quarter\n               south of road, all except Lot 24 in Lot 5 of Section 16, Township 8, Range 11, Otoe\n               County, Nebraska, containing approximately 35.22 acres; and (4) Lots 1 and 2 in Lot 6, Lots 7 and 8 in Lot 5 of Section 21, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 16.92 acres, except that portion of\n               real estate located south of the Little Nemaha River. (b) The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Smoke or smoking means the lighting of any cigarette, cigar, or pipe; or the possession of any lighted\n               cigarette, cigar or pipe, regardless of its composition. Smokeless tobacco product means: (1) Loose tobacco or a flat compressed cake of tobacco that may be chewed or held in the\n                  mouth; or (2) A small amount of shredded, powdered, or pulverized tobacco that may be inhaled through\n                  the nostrils, chewed, or held in the mouth. (c) From and after the passage of the ordinance from which this section is derived, there\n               shall be signs placed at…",
+          "sourceUrl": "https://library.municode.com/ne/syracuse/codes/code_of_ordinances?nodeId=COOR_CH24PARE"
+        },
+        {
+          "id": "ne:syracuse:2",
+          "prompt": "Is chew, dip, or snuff allowed at the Syracuse Sports Complex?",
+          "choices": [
+            "No, smokeless tobacco is also banned",
+            "Yes, if you spit in a bottle",
+            "Only during practices",
+            "Yes for coaches"
+          ],
+          "answer": "No, smokeless tobacco is also banned",
+          "excerpt": "(a) It shall be unlawful for any person to smoke or use smokeless tobacco product within\n               the fenced boundaries of the Syracuse Sports Complex, located at: (1) Lot 11 in Lot 7, and Lot 12 in Lot 8, all in the south half of the southeast quarter\n               of Section 17, Township 8, Range 11, Otoe County, Nebraska, containing approximately\n               11.75 acres; (2) Lot 9 in the south half of the southeast quarter of Section 17, Township 8, Range\n               11, Otoe County, Nebraska, containing approximately 5.0 acres; (3) Lots 7 and 8 in Lot 1 in the northeast quarter of Section 20, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 3.60 acres; The southwest quarter\n               south of road, all except Lot 24 in Lot 5 of Section 16, Township 8, Range 11, Otoe\n               County, Nebraska, containing approximately 35.22 acres; and (4) Lots 1 and 2 in Lot 6, Lots 7 and 8 in Lot 5 of Section 21, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 16.92 acres, except that portion of\n               real estate located south of the Little Nemaha River. (b) The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Smoke or smoking means the lighting of any cigarette, cigar, or pipe; or the possession of any lighted\n               cigarette, cigar or pipe, regardless of its composition. Smokeless tobacco product means: (1) Loose tobacco or a flat compressed cake of tobacco that may be chewed or held in the\n                  mouth; or (2) A small amount of shredded, powdered, or pulverized tobacco that may be inhaled through\n                  the nostrils, chewed, or held in the mouth. (c) From and after the passage of the ordinance from which this section is derived, there\n               shall be signs placed at…",
+          "sourceUrl": "https://library.municode.com/ne/syracuse/codes/code_of_ordinances?nodeId=COOR_CH24PARE"
+        },
+        {
+          "id": "ne:syracuse:3",
+          "prompt": "What will be put up at the sports complex about this rule?",
+          "choices": [
+            "Signs telling people smoking and smokeless tobacco are not allowed",
+            "A new smoking shelter",
+            "Extra benches",
+            "No signs at all"
+          ],
+          "answer": "Signs telling people smoking and smokeless tobacco are not allowed",
+          "excerpt": "(a) It shall be unlawful for any person to smoke or use smokeless tobacco product within\n               the fenced boundaries of the Syracuse Sports Complex, located at: (1) Lot 11 in Lot 7, and Lot 12 in Lot 8, all in the south half of the southeast quarter\n               of Section 17, Township 8, Range 11, Otoe County, Nebraska, containing approximately\n               11.75 acres; (2) Lot 9 in the south half of the southeast quarter of Section 17, Township 8, Range\n               11, Otoe County, Nebraska, containing approximately 5.0 acres; (3) Lots 7 and 8 in Lot 1 in the northeast quarter of Section 20, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 3.60 acres; The southwest quarter\n               south of road, all except Lot 24 in Lot 5 of Section 16, Township 8, Range 11, Otoe\n               County, Nebraska, containing approximately 35.22 acres; and (4) Lots 1 and 2 in Lot 6, Lots 7 and 8 in Lot 5 of Section 21, Township 8, Range 11,\n               Otoe County, Nebraska, containing approximately 16.92 acres, except that portion of\n               real estate located south of the Little Nemaha River. (b) The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Smoke or smoking means the lighting of any cigarette, cigar, or pipe; or the possession of any lighted\n               cigarette, cigar or pipe, regardless of its composition. Smokeless tobacco product means: (1) Loose tobacco or a flat compressed cake of tobacco that may be chewed or held in the\n                  mouth; or (2) A small amount of shredded, powdered, or pulverized tobacco that may be inhaled through\n                  the nostrils, chewed, or held in the mouth. (c) From and after the passage of the ordinance from which this section is derived, there\n               shall be signs placed at…",
+          "sourceUrl": "https://library.municode.com/ne/syracuse/codes/code_of_ordinances?nodeId=COOR_CH24PARE"
+        }
+      ]
+    },
+    {
+      "id": "wakefield",
+      "name": "Wakefield",
+      "sourceIndex": "https://library.municode.com/ne/wakefield",
+      "questions": [
+        {
+          "id": "ne:wakefield:0",
+          "prompt": "What is the speed limit on most streets inside Wakefield?",
+          "choices": [
+            "15 miles per hour",
+            "25 miles per hour",
+            "35 miles per hour",
+            "45 miles per hour"
+          ],
+          "answer": "25 miles per hour",
+          "excerpt": "The Nebraska Rules of the Road, together with all subsequent amendments thereto, as\n               adopted by the State of Nebraska relating to traffic regulations are incorporated\n               by reference into this Section and made a part of this Article as though spread at\n               large herein, except those provisions in conflict with this Article when the Governing\n               Body has the authority to alter such regulations. Three (3) copies of the Nebraska\n               Rules of the Road and amendments shall be on file with the Municipal Clerk and shall\n               be available for public inspection at any reasonable time.\n\nThe Governing Body may, by resolution, designate certain streets in the Municipality\n               that trucks shall travel upon, and it shall be unlawful for persons operating such\n               trucks to travel on other streets than those designated for trucks, unless to pick\n               up or deliver goods, wares, or merchandise, and in that event, the operator of such\n               truck shall return to such truck routes as soon as possible in traveling through,\n               or about the Municipality. The Governing Body shall cause notices to be posted, or\n               shall erect signs indicating the streets so designated as truck routes. State Law reference— Neb. Rev. Stats. §§ 39-6, 189.\n\nThe Governing Body may, by resolution, provide for one-way travel in any street, or\n               alley located in the Municipality and shall provide for appropriate signs and markings\n               when said streets have been so designated by resolution. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, mark lanes for traffic on street pavements\n               at such places as they may deem advisable. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, designate any street or portion thereof as\n               an arterial street and shall provide…",
+          "sourceUrl": "https://library.municode.com/ne/wakefield/codes/code_of_ordinances?nodeId=CH5TRRE"
+        },
+        {
+          "id": "ne:wakefield:1",
+          "prompt": "What is the speed limit on Main Street from 1st Street to 5th Street?",
+          "choices": [
+            "15 miles per hour",
+            "25 miles per hour",
+            "35 miles per hour"
+          ],
+          "answer": "15 miles per hour",
+          "excerpt": "The Nebraska Rules of the Road, together with all subsequent amendments thereto, as\n               adopted by the State of Nebraska relating to traffic regulations are incorporated\n               by reference into this Section and made a part of this Article as though spread at\n               large herein, except those provisions in conflict with this Article when the Governing\n               Body has the authority to alter such regulations. Three (3) copies of the Nebraska\n               Rules of the Road and amendments shall be on file with the Municipal Clerk and shall\n               be available for public inspection at any reasonable time.\n\nThe Governing Body may, by resolution, designate certain streets in the Municipality\n               that trucks shall travel upon, and it shall be unlawful for persons operating such\n               trucks to travel on other streets than those designated for trucks, unless to pick\n               up or deliver goods, wares, or merchandise, and in that event, the operator of such\n               truck shall return to such truck routes as soon as possible in traveling through,\n               or about the Municipality. The Governing Body shall cause notices to be posted, or\n               shall erect signs indicating the streets so designated as truck routes. State Law reference— Neb. Rev. Stats. §§ 39-6, 189.\n\nThe Governing Body may, by resolution, provide for one-way travel in any street, or\n               alley located in the Municipality and shall provide for appropriate signs and markings\n               when said streets have been so designated by resolution. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, mark lanes for traffic on street pavements\n               at such places as they may deem advisable. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, designate any street or portion thereof as\n               an arterial street and shall provide…",
+          "sourceUrl": "https://library.municode.com/ne/wakefield/codes/code_of_ordinances?nodeId=CH5TRRE"
+        },
+        {
+          "id": "ne:wakefield:2",
+          "prompt": "Where can you make a U-turn in Wakefield?",
+          "choices": [
+            "Anywhere it feels safe",
+            "Only at a street intersection, and not where a traffic signal is operating or a sign bans U-turns",
+            "Only on Highway 35",
+            "Never on city streets"
+          ],
+          "answer": "Only at a street intersection, and not where a traffic signal is operating or a sign bans U-turns",
+          "excerpt": "The Nebraska Rules of the Road, together with all subsequent amendments thereto, as\n               adopted by the State of Nebraska relating to traffic regulations are incorporated\n               by reference into this Section and made a part of this Article as though spread at\n               large herein, except those provisions in conflict with this Article when the Governing\n               Body has the authority to alter such regulations. Three (3) copies of the Nebraska\n               Rules of the Road and amendments shall be on file with the Municipal Clerk and shall\n               be available for public inspection at any reasonable time.\n\nThe Governing Body may, by resolution, designate certain streets in the Municipality\n               that trucks shall travel upon, and it shall be unlawful for persons operating such\n               trucks to travel on other streets than those designated for trucks, unless to pick\n               up or deliver goods, wares, or merchandise, and in that event, the operator of such\n               truck shall return to such truck routes as soon as possible in traveling through,\n               or about the Municipality. The Governing Body shall cause notices to be posted, or\n               shall erect signs indicating the streets so designated as truck routes. State Law reference— Neb. Rev. Stats. §§ 39-6, 189.\n\nThe Governing Body may, by resolution, provide for one-way travel in any street, or\n               alley located in the Municipality and shall provide for appropriate signs and markings\n               when said streets have been so designated by resolution. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, mark lanes for traffic on street pavements\n               at such places as they may deem advisable. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, designate any street or portion thereof as\n               an arterial street and shall provide…",
+          "sourceUrl": "https://library.municode.com/ne/wakefield/codes/code_of_ordinances?nodeId=CH5TRRE"
+        },
+        {
+          "id": "ne:wakefield:3",
+          "prompt": "What counts as exhibition driving in Wakefield (fine up to $100)?",
+          "choices": [
+            "Driving without registration plates",
+            "Causing unnecessary engine noise, squealing tires, rearing, skidding, sliding, or swaying",
+            "Using a jake brake",
+            "Leaving a truck route for any reason"
+          ],
+          "answer": "Causing unnecessary engine noise, squealing tires, rearing, skidding, sliding, or swaying",
+          "excerpt": "The Nebraska Rules of the Road, together with all subsequent amendments thereto, as\n               adopted by the State of Nebraska relating to traffic regulations are incorporated\n               by reference into this Section and made a part of this Article as though spread at\n               large herein, except those provisions in conflict with this Article when the Governing\n               Body has the authority to alter such regulations. Three (3) copies of the Nebraska\n               Rules of the Road and amendments shall be on file with the Municipal Clerk and shall\n               be available for public inspection at any reasonable time.\n\nThe Governing Body may, by resolution, designate certain streets in the Municipality\n               that trucks shall travel upon, and it shall be unlawful for persons operating such\n               trucks to travel on other streets than those designated for trucks, unless to pick\n               up or deliver goods, wares, or merchandise, and in that event, the operator of such\n               truck shall return to such truck routes as soon as possible in traveling through,\n               or about the Municipality. The Governing Body shall cause notices to be posted, or\n               shall erect signs indicating the streets so designated as truck routes. State Law reference— Neb. Rev. Stats. §§ 39-6, 189.\n\nThe Governing Body may, by resolution, provide for one-way travel in any street, or\n               alley located in the Municipality and shall provide for appropriate signs and markings\n               when said streets have been so designated by resolution. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, mark lanes for traffic on street pavements\n               at such places as they may deem advisable. State Law reference— Neb. Rev. Stat. § 39-697.\n\nThe Governing Body may, by resolution, designate any street or portion thereof as\n               an arterial street and shall provide…",
+          "sourceUrl": "https://library.municode.com/ne/wakefield/codes/code_of_ordinances?nodeId=CH5TRRE"
+        }
+      ]
+    },
+    {
+      "id": "york",
+      "name": "York",
+      "sourceIndex": "https://library.municode.com/ne/york",
+      "questions": [
+        {
+          "id": "ne:york:0",
+          "prompt": "In York, who counts as a minor under the alcohol rules?",
+          "choices": [
+            "Anyone under 18",
+            "Anyone under 21, even if married",
+            "Anyone under 19 unless they are married",
+            "Only high school students"
+          ],
+          "answer": "Anyone under 21, even if married",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Intoxicating liquors generally, R.R.S. 1943, ch. 53; authority of cities regarding\n               retail sale, R.R.S. 1943, § 53-134 et seq.\n\n(a) Unless the context otherwise requires, the words and phrases defined in state law\n               are hereby adopted for the purposes of construing this chapter; and said words and\n               phrases are hereby incorporated by reference the same as though copied at full length\n               herein. (b) Whenever the term \"minor\" appears in this chapter, it shall be construed as referring\n               to the following definition: Minor means any person, male or female, under 21 years of age, regardless of marital status;\n               all as set forth in R.R.S. 1943, § 53-103.23. (Code 1955, § 5-101; Code 1972, § 5-1; Ord. No. 1245, § 1, 5-10-1973; Ord. No. 1515,\n               § 1, 2-13-1986) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\nAll police officers of the city are hereby authorized to enter at any time upon the\n               premises of any licensee under the Liquor Control Act within the city to determine\n               whether any of the provisions of such Act or this chapter or any rules or regulations\n               adopted by the city or by the state liquor control commission have been or are being\n               violated and at such time to examine sufficiently said premises of said licensee in\n               connection therewith. (Code 1955, § 5-117; Code 1972, § 5-4)\n\nIt shall be unlawful for any licensed person or their agent to sell any alcoholic\n               beverages within the corporate limits of the city except during the hours provided\n               herein. Expand Hours of Sale Alcoholic liquor (except beer and wine) Secular days Off sale 6:00 a.m. to 1:00 a.m. On sale 6:00 a.m. to 1:00 a.m. Sunday Off sale 12:00 noon to 1:00 a.m. On sale 12:00 noon to 1:00 a.m. Beer and wine Secular days Off sale 6:00 a.m. to 1:00 a.m. On…",
+          "sourceUrl": "https://library.municode.com/ne/york/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ne:york:1",
+          "prompt": "On Sunday in York, when may beer and wine be sold?",
+          "choices": [
+            "From 12:00 noon to 1:00 a.m.",
+            "From 6:00 a.m. to 1:00 a.m.",
+            "Not at all on Sunday",
+            "From 8:00 a.m. to midnight"
+          ],
+          "answer": "From 6:00 a.m. to 1:00 a.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Intoxicating liquors generally, R.R.S. 1943, ch. 53; authority of cities regarding\n               retail sale, R.R.S. 1943, § 53-134 et seq.\n\n(a) Unless the context otherwise requires, the words and phrases defined in state law\n               are hereby adopted for the purposes of construing this chapter; and said words and\n               phrases are hereby incorporated by reference the same as though copied at full length\n               herein. (b) Whenever the term \"minor\" appears in this chapter, it shall be construed as referring\n               to the following definition: Minor means any person, male or female, under 21 years of age, regardless of marital status;\n               all as set forth in R.R.S. 1943, § 53-103.23. (Code 1955, § 5-101; Code 1972, § 5-1; Ord. No. 1245, § 1, 5-10-1973; Ord. No. 1515,\n               § 1, 2-13-1986) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\nAll police officers of the city are hereby authorized to enter at any time upon the\n               premises of any licensee under the Liquor Control Act within the city to determine\n               whether any of the provisions of such Act or this chapter or any rules or regulations\n               adopted by the city or by the state liquor control commission have been or are being\n               violated and at such time to examine sufficiently said premises of said licensee in\n               connection therewith. (Code 1955, § 5-117; Code 1972, § 5-4)\n\nIt shall be unlawful for any licensed person or their agent to sell any alcoholic\n               beverages within the corporate limits of the city except during the hours provided\n               herein. Expand Hours of Sale Alcoholic liquor (except beer and wine) Secular days Off sale 6:00 a.m. to 1:00 a.m. On sale 6:00 a.m. to 1:00 a.m. Sunday Off sale 12:00 noon to 1:00 a.m. On sale 12:00 noon to 1:00 a.m. Beer and wine Secular days Off sale 6:00 a.m. to 1:00 a.m. On…",
+          "sourceUrl": "https://library.municode.com/ne/york/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ne:york:2",
+          "prompt": "Open drinks in a York licensed place cannot stay in anyone's hands after:",
+          "choices": [
+            "1:00 a.m. exactly",
+            "1:15 a.m.",
+            "2:00 a.m.",
+            "Whenever the owner chooses"
+          ],
+          "answer": "1:15 a.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Intoxicating liquors generally, R.R.S. 1943, ch. 53; authority of cities regarding\n               retail sale, R.R.S. 1943, § 53-134 et seq.\n\n(a) Unless the context otherwise requires, the words and phrases defined in state law\n               are hereby adopted for the purposes of construing this chapter; and said words and\n               phrases are hereby incorporated by reference the same as though copied at full length\n               herein. (b) Whenever the term \"minor\" appears in this chapter, it shall be construed as referring\n               to the following definition: Minor means any person, male or female, under 21 years of age, regardless of marital status;\n               all as set forth in R.R.S. 1943, § 53-103.23. (Code 1955, § 5-101; Code 1972, § 5-1; Ord. No. 1245, § 1, 5-10-1973; Ord. No. 1515,\n               § 1, 2-13-1986) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\nAll police officers of the city are hereby authorized to enter at any time upon the\n               premises of any licensee under the Liquor Control Act within the city to determine\n               whether any of the provisions of such Act or this chapter or any rules or regulations\n               adopted by the city or by the state liquor control commission have been or are being\n               violated and at such time to examine sufficiently said premises of said licensee in\n               connection therewith. (Code 1955, § 5-117; Code 1972, § 5-4)\n\nIt shall be unlawful for any licensed person or their agent to sell any alcoholic\n               beverages within the corporate limits of the city except during the hours provided\n               herein. Expand Hours of Sale Alcoholic liquor (except beer and wine) Secular days Off sale 6:00 a.m. to 1:00 a.m. On sale 6:00 a.m. to 1:00 a.m. Sunday Off sale 12:00 noon to 1:00 a.m. On sale 12:00 noon to 1:00 a.m. Beer and wine Secular days Off sale 6:00 a.m. to 1:00 a.m. On…",
+          "sourceUrl": "https://library.municode.com/ne/york/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ne:york:3",
+          "prompt": "May York police enter a liquor-licensed bar or store to check the rules?",
+          "choices": [
+            "Only with a search warrant",
+            "Yes, at any time",
+            "Only during posted business hours",
+            "No, only state inspectors may enter"
+          ],
+          "answer": "Yes, at any time",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Intoxicating liquors generally, R.R.S. 1943, ch. 53; authority of cities regarding\n               retail sale, R.R.S. 1943, § 53-134 et seq.\n\n(a) Unless the context otherwise requires, the words and phrases defined in state law\n               are hereby adopted for the purposes of construing this chapter; and said words and\n               phrases are hereby incorporated by reference the same as though copied at full length\n               herein. (b) Whenever the term \"minor\" appears in this chapter, it shall be construed as referring\n               to the following definition: Minor means any person, male or female, under 21 years of age, regardless of marital status;\n               all as set forth in R.R.S. 1943, § 53-103.23. (Code 1955, § 5-101; Code 1972, § 5-1; Ord. No. 1245, § 1, 5-10-1973; Ord. No. 1515,\n               § 1, 2-13-1986) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\nAll police officers of the city are hereby authorized to enter at any time upon the\n               premises of any licensee under the Liquor Control Act within the city to determine\n               whether any of the provisions of such Act or this chapter or any rules or regulations\n               adopted by the city or by the state liquor control commission have been or are being\n               violated and at such time to examine sufficiently said premises of said licensee in\n               connection therewith. (Code 1955, § 5-117; Code 1972, § 5-4)\n\nIt shall be unlawful for any licensed person or their agent to sell any alcoholic\n               beverages within the corporate limits of the city except during the hours provided\n               herein. Expand Hours of Sale Alcoholic liquor (except beer and wine) Secular days Off sale 6:00 a.m. to 1:00 a.m. On sale 6:00 a.m. to 1:00 a.m. Sunday Off sale 12:00 noon to 1:00 a.m. On sale 12:00 noon to 1:00 a.m. Beer and wine Secular days Off sale 6:00 a.m. to 1:00 a.m. On…",
+          "sourceUrl": "https://library.municode.com/ne/york/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        },
+        {
+          "id": "ne:york:4",
+          "prompt": "A York place licensed to sell mixed drinks (not beer-only) generally cannot let someone under 21 stay inside unless that person is:",
+          "choices": [
+            "Accompanied by a parent or legal guardian",
+            "Over 18 and not drinking",
+            "Just eating food",
+            "A city resident"
+          ],
+          "answer": "Accompanied by a parent or legal guardian",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Intoxicating liquors generally, R.R.S. 1943, ch. 53; authority of cities regarding\n               retail sale, R.R.S. 1943, § 53-134 et seq.\n\n(a) Unless the context otherwise requires, the words and phrases defined in state law\n               are hereby adopted for the purposes of construing this chapter; and said words and\n               phrases are hereby incorporated by reference the same as though copied at full length\n               herein. (b) Whenever the term \"minor\" appears in this chapter, it shall be construed as referring\n               to the following definition: Minor means any person, male or female, under 21 years of age, regardless of marital status;\n               all as set forth in R.R.S. 1943, § 53-103.23. (Code 1955, § 5-101; Code 1972, § 5-1; Ord. No. 1245, § 1, 5-10-1973; Ord. No. 1515,\n               § 1, 2-13-1986) State Law reference— Definitions, R.R.S. 1943, § 53-103 et seq.\n\nAll police officers of the city are hereby authorized to enter at any time upon the\n               premises of any licensee under the Liquor Control Act within the city to determine\n               whether any of the provisions of such Act or this chapter or any rules or regulations\n               adopted by the city or by the state liquor control commission have been or are being\n               violated and at such time to examine sufficiently said premises of said licensee in\n               connection therewith. (Code 1955, § 5-117; Code 1972, § 5-4)\n\nIt shall be unlawful for any licensed person or their agent to sell any alcoholic\n               beverages within the corporate limits of the city except during the hours provided\n               herein. Expand Hours of Sale Alcoholic liquor (except beer and wine) Secular days Off sale 6:00 a.m. to 1:00 a.m. On sale 6:00 a.m. to 1:00 a.m. Sunday Off sale 12:00 noon to 1:00 a.m. On sale 12:00 noon to 1:00 a.m. Beer and wine Secular days Off sale 6:00 a.m. to 1:00 a.m. On…",
+          "sourceUrl": "https://library.municode.com/ne/york/codes/code_of_ordinances?nodeId=COOR_CH4ALBE"
+        }
+      ]
+    }
+  ]
+}

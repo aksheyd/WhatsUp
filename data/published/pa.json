@@ -1,0 +1,792 @@
+{
+  "state": "pa",
+  "stateName": "Pennsylvania",
+  "places": [
+    {
+      "id": "bensalem",
+      "name": "Bensalem",
+      "sourceIndex": "https://library.municode.com/pa/bensalem",
+      "questions": [
+        {
+          "id": "pa:bensalem:0",
+          "prompt": "Who is listed as mayor of Bensalem Township in this code book?",
+          "choices": [
+            "Joseph DiGirolamo",
+            "Edward Tokmajian, Jr.",
+            "Jesse Sloane",
+            "Joseph Knowles"
+          ],
+          "answer": "Joseph DiGirolamo",
+          "excerpt": "____________ Published in 1998 by Order of the Township Council ____________ CURRENT MUNICIPAL OFFICIALS of THE TOWNSHIP OF BENSALEM, PENNSYLVANIA ____________ Joseph DiGirolamo Mayor ____________ Edward Tokmajian, Jr. Council President ____________ Jesse Sloane Council Vice President ____________ Joseph Wenzel, Jr. Council Secretary ____________ Joseph Knowles Edward Kisselback Council Members ____________ PREFACE This Code constitutes a complete (codification or recodification) of the general and\n            permanent ordinances of the Township of Bensalem, Bucks County, Pennsylvania. Source materials used in the preparation of the Code were the 1988 Code, as supplemented\n            through 1989, and ordinances subsequently adopted by the (governing body). The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the Bensalem\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. Numbering System The numbering system used in this Code is the same system used in many state and local\n            government codes. Each section number consists of two parts separated by a dash. The\n            figure before the dash refers to the chapter number and the figure after the dash\n            refers to the position of the section within the chapter. Thus, the second section\n            of Chapter 1 is numbered 1-2 and…",
+          "sourceUrl": "https://library.municode.com/pa/bensalem/codes/code_of_ordinances?nodeId=COTOBEPE"
+        },
+        {
+          "id": "pa:bensalem:1",
+          "prompt": "How are the chapters of the Bensalem Township Code arranged?",
+          "choices": [
+            "In alphabetical order",
+            "By the year they were passed",
+            "By police district",
+            "From most used to least used"
+          ],
+          "answer": "In alphabetical order",
+          "excerpt": "____________ Published in 1998 by Order of the Township Council ____________ CURRENT MUNICIPAL OFFICIALS of THE TOWNSHIP OF BENSALEM, PENNSYLVANIA ____________ Joseph DiGirolamo Mayor ____________ Edward Tokmajian, Jr. Council President ____________ Jesse Sloane Council Vice President ____________ Joseph Wenzel, Jr. Council Secretary ____________ Joseph Knowles Edward Kisselback Council Members ____________ PREFACE This Code constitutes a complete (codification or recodification) of the general and\n            permanent ordinances of the Township of Bensalem, Bucks County, Pennsylvania. Source materials used in the preparation of the Code were the 1988 Code, as supplemented\n            through 1989, and ordinances subsequently adopted by the (governing body). The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the Bensalem\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. Numbering System The numbering system used in this Code is the same system used in many state and local\n            government codes. Each section number consists of two parts separated by a dash. The\n            figure before the dash refers to the chapter number and the figure after the dash\n            refers to the position of the section within the chapter. Thus, the second section\n            of Chapter 1 is numbered 1-2 and…",
+          "sourceUrl": "https://library.municode.com/pa/bensalem/codes/code_of_ordinances?nodeId=COTOBEPE"
+        },
+        {
+          "id": "pa:bensalem:2",
+          "prompt": "If a new section needs to sit between sections 3-1 and 3-2, what number would it get?",
+          "choices": [
+            "3-1.5",
+            "3-3",
+            "Chapter 3A",
+            "1-3"
+          ],
+          "answer": "3-1.5",
+          "excerpt": "____________ Published in 1998 by Order of the Township Council ____________ CURRENT MUNICIPAL OFFICIALS of THE TOWNSHIP OF BENSALEM, PENNSYLVANIA ____________ Joseph DiGirolamo Mayor ____________ Edward Tokmajian, Jr. Council President ____________ Jesse Sloane Council Vice President ____________ Joseph Wenzel, Jr. Council Secretary ____________ Joseph Knowles Edward Kisselback Council Members ____________ PREFACE This Code constitutes a complete (codification or recodification) of the general and\n            permanent ordinances of the Township of Bensalem, Bucks County, Pennsylvania. Source materials used in the preparation of the Code were the 1988 Code, as supplemented\n            through 1989, and ordinances subsequently adopted by the (governing body). The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the Bensalem\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. Numbering System The numbering system used in this Code is the same system used in many state and local\n            government codes. Each section number consists of two parts separated by a dash. The\n            figure before the dash refers to the chapter number and the figure after the dash\n            refers to the position of the section within the chapter. Thus, the second section\n            of Chapter 1 is numbered 1-2 and…",
+          "sourceUrl": "https://library.municode.com/pa/bensalem/codes/code_of_ordinances?nodeId=COTOBEPE"
+        },
+        {
+          "id": "pa:bensalem:3",
+          "prompt": "A new chapter that belongs between Chapter 12 and Chapter 13 would be called what?",
+          "choices": [
+            "Chapter 12A",
+            "Chapter 12.5",
+            "Chapter 13A",
+            "Chapter 14"
+          ],
+          "answer": "Chapter 12A",
+          "excerpt": "____________ Published in 1998 by Order of the Township Council ____________ CURRENT MUNICIPAL OFFICIALS of THE TOWNSHIP OF BENSALEM, PENNSYLVANIA ____________ Joseph DiGirolamo Mayor ____________ Edward Tokmajian, Jr. Council President ____________ Jesse Sloane Council Vice President ____________ Joseph Wenzel, Jr. Council Secretary ____________ Joseph Knowles Edward Kisselback Council Members ____________ PREFACE This Code constitutes a complete (codification or recodification) of the general and\n            permanent ordinances of the Township of Bensalem, Bucks County, Pennsylvania. Source materials used in the preparation of the Code were the 1988 Code, as supplemented\n            through 1989, and ordinances subsequently adopted by the (governing body). The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the Bensalem\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. Numbering System The numbering system used in this Code is the same system used in many state and local\n            government codes. Each section number consists of two parts separated by a dash. The\n            figure before the dash refers to the chapter number and the figure after the dash\n            refers to the position of the section within the chapter. Thus, the second section\n            of Chapter 1 is numbered 1-2 and…",
+          "sourceUrl": "https://library.municode.com/pa/bensalem/codes/code_of_ordinances?nodeId=COTOBEPE"
+        },
+        {
+          "id": "pa:bensalem:4",
+          "prompt": "If you keep a printed copy of this code, what should you do when new pages arrive?",
+          "choices": [
+            "Insert them right away and keep the old pages for history",
+            "Throw the whole book away",
+            "Wait a year before inserting them",
+            "Mail the old pages back to the township"
+          ],
+          "answer": "Insert them right away and keep the old pages for history",
+          "excerpt": "____________ Published in 1998 by Order of the Township Council ____________ CURRENT MUNICIPAL OFFICIALS of THE TOWNSHIP OF BENSALEM, PENNSYLVANIA ____________ Joseph DiGirolamo Mayor ____________ Edward Tokmajian, Jr. Council President ____________ Jesse Sloane Council Vice President ____________ Joseph Wenzel, Jr. Council Secretary ____________ Joseph Knowles Edward Kisselback Council Members ____________ PREFACE This Code constitutes a complete (codification or recodification) of the general and\n            permanent ordinances of the Township of Bensalem, Bucks County, Pennsylvania. Source materials used in the preparation of the Code were the 1988 Code, as supplemented\n            through 1989, and ordinances subsequently adopted by the (governing body). The source\n            of each section is included in the history note appearing in parentheses at the end\n            thereof. The absence of such a note indicates that the section is new and was adopted\n            for the first time with the adoption of the Code. By use of the comparative tables\n            appearing in the back of this Code, the reader can locate any section of the Bensalem\n            Code, as supplemented, and any subsequent ordinance included herein. The chapters of the Code have been conveniently arranged in alphabetical order and\n            the various sections within each chapter have been catchlined to facilitate usage.\n            Notes which tie related sections of the Code together and which refer to relevant\n            state law have been included. Numbering System The numbering system used in this Code is the same system used in many state and local\n            government codes. Each section number consists of two parts separated by a dash. The\n            figure before the dash refers to the chapter number and the figure after the dash\n            refers to the position of the section within the chapter. Thus, the second section\n            of Chapter 1 is numbered 1-2 and…",
+          "sourceUrl": "https://library.municode.com/pa/bensalem/codes/code_of_ordinances?nodeId=COTOBEPE"
+        }
+      ]
+    },
+    {
+      "id": "dennison-township",
+      "name": "Dennison Township",
+      "sourceIndex": "https://library.municode.com/pa/dennison_township",
+      "questions": [
+        {
+          "id": "pa:dennison-township:0",
+          "prompt": "Unless the township supervisors approve a smaller one, what is the smallest drainpipe you may install along a public road in Dennison Township?",
+          "choices": [
+            "8 inches in diameter",
+            "12 inches in diameter",
+            "18 inches in diameter",
+            "24 inches in diameter"
+          ],
+          "answer": "12 inches in diameter",
+          "excerpt": "The Article shall be known and may be cited as the \"Dennison Township Drainage Pipe\n               Ordinance.\" (Ord. No. 1-1977, § 1, 3-7-1977)\n\nUnless otherwise expressly stated, the following terms shall have, for purposes of\n               this Article, the meanings herein indicated: (a) Drainpipe shall mean any pipe used to carry water along the public streets of Dennison Township. (b) The word \"person\" shall mean any natural person, partnership, firm or corporation. (Ord. No. 1-1977, § 2, 3-7-1977)\n\nIt shall be unlawful for a person to install a drainpipe along the public roads of\n               Dennison Township less than twelve (12) inches in diameter unless the supervisors\n               approve installation of a pipe of less than twelve (12) inches in diameter. (Ord. No. 1-1977, § 3, 3-7-1977)\n\nAny person who violates the provisions of this Article shall, upon conviction as provided\n               by law, be sentenced to pay a fine of not more than Three Hundred Dollars ($300.00),\n               a penalty of Ten Dollars ($10.00) and costs or prosecution. (Ord. No. 1-1977, § 4, 3-7-1977)\n\nThe Dennison Township Supervisors are also authorized to institute proceedings in\n               Courts of Equity to enforce the provisions of the Article. (Ord. No. 1-1977, § 5, 3-7-1977)\n\nI. The following six roads in the Village of Middleburg, Dennison Township, Luzerne County,\n               Pennsylvania, being in the judgment of the supervisors necessary for the public convenience,\n               are hereby laid out and opened as a public road: (1) 6th Street between Chestnut Street (now State Highway Legislative Route No. 40041)\n               and Walnut Street, being 50 feet in width and 200 feet in length. More particularly described as follows: Beginning at a point on the west side of Chestnut\n               Street (now State Highway Legislative Route No. 40041) and the northeast corner of\n               Lot No. 51; thence north eighty-five degrees west two…",
+          "sourceUrl": "https://library.municode.com/pa/dennison_township/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "pa:dennison-township:1",
+          "prompt": "Who has to approve a drainpipe smaller than 12 inches along Dennison Township public roads?",
+          "choices": [
+            "The mayor",
+            "The township supervisors",
+            "The water company",
+            "A licensed contractor"
+          ],
+          "answer": "The township supervisors",
+          "excerpt": "The Article shall be known and may be cited as the \"Dennison Township Drainage Pipe\n               Ordinance.\" (Ord. No. 1-1977, § 1, 3-7-1977)\n\nUnless otherwise expressly stated, the following terms shall have, for purposes of\n               this Article, the meanings herein indicated: (a) Drainpipe shall mean any pipe used to carry water along the public streets of Dennison Township. (b) The word \"person\" shall mean any natural person, partnership, firm or corporation. (Ord. No. 1-1977, § 2, 3-7-1977)\n\nIt shall be unlawful for a person to install a drainpipe along the public roads of\n               Dennison Township less than twelve (12) inches in diameter unless the supervisors\n               approve installation of a pipe of less than twelve (12) inches in diameter. (Ord. No. 1-1977, § 3, 3-7-1977)\n\nAny person who violates the provisions of this Article shall, upon conviction as provided\n               by law, be sentenced to pay a fine of not more than Three Hundred Dollars ($300.00),\n               a penalty of Ten Dollars ($10.00) and costs or prosecution. (Ord. No. 1-1977, § 4, 3-7-1977)\n\nThe Dennison Township Supervisors are also authorized to institute proceedings in\n               Courts of Equity to enforce the provisions of the Article. (Ord. No. 1-1977, § 5, 3-7-1977)\n\nI. The following six roads in the Village of Middleburg, Dennison Township, Luzerne County,\n               Pennsylvania, being in the judgment of the supervisors necessary for the public convenience,\n               are hereby laid out and opened as a public road: (1) 6th Street between Chestnut Street (now State Highway Legislative Route No. 40041)\n               and Walnut Street, being 50 feet in width and 200 feet in length. More particularly described as follows: Beginning at a point on the west side of Chestnut\n               Street (now State Highway Legislative Route No. 40041) and the northeast corner of\n               Lot No. 51; thence north eighty-five degrees west two…",
+          "sourceUrl": "https://library.municode.com/pa/dennison_township/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "pa:dennison-township:2",
+          "prompt": "What is this set of rules officially called?",
+          "choices": [
+            "The Public Streets Ordinance",
+            "The Dennison Township Drainage Pipe Ordinance",
+            "The Culvert Installation Code",
+            "The Storm Drain Law"
+          ],
+          "answer": "The Dennison Township Drainage Pipe Ordinance",
+          "excerpt": "The Article shall be known and may be cited as the \"Dennison Township Drainage Pipe\n               Ordinance.\" (Ord. No. 1-1977, § 1, 3-7-1977)\n\nUnless otherwise expressly stated, the following terms shall have, for purposes of\n               this Article, the meanings herein indicated: (a) Drainpipe shall mean any pipe used to carry water along the public streets of Dennison Township. (b) The word \"person\" shall mean any natural person, partnership, firm or corporation. (Ord. No. 1-1977, § 2, 3-7-1977)\n\nIt shall be unlawful for a person to install a drainpipe along the public roads of\n               Dennison Township less than twelve (12) inches in diameter unless the supervisors\n               approve installation of a pipe of less than twelve (12) inches in diameter. (Ord. No. 1-1977, § 3, 3-7-1977)\n\nAny person who violates the provisions of this Article shall, upon conviction as provided\n               by law, be sentenced to pay a fine of not more than Three Hundred Dollars ($300.00),\n               a penalty of Ten Dollars ($10.00) and costs or prosecution. (Ord. No. 1-1977, § 4, 3-7-1977)\n\nThe Dennison Township Supervisors are also authorized to institute proceedings in\n               Courts of Equity to enforce the provisions of the Article. (Ord. No. 1-1977, § 5, 3-7-1977)\n\nI. The following six roads in the Village of Middleburg, Dennison Township, Luzerne County,\n               Pennsylvania, being in the judgment of the supervisors necessary for the public convenience,\n               are hereby laid out and opened as a public road: (1) 6th Street between Chestnut Street (now State Highway Legislative Route No. 40041)\n               and Walnut Street, being 50 feet in width and 200 feet in length. More particularly described as follows: Beginning at a point on the west side of Chestnut\n               Street (now State Highway Legislative Route No. 40041) and the northeast corner of\n               Lot No. 51; thence north eighty-five degrees west two…",
+          "sourceUrl": "https://library.municode.com/pa/dennison_township/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "pa:dennison-township:3",
+          "prompt": "If you violate the drainpipe rules, you can be fined up to $300 plus a penalty of how much?",
+          "choices": [
+            "$5",
+            "$10",
+            "$25",
+            "$50"
+          ],
+          "answer": "$10",
+          "excerpt": "The Article shall be known and may be cited as the \"Dennison Township Drainage Pipe\n               Ordinance.\" (Ord. No. 1-1977, § 1, 3-7-1977)\n\nUnless otherwise expressly stated, the following terms shall have, for purposes of\n               this Article, the meanings herein indicated: (a) Drainpipe shall mean any pipe used to carry water along the public streets of Dennison Township. (b) The word \"person\" shall mean any natural person, partnership, firm or corporation. (Ord. No. 1-1977, § 2, 3-7-1977)\n\nIt shall be unlawful for a person to install a drainpipe along the public roads of\n               Dennison Township less than twelve (12) inches in diameter unless the supervisors\n               approve installation of a pipe of less than twelve (12) inches in diameter. (Ord. No. 1-1977, § 3, 3-7-1977)\n\nAny person who violates the provisions of this Article shall, upon conviction as provided\n               by law, be sentenced to pay a fine of not more than Three Hundred Dollars ($300.00),\n               a penalty of Ten Dollars ($10.00) and costs or prosecution. (Ord. No. 1-1977, § 4, 3-7-1977)\n\nThe Dennison Township Supervisors are also authorized to institute proceedings in\n               Courts of Equity to enforce the provisions of the Article. (Ord. No. 1-1977, § 5, 3-7-1977)\n\nI. The following six roads in the Village of Middleburg, Dennison Township, Luzerne County,\n               Pennsylvania, being in the judgment of the supervisors necessary for the public convenience,\n               are hereby laid out and opened as a public road: (1) 6th Street between Chestnut Street (now State Highway Legislative Route No. 40041)\n               and Walnut Street, being 50 feet in width and 200 feet in length. More particularly described as follows: Beginning at a point on the west side of Chestnut\n               Street (now State Highway Legislative Route No. 40041) and the northeast corner of\n               Lot No. 51; thence north eighty-five degrees west two…",
+          "sourceUrl": "https://library.municode.com/pa/dennison_township/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        },
+        {
+          "id": "pa:dennison-township:4",
+          "prompt": "How wide are the six public roads the township laid out in the Village of Middleburg?",
+          "choices": [
+            "30 feet",
+            "40 feet",
+            "50 feet",
+            "60 feet"
+          ],
+          "answer": "50 feet",
+          "excerpt": "The Article shall be known and may be cited as the \"Dennison Township Drainage Pipe\n               Ordinance.\" (Ord. No. 1-1977, § 1, 3-7-1977)\n\nUnless otherwise expressly stated, the following terms shall have, for purposes of\n               this Article, the meanings herein indicated: (a) Drainpipe shall mean any pipe used to carry water along the public streets of Dennison Township. (b) The word \"person\" shall mean any natural person, partnership, firm or corporation. (Ord. No. 1-1977, § 2, 3-7-1977)\n\nIt shall be unlawful for a person to install a drainpipe along the public roads of\n               Dennison Township less than twelve (12) inches in diameter unless the supervisors\n               approve installation of a pipe of less than twelve (12) inches in diameter. (Ord. No. 1-1977, § 3, 3-7-1977)\n\nAny person who violates the provisions of this Article shall, upon conviction as provided\n               by law, be sentenced to pay a fine of not more than Three Hundred Dollars ($300.00),\n               a penalty of Ten Dollars ($10.00) and costs or prosecution. (Ord. No. 1-1977, § 4, 3-7-1977)\n\nThe Dennison Township Supervisors are also authorized to institute proceedings in\n               Courts of Equity to enforce the provisions of the Article. (Ord. No. 1-1977, § 5, 3-7-1977)\n\nI. The following six roads in the Village of Middleburg, Dennison Township, Luzerne County,\n               Pennsylvania, being in the judgment of the supervisors necessary for the public convenience,\n               are hereby laid out and opened as a public road: (1) 6th Street between Chestnut Street (now State Highway Legislative Route No. 40041)\n               and Walnut Street, being 50 feet in width and 200 feet in length. More particularly described as follows: Beginning at a point on the west side of Chestnut\n               Street (now State Highway Legislative Route No. 40041) and the northeast corner of\n               Lot No. 51; thence north eighty-five degrees west two…",
+          "sourceUrl": "https://library.municode.com/pa/dennison_township/codes/code_of_ordinances?nodeId=COOR_CH18STSIOTPUPL"
+        }
+      ]
+    },
+    {
+      "id": "east-donegal-township",
+      "name": "East Donegal Township",
+      "sourceIndex": "https://library.municode.com/pa/east_donegal_township",
+      "questions": [
+        {
+          "id": "pa:east-donegal-township:0",
+          "prompt": "In East Donegal Township, which days count as legal holidays for traffic and parking rules?",
+          "choices": [
+            "New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day",
+            "New Year's Day, Easter, Independence Day, Thanksgiving and Christmas",
+            "Any holiday when Township offices are closed"
+          ],
+          "answer": "New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day",
+          "excerpt": "(a) Words and phrases, when used in this chapter, except for sections or articles to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in the Vehicle Code (the Act of June 17, 1976, P.L. 162 No. 81), as amended, except\n               that, in this chapter, the term \"street\" may be used interchangeably with the term\n               \"highway,\" and shall have the same meaning as the term \"highway\" as defined in the\n               Vehicle Code. (b) The term \"legal holidays\" as used in this chapter means and includes: New Year's Day,\n               Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. (c) In this chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. (Code 1993, ch. 15, § 101; Ord. No. 1993-21, 10-14-1993)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this chapter,\n               except where the law specifically authorizes less formal action. (Code 1993, ch. 15, § 102; Ord. No. 1993-21, 10-14-1993)\n\nThe provisions of this chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this chapter shall affect any act done or liability incurred, or any suit\n               or prosecution pending or to be instituted under any of those repealed or superseded\n               ordinances or regulations. (Code 1993, ch. 15, § 103; Ord. No. 1993-21, 10-14-1993)\n\n(a) The roadmaster or supervisor shall have the following powers to regulate traffic and\n               parking temporarily and in time of emergency: (1) In the…",
+          "sourceUrl": "https://library.municode.com/pa/east_donegal_township/codes/code_of_ordinances?nodeId=COOR_CH28MOVETR"
+        },
+        {
+          "id": "pa:east-donegal-township:1",
+          "prompt": "For a parade or other public event, how long can the Township restrict traffic or parking in a limited area?",
+          "choices": [
+            "Not more than 72 hours",
+            "Not more than 90 days",
+            "Only during daylight hours on the day of the event"
+          ],
+          "answer": "Not more than 72 hours",
+          "excerpt": "(a) Words and phrases, when used in this chapter, except for sections or articles to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in the Vehicle Code (the Act of June 17, 1976, P.L. 162 No. 81), as amended, except\n               that, in this chapter, the term \"street\" may be used interchangeably with the term\n               \"highway,\" and shall have the same meaning as the term \"highway\" as defined in the\n               Vehicle Code. (b) The term \"legal holidays\" as used in this chapter means and includes: New Year's Day,\n               Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. (c) In this chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. (Code 1993, ch. 15, § 101; Ord. No. 1993-21, 10-14-1993)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this chapter,\n               except where the law specifically authorizes less formal action. (Code 1993, ch. 15, § 102; Ord. No. 1993-21, 10-14-1993)\n\nThe provisions of this chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this chapter shall affect any act done or liability incurred, or any suit\n               or prosecution pending or to be instituted under any of those repealed or superseded\n               ordinances or regulations. (Code 1993, ch. 15, § 103; Ord. No. 1993-21, 10-14-1993)\n\n(a) The roadmaster or supervisor shall have the following powers to regulate traffic and\n               parking temporarily and in time of emergency: (1) In the…",
+          "sourceUrl": "https://library.municode.com/pa/east_donegal_township/codes/code_of_ordinances?nodeId=COOR_CH28MOVETR"
+        },
+        {
+          "id": "pa:east-donegal-township:2",
+          "prompt": "Which of these does NOT need a Township procession permit?",
+          "choices": [
+            "A funeral caravan",
+            "A group of vehicles and animals moving down the street and slowing traffic",
+            "A parade of objects and people that interferes with normal traffic"
+          ],
+          "answer": "A funeral caravan",
+          "excerpt": "(a) Words and phrases, when used in this chapter, except for sections or articles to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in the Vehicle Code (the Act of June 17, 1976, P.L. 162 No. 81), as amended, except\n               that, in this chapter, the term \"street\" may be used interchangeably with the term\n               \"highway,\" and shall have the same meaning as the term \"highway\" as defined in the\n               Vehicle Code. (b) The term \"legal holidays\" as used in this chapter means and includes: New Year's Day,\n               Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. (c) In this chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. (Code 1993, ch. 15, § 101; Ord. No. 1993-21, 10-14-1993)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this chapter,\n               except where the law specifically authorizes less formal action. (Code 1993, ch. 15, § 102; Ord. No. 1993-21, 10-14-1993)\n\nThe provisions of this chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this chapter shall affect any act done or liability incurred, or any suit\n               or prosecution pending or to be instituted under any of those repealed or superseded\n               ordinances or regulations. (Code 1993, ch. 15, § 103; Ord. No. 1993-21, 10-14-1993)\n\n(a) The roadmaster or supervisor shall have the following powers to regulate traffic and\n               parking temporarily and in time of emergency: (1) In the…",
+          "sourceUrl": "https://library.municode.com/pa/east_donegal_township/codes/code_of_ordinances?nodeId=COOR_CH28MOVETR"
+        },
+        {
+          "id": "pa:east-donegal-township:3",
+          "prompt": "How far in advance must you apply for a free permit to hold an assemblage (a gathering of people without vehicles) on a Township street?",
+          "choices": [
+            "At least one week, or three weeks if a state-designated highway will be used",
+            "At least 72 hours before the gathering starts",
+            "No application is required if the gathering has no vehicles"
+          ],
+          "answer": "At least one week, or three weeks if a state-designated highway will be used",
+          "excerpt": "(a) Words and phrases, when used in this chapter, except for sections or articles to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in the Vehicle Code (the Act of June 17, 1976, P.L. 162 No. 81), as amended, except\n               that, in this chapter, the term \"street\" may be used interchangeably with the term\n               \"highway,\" and shall have the same meaning as the term \"highway\" as defined in the\n               Vehicle Code. (b) The term \"legal holidays\" as used in this chapter means and includes: New Year's Day,\n               Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. (c) In this chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. (Code 1993, ch. 15, § 101; Ord. No. 1993-21, 10-14-1993)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this chapter,\n               except where the law specifically authorizes less formal action. (Code 1993, ch. 15, § 102; Ord. No. 1993-21, 10-14-1993)\n\nThe provisions of this chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this chapter shall affect any act done or liability incurred, or any suit\n               or prosecution pending or to be instituted under any of those repealed or superseded\n               ordinances or regulations. (Code 1993, ch. 15, § 103; Ord. No. 1993-21, 10-14-1993)\n\n(a) The roadmaster or supervisor shall have the following powers to regulate traffic and\n               parking temporarily and in time of emergency: (1) In the…",
+          "sourceUrl": "https://library.municode.com/pa/east_donegal_township/codes/code_of_ordinances?nodeId=COOR_CH28MOVETR"
+        },
+        {
+          "id": "pa:east-donegal-township:4",
+          "prompt": "What is the penalty if you drive a vehicle on a street that the Township has closed for construction or a special event?",
+          "choices": [
+            "A fine of $25.00 plus costs",
+            "A fine of not more than $100.00",
+            "Community service instead of a fine"
+          ],
+          "answer": "A fine of $25.00 plus costs",
+          "excerpt": "(a) Words and phrases, when used in this chapter, except for sections or articles to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in the Vehicle Code (the Act of June 17, 1976, P.L. 162 No. 81), as amended, except\n               that, in this chapter, the term \"street\" may be used interchangeably with the term\n               \"highway,\" and shall have the same meaning as the term \"highway\" as defined in the\n               Vehicle Code. (b) The term \"legal holidays\" as used in this chapter means and includes: New Year's Day,\n               Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. (c) In this chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. (Code 1993, ch. 15, § 101; Ord. No. 1993-21, 10-14-1993)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this chapter,\n               except where the law specifically authorizes less formal action. (Code 1993, ch. 15, § 102; Ord. No. 1993-21, 10-14-1993)\n\nThe provisions of this chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this chapter shall affect any act done or liability incurred, or any suit\n               or prosecution pending or to be instituted under any of those repealed or superseded\n               ordinances or regulations. (Code 1993, ch. 15, § 103; Ord. No. 1993-21, 10-14-1993)\n\n(a) The roadmaster or supervisor shall have the following powers to regulate traffic and\n               parking temporarily and in time of emergency: (1) In the…",
+          "sourceUrl": "https://library.municode.com/pa/east_donegal_township/codes/code_of_ordinances?nodeId=COOR_CH28MOVETR"
+        }
+      ]
+    },
+    {
+      "id": "hampden-township",
+      "name": "Hampden Township",
+      "sourceIndex": "https://library.municode.com/pa/hampden_township",
+      "questions": [
+        {
+          "id": "pa:hampden-township:0",
+          "prompt": "For Hampden Township traffic rules, Good Hope Road and streets that run generally parallel to it are treated as running which direction?",
+          "choices": [
+            "North-south",
+            "East-west",
+            "Northeast-southwest",
+            "The way they actually go on the map"
+          ],
+          "answer": "North-south",
+          "excerpt": "1. Words and phrases, when used in this Chapter, except for Sections or parts to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in The Vehicle Code, the Act of June 17, 1976, P.L. 162 No. 81, as amended, except\n               that in this Chapter the word \"street\" may be used interchangeably with the word \"highway,\"\n               and shall have the same meaning as the word \"highway\" as defined in the Vehicle Code. 2. The term \"legal holidays\" as used in this Chapter shall mean and include: New Year's\n               Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. 3. In this Chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. 4. Although the streets in the Township run generally in a northeast-southwest and a\n               northwest-southeast direction, for the purpose of this Chapter, Good Hope Road and\n               the streets running parallel or generally parallel to Good Hope Road shall be deemed\n               to run in a north-south direction, and Trindle Road and the streets parallel or generally\n               parallel to Trindle Road shall be deemed to run in an east-west direction. (Ord. 98-7, 8/27/1998)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this Chapter,\n               except where the law specifically authorizes less formal action. (Ord. 98-7, 8/27/1998)\n\nThe provisions of this Chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this Chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this Chapter shall affect any act done or…",
+          "sourceUrl": "https://library.municode.com/pa/hampden_township/codes/code_of_ordinances?nodeId=CH15MOVETR"
+        },
+        {
+          "id": "pa:hampden-township:1",
+          "prompt": "Which days count as \"legal holidays\" under the township's traffic and parking chapter?",
+          "choices": [
+            "New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day",
+            "Every federal holiday",
+            "New Year's Day, Easter, Memorial Day, Independence Day, Labor Day, Thanksgiving and Christmas",
+            "Any day township offices are closed"
+          ],
+          "answer": "New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day",
+          "excerpt": "1. Words and phrases, when used in this Chapter, except for Sections or parts to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in The Vehicle Code, the Act of June 17, 1976, P.L. 162 No. 81, as amended, except\n               that in this Chapter the word \"street\" may be used interchangeably with the word \"highway,\"\n               and shall have the same meaning as the word \"highway\" as defined in the Vehicle Code. 2. The term \"legal holidays\" as used in this Chapter shall mean and include: New Year's\n               Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. 3. In this Chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. 4. Although the streets in the Township run generally in a northeast-southwest and a\n               northwest-southeast direction, for the purpose of this Chapter, Good Hope Road and\n               the streets running parallel or generally parallel to Good Hope Road shall be deemed\n               to run in a north-south direction, and Trindle Road and the streets parallel or generally\n               parallel to Trindle Road shall be deemed to run in an east-west direction. (Ord. 98-7, 8/27/1998)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this Chapter,\n               except where the law specifically authorizes less formal action. (Ord. 98-7, 8/27/1998)\n\nThe provisions of this Chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this Chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this Chapter shall affect any act done or…",
+          "sourceUrl": "https://library.municode.com/pa/hampden_township/codes/code_of_ordinances?nodeId=CH15MOVETR"
+        },
+        {
+          "id": "pa:hampden-township:2",
+          "prompt": "For a parade, public event, or emergency, the Chief of Police can limit traffic or parking in a small area for no longer than:",
+          "choices": [
+            "24 hours",
+            "72 hours",
+            "7 days",
+            "90 days"
+          ],
+          "answer": "72 hours",
+          "excerpt": "1. Words and phrases, when used in this Chapter, except for Sections or parts to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in The Vehicle Code, the Act of June 17, 1976, P.L. 162 No. 81, as amended, except\n               that in this Chapter the word \"street\" may be used interchangeably with the word \"highway,\"\n               and shall have the same meaning as the word \"highway\" as defined in the Vehicle Code. 2. The term \"legal holidays\" as used in this Chapter shall mean and include: New Year's\n               Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. 3. In this Chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. 4. Although the streets in the Township run generally in a northeast-southwest and a\n               northwest-southeast direction, for the purpose of this Chapter, Good Hope Road and\n               the streets running parallel or generally parallel to Good Hope Road shall be deemed\n               to run in a north-south direction, and Trindle Road and the streets parallel or generally\n               parallel to Trindle Road shall be deemed to run in an east-west direction. (Ord. 98-7, 8/27/1998)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this Chapter,\n               except where the law specifically authorizes less formal action. (Ord. 98-7, 8/27/1998)\n\nThe provisions of this Chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this Chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this Chapter shall affect any act done or…",
+          "sourceUrl": "https://library.municode.com/pa/hampden_township/codes/code_of_ordinances?nodeId=CH15MOVETR"
+        },
+        {
+          "id": "pa:hampden-township:3",
+          "prompt": "The Board of Commissioners can put a test traffic or parking rule in place, using signs, for up to how long?",
+          "choices": [
+            "30 days",
+            "90 days",
+            "6 months",
+            "until the next election"
+          ],
+          "answer": "90 days",
+          "excerpt": "1. Words and phrases, when used in this Chapter, except for Sections or parts to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in The Vehicle Code, the Act of June 17, 1976, P.L. 162 No. 81, as amended, except\n               that in this Chapter the word \"street\" may be used interchangeably with the word \"highway,\"\n               and shall have the same meaning as the word \"highway\" as defined in the Vehicle Code. 2. The term \"legal holidays\" as used in this Chapter shall mean and include: New Year's\n               Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. 3. In this Chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. 4. Although the streets in the Township run generally in a northeast-southwest and a\n               northwest-southeast direction, for the purpose of this Chapter, Good Hope Road and\n               the streets running parallel or generally parallel to Good Hope Road shall be deemed\n               to run in a north-south direction, and Trindle Road and the streets parallel or generally\n               parallel to Trindle Road shall be deemed to run in an east-west direction. (Ord. 98-7, 8/27/1998)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this Chapter,\n               except where the law specifically authorizes less formal action. (Ord. 98-7, 8/27/1998)\n\nThe provisions of this Chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this Chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this Chapter shall affect any act done or…",
+          "sourceUrl": "https://library.municode.com/pa/hampden_township/codes/code_of_ordinances?nodeId=CH15MOVETR"
+        },
+        {
+          "id": "pa:hampden-township:4",
+          "prompt": "What is the speed limit along the entire length of streets such as Abington Way, Ada Drive, and Airport Drive?",
+          "choices": [
+            "15 mph",
+            "25 mph",
+            "35 mph",
+            "45 mph"
+          ],
+          "answer": "25 mph",
+          "excerpt": "1. Words and phrases, when used in this Chapter, except for Sections or parts to which\n               different or additional definitions apply, shall have the meanings ascribed to them\n               in The Vehicle Code, the Act of June 17, 1976, P.L. 162 No. 81, as amended, except\n               that in this Chapter the word \"street\" may be used interchangeably with the word \"highway,\"\n               and shall have the same meaning as the word \"highway\" as defined in the Vehicle Code. 2. The term \"legal holidays\" as used in this Chapter shall mean and include: New Year's\n               Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day. 3. In this Chapter, the singular shall include the plural, the plural shall include the\n               singular, and the masculine shall include the feminine. 4. Although the streets in the Township run generally in a northeast-southwest and a\n               northwest-southeast direction, for the purpose of this Chapter, Good Hope Road and\n               the streets running parallel or generally parallel to Good Hope Road shall be deemed\n               to run in a north-south direction, and Trindle Road and the streets parallel or generally\n               parallel to Trindle Road shall be deemed to run in an east-west direction. (Ord. 98-7, 8/27/1998)\n\nAll traffic and parking regulations of a permanent nature shall be enacted as ordinances,\n               as parts of ordinances, as amendments to ordinances, or as amendments to this Chapter,\n               except where the law specifically authorizes less formal action. (Ord. 98-7, 8/27/1998)\n\nThe provisions of this Chapter, so far as they are the same as those of ordinances\n               and regulations in force immediately before the enactment of this Chapter, are intended\n               as a continuation of those earlier ordinances and regulations, and not as new enactments.\n               Nothing in this Chapter shall affect any act done or…",
+          "sourceUrl": "https://library.municode.com/pa/hampden_township/codes/code_of_ordinances?nodeId=CH15MOVETR"
+        }
+      ]
+    },
+    {
+      "id": "heidelberg-township",
+      "name": "Heidelberg Township",
+      "sourceIndex": "https://library.municode.com/pa/heidelberg_township",
+      "questions": []
+    },
+    {
+      "id": "kennett-square",
+      "name": "Kennett Square",
+      "sourceIndex": "https://library.municode.com/pa/kennett_square",
+      "questions": [
+        {
+          "id": "pa:kennett-square:0",
+          "prompt": "May you put garbage from your home or business into a public trash can in Kennett Square?",
+          "choices": [
+            "Yes, public cans are for any trash",
+            "No, refuse and garbage from a residence or business may not go in a public receptacle",
+            "Only if the can is empty",
+            "Only food scraps"
+          ],
+          "answer": "No, refuse and garbage from a residence or business may not go in a public receptacle",
+          "excerpt": "Sections:\n\nFor the purposes of this article, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Aircraft. \"Aircraft\" means any contrivance now known or hereafter invented, used or\n               designed for navigation or for flight in the air and \"aircraft\" shall include helicopters\n               and lighter-than-air dirigibles and balloons. Commercial handbill. \"Commercial handbill\" means any printed or written matter, any\n               sample or device, dodger, circular, leaflet, pamphlet, paper, booklet or any other\n               printed or otherwise reproduced original or copies of any matter of literature: (1) Which advertises for sale any merchandise, product, commodity or thing; or (2) Which directs attention to any business or mercantile or commercial establishment\n                  or other activity for the purpose of either directly or indirectly promoting the interest\n                  thereof by sales; or public place within the borough for any person to hand out or\n                  distribute, without charge to the receiver thereof, any noncommercial handbill to\n                  any person willing to accept it. (3) Which directs attention to or advertises any meeting, theatrical performance, exhibition,\n                  or event of any kind, for which an admission fee is charged for the purpose of private\n                  gain or profit; but the terms of this clause shall not apply where an admission fee\n                  is charged or a collection is taken up for the purpose of defraying the expenses incident\n                  to such meeting, theatrical performance, exhibition, or event of any kind, when any\n                  of the same is held, given or takes place in connection with the dissemination of\n                  information which is not restricted under the ordinary rules of decency, good morals,\n                  public peace, safety and good order; provided,…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_square/codes/code_of_ordinances?nodeId=PAI_CH13RECOPR"
+        },
+        {
+          "id": "pa:kennett-square:1",
+          "prompt": "Who must keep the sidewalk in front of a house or business free of litter?",
+          "choices": [
+            "The borough",
+            "The owner or occupant of the property",
+            "Anyone walking past",
+            "The nearest neighbor"
+          ],
+          "answer": "The owner or occupant of the property",
+          "excerpt": "Sections:\n\nFor the purposes of this article, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Aircraft. \"Aircraft\" means any contrivance now known or hereafter invented, used or\n               designed for navigation or for flight in the air and \"aircraft\" shall include helicopters\n               and lighter-than-air dirigibles and balloons. Commercial handbill. \"Commercial handbill\" means any printed or written matter, any\n               sample or device, dodger, circular, leaflet, pamphlet, paper, booklet or any other\n               printed or otherwise reproduced original or copies of any matter of literature: (1) Which advertises for sale any merchandise, product, commodity or thing; or (2) Which directs attention to any business or mercantile or commercial establishment\n                  or other activity for the purpose of either directly or indirectly promoting the interest\n                  thereof by sales; or public place within the borough for any person to hand out or\n                  distribute, without charge to the receiver thereof, any noncommercial handbill to\n                  any person willing to accept it. (3) Which directs attention to or advertises any meeting, theatrical performance, exhibition,\n                  or event of any kind, for which an admission fee is charged for the purpose of private\n                  gain or profit; but the terms of this clause shall not apply where an admission fee\n                  is charged or a collection is taken up for the purpose of defraying the expenses incident\n                  to such meeting, theatrical performance, exhibition, or event of any kind, when any\n                  of the same is held, given or takes place in connection with the dissemination of\n                  information which is not restricted under the ordinary rules of decency, good morals,\n                  public peace, safety and good order; provided,…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_square/codes/code_of_ordinances?nodeId=PAI_CH13RECOPR"
+        },
+        {
+          "id": "pa:kennett-square:2",
+          "prompt": "Besides litter, what else may you not throw or leave on a street, sidewalk, or other public place?",
+          "choices": [
+            "Manure",
+            "Rainwater",
+            "Fallen twigs from borough trees",
+            "Birdseed"
+          ],
+          "answer": "Manure",
+          "excerpt": "Sections:\n\nFor the purposes of this article, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Aircraft. \"Aircraft\" means any contrivance now known or hereafter invented, used or\n               designed for navigation or for flight in the air and \"aircraft\" shall include helicopters\n               and lighter-than-air dirigibles and balloons. Commercial handbill. \"Commercial handbill\" means any printed or written matter, any\n               sample or device, dodger, circular, leaflet, pamphlet, paper, booklet or any other\n               printed or otherwise reproduced original or copies of any matter of literature: (1) Which advertises for sale any merchandise, product, commodity or thing; or (2) Which directs attention to any business or mercantile or commercial establishment\n                  or other activity for the purpose of either directly or indirectly promoting the interest\n                  thereof by sales; or public place within the borough for any person to hand out or\n                  distribute, without charge to the receiver thereof, any noncommercial handbill to\n                  any person willing to accept it. (3) Which directs attention to or advertises any meeting, theatrical performance, exhibition,\n                  or event of any kind, for which an admission fee is charged for the purpose of private\n                  gain or profit; but the terms of this clause shall not apply where an admission fee\n                  is charged or a collection is taken up for the purpose of defraying the expenses incident\n                  to such meeting, theatrical performance, exhibition, or event of any kind, when any\n                  of the same is held, given or takes place in connection with the dissemination of\n                  information which is not restricted under the ordinary rules of decency, good morals,\n                  public peace, safety and good order; provided,…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_square/codes/code_of_ordinances?nodeId=PAI_CH13RECOPR"
+        },
+        {
+          "id": "pa:kennett-square:3",
+          "prompt": "May you sweep litter from a building, lot, sidewalk, or driveway into a gutter or street?",
+          "choices": [
+            "Yes, so the street sweeper can get it",
+            "No",
+            "Yes if it is only leaves",
+            "Only on trash day"
+          ],
+          "answer": "No",
+          "excerpt": "Sections:\n\nFor the purposes of this article, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Aircraft. \"Aircraft\" means any contrivance now known or hereafter invented, used or\n               designed for navigation or for flight in the air and \"aircraft\" shall include helicopters\n               and lighter-than-air dirigibles and balloons. Commercial handbill. \"Commercial handbill\" means any printed or written matter, any\n               sample or device, dodger, circular, leaflet, pamphlet, paper, booklet or any other\n               printed or otherwise reproduced original or copies of any matter of literature: (1) Which advertises for sale any merchandise, product, commodity or thing; or (2) Which directs attention to any business or mercantile or commercial establishment\n                  or other activity for the purpose of either directly or indirectly promoting the interest\n                  thereof by sales; or public place within the borough for any person to hand out or\n                  distribute, without charge to the receiver thereof, any noncommercial handbill to\n                  any person willing to accept it. (3) Which directs attention to or advertises any meeting, theatrical performance, exhibition,\n                  or event of any kind, for which an admission fee is charged for the purpose of private\n                  gain or profit; but the terms of this clause shall not apply where an admission fee\n                  is charged or a collection is taken up for the purpose of defraying the expenses incident\n                  to such meeting, theatrical performance, exhibition, or event of any kind, when any\n                  of the same is held, given or takes place in connection with the dissemination of\n                  information which is not restricted under the ordinary rules of decency, good morals,\n                  public peace, safety and good order; provided,…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_square/codes/code_of_ordinances?nodeId=PAI_CH13RECOPR"
+        },
+        {
+          "id": "pa:kennett-square:4",
+          "prompt": "May a driver or passenger throw litter from a vehicle onto a street or other public place?",
+          "choices": [
+            "No",
+            "Yes if it is a small item",
+            "Yes on side streets only",
+            "Only if the window is already open"
+          ],
+          "answer": "No",
+          "excerpt": "Sections:\n\nFor the purposes of this article, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Aircraft. \"Aircraft\" means any contrivance now known or hereafter invented, used or\n               designed for navigation or for flight in the air and \"aircraft\" shall include helicopters\n               and lighter-than-air dirigibles and balloons. Commercial handbill. \"Commercial handbill\" means any printed or written matter, any\n               sample or device, dodger, circular, leaflet, pamphlet, paper, booklet or any other\n               printed or otherwise reproduced original or copies of any matter of literature: (1) Which advertises for sale any merchandise, product, commodity or thing; or (2) Which directs attention to any business or mercantile or commercial establishment\n                  or other activity for the purpose of either directly or indirectly promoting the interest\n                  thereof by sales; or public place within the borough for any person to hand out or\n                  distribute, without charge to the receiver thereof, any noncommercial handbill to\n                  any person willing to accept it. (3) Which directs attention to or advertises any meeting, theatrical performance, exhibition,\n                  or event of any kind, for which an admission fee is charged for the purpose of private\n                  gain or profit; but the terms of this clause shall not apply where an admission fee\n                  is charged or a collection is taken up for the purpose of defraying the expenses incident\n                  to such meeting, theatrical performance, exhibition, or event of any kind, when any\n                  of the same is held, given or takes place in connection with the dissemination of\n                  information which is not restricted under the ordinary rules of decency, good morals,\n                  public peace, safety and good order; provided,…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_square/codes/code_of_ordinances?nodeId=PAI_CH13RECOPR"
+        }
+      ]
+    },
+    {
+      "id": "kennett-township",
+      "name": "Kennett Township",
+      "sourceIndex": "https://library.municode.com/pa/kennett_township",
+      "questions": [
+        {
+          "id": "pa:kennett-township:0",
+          "prompt": "What is the official name of Kennett Township's compiled book of local laws?",
+          "choices": [
+            "Code of the Township of Kennett",
+            "Kennett Home Rule Charter",
+            "Chester County Municipal Manual",
+            "Pennsylvania Township Handbook"
+          ],
+          "answer": "Code of the Township of Kennett",
+          "excerpt": "Pursuant to Section 1601(d) [53 P.S. § 66601(d)] of the Second Class Township Code,\n               the codification of a complete body of legislation for the Township of Kennett, County\n               of Chester, Commonwealth of Pennsylvania, as revised, codified and consolidated into\n               chapters, articles and sections by General Code, and consisting of Chapters 1 through 240, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as a single ordinance of the Township of Kennett, which shall be known and\n               is hereby designated as the \"Code of the Township of Kennett,\" hereinafter referred\n               to as the \"Code.\" (Ord. No. 203, 7-16-2012)\n\nThe provisions of this Code, insofar as they are substantively the same as those of\n               ordinances and resolutions in force immediately prior to the enactment of this chapter,\n               are intended as a continuation of such ordinances and resolutions and not as new enactments,\n               and the effectiveness of such provisions shall date from the date of adoption of the\n               prior ordinance or resolution. All such provisions are hereby continued in full force\n               and effect and are hereby reaffirmed as to their adoption by the Board of Supervisors\n               of the Township of Kennett, and it is the intention of said Board of Supervisors that\n               each such provision contained within the Code is hereby reenacted and reaffirmed as\n               it appears in said Code. Only such provisions of former ordinances as are omitted\n               from this Code shall be deemed repealed or abrogated by the provisions of § 1-3 below, and only new or changed provisions, as described in § 1-6 below, shall be deemed to be enacted from the effective date of this Code, as provided\n               in § 1-15 below. (Ord. No. 203, 7-16-2012)\n\nAll ordinances or parts of ordinances of a general and permanent nature adopted…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_township/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:kennett-township:1",
+          "prompt": "How is the Township Code organized?",
+          "choices": [
+            "Chapters 1 through 240, plus an Appendix",
+            "A single unnumbered chapter",
+            "Only a Zoning Map with no chapters",
+            "Chapters 1 through 50 and nothing else"
+          ],
+          "answer": "Chapters 1 through 240, plus an Appendix",
+          "excerpt": "Pursuant to Section 1601(d) [53 P.S. § 66601(d)] of the Second Class Township Code,\n               the codification of a complete body of legislation for the Township of Kennett, County\n               of Chester, Commonwealth of Pennsylvania, as revised, codified and consolidated into\n               chapters, articles and sections by General Code, and consisting of Chapters 1 through 240, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as a single ordinance of the Township of Kennett, which shall be known and\n               is hereby designated as the \"Code of the Township of Kennett,\" hereinafter referred\n               to as the \"Code.\" (Ord. No. 203, 7-16-2012)\n\nThe provisions of this Code, insofar as they are substantively the same as those of\n               ordinances and resolutions in force immediately prior to the enactment of this chapter,\n               are intended as a continuation of such ordinances and resolutions and not as new enactments,\n               and the effectiveness of such provisions shall date from the date of adoption of the\n               prior ordinance or resolution. All such provisions are hereby continued in full force\n               and effect and are hereby reaffirmed as to their adoption by the Board of Supervisors\n               of the Township of Kennett, and it is the intention of said Board of Supervisors that\n               each such provision contained within the Code is hereby reenacted and reaffirmed as\n               it appears in said Code. Only such provisions of former ordinances as are omitted\n               from this Code shall be deemed repealed or abrogated by the provisions of § 1-3 below, and only new or changed provisions, as described in § 1-6 below, shall be deemed to be enacted from the effective date of this Code, as provided\n               in § 1-15 below. (Ord. No. 203, 7-16-2012)\n\nAll ordinances or parts of ordinances of a general and permanent nature adopted…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_township/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:kennett-township:2",
+          "prompt": "If a rule in the Code is the same as an older Township ordinance, how is that rule treated?",
+          "choices": [
+            "As a continuation of the older ordinance, not a brand-new law",
+            "As if it never existed before 2012",
+            "As advice only, with no legal effect",
+            "As a county rule that overrides the Township"
+          ],
+          "answer": "As a continuation of the older ordinance, not a brand-new law",
+          "excerpt": "Pursuant to Section 1601(d) [53 P.S. § 66601(d)] of the Second Class Township Code,\n               the codification of a complete body of legislation for the Township of Kennett, County\n               of Chester, Commonwealth of Pennsylvania, as revised, codified and consolidated into\n               chapters, articles and sections by General Code, and consisting of Chapters 1 through 240, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as a single ordinance of the Township of Kennett, which shall be known and\n               is hereby designated as the \"Code of the Township of Kennett,\" hereinafter referred\n               to as the \"Code.\" (Ord. No. 203, 7-16-2012)\n\nThe provisions of this Code, insofar as they are substantively the same as those of\n               ordinances and resolutions in force immediately prior to the enactment of this chapter,\n               are intended as a continuation of such ordinances and resolutions and not as new enactments,\n               and the effectiveness of such provisions shall date from the date of adoption of the\n               prior ordinance or resolution. All such provisions are hereby continued in full force\n               and effect and are hereby reaffirmed as to their adoption by the Board of Supervisors\n               of the Township of Kennett, and it is the intention of said Board of Supervisors that\n               each such provision contained within the Code is hereby reenacted and reaffirmed as\n               it appears in said Code. Only such provisions of former ordinances as are omitted\n               from this Code shall be deemed repealed or abrogated by the provisions of § 1-3 below, and only new or changed provisions, as described in § 1-6 below, shall be deemed to be enacted from the effective date of this Code, as provided\n               in § 1-15 below. (Ord. No. 203, 7-16-2012)\n\nAll ordinances or parts of ordinances of a general and permanent nature adopted…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_township/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:kennett-township:3",
+          "prompt": "What happens to older general Township ordinances that were left out of the Code?",
+          "choices": [
+            "They are repealed",
+            "They stay in force above the Code",
+            "They apply only to Township staff",
+            "They become unwritten custom"
+          ],
+          "answer": "They are repealed",
+          "excerpt": "Pursuant to Section 1601(d) [53 P.S. § 66601(d)] of the Second Class Township Code,\n               the codification of a complete body of legislation for the Township of Kennett, County\n               of Chester, Commonwealth of Pennsylvania, as revised, codified and consolidated into\n               chapters, articles and sections by General Code, and consisting of Chapters 1 through 240, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as a single ordinance of the Township of Kennett, which shall be known and\n               is hereby designated as the \"Code of the Township of Kennett,\" hereinafter referred\n               to as the \"Code.\" (Ord. No. 203, 7-16-2012)\n\nThe provisions of this Code, insofar as they are substantively the same as those of\n               ordinances and resolutions in force immediately prior to the enactment of this chapter,\n               are intended as a continuation of such ordinances and resolutions and not as new enactments,\n               and the effectiveness of such provisions shall date from the date of adoption of the\n               prior ordinance or resolution. All such provisions are hereby continued in full force\n               and effect and are hereby reaffirmed as to their adoption by the Board of Supervisors\n               of the Township of Kennett, and it is the intention of said Board of Supervisors that\n               each such provision contained within the Code is hereby reenacted and reaffirmed as\n               it appears in said Code. Only such provisions of former ordinances as are omitted\n               from this Code shall be deemed repealed or abrogated by the provisions of § 1-3 below, and only new or changed provisions, as described in § 1-6 below, shall be deemed to be enacted from the effective date of this Code, as provided\n               in § 1-15 below. (Ord. No. 203, 7-16-2012)\n\nAll ordinances or parts of ordinances of a general and permanent nature adopted…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_township/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:kennett-township:4",
+          "prompt": "Which of these did the Township keep instead of wiping out when it adopted the Code?",
+          "choices": [
+            "A franchise, license, or contract the Township had already granted",
+            "Every old ordinance not printed in the Code",
+            "Unwritten neighborhood agreements",
+            "Rules that applied only to visitors"
+          ],
+          "answer": "A franchise, license, or contract the Township had already granted",
+          "excerpt": "Pursuant to Section 1601(d) [53 P.S. § 66601(d)] of the Second Class Township Code,\n               the codification of a complete body of legislation for the Township of Kennett, County\n               of Chester, Commonwealth of Pennsylvania, as revised, codified and consolidated into\n               chapters, articles and sections by General Code, and consisting of Chapters 1 through 240, together with an Appendix, are hereby approved, adopted, ordained and\n               enacted as a single ordinance of the Township of Kennett, which shall be known and\n               is hereby designated as the \"Code of the Township of Kennett,\" hereinafter referred\n               to as the \"Code.\" (Ord. No. 203, 7-16-2012)\n\nThe provisions of this Code, insofar as they are substantively the same as those of\n               ordinances and resolutions in force immediately prior to the enactment of this chapter,\n               are intended as a continuation of such ordinances and resolutions and not as new enactments,\n               and the effectiveness of such provisions shall date from the date of adoption of the\n               prior ordinance or resolution. All such provisions are hereby continued in full force\n               and effect and are hereby reaffirmed as to their adoption by the Board of Supervisors\n               of the Township of Kennett, and it is the intention of said Board of Supervisors that\n               each such provision contained within the Code is hereby reenacted and reaffirmed as\n               it appears in said Code. Only such provisions of former ordinances as are omitted\n               from this Code shall be deemed repealed or abrogated by the provisions of § 1-3 below, and only new or changed provisions, as described in § 1-6 below, shall be deemed to be enacted from the effective date of this Code, as provided\n               in § 1-15 below. (Ord. No. 203, 7-16-2012)\n\nAll ordinances or parts of ordinances of a general and permanent nature adopted…",
+          "sourceUrl": "https://library.municode.com/pa/kennett_township/codes/code_of_ordinances?nodeId=PTIADLE"
+        }
+      ]
+    },
+    {
+      "id": "london-grove-township",
+      "name": "London Grove Township",
+      "sourceIndex": "https://library.municode.com/pa/london_grove_township",
+      "questions": []
+    },
+    {
+      "id": "marshall-township-allegheny-county",
+      "name": "Marshall Township (Allegheny County)",
+      "sourceIndex": "https://library.municode.com/pa/marshall_township_(allegheny_county)",
+      "questions": [
+        {
+          "id": "pa:marshall-township-allegheny-county:0",
+          "prompt": "Can someone give a Marshall Township official a gift, loan, or job promise in hopes of swaying that official’s vote or decision?",
+          "choices": [
+            "Yes, if the gift is small",
+            "No",
+            "Yes, if it is called a political contribution",
+            "Only if the official’s family is not involved"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Adopted by the Board of Supervisors of the Township of Marshall 2-13-2006 by Ord.\n               No. 365. Amendments noted where applicable.\n\nThe following words, terms and phrases, when used in this Chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: ACT. The Public Official and Employee Ethics Act, 65 Pa. C.S. Section 1101 et seq.,\n               as amended. ADVISORY BOARD. Any advisory commission, advisory board or other advisory governmental\n               body appointed by the Township Board of Supervisors, including but not limited to\n               the Township Planning Commission and Comprehensive Plan Advisory Board. BOARD OF SUPERVISORS. The Board of Supervisors of the Township. CONFLICT or CONFLICT OF INTEREST. Use by a public official or public employee of the\n               authority of his or her office or employment or any confidential information received\n               through his or her holding public office or employment for the private pecuniary benefit\n               of himself, a member of his or her immediate family or a business with which he or\n               she or a member of his or her immediate family is associated. The term does not include\n               an action having a de minimis economic impact or which affects to the same degree\n               a class consisting of the general public or a subclass consisting of an industry,\n               occupation or other group which includes the public official or public employee, a\n               member of his or her immediate family or a business with which he or she or a member\n               of his or her immediate family is associated. PUBLIC OFFICIAL. Any person elected by the public to any Township office or position,\n               or appointed by the Township Board of Supervisors to any Township commission, board\n               or other…",
+          "sourceUrl": "https://library.municode.com/pa/marshall_township_(allegheny_county)/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:marshall-township-allegheny-county:1",
+          "prompt": "May a Marshall Township public official or employee accept an honorarium (a speaking fee or similar payment)?",
+          "choices": [
+            "Yes, if they report it later",
+            "No",
+            "Only from nonprofits",
+            "Yes, if it is under $100"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Adopted by the Board of Supervisors of the Township of Marshall 2-13-2006 by Ord.\n               No. 365. Amendments noted where applicable.\n\nThe following words, terms and phrases, when used in this Chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: ACT. The Public Official and Employee Ethics Act, 65 Pa. C.S. Section 1101 et seq.,\n               as amended. ADVISORY BOARD. Any advisory commission, advisory board or other advisory governmental\n               body appointed by the Township Board of Supervisors, including but not limited to\n               the Township Planning Commission and Comprehensive Plan Advisory Board. BOARD OF SUPERVISORS. The Board of Supervisors of the Township. CONFLICT or CONFLICT OF INTEREST. Use by a public official or public employee of the\n               authority of his or her office or employment or any confidential information received\n               through his or her holding public office or employment for the private pecuniary benefit\n               of himself, a member of his or her immediate family or a business with which he or\n               she or a member of his or her immediate family is associated. The term does not include\n               an action having a de minimis economic impact or which affects to the same degree\n               a class consisting of the general public or a subclass consisting of an industry,\n               occupation or other group which includes the public official or public employee, a\n               member of his or her immediate family or a business with which he or she or a member\n               of his or her immediate family is associated. PUBLIC OFFICIAL. Any person elected by the public to any Township office or position,\n               or appointed by the Township Board of Supervisors to any Township commission, board\n               or other…",
+          "sourceUrl": "https://library.municode.com/pa/marshall_township_(allegheny_county)/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:marshall-township-allegheny-county:2",
+          "prompt": "When can a Township official, their spouse, or their child take a Township contract worth $500 or more?",
+          "choices": [
+            "Anytime they want",
+            "Only if it went through an open public process and the official does not supervise the work",
+            "Never, no exceptions",
+            "If the amount is paid in cash"
+          ],
+          "answer": "Only if it went through an open public process and the official does not supervise the work",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Adopted by the Board of Supervisors of the Township of Marshall 2-13-2006 by Ord.\n               No. 365. Amendments noted where applicable.\n\nThe following words, terms and phrases, when used in this Chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: ACT. The Public Official and Employee Ethics Act, 65 Pa. C.S. Section 1101 et seq.,\n               as amended. ADVISORY BOARD. Any advisory commission, advisory board or other advisory governmental\n               body appointed by the Township Board of Supervisors, including but not limited to\n               the Township Planning Commission and Comprehensive Plan Advisory Board. BOARD OF SUPERVISORS. The Board of Supervisors of the Township. CONFLICT or CONFLICT OF INTEREST. Use by a public official or public employee of the\n               authority of his or her office or employment or any confidential information received\n               through his or her holding public office or employment for the private pecuniary benefit\n               of himself, a member of his or her immediate family or a business with which he or\n               she or a member of his or her immediate family is associated. The term does not include\n               an action having a de minimis economic impact or which affects to the same degree\n               a class consisting of the general public or a subclass consisting of an industry,\n               occupation or other group which includes the public official or public employee, a\n               member of his or her immediate family or a business with which he or she or a member\n               of his or her immediate family is associated. PUBLIC OFFICIAL. Any person elected by the public to any Township office or position,\n               or appointed by the Township Board of Supervisors to any Township commission, board\n               or other…",
+          "sourceUrl": "https://library.municode.com/pa/marshall_township_(allegheny_county)/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:marshall-township-allegheny-county:3",
+          "prompt": "After leaving a Township board (other than a purely advisory board), how long is a former official generally banned from being paid to represent someone before that same board?",
+          "choices": [
+            "There is no waiting period",
+            "Six months",
+            "One year",
+            "Five years"
+          ],
+          "answer": "One year",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Adopted by the Board of Supervisors of the Township of Marshall 2-13-2006 by Ord.\n               No. 365. Amendments noted where applicable.\n\nThe following words, terms and phrases, when used in this Chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: ACT. The Public Official and Employee Ethics Act, 65 Pa. C.S. Section 1101 et seq.,\n               as amended. ADVISORY BOARD. Any advisory commission, advisory board or other advisory governmental\n               body appointed by the Township Board of Supervisors, including but not limited to\n               the Township Planning Commission and Comprehensive Plan Advisory Board. BOARD OF SUPERVISORS. The Board of Supervisors of the Township. CONFLICT or CONFLICT OF INTEREST. Use by a public official or public employee of the\n               authority of his or her office or employment or any confidential information received\n               through his or her holding public office or employment for the private pecuniary benefit\n               of himself, a member of his or her immediate family or a business with which he or\n               she or a member of his or her immediate family is associated. The term does not include\n               an action having a de minimis economic impact or which affects to the same degree\n               a class consisting of the general public or a subclass consisting of an industry,\n               occupation or other group which includes the public official or public employee, a\n               member of his or her immediate family or a business with which he or she or a member\n               of his or her immediate family is associated. PUBLIC OFFICIAL. Any person elected by the public to any Township office or position,\n               or appointed by the Township Board of Supervisors to any Township commission, board\n               or other…",
+          "sourceUrl": "https://library.municode.com/pa/marshall_township_(allegheny_county)/codes/code_of_ordinances?nodeId=PTIADLE"
+        },
+        {
+          "id": "pa:marshall-township-allegheny-county:4",
+          "prompt": "If a Township official would have a conflict of interest on a vote, what must they do?",
+          "choices": [
+            "Vote anyway and explain afterward",
+            "Stay silent and still vote",
+            "Abstain from voting, announce the conflict in public, and file a written memo for the minutes",
+            "Ask for a private waiver from the Board"
+          ],
+          "answer": "Abstain from voting, announce the conflict in public, and file a written memo for the minutes",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Adopted by the Board of Supervisors of the Township of Marshall 2-13-2006 by Ord.\n               No. 365. Amendments noted where applicable.\n\nThe following words, terms and phrases, when used in this Chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: ACT. The Public Official and Employee Ethics Act, 65 Pa. C.S. Section 1101 et seq.,\n               as amended. ADVISORY BOARD. Any advisory commission, advisory board or other advisory governmental\n               body appointed by the Township Board of Supervisors, including but not limited to\n               the Township Planning Commission and Comprehensive Plan Advisory Board. BOARD OF SUPERVISORS. The Board of Supervisors of the Township. CONFLICT or CONFLICT OF INTEREST. Use by a public official or public employee of the\n               authority of his or her office or employment or any confidential information received\n               through his or her holding public office or employment for the private pecuniary benefit\n               of himself, a member of his or her immediate family or a business with which he or\n               she or a member of his or her immediate family is associated. The term does not include\n               an action having a de minimis economic impact or which affects to the same degree\n               a class consisting of the general public or a subclass consisting of an industry,\n               occupation or other group which includes the public official or public employee, a\n               member of his or her immediate family or a business with which he or she or a member\n               of his or her immediate family is associated. PUBLIC OFFICIAL. Any person elected by the public to any Township office or position,\n               or appointed by the Township Board of Supervisors to any Township commission, board\n               or other…",
+          "sourceUrl": "https://library.municode.com/pa/marshall_township_(allegheny_county)/codes/code_of_ordinances?nodeId=PTIADLE"
+        }
+      ]
+    },
+    {
+      "id": "north-strabane",
+      "name": "North Strabane",
+      "sourceIndex": "https://library.municode.com/pa/north_strabane",
+      "questions": [
+        {
+          "id": "pa:north-strabane:0",
+          "prompt": "In North Strabane, how many mobile homes on a leased or rented plot of land make it a mobile home park?",
+          "choices": [
+            "One",
+            "Two or more",
+            "Five or more",
+            "At least twenty"
+          ],
+          "answer": "Two or more",
+          "excerpt": "As used in this Part, the following terms shall have the meanings indicated, unless\n               a different meaning clearly appears from the context: MOBILE HOME — A single-family dwelling which is designed after assembly and fabrication,\n               for transportation, on streets and highways on its own running gear, and which may\n               be temporarily or permanently affixed to real estate, used for nontransient residential\n               purposes, and constructed with the same, or similar, electrical, plumbing, and sanitary\n               facilities as immobile housing. MOBILE HOME PARK — Any plot of ground which is leased or rented, and upon which two\n               or more mobile homes, occupied for dwelling or sleeping purposes, are located. MOBILE HOME SPACE — A plot of ground within a mobile home park, designated for the\n               accommodation of one mobile home and leased or rented for that purpose. OWNER — Any individual, firm, trust, partnership, corporation, company, association,\n               or other legal entity which rents or leases spaces in a mobile home park. PERMIT — The written approval as issued by the Board of Supervisors, authorizing a\n               person to operate and maintain a mobile home or a mobile home park under the provisions\n               of this Part. SERVICE BUILDING — A structure which contains operational, office, recreational, sanitary,\n               maintenance, or other facilities built for the use of the mobile home park residents\n               or owner. SEWER CONNECTION — All pipes, fittings and appurtenances from the drain outlet of\n               the mobile home to the inlet of the corresponding sewer riser pipe. SEWER RISER PIPE — That portion of the sewer lateral which extends vertically to the\n               ground elevation and terminates at each mobile home space. WATER CONNECTION — All pipes, fittings, and appurtenances from the water riser pipe\n               to the water inlet pipe of the…",
+          "sourceUrl": "https://library.municode.com/pa/north_strabane/codes/municipal_code?nodeId=CH14MOHOMOHOPA"
+        },
+        {
+          "id": "pa:north-strabane:1",
+          "prompt": "Where must the Township permit for a mobile home park be kept?",
+          "choices": [
+            "In a Township filing cabinet",
+            "Posted so it can easily be seen in the park office or on the park grounds",
+            "Inside the owner's personal files",
+            "Mailed to every resident once a year"
+          ],
+          "answer": "Posted so it can easily be seen in the park office or on the park grounds",
+          "excerpt": "As used in this Part, the following terms shall have the meanings indicated, unless\n               a different meaning clearly appears from the context: MOBILE HOME — A single-family dwelling which is designed after assembly and fabrication,\n               for transportation, on streets and highways on its own running gear, and which may\n               be temporarily or permanently affixed to real estate, used for nontransient residential\n               purposes, and constructed with the same, or similar, electrical, plumbing, and sanitary\n               facilities as immobile housing. MOBILE HOME PARK — Any plot of ground which is leased or rented, and upon which two\n               or more mobile homes, occupied for dwelling or sleeping purposes, are located. MOBILE HOME SPACE — A plot of ground within a mobile home park, designated for the\n               accommodation of one mobile home and leased or rented for that purpose. OWNER — Any individual, firm, trust, partnership, corporation, company, association,\n               or other legal entity which rents or leases spaces in a mobile home park. PERMIT — The written approval as issued by the Board of Supervisors, authorizing a\n               person to operate and maintain a mobile home or a mobile home park under the provisions\n               of this Part. SERVICE BUILDING — A structure which contains operational, office, recreational, sanitary,\n               maintenance, or other facilities built for the use of the mobile home park residents\n               or owner. SEWER CONNECTION — All pipes, fittings and appurtenances from the drain outlet of\n               the mobile home to the inlet of the corresponding sewer riser pipe. SEWER RISER PIPE — That portion of the sewer lateral which extends vertically to the\n               ground elevation and terminates at each mobile home space. WATER CONNECTION — All pipes, fittings, and appurtenances from the water riser pipe\n               to the water inlet pipe of the…",
+          "sourceUrl": "https://library.municode.com/pa/north_strabane/codes/municipal_code?nodeId=CH14MOHOMOHOPA"
+        },
+        {
+          "id": "pa:north-strabane:2",
+          "prompt": "Does a single mobile home that is not in a park need a mobile home park permit?",
+          "choices": [
+            "Yes",
+            "No, but it still needs zoning and building permits like other houses",
+            "Only if it stays on wheels",
+            "No Township paperwork is needed"
+          ],
+          "answer": "No, but it still needs zoning and building permits like other houses",
+          "excerpt": "As used in this Part, the following terms shall have the meanings indicated, unless\n               a different meaning clearly appears from the context: MOBILE HOME — A single-family dwelling which is designed after assembly and fabrication,\n               for transportation, on streets and highways on its own running gear, and which may\n               be temporarily or permanently affixed to real estate, used for nontransient residential\n               purposes, and constructed with the same, or similar, electrical, plumbing, and sanitary\n               facilities as immobile housing. MOBILE HOME PARK — Any plot of ground which is leased or rented, and upon which two\n               or more mobile homes, occupied for dwelling or sleeping purposes, are located. MOBILE HOME SPACE — A plot of ground within a mobile home park, designated for the\n               accommodation of one mobile home and leased or rented for that purpose. OWNER — Any individual, firm, trust, partnership, corporation, company, association,\n               or other legal entity which rents or leases spaces in a mobile home park. PERMIT — The written approval as issued by the Board of Supervisors, authorizing a\n               person to operate and maintain a mobile home or a mobile home park under the provisions\n               of this Part. SERVICE BUILDING — A structure which contains operational, office, recreational, sanitary,\n               maintenance, or other facilities built for the use of the mobile home park residents\n               or owner. SEWER CONNECTION — All pipes, fittings and appurtenances from the drain outlet of\n               the mobile home to the inlet of the corresponding sewer riser pipe. SEWER RISER PIPE — That portion of the sewer lateral which extends vertically to the\n               ground elevation and terminates at each mobile home space. WATER CONNECTION — All pipes, fittings, and appurtenances from the water riser pipe\n               to the water inlet pipe of the…",
+          "sourceUrl": "https://library.municode.com/pa/north_strabane/codes/municipal_code?nodeId=CH14MOHOMOHOPA"
+        },
+        {
+          "id": "pa:north-strabane:3",
+          "prompt": "If a good public water system is available, what must a mobile home park do?",
+          "choices": [
+            "Hook up to it and use only that water",
+            "Keep using a private well if it already has one",
+            "Use public water just for fire hydrants",
+            "Let each homeowner choose"
+          ],
+          "answer": "Hook up to it and use only that water",
+          "excerpt": "As used in this Part, the following terms shall have the meanings indicated, unless\n               a different meaning clearly appears from the context: MOBILE HOME — A single-family dwelling which is designed after assembly and fabrication,\n               for transportation, on streets and highways on its own running gear, and which may\n               be temporarily or permanently affixed to real estate, used for nontransient residential\n               purposes, and constructed with the same, or similar, electrical, plumbing, and sanitary\n               facilities as immobile housing. MOBILE HOME PARK — Any plot of ground which is leased or rented, and upon which two\n               or more mobile homes, occupied for dwelling or sleeping purposes, are located. MOBILE HOME SPACE — A plot of ground within a mobile home park, designated for the\n               accommodation of one mobile home and leased or rented for that purpose. OWNER — Any individual, firm, trust, partnership, corporation, company, association,\n               or other legal entity which rents or leases spaces in a mobile home park. PERMIT — The written approval as issued by the Board of Supervisors, authorizing a\n               person to operate and maintain a mobile home or a mobile home park under the provisions\n               of this Part. SERVICE BUILDING — A structure which contains operational, office, recreational, sanitary,\n               maintenance, or other facilities built for the use of the mobile home park residents\n               or owner. SEWER CONNECTION — All pipes, fittings and appurtenances from the drain outlet of\n               the mobile home to the inlet of the corresponding sewer riser pipe. SEWER RISER PIPE — That portion of the sewer lateral which extends vertically to the\n               ground elevation and terminates at each mobile home space. WATER CONNECTION — All pipes, fittings, and appurtenances from the water riser pipe\n               to the water inlet pipe of the…",
+          "sourceUrl": "https://library.municode.com/pa/north_strabane/codes/municipal_code?nodeId=CH14MOHOMOHOPA"
+        },
+        {
+          "id": "pa:north-strabane:4",
+          "prompt": "The water pipe standing up at each mobile home space should be placed so the connection is short and nearly vertical. The main reason is to:",
+          "choices": [
+            "Make the park look tidy",
+            "Lower the chance the pipe will freeze",
+            "Use less expensive pipe",
+            "Speed up moving a home in or out"
+          ],
+          "answer": "Lower the chance the pipe will freeze",
+          "excerpt": "As used in this Part, the following terms shall have the meanings indicated, unless\n               a different meaning clearly appears from the context: MOBILE HOME — A single-family dwelling which is designed after assembly and fabrication,\n               for transportation, on streets and highways on its own running gear, and which may\n               be temporarily or permanently affixed to real estate, used for nontransient residential\n               purposes, and constructed with the same, or similar, electrical, plumbing, and sanitary\n               facilities as immobile housing. MOBILE HOME PARK — Any plot of ground which is leased or rented, and upon which two\n               or more mobile homes, occupied for dwelling or sleeping purposes, are located. MOBILE HOME SPACE — A plot of ground within a mobile home park, designated for the\n               accommodation of one mobile home and leased or rented for that purpose. OWNER — Any individual, firm, trust, partnership, corporation, company, association,\n               or other legal entity which rents or leases spaces in a mobile home park. PERMIT — The written approval as issued by the Board of Supervisors, authorizing a\n               person to operate and maintain a mobile home or a mobile home park under the provisions\n               of this Part. SERVICE BUILDING — A structure which contains operational, office, recreational, sanitary,\n               maintenance, or other facilities built for the use of the mobile home park residents\n               or owner. SEWER CONNECTION — All pipes, fittings and appurtenances from the drain outlet of\n               the mobile home to the inlet of the corresponding sewer riser pipe. SEWER RISER PIPE — That portion of the sewer lateral which extends vertically to the\n               ground elevation and terminates at each mobile home space. WATER CONNECTION — All pipes, fittings, and appurtenances from the water riser pipe\n               to the water inlet pipe of the…",
+          "sourceUrl": "https://library.municode.com/pa/north_strabane/codes/municipal_code?nodeId=CH14MOHOMOHOPA"
+        }
+      ]
+    },
+    {
+      "id": "southampton-township-franklin-county",
+      "name": "Southampton Township, Franklin County",
+      "sourceIndex": "https://library.municode.com/pa/southampton_township%2C_franklin_county",
+      "questions": [
+        {
+          "id": "pa:southampton-township-franklin-county:0",
+          "prompt": "When are Southampton Township parks open?",
+          "choices": [
+            "6:00 a.m. to sunset",
+            "Sunrise to 10:00 p.m.",
+            "8:00 a.m. to dusk",
+            "24 hours a day"
+          ],
+          "answer": "6:00 a.m. to sunset",
+          "excerpt": "The Board of Supervisors of Southampton Township, Franklin County (\"Township\") in\n               partnership with the Borough Council of the Borough of Shippensburg, hereby agrees\n               to organize a joint authority under the Authorities Act to be known as the Shippensburg\n               Community Parks and Recreation Authority (\"SCPRA\"). (Ord. 2015-003 , 3/24/2015, § 1)\n\nThe SCPRA shall have such purposes and powers as set forth in the Authorities Act\n               including, but not limited to, financing working capital, acquiring, holding, constructing,\n               financing, improving, maintaining and operating, leasing, either in the capacity of\n               the lessee or the lessor, projects and providing financing for insurance reserves,\n               and any other lawful purpose for any projects relative to parks, recreation, grounds\n               and facilities, as set forth in Section 5607(a)(4) of the Authorities Act. (Ord. 2015-003 , 3/24/2015, § 2)\n\nThe Chairman of the Township Supervisors and the Secretary of the Board of Supervisors\n               of Southampton Township Franklin County (Secretary) are hereby authorized and directed\n               to execute the articles of incorporation on behalf of Southampton Township for the\n               SCPRA. (Ord. 2015-003 , 3/24/2015, § 3)\n\nThe Chairman, or Vice-Chairman, is hereby authorized and directed to cause notice\n               of the substance of this Chapter, as enacted and adopted, as well as the articles\n               of incorporation, to be published as required by the Commonwealth of Pennsylvania. (Ord. 2015-003 , 3/24/2015, § 4)\n\nThe Chairman, or Vice-Chairman, in coordination with the appropriate officers of Borough\n               of Shippensburg, is hereby authorized and directed to file such articles of incorporation\n               and the necessary proof of publication with the Secretary of the Commonwealth of Pennsylvania\n               and to do all other things…",
+          "sourceUrl": "https://library.municode.com/pa/southampton_township%2C_franklin_county/codes/code_of_ordinances?nodeId=CH19PARE"
+        },
+        {
+          "id": "pa:southampton-township-franklin-county:1",
+          "prompt": "What is the speed limit for vehicles and bicycles in Township parks?",
+          "choices": [
+            "15 miles per hour",
+            "25 miles per hour",
+            "10 miles per hour",
+            "There is no speed limit"
+          ],
+          "answer": "15 miles per hour",
+          "excerpt": "The Board of Supervisors of Southampton Township, Franklin County (\"Township\") in\n               partnership with the Borough Council of the Borough of Shippensburg, hereby agrees\n               to organize a joint authority under the Authorities Act to be known as the Shippensburg\n               Community Parks and Recreation Authority (\"SCPRA\"). (Ord. 2015-003 , 3/24/2015, § 1)\n\nThe SCPRA shall have such purposes and powers as set forth in the Authorities Act\n               including, but not limited to, financing working capital, acquiring, holding, constructing,\n               financing, improving, maintaining and operating, leasing, either in the capacity of\n               the lessee or the lessor, projects and providing financing for insurance reserves,\n               and any other lawful purpose for any projects relative to parks, recreation, grounds\n               and facilities, as set forth in Section 5607(a)(4) of the Authorities Act. (Ord. 2015-003 , 3/24/2015, § 2)\n\nThe Chairman of the Township Supervisors and the Secretary of the Board of Supervisors\n               of Southampton Township Franklin County (Secretary) are hereby authorized and directed\n               to execute the articles of incorporation on behalf of Southampton Township for the\n               SCPRA. (Ord. 2015-003 , 3/24/2015, § 3)\n\nThe Chairman, or Vice-Chairman, is hereby authorized and directed to cause notice\n               of the substance of this Chapter, as enacted and adopted, as well as the articles\n               of incorporation, to be published as required by the Commonwealth of Pennsylvania. (Ord. 2015-003 , 3/24/2015, § 4)\n\nThe Chairman, or Vice-Chairman, in coordination with the appropriate officers of Borough\n               of Shippensburg, is hereby authorized and directed to file such articles of incorporation\n               and the necessary proof of publication with the Secretary of the Commonwealth of Pennsylvania\n               and to do all other things…",
+          "sourceUrl": "https://library.municode.com/pa/southampton_township%2C_franklin_county/codes/code_of_ordinances?nodeId=CH19PARE"
+        },
+        {
+          "id": "pa:southampton-township-franklin-county:2",
+          "prompt": "In picnic areas, how long can a pet’s leash be?",
+          "choices": [
+            "No more than six feet",
+            "No more than ten feet",
+            "Any length if you hold it",
+            "Pets are banned from picnic areas"
+          ],
+          "answer": "No more than six feet",
+          "excerpt": "The Board of Supervisors of Southampton Township, Franklin County (\"Township\") in\n               partnership with the Borough Council of the Borough of Shippensburg, hereby agrees\n               to organize a joint authority under the Authorities Act to be known as the Shippensburg\n               Community Parks and Recreation Authority (\"SCPRA\"). (Ord. 2015-003 , 3/24/2015, § 1)\n\nThe SCPRA shall have such purposes and powers as set forth in the Authorities Act\n               including, but not limited to, financing working capital, acquiring, holding, constructing,\n               financing, improving, maintaining and operating, leasing, either in the capacity of\n               the lessee or the lessor, projects and providing financing for insurance reserves,\n               and any other lawful purpose for any projects relative to parks, recreation, grounds\n               and facilities, as set forth in Section 5607(a)(4) of the Authorities Act. (Ord. 2015-003 , 3/24/2015, § 2)\n\nThe Chairman of the Township Supervisors and the Secretary of the Board of Supervisors\n               of Southampton Township Franklin County (Secretary) are hereby authorized and directed\n               to execute the articles of incorporation on behalf of Southampton Township for the\n               SCPRA. (Ord. 2015-003 , 3/24/2015, § 3)\n\nThe Chairman, or Vice-Chairman, is hereby authorized and directed to cause notice\n               of the substance of this Chapter, as enacted and adopted, as well as the articles\n               of incorporation, to be published as required by the Commonwealth of Pennsylvania. (Ord. 2015-003 , 3/24/2015, § 4)\n\nThe Chairman, or Vice-Chairman, in coordination with the appropriate officers of Borough\n               of Shippensburg, is hereby authorized and directed to file such articles of incorporation\n               and the necessary proof of publication with the Secretary of the Commonwealth of Pennsylvania\n               and to do all other things…",
+          "sourceUrl": "https://library.municode.com/pa/southampton_township%2C_franklin_county/codes/code_of_ordinances?nodeId=CH19PARE"
+        },
+        {
+          "id": "pa:southampton-township-franklin-county:3",
+          "prompt": "When can you have alcoholic beverages in a Township park?",
+          "choices": [
+            "If you have an event permit from the Township",
+            "Anytime in picnic pavilions",
+            "Never",
+            "Only after 5 p.m."
+          ],
+          "answer": "If you have an event permit from the Township",
+          "excerpt": "The Board of Supervisors of Southampton Township, Franklin County (\"Township\") in\n               partnership with the Borough Council of the Borough of Shippensburg, hereby agrees\n               to organize a joint authority under the Authorities Act to be known as the Shippensburg\n               Community Parks and Recreation Authority (\"SCPRA\"). (Ord. 2015-003 , 3/24/2015, § 1)\n\nThe SCPRA shall have such purposes and powers as set forth in the Authorities Act\n               including, but not limited to, financing working capital, acquiring, holding, constructing,\n               financing, improving, maintaining and operating, leasing, either in the capacity of\n               the lessee or the lessor, projects and providing financing for insurance reserves,\n               and any other lawful purpose for any projects relative to parks, recreation, grounds\n               and facilities, as set forth in Section 5607(a)(4) of the Authorities Act. (Ord. 2015-003 , 3/24/2015, § 2)\n\nThe Chairman of the Township Supervisors and the Secretary of the Board of Supervisors\n               of Southampton Township Franklin County (Secretary) are hereby authorized and directed\n               to execute the articles of incorporation on behalf of Southampton Township for the\n               SCPRA. (Ord. 2015-003 , 3/24/2015, § 3)\n\nThe Chairman, or Vice-Chairman, is hereby authorized and directed to cause notice\n               of the substance of this Chapter, as enacted and adopted, as well as the articles\n               of incorporation, to be published as required by the Commonwealth of Pennsylvania. (Ord. 2015-003 , 3/24/2015, § 4)\n\nThe Chairman, or Vice-Chairman, in coordination with the appropriate officers of Borough\n               of Shippensburg, is hereby authorized and directed to file such articles of incorporation\n               and the necessary proof of publication with the Secretary of the Commonwealth of Pennsylvania\n               and to do all other things…",
+          "sourceUrl": "https://library.municode.com/pa/southampton_township%2C_franklin_county/codes/code_of_ordinances?nodeId=CH19PARE"
+        },
+        {
+          "id": "pa:southampton-township-franklin-county:4",
+          "prompt": "Are horseback riding or other equestrian activities allowed in the parks?",
+          "choices": [
+            "No",
+            "Yes, on designated trails",
+            "Only with a special permit",
+            "Yes, except in picnic areas"
+          ],
+          "answer": "No",
+          "excerpt": "The Board of Supervisors of Southampton Township, Franklin County (\"Township\") in\n               partnership with the Borough Council of the Borough of Shippensburg, hereby agrees\n               to organize a joint authority under the Authorities Act to be known as the Shippensburg\n               Community Parks and Recreation Authority (\"SCPRA\"). (Ord. 2015-003 , 3/24/2015, § 1)\n\nThe SCPRA shall have such purposes and powers as set forth in the Authorities Act\n               including, but not limited to, financing working capital, acquiring, holding, constructing,\n               financing, improving, maintaining and operating, leasing, either in the capacity of\n               the lessee or the lessor, projects and providing financing for insurance reserves,\n               and any other lawful purpose for any projects relative to parks, recreation, grounds\n               and facilities, as set forth in Section 5607(a)(4) of the Authorities Act. (Ord. 2015-003 , 3/24/2015, § 2)\n\nThe Chairman of the Township Supervisors and the Secretary of the Board of Supervisors\n               of Southampton Township Franklin County (Secretary) are hereby authorized and directed\n               to execute the articles of incorporation on behalf of Southampton Township for the\n               SCPRA. (Ord. 2015-003 , 3/24/2015, § 3)\n\nThe Chairman, or Vice-Chairman, is hereby authorized and directed to cause notice\n               of the substance of this Chapter, as enacted and adopted, as well as the articles\n               of incorporation, to be published as required by the Commonwealth of Pennsylvania. (Ord. 2015-003 , 3/24/2015, § 4)\n\nThe Chairman, or Vice-Chairman, in coordination with the appropriate officers of Borough\n               of Shippensburg, is hereby authorized and directed to file such articles of incorporation\n               and the necessary proof of publication with the Secretary of the Commonwealth of Pennsylvania\n               and to do all other things…",
+          "sourceUrl": "https://library.municode.com/pa/southampton_township%2C_franklin_county/codes/code_of_ordinances?nodeId=CH19PARE"
+        }
+      ]
+    },
+    {
+      "id": "waynesburg",
+      "name": "Waynesburg",
+      "sourceIndex": "https://library.municode.com/pa/waynesburg",
+      "questions": [
+        {
+          "id": "pa:waynesburg:0",
+          "prompt": "Can you put a vending machine on a sidewalk in Waynesburg?",
+          "choices": [
+            "Yes, if it does not block walkers",
+            "No, vending machines are banned from sidewalks anywhere in the borough",
+            "Only newspaper machines are allowed",
+            "Yes, on the grass strip next to the curb"
+          ],
+          "answer": "No, vending machines are banned from sidewalks anywhere in the borough",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate streets, sidewalks, etc., 8 Pa. C.S. § 1202(12), (13).\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Sidewalks means and includes the portion of a street located outside the cartway and may include\n               paved footway, unpaved grassplot, curb and gutter. Vending machines means a coin-operated machine for vending merchandise. (b) Prohibited. No person shall place or allow the placement of any kind of vending machines on the\n               sidewalks anywhere within the borough. (c) Penalty. (1) Any person, who or which shall violate any provision of this chapter shall be punished\n               as provided in section 1-7 . (2) The imposition of a penalty for any violation of, or noncompliance with this chapter\n               shall not excuse the violation or noncompliance or permit it to continue; and all\n               such persons shall be required to correct or remedy such violations and noncompliances\n               within a reasonable time not to exceed 30 days. (Ord. No. 2-2001, §§ 2, 3, 5-14-2001)\n\n(a) No person shall place or knowingly drop upon any part of a sidewalk, playground or\n               other public place any tacks, bottles, wire, glass, nails or other articles which\n               may damage property of another or injure any person or animal traveling along or upon\n               such sidewalk or playground. (b) No person shall walk on, or allow any animal upon, or injure or deface in any way,\n               any soft or newly laid sidewalk pavement. (c) No person shall place, deposit or maintain any merchandise, goods, material or equipment\n               upon any sidewalk so as to obstruct pedestrian traffic thereon except for such reasonable\n               time as may be actually…",
+          "sourceUrl": "https://library.municode.com/pa/waynesburg/codes/code_of_ordinances?nodeId=COOR_CH26STSIOTPUPL"
+        },
+        {
+          "id": "pa:waynesburg:1",
+          "prompt": "If you set boxes or goods on a sidewalk while making a delivery, how long can they stay there?",
+          "choices": [
+            "Until the job is done, even if it takes all day",
+            "No more than one hour",
+            "Overnight if needed",
+            "As long as people can still squeeze by"
+          ],
+          "answer": "No more than one hour",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate streets, sidewalks, etc., 8 Pa. C.S. § 1202(12), (13).\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Sidewalks means and includes the portion of a street located outside the cartway and may include\n               paved footway, unpaved grassplot, curb and gutter. Vending machines means a coin-operated machine for vending merchandise. (b) Prohibited. No person shall place or allow the placement of any kind of vending machines on the\n               sidewalks anywhere within the borough. (c) Penalty. (1) Any person, who or which shall violate any provision of this chapter shall be punished\n               as provided in section 1-7 . (2) The imposition of a penalty for any violation of, or noncompliance with this chapter\n               shall not excuse the violation or noncompliance or permit it to continue; and all\n               such persons shall be required to correct or remedy such violations and noncompliances\n               within a reasonable time not to exceed 30 days. (Ord. No. 2-2001, §§ 2, 3, 5-14-2001)\n\n(a) No person shall place or knowingly drop upon any part of a sidewalk, playground or\n               other public place any tacks, bottles, wire, glass, nails or other articles which\n               may damage property of another or injure any person or animal traveling along or upon\n               such sidewalk or playground. (b) No person shall walk on, or allow any animal upon, or injure or deface in any way,\n               any soft or newly laid sidewalk pavement. (c) No person shall place, deposit or maintain any merchandise, goods, material or equipment\n               upon any sidewalk so as to obstruct pedestrian traffic thereon except for such reasonable\n               time as may be actually…",
+          "sourceUrl": "https://library.municode.com/pa/waynesburg/codes/code_of_ordinances?nodeId=COOR_CH26STSIOTPUPL"
+        },
+        {
+          "id": "pa:waynesburg:2",
+          "prompt": "On a soft or newly laid sidewalk, which of these is not allowed?",
+          "choices": [
+            "Walking on it",
+            "Letting an animal walk on it",
+            "Scratching or damaging it",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate streets, sidewalks, etc., 8 Pa. C.S. § 1202(12), (13).\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Sidewalks means and includes the portion of a street located outside the cartway and may include\n               paved footway, unpaved grassplot, curb and gutter. Vending machines means a coin-operated machine for vending merchandise. (b) Prohibited. No person shall place or allow the placement of any kind of vending machines on the\n               sidewalks anywhere within the borough. (c) Penalty. (1) Any person, who or which shall violate any provision of this chapter shall be punished\n               as provided in section 1-7 . (2) The imposition of a penalty for any violation of, or noncompliance with this chapter\n               shall not excuse the violation or noncompliance or permit it to continue; and all\n               such persons shall be required to correct or remedy such violations and noncompliances\n               within a reasonable time not to exceed 30 days. (Ord. No. 2-2001, §§ 2, 3, 5-14-2001)\n\n(a) No person shall place or knowingly drop upon any part of a sidewalk, playground or\n               other public place any tacks, bottles, wire, glass, nails or other articles which\n               may damage property of another or injure any person or animal traveling along or upon\n               such sidewalk or playground. (b) No person shall walk on, or allow any animal upon, or injure or deface in any way,\n               any soft or newly laid sidewalk pavement. (c) No person shall place, deposit or maintain any merchandise, goods, material or equipment\n               upon any sidewalk so as to obstruct pedestrian traffic thereon except for such reasonable\n               time as may be actually…",
+          "sourceUrl": "https://library.municode.com/pa/waynesburg/codes/code_of_ordinances?nodeId=COOR_CH26STSIOTPUPL"
+        },
+        {
+          "id": "pa:waynesburg:3",
+          "prompt": "Before you dig an opening in any street, what do you need?",
+          "choices": [
+            "A permit after applying in writing to borough council",
+            "Only a call to the police",
+            "Nothing if you fill it the same day",
+            "A sign posted 48 hours ahead"
+          ],
+          "answer": "A permit after applying in writing to borough council",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority to regulate streets, sidewalks, etc., 8 Pa. C.S. § 1202(12), (13).\n\n(a) Definitions. The following words, terms and phrases, when used in this section, shall have the\n               meanings ascribed to them in this subsection, except where the context clearly indicates\n               a different meaning: Sidewalks means and includes the portion of a street located outside the cartway and may include\n               paved footway, unpaved grassplot, curb and gutter. Vending machines means a coin-operated machine for vending merchandise. (b) Prohibited. No person shall place or allow the placement of any kind of vending machines on the\n               sidewalks anywhere within the borough. (c) Penalty. (1) Any person, who or which shall violate any provision of this chapter shall be punished\n               as provided in section 1-7 . (2) The imposition of a penalty for any violation of, or noncompliance with this chapter\n               shall not excuse the violation or noncompliance or permit it to continue; and all\n               such persons shall be required to correct or remedy such violations and noncompliances\n               within a reasonable time not to exceed 30 days. (Ord. No. 2-2001, §§ 2, 3, 5-14-2001)\n\n(a) No person shall place or knowingly drop upon any part of a sidewalk, playground or\n               other public place any tacks, bottles, wire, glass, nails or other articles which\n               may damage property of another or injure any person or animal traveling along or upon\n               such sidewalk or playground. (b) No person shall walk on, or allow any animal upon, or injure or deface in any way,\n               any soft or newly laid sidewalk pavement. (c) No person shall place, deposit or maintain any merchandise, goods, material or equipment\n               upon any sidewalk so as to obstruct pedestrian traffic thereon except for such reasonable\n               time as may be actually…",
+          "sourceUrl": "https://library.municode.com/pa/waynesburg/codes/code_of_ordinances?nodeId=COOR_CH26STSIOTPUPL"
+        }
+      ]
+    },
+    {
+      "id": "wilkes-barre",
+      "name": "Wilkes-Barre",
+      "sourceIndex": "https://library.municode.com/pa/wilkes-barre",
+      "questions": [
+        {
+          "id": "pa:wilkes-barre:0",
+          "prompt": "How long can a pet in Wilkes-Barre bark or howl nonstop before it counts as disturbing the peace?",
+          "choices": [
+            "More than 20 minutes, if neighbors can hear it",
+            "Any barking after sunset",
+            "More than one hour",
+            "Only if it happens three days in a row"
+          ],
+          "answer": "More than 20 minutes, if neighbors can hear it",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Zoning regulations for animal hospitals, App. A, § 1510. State Law reference— Dog Law of 1965, 3 P.S. § 460-201.\n\nFor the purpose of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal shall include dogs, cats, domestic fowl, poultry, domesticated hares, rabbits, mink\n               and members of the equine, bovine, ovine and porcupine species. Domestic animal shall include every animal domesticated by man so as to live and breed in a tame\n               condition. Domesticated shall mean to adapt an animal to a life of intimate association with and to the advantage\n               or pleasure of man. Owner when applied to the proprietorship of an animal, shall include every person having\n               a right of property in such animal, and every person who keeps or harbors such animal\n               or has it in his care, and every person who permits such animal to remain on or about\n               any premises occupied by him. Police officer shall mean any person employed or elected by the state, or by any municipality, county\n               or township, and whose duty is to preserve peace, make arrests, or to enforce state\n               and local health laws. Unconfined as applied to the containment of a vicious dog, shall mean that such dog is not securely\n               confined indoors or upon the premises of the owner. Vicious dog shall include any or all of the following, excepting police dogs or guard dogs acting\n               under the supervision of a police officer or certified trained dog handler: (1) Any dog which is bred or trained to attack or to cause injury or to otherwise endanger\n                  the safety of human beings or domestic animals; (2) Any dog which bites, inflicts injury, assaults or otherwise attacks a human being\n                  or a domestic animal without provocation; or (3) Any dog that, without provocation, approaches,…",
+          "sourceUrl": "https://library.municode.com/pa/wilkes-barre/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANFO"
+        },
+        {
+          "id": "pa:wilkes-barre:1",
+          "prompt": "Which of these is listed as an \"animal\" under Wilkes-Barre's animal rules?",
+          "choices": [
+            "A porcupine",
+            "A goldfish",
+            "A wild deer",
+            "A honeybee"
+          ],
+          "answer": "A porcupine",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Zoning regulations for animal hospitals, App. A, § 1510. State Law reference— Dog Law of 1965, 3 P.S. § 460-201.\n\nFor the purpose of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal shall include dogs, cats, domestic fowl, poultry, domesticated hares, rabbits, mink\n               and members of the equine, bovine, ovine and porcupine species. Domestic animal shall include every animal domesticated by man so as to live and breed in a tame\n               condition. Domesticated shall mean to adapt an animal to a life of intimate association with and to the advantage\n               or pleasure of man. Owner when applied to the proprietorship of an animal, shall include every person having\n               a right of property in such animal, and every person who keeps or harbors such animal\n               or has it in his care, and every person who permits such animal to remain on or about\n               any premises occupied by him. Police officer shall mean any person employed or elected by the state, or by any municipality, county\n               or township, and whose duty is to preserve peace, make arrests, or to enforce state\n               and local health laws. Unconfined as applied to the containment of a vicious dog, shall mean that such dog is not securely\n               confined indoors or upon the premises of the owner. Vicious dog shall include any or all of the following, excepting police dogs or guard dogs acting\n               under the supervision of a police officer or certified trained dog handler: (1) Any dog which is bred or trained to attack or to cause injury or to otherwise endanger\n                  the safety of human beings or domestic animals; (2) Any dog which bites, inflicts injury, assaults or otherwise attacks a human being\n                  or a domestic animal without provocation; or (3) Any dog that, without provocation, approaches,…",
+          "sourceUrl": "https://library.municode.com/pa/wilkes-barre/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANFO"
+        },
+        {
+          "id": "pa:wilkes-barre:2",
+          "prompt": "If officers pick up a dog running loose, where is it kept and fed?",
+          "choices": [
+            "The Luzerne County SPCA shelter",
+            "A kennel at city hall",
+            "The police station basement",
+            "A local veterinary office"
+          ],
+          "answer": "The Luzerne County SPCA shelter",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Zoning regulations for animal hospitals, App. A, § 1510. State Law reference— Dog Law of 1965, 3 P.S. § 460-201.\n\nFor the purpose of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal shall include dogs, cats, domestic fowl, poultry, domesticated hares, rabbits, mink\n               and members of the equine, bovine, ovine and porcupine species. Domestic animal shall include every animal domesticated by man so as to live and breed in a tame\n               condition. Domesticated shall mean to adapt an animal to a life of intimate association with and to the advantage\n               or pleasure of man. Owner when applied to the proprietorship of an animal, shall include every person having\n               a right of property in such animal, and every person who keeps or harbors such animal\n               or has it in his care, and every person who permits such animal to remain on or about\n               any premises occupied by him. Police officer shall mean any person employed or elected by the state, or by any municipality, county\n               or township, and whose duty is to preserve peace, make arrests, or to enforce state\n               and local health laws. Unconfined as applied to the containment of a vicious dog, shall mean that such dog is not securely\n               confined indoors or upon the premises of the owner. Vicious dog shall include any or all of the following, excepting police dogs or guard dogs acting\n               under the supervision of a police officer or certified trained dog handler: (1) Any dog which is bred or trained to attack or to cause injury or to otherwise endanger\n                  the safety of human beings or domestic animals; (2) Any dog which bites, inflicts injury, assaults or otherwise attacks a human being\n                  or a domestic animal without provocation; or (3) Any dog that, without provocation, approaches,…",
+          "sourceUrl": "https://library.municode.com/pa/wilkes-barre/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANFO"
+        },
+        {
+          "id": "pa:wilkes-barre:3",
+          "prompt": "To get a seized pet back, the owner must cover housing costs and pay which extra penalty?",
+          "choices": [
+            "Fifty dollars",
+            "One hundred dollars",
+            "A new license fee only",
+            "Twenty-five dollars"
+          ],
+          "answer": "Fifty dollars",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Zoning regulations for animal hospitals, App. A, § 1510. State Law reference— Dog Law of 1965, 3 P.S. § 460-201.\n\nFor the purpose of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal shall include dogs, cats, domestic fowl, poultry, domesticated hares, rabbits, mink\n               and members of the equine, bovine, ovine and porcupine species. Domestic animal shall include every animal domesticated by man so as to live and breed in a tame\n               condition. Domesticated shall mean to adapt an animal to a life of intimate association with and to the advantage\n               or pleasure of man. Owner when applied to the proprietorship of an animal, shall include every person having\n               a right of property in such animal, and every person who keeps or harbors such animal\n               or has it in his care, and every person who permits such animal to remain on or about\n               any premises occupied by him. Police officer shall mean any person employed or elected by the state, or by any municipality, county\n               or township, and whose duty is to preserve peace, make arrests, or to enforce state\n               and local health laws. Unconfined as applied to the containment of a vicious dog, shall mean that such dog is not securely\n               confined indoors or upon the premises of the owner. Vicious dog shall include any or all of the following, excepting police dogs or guard dogs acting\n               under the supervision of a police officer or certified trained dog handler: (1) Any dog which is bred or trained to attack or to cause injury or to otherwise endanger\n                  the safety of human beings or domestic animals; (2) Any dog which bites, inflicts injury, assaults or otherwise attacks a human being\n                  or a domestic animal without provocation; or (3) Any dog that, without provocation, approaches,…",
+          "sourceUrl": "https://library.municode.com/pa/wilkes-barre/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANFO"
+        },
+        {
+          "id": "pa:wilkes-barre:4",
+          "prompt": "Where does the city's ban on animal waste not apply?",
+          "choices": [
+            "The strip of street between the curb and the sidewalk",
+            "City parks",
+            "Public sidewalks",
+            "Play areas"
+          ],
+          "answer": "The strip of street between the curb and the sidewalk",
+          "excerpt": "Footnotes: --- ( 1 ) --- Cross reference— Zoning regulations for animal hospitals, App. A, § 1510. State Law reference— Dog Law of 1965, 3 P.S. § 460-201.\n\nFor the purpose of this chapter, the following terms shall have the meanings respectively\n               ascribed to them: Animal shall include dogs, cats, domestic fowl, poultry, domesticated hares, rabbits, mink\n               and members of the equine, bovine, ovine and porcupine species. Domestic animal shall include every animal domesticated by man so as to live and breed in a tame\n               condition. Domesticated shall mean to adapt an animal to a life of intimate association with and to the advantage\n               or pleasure of man. Owner when applied to the proprietorship of an animal, shall include every person having\n               a right of property in such animal, and every person who keeps or harbors such animal\n               or has it in his care, and every person who permits such animal to remain on or about\n               any premises occupied by him. Police officer shall mean any person employed or elected by the state, or by any municipality, county\n               or township, and whose duty is to preserve peace, make arrests, or to enforce state\n               and local health laws. Unconfined as applied to the containment of a vicious dog, shall mean that such dog is not securely\n               confined indoors or upon the premises of the owner. Vicious dog shall include any or all of the following, excepting police dogs or guard dogs acting\n               under the supervision of a police officer or certified trained dog handler: (1) Any dog which is bred or trained to attack or to cause injury or to otherwise endanger\n                  the safety of human beings or domestic animals; (2) Any dog which bites, inflicts injury, assaults or otherwise attacks a human being\n                  or a domestic animal without provocation; or (3) Any dog that, without provocation, approaches,…",
+          "sourceUrl": "https://library.municode.com/pa/wilkes-barre/codes/code_of_ordinances?nodeId=PTIICOOR_CH5ANFO"
+        }
+      ]
+    }
+  ]
+}

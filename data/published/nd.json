@@ -1,0 +1,1061 @@
+{
+  "state": "nd",
+  "stateName": "North Dakota",
+  "places": [
+    {
+      "id": "alexander",
+      "name": "Alexander",
+      "sourceIndex": "https://library.municode.com/nd/alexander",
+      "questions": [
+        {
+          "id": "nd:alexander:0",
+          "prompt": "Which live animals are generally not allowed to be kept in Alexander, except by certain businesses such as a livestock auction?",
+          "choices": [
+            "Dogs, cats, and birds",
+            "Sheep, pigs, cattle, chickens or other poultry, goats, or rabbits",
+            "Only wild animals like coyotes",
+            "Horses and ponies"
+          ],
+          "answer": "Sheep, pigs, cattle, chickens or other poultry, goats, or rabbits",
+          "excerpt": "No person may cruelly treat any animal in the City. Any person who beats, underfeeds,\n               overloads or abandons any animal shall be deemed guilty of an offense.\n\n\"Dangerous animal\" as the term is used in this chapter means: 1. Any animal known to its owner or harborer to have a tendency or disposition to attack,\n                  bite, cause injury or to otherwise endanger the safety of or be a menace to human\n                  beings or domestic animals; 2. Any animal that attacks, bites, or injuries a human being or another domestic animal\n                  one (1) or more times; 3. Any animal that in a vicious or terrorizing manner approaches any person in an apparent\n                  attitude of attack upon the streets, sidewalks, or any public grounds or places; 4. Any animal owned or harbored primarily or in part for purposes of fighting or any\n                  animal trained for fighting; 5. Any animal certified by a veterinarian, after observation, as posing a danger to human\n                  life or property if not kept in the manner required by this article; or 6. Any animal that has been determined to be dangerous by the city council or municipal\n                  court. Notwithstanding the foregoing, no animal may be declared dangerous solely due to injury\n               or damage sustained by a person who, at the time such injury or damage was sustained,\n               was committing a willful trespass or other tort upon premises occupied by the owner\n               or keeper of the animal, or was teasing, abusing, or assaulting the animal. No animal may be declared dangerous solely due to injury or damage sustained by a\n               domestic animal that at the time such injury or damage was sustained by teasing, taunting,\n               abusing or assaulting the animal. No animal may be declared dangerous solely due to\n               the animal protecting or defending a human being from an attack or assault in the\n              …",
+          "sourceUrl": "https://library.municode.com/nd/alexander/codes/code_of_ordinances?nodeId=CHELEVENANFO"
+        },
+        {
+          "id": "nd:alexander:1",
+          "prompt": "Without a special city permit, how many dogs and cats can you keep at your place in Alexander?",
+          "choices": [
+            "Unlimited if they are all licensed",
+            "No more than three dogs or cats, or any combination of dogs and cats",
+            "One dog and one cat",
+            "No more than four animals of any kind"
+          ],
+          "answer": "No more than three dogs or cats, or any combination of dogs and cats",
+          "excerpt": "No person may cruelly treat any animal in the City. Any person who beats, underfeeds,\n               overloads or abandons any animal shall be deemed guilty of an offense.\n\n\"Dangerous animal\" as the term is used in this chapter means: 1. Any animal known to its owner or harborer to have a tendency or disposition to attack,\n                  bite, cause injury or to otherwise endanger the safety of or be a menace to human\n                  beings or domestic animals; 2. Any animal that attacks, bites, or injuries a human being or another domestic animal\n                  one (1) or more times; 3. Any animal that in a vicious or terrorizing manner approaches any person in an apparent\n                  attitude of attack upon the streets, sidewalks, or any public grounds or places; 4. Any animal owned or harbored primarily or in part for purposes of fighting or any\n                  animal trained for fighting; 5. Any animal certified by a veterinarian, after observation, as posing a danger to human\n                  life or property if not kept in the manner required by this article; or 6. Any animal that has been determined to be dangerous by the city council or municipal\n                  court. Notwithstanding the foregoing, no animal may be declared dangerous solely due to injury\n               or damage sustained by a person who, at the time such injury or damage was sustained,\n               was committing a willful trespass or other tort upon premises occupied by the owner\n               or keeper of the animal, or was teasing, abusing, or assaulting the animal. No animal may be declared dangerous solely due to injury or damage sustained by a\n               domestic animal that at the time such injury or damage was sustained by teasing, taunting,\n               abusing or assaulting the animal. No animal may be declared dangerous solely due to\n               the animal protecting or defending a human being from an attack or assault in the\n              …",
+          "sourceUrl": "https://library.municode.com/nd/alexander/codes/code_of_ordinances?nodeId=CHELEVENANFO"
+        },
+        {
+          "id": "nd:alexander:2",
+          "prompt": "What is the annual license fee for a dog or cat in Alexander?",
+          "choices": [
+            "$5 if the animal is neutered or spayed, and $10 if it is not",
+            "$15 for every dog or cat",
+            "Free if the animal has a rabies shot",
+            "$5 for cats and $10 for dogs"
+          ],
+          "answer": "$5 if the animal is neutered or spayed, and $10 if it is not",
+          "excerpt": "No person may cruelly treat any animal in the City. Any person who beats, underfeeds,\n               overloads or abandons any animal shall be deemed guilty of an offense.\n\n\"Dangerous animal\" as the term is used in this chapter means: 1. Any animal known to its owner or harborer to have a tendency or disposition to attack,\n                  bite, cause injury or to otherwise endanger the safety of or be a menace to human\n                  beings or domestic animals; 2. Any animal that attacks, bites, or injuries a human being or another domestic animal\n                  one (1) or more times; 3. Any animal that in a vicious or terrorizing manner approaches any person in an apparent\n                  attitude of attack upon the streets, sidewalks, or any public grounds or places; 4. Any animal owned or harbored primarily or in part for purposes of fighting or any\n                  animal trained for fighting; 5. Any animal certified by a veterinarian, after observation, as posing a danger to human\n                  life or property if not kept in the manner required by this article; or 6. Any animal that has been determined to be dangerous by the city council or municipal\n                  court. Notwithstanding the foregoing, no animal may be declared dangerous solely due to injury\n               or damage sustained by a person who, at the time such injury or damage was sustained,\n               was committing a willful trespass or other tort upon premises occupied by the owner\n               or keeper of the animal, or was teasing, abusing, or assaulting the animal. No animal may be declared dangerous solely due to injury or damage sustained by a\n               domestic animal that at the time such injury or damage was sustained by teasing, taunting,\n               abusing or assaulting the animal. No animal may be declared dangerous solely due to\n               the animal protecting or defending a human being from an attack or assault in the\n              …",
+          "sourceUrl": "https://library.municode.com/nd/alexander/codes/code_of_ordinances?nodeId=CHELEVENANFO"
+        },
+        {
+          "id": "nd:alexander:3",
+          "prompt": "Before Alexander will issue a license for a dog or cat over six months old, what must the owner show?",
+          "choices": [
+            "Proof the animal has been inoculated against rabies",
+            "A microchip registration",
+            "A background check",
+            "Proof of a fenced yard"
+          ],
+          "answer": "Proof the animal has been inoculated against rabies",
+          "excerpt": "No person may cruelly treat any animal in the City. Any person who beats, underfeeds,\n               overloads or abandons any animal shall be deemed guilty of an offense.\n\n\"Dangerous animal\" as the term is used in this chapter means: 1. Any animal known to its owner or harborer to have a tendency or disposition to attack,\n                  bite, cause injury or to otherwise endanger the safety of or be a menace to human\n                  beings or domestic animals; 2. Any animal that attacks, bites, or injuries a human being or another domestic animal\n                  one (1) or more times; 3. Any animal that in a vicious or terrorizing manner approaches any person in an apparent\n                  attitude of attack upon the streets, sidewalks, or any public grounds or places; 4. Any animal owned or harbored primarily or in part for purposes of fighting or any\n                  animal trained for fighting; 5. Any animal certified by a veterinarian, after observation, as posing a danger to human\n                  life or property if not kept in the manner required by this article; or 6. Any animal that has been determined to be dangerous by the city council or municipal\n                  court. Notwithstanding the foregoing, no animal may be declared dangerous solely due to injury\n               or damage sustained by a person who, at the time such injury or damage was sustained,\n               was committing a willful trespass or other tort upon premises occupied by the owner\n               or keeper of the animal, or was teasing, abusing, or assaulting the animal. No animal may be declared dangerous solely due to injury or damage sustained by a\n               domestic animal that at the time such injury or damage was sustained by teasing, taunting,\n               abusing or assaulting the animal. No animal may be declared dangerous solely due to\n               the animal protecting or defending a human being from an attack or assault in the\n              …",
+          "sourceUrl": "https://library.municode.com/nd/alexander/codes/code_of_ordinances?nodeId=CHELEVENANFO"
+        },
+        {
+          "id": "nd:alexander:4",
+          "prompt": "What does Alexander require you to do with a dog or cat license tag?",
+          "choices": [
+            "Keep it in a drawer with the receipt",
+            "Securely attach it around the animal's neck and leave it there the whole license period",
+            "Put it on only when walking the animal in public",
+            "Mail it back at the end of the year"
+          ],
+          "answer": "Securely attach it around the animal's neck and leave it there the whole license period",
+          "excerpt": "No person may cruelly treat any animal in the City. Any person who beats, underfeeds,\n               overloads or abandons any animal shall be deemed guilty of an offense.\n\n\"Dangerous animal\" as the term is used in this chapter means: 1. Any animal known to its owner or harborer to have a tendency or disposition to attack,\n                  bite, cause injury or to otherwise endanger the safety of or be a menace to human\n                  beings or domestic animals; 2. Any animal that attacks, bites, or injuries a human being or another domestic animal\n                  one (1) or more times; 3. Any animal that in a vicious or terrorizing manner approaches any person in an apparent\n                  attitude of attack upon the streets, sidewalks, or any public grounds or places; 4. Any animal owned or harbored primarily or in part for purposes of fighting or any\n                  animal trained for fighting; 5. Any animal certified by a veterinarian, after observation, as posing a danger to human\n                  life or property if not kept in the manner required by this article; or 6. Any animal that has been determined to be dangerous by the city council or municipal\n                  court. Notwithstanding the foregoing, no animal may be declared dangerous solely due to injury\n               or damage sustained by a person who, at the time such injury or damage was sustained,\n               was committing a willful trespass or other tort upon premises occupied by the owner\n               or keeper of the animal, or was teasing, abusing, or assaulting the animal. No animal may be declared dangerous solely due to injury or damage sustained by a\n               domestic animal that at the time such injury or damage was sustained by teasing, taunting,\n               abusing or assaulting the animal. No animal may be declared dangerous solely due to\n               the animal protecting or defending a human being from an attack or assault in the\n              …",
+          "sourceUrl": "https://library.municode.com/nd/alexander/codes/code_of_ordinances?nodeId=CHELEVENANFO"
+        }
+      ]
+    },
+    {
+      "id": "crosby",
+      "name": "Crosby",
+      "sourceIndex": "https://library.municode.com/nd/crosby",
+      "questions": []
+    },
+    {
+      "id": "devils-lake",
+      "name": "Devils Lake",
+      "sourceIndex": "https://library.municode.com/nd/devils_lake",
+      "questions": [
+        {
+          "id": "nd:devils-lake:0",
+          "prompt": "Before you start building or taking out a sidewalk in a public right-of-way, what must you get?",
+          "choices": [
+            "A permit from the city engineering department",
+            "Only a verbal okay from a neighbor",
+            "A county building permit",
+            "Nothing if you are the homeowner"
+          ],
+          "answer": "A permit from the city engineering department",
+          "excerpt": "Chapters:\n\nSections:\n\nAll sidewalks to be located in public rights-of-way shall be constructed of such materials\n               and by such methods as are specified within the most current edition of the construction\n               specifications of the city for the construction of public sidewalks. (Ord. 642 § 1, 1981)\n\nAll sidewalks shall be constructed in such a manner that the developed width of the\n               sidewalk will be as required by the city engineering department. (Ord. 642 § 2, 1981)\n\nPrior to the commencement of construction or removal of any sidewalk located, or to\n               be located, in a public right-of-way, a permit shall be obtained for such work from\n               the city engineering department. (Ord. 642 § 3, 1981)\n\nA. All work to be conducted under such permit shall be caused to be inspected, prior\n               to the placement of concrete, by a representative of the city engineering department\n               who will establish the sidewalk grade for the purposes of drainage, public safety\n               and walkway continuity. No permitted work shall proceed without the prior approval\n               of the representative of the city engineering department. B. Upon completion, all such work shall be inspected by a representative of the city\n               engineering department to insure that the completed work has been accomplished in\n               compliance with the construction specifications of the city. C. It shall be the responsibility of the person, or persons, doing the work to arrange\n               inspections with the city engineering department. (Ord. 642 § 4, 1981)\n\nPermit fee rates for construction or removal of sidewalks located, or to be located,\n               in a public right-of-way shall be established by resolution of the board of city commissioners. (Ord. 642 § 5, 1981)\n\nIn the event that a party constructing or removing sidewalk in a public right- of-way\n               fails to comply with the…",
+          "sourceUrl": "https://library.municode.com/nd/devils_lake/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nd:devils-lake:1",
+          "prompt": "When can you pour concrete for a public sidewalk?",
+          "choices": [
+            "Only after a city engineering representative inspects the site and sets the grade",
+            "As soon as the permit is issued",
+            "Anytime the weather is warm enough",
+            "After the forms have sat overnight"
+          ],
+          "answer": "Only after a city engineering representative inspects the site and sets the grade",
+          "excerpt": "Chapters:\n\nSections:\n\nAll sidewalks to be located in public rights-of-way shall be constructed of such materials\n               and by such methods as are specified within the most current edition of the construction\n               specifications of the city for the construction of public sidewalks. (Ord. 642 § 1, 1981)\n\nAll sidewalks shall be constructed in such a manner that the developed width of the\n               sidewalk will be as required by the city engineering department. (Ord. 642 § 2, 1981)\n\nPrior to the commencement of construction or removal of any sidewalk located, or to\n               be located, in a public right-of-way, a permit shall be obtained for such work from\n               the city engineering department. (Ord. 642 § 3, 1981)\n\nA. All work to be conducted under such permit shall be caused to be inspected, prior\n               to the placement of concrete, by a representative of the city engineering department\n               who will establish the sidewalk grade for the purposes of drainage, public safety\n               and walkway continuity. No permitted work shall proceed without the prior approval\n               of the representative of the city engineering department. B. Upon completion, all such work shall be inspected by a representative of the city\n               engineering department to insure that the completed work has been accomplished in\n               compliance with the construction specifications of the city. C. It shall be the responsibility of the person, or persons, doing the work to arrange\n               inspections with the city engineering department. (Ord. 642 § 4, 1981)\n\nPermit fee rates for construction or removal of sidewalks located, or to be located,\n               in a public right-of-way shall be established by resolution of the board of city commissioners. (Ord. 642 § 5, 1981)\n\nIn the event that a party constructing or removing sidewalk in a public right- of-way\n               fails to comply with the…",
+          "sourceUrl": "https://library.municode.com/nd/devils_lake/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nd:devils-lake:2",
+          "prompt": "After a contractor opens a paved street or alley for utility work, how soon must the opening be ready to be paved again?",
+          "choices": [
+            "Within 72 hours",
+            "Within 24 hours",
+            "Within one week",
+            "Whenever the contractor is finished"
+          ],
+          "answer": "Within 72 hours",
+          "excerpt": "Chapters:\n\nSections:\n\nAll sidewalks to be located in public rights-of-way shall be constructed of such materials\n               and by such methods as are specified within the most current edition of the construction\n               specifications of the city for the construction of public sidewalks. (Ord. 642 § 1, 1981)\n\nAll sidewalks shall be constructed in such a manner that the developed width of the\n               sidewalk will be as required by the city engineering department. (Ord. 642 § 2, 1981)\n\nPrior to the commencement of construction or removal of any sidewalk located, or to\n               be located, in a public right-of-way, a permit shall be obtained for such work from\n               the city engineering department. (Ord. 642 § 3, 1981)\n\nA. All work to be conducted under such permit shall be caused to be inspected, prior\n               to the placement of concrete, by a representative of the city engineering department\n               who will establish the sidewalk grade for the purposes of drainage, public safety\n               and walkway continuity. No permitted work shall proceed without the prior approval\n               of the representative of the city engineering department. B. Upon completion, all such work shall be inspected by a representative of the city\n               engineering department to insure that the completed work has been accomplished in\n               compliance with the construction specifications of the city. C. It shall be the responsibility of the person, or persons, doing the work to arrange\n               inspections with the city engineering department. (Ord. 642 § 4, 1981)\n\nPermit fee rates for construction or removal of sidewalks located, or to be located,\n               in a public right-of-way shall be established by resolution of the board of city commissioners. (Ord. 642 § 5, 1981)\n\nIn the event that a party constructing or removing sidewalk in a public right- of-way\n               fails to comply with the…",
+          "sourceUrl": "https://library.municode.com/nd/devils_lake/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nd:devils-lake:3",
+          "prompt": "Once the city’s yearly winter notice is out, what must people do with vehicles on streets and avenues after it snows?",
+          "choices": [
+            "Remove the vehicles so the city can plow",
+            "Leave them if they have winter plates",
+            "Move them only on even-numbered days",
+            "Park them facing east"
+          ],
+          "answer": "Remove the vehicles so the city can plow",
+          "excerpt": "Chapters:\n\nSections:\n\nAll sidewalks to be located in public rights-of-way shall be constructed of such materials\n               and by such methods as are specified within the most current edition of the construction\n               specifications of the city for the construction of public sidewalks. (Ord. 642 § 1, 1981)\n\nAll sidewalks shall be constructed in such a manner that the developed width of the\n               sidewalk will be as required by the city engineering department. (Ord. 642 § 2, 1981)\n\nPrior to the commencement of construction or removal of any sidewalk located, or to\n               be located, in a public right-of-way, a permit shall be obtained for such work from\n               the city engineering department. (Ord. 642 § 3, 1981)\n\nA. All work to be conducted under such permit shall be caused to be inspected, prior\n               to the placement of concrete, by a representative of the city engineering department\n               who will establish the sidewalk grade for the purposes of drainage, public safety\n               and walkway continuity. No permitted work shall proceed without the prior approval\n               of the representative of the city engineering department. B. Upon completion, all such work shall be inspected by a representative of the city\n               engineering department to insure that the completed work has been accomplished in\n               compliance with the construction specifications of the city. C. It shall be the responsibility of the person, or persons, doing the work to arrange\n               inspections with the city engineering department. (Ord. 642 § 4, 1981)\n\nPermit fee rates for construction or removal of sidewalks located, or to be located,\n               in a public right-of-way shall be established by resolution of the board of city commissioners. (Ord. 642 § 5, 1981)\n\nIn the event that a party constructing or removing sidewalk in a public right- of-way\n               fails to comply with the…",
+          "sourceUrl": "https://library.municode.com/nd/devils_lake/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        },
+        {
+          "id": "nd:devils-lake:4",
+          "prompt": "If the owner does not pay the cost of putting a curb, gutter, sidewalk, or driveway back the way it was, what can the city do?",
+          "choices": [
+            "Assess that amount against the property",
+            "Tow the owner’s car",
+            "Shut off water service",
+            "Send only a warning letter"
+          ],
+          "answer": "Assess that amount against the property",
+          "excerpt": "Chapters:\n\nSections:\n\nAll sidewalks to be located in public rights-of-way shall be constructed of such materials\n               and by such methods as are specified within the most current edition of the construction\n               specifications of the city for the construction of public sidewalks. (Ord. 642 § 1, 1981)\n\nAll sidewalks shall be constructed in such a manner that the developed width of the\n               sidewalk will be as required by the city engineering department. (Ord. 642 § 2, 1981)\n\nPrior to the commencement of construction or removal of any sidewalk located, or to\n               be located, in a public right-of-way, a permit shall be obtained for such work from\n               the city engineering department. (Ord. 642 § 3, 1981)\n\nA. All work to be conducted under such permit shall be caused to be inspected, prior\n               to the placement of concrete, by a representative of the city engineering department\n               who will establish the sidewalk grade for the purposes of drainage, public safety\n               and walkway continuity. No permitted work shall proceed without the prior approval\n               of the representative of the city engineering department. B. Upon completion, all such work shall be inspected by a representative of the city\n               engineering department to insure that the completed work has been accomplished in\n               compliance with the construction specifications of the city. C. It shall be the responsibility of the person, or persons, doing the work to arrange\n               inspections with the city engineering department. (Ord. 642 § 4, 1981)\n\nPermit fee rates for construction or removal of sidewalks located, or to be located,\n               in a public right-of-way shall be established by resolution of the board of city commissioners. (Ord. 642 § 5, 1981)\n\nIn the event that a party constructing or removing sidewalk in a public right- of-way\n               fails to comply with the…",
+          "sourceUrl": "https://library.municode.com/nd/devils_lake/codes/code_of_ordinances?nodeId=TIT12STSIPUPL"
+        }
+      ]
+    },
+    {
+      "id": "dickinson",
+      "name": "Dickinson",
+      "sourceIndex": "https://library.municode.com/nd/dickinson",
+      "questions": [
+        {
+          "id": "nd:dickinson:0",
+          "prompt": "In Dickinson, one allowed take-home beer growler is a sealed aluminum can filled on site. What is the largest that can can be?",
+          "choices": [
+            "12 ounces",
+            "32 ounces",
+            "40 ounces",
+            "64 ounces"
+          ],
+          "answer": "32 ounces",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, N.D.C.C. Title 5; local authority relative to retail\n               sales, N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverages means any liquid suitable for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume and shall include, but is not necessarily\n               limited to, any whiskey, rum, beer, hard cider and wine. It shall be presumed, for\n               the purposes of this chapter, that any such beverages contain more than one-half percent\n               of alcohol by volume. State Law reference— Similar provisions, N.D.C.C. § 5-01-01. Barrel of beer means a cylindrical container used for holding beer not to exceed 32 gallons of beer. Beer means any malt beverage containing more than one half of one percent of alcohol by\n               volume. Brewer taproom means a brewer which brews 25,000 barrels or fewer of beer per year and produces\n               or manufactures on the licensed premises for consumption on or off the premises, or\n               serves beer produced or manufactured on the premises for the purposes of sampling\n               the beer. Distilled spirits means any alcoholic beverage that is not beer, wine, or sparkling wine. Domestic distillery means an operation located within the State in which the owner or operator produces\n               distilled spirits in accordance with the provisions of N.D.C.C. § 5-01-19. Domestic winery means an operation located within the State in which the owner or operator produces\n               wine in accordance with the provisions of N.D.C.C. § 5-01-17. Gas station means an establishment beside a road selling fuel for motor vehicles. Growler means: (1) A sealed…",
+          "sourceUrl": "https://library.municode.com/nd/dickinson/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:dickinson:1",
+          "prompt": "When a Dickinson seller fills a larger beer growler (up to 64 ounces), they must put a paper or plastic band over the cap so it has to be broken to open. What else is required?",
+          "choices": [
+            "The seller’s name and address on the band, or the sales receipt attached",
+            "A city inspection sticker",
+            "The customer’s ID number written on the bottle",
+            "A warning label about alcohol content"
+          ],
+          "answer": "The seller’s name and address on the band, or the sales receipt attached",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, N.D.C.C. Title 5; local authority relative to retail\n               sales, N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverages means any liquid suitable for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume and shall include, but is not necessarily\n               limited to, any whiskey, rum, beer, hard cider and wine. It shall be presumed, for\n               the purposes of this chapter, that any such beverages contain more than one-half percent\n               of alcohol by volume. State Law reference— Similar provisions, N.D.C.C. § 5-01-01. Barrel of beer means a cylindrical container used for holding beer not to exceed 32 gallons of beer. Beer means any malt beverage containing more than one half of one percent of alcohol by\n               volume. Brewer taproom means a brewer which brews 25,000 barrels or fewer of beer per year and produces\n               or manufactures on the licensed premises for consumption on or off the premises, or\n               serves beer produced or manufactured on the premises for the purposes of sampling\n               the beer. Distilled spirits means any alcoholic beverage that is not beer, wine, or sparkling wine. Domestic distillery means an operation located within the State in which the owner or operator produces\n               distilled spirits in accordance with the provisions of N.D.C.C. § 5-01-19. Domestic winery means an operation located within the State in which the owner or operator produces\n               wine in accordance with the provisions of N.D.C.C. § 5-01-17. Gas station means an establishment beside a road selling fuel for motor vehicles. Growler means: (1) A sealed…",
+          "sourceUrl": "https://library.municode.com/nd/dickinson/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:dickinson:2",
+          "prompt": "Who is allowed to sell filled beer growlers in Dickinson?",
+          "choices": [
+            "Any bar with an on-sale license",
+            "Only general microbrewery licensees approved to sell both drinks on-site and beer to go",
+            "Any grocery or convenience store that sells packaged beer",
+            "Gas stations that sell beer"
+          ],
+          "answer": "Only general microbrewery licensees approved to sell both drinks on-site and beer to go",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, N.D.C.C. Title 5; local authority relative to retail\n               sales, N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverages means any liquid suitable for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume and shall include, but is not necessarily\n               limited to, any whiskey, rum, beer, hard cider and wine. It shall be presumed, for\n               the purposes of this chapter, that any such beverages contain more than one-half percent\n               of alcohol by volume. State Law reference— Similar provisions, N.D.C.C. § 5-01-01. Barrel of beer means a cylindrical container used for holding beer not to exceed 32 gallons of beer. Beer means any malt beverage containing more than one half of one percent of alcohol by\n               volume. Brewer taproom means a brewer which brews 25,000 barrels or fewer of beer per year and produces\n               or manufactures on the licensed premises for consumption on or off the premises, or\n               serves beer produced or manufactured on the premises for the purposes of sampling\n               the beer. Distilled spirits means any alcoholic beverage that is not beer, wine, or sparkling wine. Domestic distillery means an operation located within the State in which the owner or operator produces\n               distilled spirits in accordance with the provisions of N.D.C.C. § 5-01-19. Domestic winery means an operation located within the State in which the owner or operator produces\n               wine in accordance with the provisions of N.D.C.C. § 5-01-17. Gas station means an establishment beside a road selling fuel for motor vehicles. Growler means: (1) A sealed…",
+          "sourceUrl": "https://library.municode.com/nd/dickinson/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:dickinson:3",
+          "prompt": "If the special seal on a Dickinson beer growler gets broken, the city treats that growler as:",
+          "choices": [
+            "An open container",
+            "Still sealed if the lid is screwed on",
+            "A free tasting sample",
+            "Nothing special"
+          ],
+          "answer": "An open container",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, N.D.C.C. Title 5; local authority relative to retail\n               sales, N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverages means any liquid suitable for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume and shall include, but is not necessarily\n               limited to, any whiskey, rum, beer, hard cider and wine. It shall be presumed, for\n               the purposes of this chapter, that any such beverages contain more than one-half percent\n               of alcohol by volume. State Law reference— Similar provisions, N.D.C.C. § 5-01-01. Barrel of beer means a cylindrical container used for holding beer not to exceed 32 gallons of beer. Beer means any malt beverage containing more than one half of one percent of alcohol by\n               volume. Brewer taproom means a brewer which brews 25,000 barrels or fewer of beer per year and produces\n               or manufactures on the licensed premises for consumption on or off the premises, or\n               serves beer produced or manufactured on the premises for the purposes of sampling\n               the beer. Distilled spirits means any alcoholic beverage that is not beer, wine, or sparkling wine. Domestic distillery means an operation located within the State in which the owner or operator produces\n               distilled spirits in accordance with the provisions of N.D.C.C. § 5-01-19. Domestic winery means an operation located within the State in which the owner or operator produces\n               wine in accordance with the provisions of N.D.C.C. § 5-01-17. Gas station means an establishment beside a road selling fuel for motor vehicles. Growler means: (1) A sealed…",
+          "sourceUrl": "https://library.municode.com/nd/dickinson/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:dickinson:4",
+          "prompt": "A Dickinson hotel or motel liquor license is only for a place that has at least:",
+          "choices": [
+            "25 guest rooms",
+            "50 parking spaces",
+            "75 rental units in one connected area",
+            "100 restaurant seats"
+          ],
+          "answer": "75 rental units in one connected area",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages generally, N.D.C.C. Title 5; local authority relative to retail\n               sales, N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Alcoholic beverages means any liquid suitable for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume and shall include, but is not necessarily\n               limited to, any whiskey, rum, beer, hard cider and wine. It shall be presumed, for\n               the purposes of this chapter, that any such beverages contain more than one-half percent\n               of alcohol by volume. State Law reference— Similar provisions, N.D.C.C. § 5-01-01. Barrel of beer means a cylindrical container used for holding beer not to exceed 32 gallons of beer. Beer means any malt beverage containing more than one half of one percent of alcohol by\n               volume. Brewer taproom means a brewer which brews 25,000 barrels or fewer of beer per year and produces\n               or manufactures on the licensed premises for consumption on or off the premises, or\n               serves beer produced or manufactured on the premises for the purposes of sampling\n               the beer. Distilled spirits means any alcoholic beverage that is not beer, wine, or sparkling wine. Domestic distillery means an operation located within the State in which the owner or operator produces\n               distilled spirits in accordance with the provisions of N.D.C.C. § 5-01-19. Domestic winery means an operation located within the State in which the owner or operator produces\n               wine in accordance with the provisions of N.D.C.C. § 5-01-17. Gas station means an establishment beside a road selling fuel for motor vehicles. Growler means: (1) A sealed…",
+          "sourceUrl": "https://library.municode.com/nd/dickinson/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "fargo",
+      "name": "Fargo",
+      "sourceIndex": "https://library.municode.com/nd/fargo",
+      "questions": [
+        {
+          "id": "nd:fargo:0",
+          "prompt": "In Fargo downtown and residential zones, which of these is specifically banned from 10 p.m. to 6 a.m. on weeknights?",
+          "choices": [
+            "A radio, tape player, or car stereo heard more than 10 feet away",
+            "A burglar alarm or similar emergency warning",
+            "Quiet talking on your own porch",
+            "City emergency vehicle sirens"
+          ],
+          "answer": "A radio, tape player, or car stereo heard more than 10 feet away",
+          "excerpt": "In all cases where no provision is made defining what are nuisances and how the same\n               may be removed, abated, or prevented, those offenses which are known to the common\n               law of the land and the statutes of North Dakota as nuisances may, in case the same\n               exist within the city limits or within one mile thereof, be treated as such and proceeded\n               against as in this chapter provided or in accordance with any other law which shall\n               give the court trying the same jurisdiction. Source: 1952 Rev. Ord. 11-0101.\n\nNo owner or occupant of any lot or tenement shall cause or permit any nuisance to\n               be or remain in or upon any lot or tenement or between the same and the center of\n               the street adjoining. Source: 1952 Rev. Ord. 11-0102.\n\nThe expense of the removal or destruction of a nuisance, source of filth, or cause\n               of sickness shall be assessed against the property concerned by the city engineer\n               and the assessment filed in the office of the city auditor. In August of each year,\n               after due notice, the board of city commissioners shall review all such assessments,\n               and hear all complaints against the same, and approve the same as finally adjusted;\n               and such special assessment shall then be certified to by the county auditor and be\n               placed upon the tax roll for that year and be collected as other taxes. Source: 1952 Rev. Ord. 11-0103.\n\nFor purposes of this article, certain words and phrases used herein are defined as\n               follows: 1. \"Ambient noise\" is the all-encompassing noise associated with a given environment,\n               being usually composite of sounds from many sources, near and far. 2. \"'A' band level\" is the total sound level of all noise as measured with a sound level\n               meter using the \"A\" weighting network. The unit measurement is the dB(A). \"dB\" is\n             …",
+          "sourceUrl": "https://library.municode.com/nd/fargo/codes/code_of_ordinances?nodeId=FARGO_MUNICIPAL_CODECIFANODA_CH11PUSANU"
+        },
+        {
+          "id": "nd:fargo:1",
+          "prompt": "In Fargo, a snowmobile is grouped with passenger cars for noise limits. What is the maximum allowed at 25 feet?",
+          "choices": [
+            "80 dB(A)",
+            "88 dB(A)",
+            "55 dB(A)",
+            "65 dB(A)"
+          ],
+          "answer": "80 dB(A)",
+          "excerpt": "In all cases where no provision is made defining what are nuisances and how the same\n               may be removed, abated, or prevented, those offenses which are known to the common\n               law of the land and the statutes of North Dakota as nuisances may, in case the same\n               exist within the city limits or within one mile thereof, be treated as such and proceeded\n               against as in this chapter provided or in accordance with any other law which shall\n               give the court trying the same jurisdiction. Source: 1952 Rev. Ord. 11-0101.\n\nNo owner or occupant of any lot or tenement shall cause or permit any nuisance to\n               be or remain in or upon any lot or tenement or between the same and the center of\n               the street adjoining. Source: 1952 Rev. Ord. 11-0102.\n\nThe expense of the removal or destruction of a nuisance, source of filth, or cause\n               of sickness shall be assessed against the property concerned by the city engineer\n               and the assessment filed in the office of the city auditor. In August of each year,\n               after due notice, the board of city commissioners shall review all such assessments,\n               and hear all complaints against the same, and approve the same as finally adjusted;\n               and such special assessment shall then be certified to by the county auditor and be\n               placed upon the tax roll for that year and be collected as other taxes. Source: 1952 Rev. Ord. 11-0103.\n\nFor purposes of this article, certain words and phrases used herein are defined as\n               follows: 1. \"Ambient noise\" is the all-encompassing noise associated with a given environment,\n               being usually composite of sounds from many sources, near and far. 2. \"'A' band level\" is the total sound level of all noise as measured with a sound level\n               meter using the \"A\" weighting network. The unit measurement is the dB(A). \"dB\" is\n             …",
+          "sourceUrl": "https://library.municode.com/nd/fargo/codes/code_of_ordinances?nodeId=FARGO_MUNICIPAL_CODECIFANODA_CH11PUSANU"
+        },
+        {
+          "id": "nd:fargo:2",
+          "prompt": "Who is not allowed to leave a nuisance between their Fargo lot and the center of the adjoining street?",
+          "choices": [
+            "The owner or occupant of the lot",
+            "The city engineer",
+            "Any passerby",
+            "The board of city commissioners"
+          ],
+          "answer": "The owner or occupant of the lot",
+          "excerpt": "In all cases where no provision is made defining what are nuisances and how the same\n               may be removed, abated, or prevented, those offenses which are known to the common\n               law of the land and the statutes of North Dakota as nuisances may, in case the same\n               exist within the city limits or within one mile thereof, be treated as such and proceeded\n               against as in this chapter provided or in accordance with any other law which shall\n               give the court trying the same jurisdiction. Source: 1952 Rev. Ord. 11-0101.\n\nNo owner or occupant of any lot or tenement shall cause or permit any nuisance to\n               be or remain in or upon any lot or tenement or between the same and the center of\n               the street adjoining. Source: 1952 Rev. Ord. 11-0102.\n\nThe expense of the removal or destruction of a nuisance, source of filth, or cause\n               of sickness shall be assessed against the property concerned by the city engineer\n               and the assessment filed in the office of the city auditor. In August of each year,\n               after due notice, the board of city commissioners shall review all such assessments,\n               and hear all complaints against the same, and approve the same as finally adjusted;\n               and such special assessment shall then be certified to by the county auditor and be\n               placed upon the tax roll for that year and be collected as other taxes. Source: 1952 Rev. Ord. 11-0103.\n\nFor purposes of this article, certain words and phrases used herein are defined as\n               follows: 1. \"Ambient noise\" is the all-encompassing noise associated with a given environment,\n               being usually composite of sounds from many sources, near and far. 2. \"'A' band level\" is the total sound level of all noise as measured with a sound level\n               meter using the \"A\" weighting network. The unit measurement is the dB(A). \"dB\" is\n             …",
+          "sourceUrl": "https://library.municode.com/nd/fargo/codes/code_of_ordinances?nodeId=FARGO_MUNICIPAL_CODECIFANODA_CH11PUSANU"
+        },
+        {
+          "id": "nd:fargo:3",
+          "prompt": "If Fargo removes a nuisance from a property, how is the cost usually collected?",
+          "choices": [
+            "It is added to the property tax roll after an August review by city commissioners",
+            "The city pays from general funds and cannot bill the owner",
+            "Neighbors on the block split the cost",
+            "Only a separate court fine can be used"
+          ],
+          "answer": "It is added to the property tax roll after an August review by city commissioners",
+          "excerpt": "In all cases where no provision is made defining what are nuisances and how the same\n               may be removed, abated, or prevented, those offenses which are known to the common\n               law of the land and the statutes of North Dakota as nuisances may, in case the same\n               exist within the city limits or within one mile thereof, be treated as such and proceeded\n               against as in this chapter provided or in accordance with any other law which shall\n               give the court trying the same jurisdiction. Source: 1952 Rev. Ord. 11-0101.\n\nNo owner or occupant of any lot or tenement shall cause or permit any nuisance to\n               be or remain in or upon any lot or tenement or between the same and the center of\n               the street adjoining. Source: 1952 Rev. Ord. 11-0102.\n\nThe expense of the removal or destruction of a nuisance, source of filth, or cause\n               of sickness shall be assessed against the property concerned by the city engineer\n               and the assessment filed in the office of the city auditor. In August of each year,\n               after due notice, the board of city commissioners shall review all such assessments,\n               and hear all complaints against the same, and approve the same as finally adjusted;\n               and such special assessment shall then be certified to by the county auditor and be\n               placed upon the tax roll for that year and be collected as other taxes. Source: 1952 Rev. Ord. 11-0103.\n\nFor purposes of this article, certain words and phrases used herein are defined as\n               follows: 1. \"Ambient noise\" is the all-encompassing noise associated with a given environment,\n               being usually composite of sounds from many sources, near and far. 2. \"'A' band level\" is the total sound level of all noise as measured with a sound level\n               meter using the \"A\" weighting network. The unit measurement is the dB(A). \"dB\" is\n             …",
+          "sourceUrl": "https://library.municode.com/nd/fargo/codes/code_of_ordinances?nodeId=FARGO_MUNICIPAL_CODECIFANODA_CH11PUSANU"
+        }
+      ]
+    },
+    {
+      "id": "grand-forks",
+      "name": "Grand Forks",
+      "sourceIndex": "https://library.municode.com/nd/grand_forks",
+      "questions": [
+        {
+          "id": "nd:grand-forks:0",
+          "prompt": "Who holds all the powers of the City of Grand Forks under its charter?",
+          "choices": [
+            "The elected governing body",
+            "The North Dakota legislature",
+            "A city manager hired by the state",
+            "The county commission"
+          ],
+          "answer": "The elected governing body",
+          "excerpt": "___________\n\nFootnotes: --- ( 1 ) --- As approved by the electorate of the City of Grand Forks at a Special Election held\n               on November 3, 1970, and as subsequently amended on April 3, 1984; November 6, 1984;\n               September 21, 1987; November 28, 1995; and February 22, 2000.\n\nThe inhabitants of the City of Grand Forks, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and incorporate in perpetuity, under the name of the \"City\n            of Grand Forks\".\n\nSubject to the limitations imposed by the state constitution, state law and this charter,\n            all powers of the city shall be vested in the elected governing body. The elected\n            governing body shall enact local legislation, adopt budgets, determine policies, and\n            prescribe the functions of government to be performed under this charter by the city.\n            All powers of the city shall be exercised in the manner prescribed by this charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n            and laws of this state and by this charter, together with all the implied powers necessary\n            to carry into execution all powers granted. Among its enumerated powers, which may be implemented by ordinance subject to the\n            limitations specified in this charter, shall be the following: a. To acquire, hold, operate, and dispose of property within or without the corporate\n               limits, and exercise the right of eminent domain for such purposes. b. To control its finances and fiscal affairs; to appropriate money for its purposes,\n               and make payment of its debts and expenses; to levy and collect taxes, excises, fees,\n               charges and special assessments for…",
+          "sourceUrl": "https://library.municode.com/nd/grand_forks/codes/code_of_ordinances?nodeId=PTIICH"
+        },
+        {
+          "id": "nd:grand-forks:1",
+          "prompt": "What is one dedicated use of Grand Forks’ 1% retail sales tax?",
+          "choices": [
+            "Financing expansion or renovation of the Grand Forks Water Treatment Plant",
+            "Building a new state capitol",
+            "Paying for county jails",
+            "Funding public schools statewide"
+          ],
+          "answer": "Financing expansion or renovation of the Grand Forks Water Treatment Plant",
+          "excerpt": "___________\n\nFootnotes: --- ( 1 ) --- As approved by the electorate of the City of Grand Forks at a Special Election held\n               on November 3, 1970, and as subsequently amended on April 3, 1984; November 6, 1984;\n               September 21, 1987; November 28, 1995; and February 22, 2000.\n\nThe inhabitants of the City of Grand Forks, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and incorporate in perpetuity, under the name of the \"City\n            of Grand Forks\".\n\nSubject to the limitations imposed by the state constitution, state law and this charter,\n            all powers of the city shall be vested in the elected governing body. The elected\n            governing body shall enact local legislation, adopt budgets, determine policies, and\n            prescribe the functions of government to be performed under this charter by the city.\n            All powers of the city shall be exercised in the manner prescribed by this charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n            and laws of this state and by this charter, together with all the implied powers necessary\n            to carry into execution all powers granted. Among its enumerated powers, which may be implemented by ordinance subject to the\n            limitations specified in this charter, shall be the following: a. To acquire, hold, operate, and dispose of property within or without the corporate\n               limits, and exercise the right of eminent domain for such purposes. b. To control its finances and fiscal affairs; to appropriate money for its purposes,\n               and make payment of its debts and expenses; to levy and collect taxes, excises, fees,\n               charges and special assessments for…",
+          "sourceUrl": "https://library.municode.com/nd/grand_forks/codes/code_of_ordinances?nodeId=PTIICH"
+        },
+        {
+          "id": "nd:grand-forks:2",
+          "prompt": "When does the extra half-percent sales tax for streets and water systems stop?",
+          "choices": [
+            "December 31, 2037",
+            "It never expires",
+            "January 1, 2010",
+            "When the current mayor leaves office"
+          ],
+          "answer": "December 31, 2037",
+          "excerpt": "___________\n\nFootnotes: --- ( 1 ) --- As approved by the electorate of the City of Grand Forks at a Special Election held\n               on November 3, 1970, and as subsequently amended on April 3, 1984; November 6, 1984;\n               September 21, 1987; November 28, 1995; and February 22, 2000.\n\nThe inhabitants of the City of Grand Forks, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and incorporate in perpetuity, under the name of the \"City\n            of Grand Forks\".\n\nSubject to the limitations imposed by the state constitution, state law and this charter,\n            all powers of the city shall be vested in the elected governing body. The elected\n            governing body shall enact local legislation, adopt budgets, determine policies, and\n            prescribe the functions of government to be performed under this charter by the city.\n            All powers of the city shall be exercised in the manner prescribed by this charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n            and laws of this state and by this charter, together with all the implied powers necessary\n            to carry into execution all powers granted. Among its enumerated powers, which may be implemented by ordinance subject to the\n            limitations specified in this charter, shall be the following: a. To acquire, hold, operate, and dispose of property within or without the corporate\n               limits, and exercise the right of eminent domain for such purposes. b. To control its finances and fiscal affairs; to appropriate money for its purposes,\n               and make payment of its debts and expenses; to levy and collect taxes, excises, fees,\n               charges and special assessments for…",
+          "sourceUrl": "https://library.municode.com/nd/grand_forks/codes/code_of_ordinances?nodeId=PTIICH"
+        },
+        {
+          "id": "nd:grand-forks:3",
+          "prompt": "A three-quarters percent sales tax can help pay for a multi-use facility. What is that building supposed to host?",
+          "choices": [
+            "Conventions, conferences, civic events, exhibitions, cultural functions and athletic events",
+            "Only professional hockey games",
+            "Federal courthouse functions",
+            "Private retail stores"
+          ],
+          "answer": "Conventions, conferences, civic events, exhibitions, cultural functions and athletic events",
+          "excerpt": "___________\n\nFootnotes: --- ( 1 ) --- As approved by the electorate of the City of Grand Forks at a Special Election held\n               on November 3, 1970, and as subsequently amended on April 3, 1984; November 6, 1984;\n               September 21, 1987; November 28, 1995; and February 22, 2000.\n\nThe inhabitants of the City of Grand Forks, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and incorporate in perpetuity, under the name of the \"City\n            of Grand Forks\".\n\nSubject to the limitations imposed by the state constitution, state law and this charter,\n            all powers of the city shall be vested in the elected governing body. The elected\n            governing body shall enact local legislation, adopt budgets, determine policies, and\n            prescribe the functions of government to be performed under this charter by the city.\n            All powers of the city shall be exercised in the manner prescribed by this charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n            and laws of this state and by this charter, together with all the implied powers necessary\n            to carry into execution all powers granted. Among its enumerated powers, which may be implemented by ordinance subject to the\n            limitations specified in this charter, shall be the following: a. To acquire, hold, operate, and dispose of property within or without the corporate\n               limits, and exercise the right of eminent domain for such purposes. b. To control its finances and fiscal affairs; to appropriate money for its purposes,\n               and make payment of its debts and expenses; to levy and collect taxes, excises, fees,\n               charges and special assessments for…",
+          "sourceUrl": "https://library.municode.com/nd/grand_forks/codes/code_of_ordinances?nodeId=PTIICH"
+        }
+      ]
+    },
+    {
+      "id": "jamestown",
+      "name": "Jamestown",
+      "sourceIndex": "https://library.municode.com/nd/jamestown",
+      "questions": [
+        {
+          "id": "nd:jamestown:0",
+          "prompt": "Can you park a trailer or mobile home on a Jamestown street, alley, or even on private land?",
+          "choices": [
+            "Yes, if the land is privately owned",
+            "No, unless you have special permission from the city council",
+            "Yes, for less than 24 hours",
+            "Only if it is unoccupied"
+          ],
+          "answer": "No, unless you have special permission from the city council",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Tourist camps generally, N.D.C.C. 1960, §§ 23-10-01—23-10-12.\n\nN.D.C.C. Chapter 23-10 is hereby adopted in full by reference thereto. (Ord. No. 564, § 1; Ord. No. 1117, 1-10-96)\n\nChapter 33-33-01 entitled, \"Mobile Home Park Rules,\" and Chapter 33-33-02 entitled,\n               \"Trailer Park and Campground Rules,\" of the Administrative Rules of the state health\n               department are hereby adopted in full by reference thereto, save and except such portions\n               as are deleted, modified, or amended by section 28-3 which rules are now filed in the office of the city auditor, and the same are hereby\n               adopted and incorporated as fully as if set out at length herein, and the provisions\n               thereof shall be controlling with the city. (Ord. No. 564, § 2; Ord. No. 1117, 1-10-96)\n\nThe following are amendments or additions to the rules adopted in section 28-2 : (1) A license fee, as established from time to time by resolution of the city council,\n                  shall be assessed annually, payable January 1 of each year. (2) A mobile home park shall consist of a minimum of ten (10) units and forty thousand\n                  (40,000) square feet of area. (3) It shall be unlawful within the city limits for any person to park any trailer or\n                  mobile home on any street, alley, highway or other public place, or on any tract of\n                  land owned by any person, occupied or unoccupied, except by special permission of\n                  the city council. No automobile trailer or mobile home shall be occupied or used for\n                  human habitation unless located in a licensed mobile home park or trailer park. (Ord. No. 564, § 3; Ord. No. 806; Ord. No. 1117, 1-10-96)\n\nFire hydrants within a trailer park or mobile home park shall be served by water mains\n               of at least six (6) inches inside diameter with a minimum flow of five hundred (500)\n            …",
+          "sourceUrl": "https://library.municode.com/nd/jamestown/codes/code_of_ordinances?nodeId=CH28MOHOPATRPA"
+        },
+        {
+          "id": "nd:jamestown:1",
+          "prompt": "Can you live in a trailer or mobile home in Jamestown if it is not in a park?",
+          "choices": [
+            "Yes, on any private lot you own",
+            "Only if it is in a licensed mobile home park or trailer park",
+            "Yes, with a city sticker",
+            "Only during the summer"
+          ],
+          "answer": "Only if it is in a licensed mobile home park or trailer park",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Tourist camps generally, N.D.C.C. 1960, §§ 23-10-01—23-10-12.\n\nN.D.C.C. Chapter 23-10 is hereby adopted in full by reference thereto. (Ord. No. 564, § 1; Ord. No. 1117, 1-10-96)\n\nChapter 33-33-01 entitled, \"Mobile Home Park Rules,\" and Chapter 33-33-02 entitled,\n               \"Trailer Park and Campground Rules,\" of the Administrative Rules of the state health\n               department are hereby adopted in full by reference thereto, save and except such portions\n               as are deleted, modified, or amended by section 28-3 which rules are now filed in the office of the city auditor, and the same are hereby\n               adopted and incorporated as fully as if set out at length herein, and the provisions\n               thereof shall be controlling with the city. (Ord. No. 564, § 2; Ord. No. 1117, 1-10-96)\n\nThe following are amendments or additions to the rules adopted in section 28-2 : (1) A license fee, as established from time to time by resolution of the city council,\n                  shall be assessed annually, payable January 1 of each year. (2) A mobile home park shall consist of a minimum of ten (10) units and forty thousand\n                  (40,000) square feet of area. (3) It shall be unlawful within the city limits for any person to park any trailer or\n                  mobile home on any street, alley, highway or other public place, or on any tract of\n                  land owned by any person, occupied or unoccupied, except by special permission of\n                  the city council. No automobile trailer or mobile home shall be occupied or used for\n                  human habitation unless located in a licensed mobile home park or trailer park. (Ord. No. 564, § 3; Ord. No. 806; Ord. No. 1117, 1-10-96)\n\nFire hydrants within a trailer park or mobile home park shall be served by water mains\n               of at least six (6) inches inside diameter with a minimum flow of five hundred (500)\n            …",
+          "sourceUrl": "https://library.municode.com/nd/jamestown/codes/code_of_ordinances?nodeId=CH28MOHOPATRPA"
+        },
+        {
+          "id": "nd:jamestown:2",
+          "prompt": "In a Jamestown trailer or mobile home park, how close may you park to a fire hydrant?",
+          "choices": [
+            "No parking is allowed within 10 feet on either side",
+            "You may park right next to it",
+            "You must stay at least 50 feet away",
+            "There is no parking rule for hydrants"
+          ],
+          "answer": "No parking is allowed within 10 feet on either side",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Tourist camps generally, N.D.C.C. 1960, §§ 23-10-01—23-10-12.\n\nN.D.C.C. Chapter 23-10 is hereby adopted in full by reference thereto. (Ord. No. 564, § 1; Ord. No. 1117, 1-10-96)\n\nChapter 33-33-01 entitled, \"Mobile Home Park Rules,\" and Chapter 33-33-02 entitled,\n               \"Trailer Park and Campground Rules,\" of the Administrative Rules of the state health\n               department are hereby adopted in full by reference thereto, save and except such portions\n               as are deleted, modified, or amended by section 28-3 which rules are now filed in the office of the city auditor, and the same are hereby\n               adopted and incorporated as fully as if set out at length herein, and the provisions\n               thereof shall be controlling with the city. (Ord. No. 564, § 2; Ord. No. 1117, 1-10-96)\n\nThe following are amendments or additions to the rules adopted in section 28-2 : (1) A license fee, as established from time to time by resolution of the city council,\n                  shall be assessed annually, payable January 1 of each year. (2) A mobile home park shall consist of a minimum of ten (10) units and forty thousand\n                  (40,000) square feet of area. (3) It shall be unlawful within the city limits for any person to park any trailer or\n                  mobile home on any street, alley, highway or other public place, or on any tract of\n                  land owned by any person, occupied or unoccupied, except by special permission of\n                  the city council. No automobile trailer or mobile home shall be occupied or used for\n                  human habitation unless located in a licensed mobile home park or trailer park. (Ord. No. 564, § 3; Ord. No. 806; Ord. No. 1117, 1-10-96)\n\nFire hydrants within a trailer park or mobile home park shall be served by water mains\n               of at least six (6) inches inside diameter with a minimum flow of five hundred (500)\n            …",
+          "sourceUrl": "https://library.municode.com/nd/jamestown/codes/code_of_ordinances?nodeId=CH28MOHOPATRPA"
+        },
+        {
+          "id": "nd:jamestown:3",
+          "prompt": "How far can a trailer or mobile home in a park be from a fire hydrant?",
+          "choices": [
+            "No more than 300 feet, measured along the street",
+            "No more than 100 feet in a straight line",
+            "500 feet",
+            "Any distance as long as the park has hydrants"
+          ],
+          "answer": "No more than 300 feet, measured along the street",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Tourist camps generally, N.D.C.C. 1960, §§ 23-10-01—23-10-12.\n\nN.D.C.C. Chapter 23-10 is hereby adopted in full by reference thereto. (Ord. No. 564, § 1; Ord. No. 1117, 1-10-96)\n\nChapter 33-33-01 entitled, \"Mobile Home Park Rules,\" and Chapter 33-33-02 entitled,\n               \"Trailer Park and Campground Rules,\" of the Administrative Rules of the state health\n               department are hereby adopted in full by reference thereto, save and except such portions\n               as are deleted, modified, or amended by section 28-3 which rules are now filed in the office of the city auditor, and the same are hereby\n               adopted and incorporated as fully as if set out at length herein, and the provisions\n               thereof shall be controlling with the city. (Ord. No. 564, § 2; Ord. No. 1117, 1-10-96)\n\nThe following are amendments or additions to the rules adopted in section 28-2 : (1) A license fee, as established from time to time by resolution of the city council,\n                  shall be assessed annually, payable January 1 of each year. (2) A mobile home park shall consist of a minimum of ten (10) units and forty thousand\n                  (40,000) square feet of area. (3) It shall be unlawful within the city limits for any person to park any trailer or\n                  mobile home on any street, alley, highway or other public place, or on any tract of\n                  land owned by any person, occupied or unoccupied, except by special permission of\n                  the city council. No automobile trailer or mobile home shall be occupied or used for\n                  human habitation unless located in a licensed mobile home park or trailer park. (Ord. No. 564, § 3; Ord. No. 806; Ord. No. 1117, 1-10-96)\n\nFire hydrants within a trailer park or mobile home park shall be served by water mains\n               of at least six (6) inches inside diameter with a minimum flow of five hundred (500)\n            …",
+          "sourceUrl": "https://library.municode.com/nd/jamestown/codes/code_of_ordinances?nodeId=CH28MOHOPATRPA"
+        },
+        {
+          "id": "nd:jamestown:4",
+          "prompt": "What is the smallest a mobile home park can be in Jamestown?",
+          "choices": [
+            "At least 10 units and 40,000 square feet",
+            "At least 5 units",
+            "No minimum size if licensed",
+            "20 units and one acre"
+          ],
+          "answer": "At least 10 units and 40,000 square feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Tourist camps generally, N.D.C.C. 1960, §§ 23-10-01—23-10-12.\n\nN.D.C.C. Chapter 23-10 is hereby adopted in full by reference thereto. (Ord. No. 564, § 1; Ord. No. 1117, 1-10-96)\n\nChapter 33-33-01 entitled, \"Mobile Home Park Rules,\" and Chapter 33-33-02 entitled,\n               \"Trailer Park and Campground Rules,\" of the Administrative Rules of the state health\n               department are hereby adopted in full by reference thereto, save and except such portions\n               as are deleted, modified, or amended by section 28-3 which rules are now filed in the office of the city auditor, and the same are hereby\n               adopted and incorporated as fully as if set out at length herein, and the provisions\n               thereof shall be controlling with the city. (Ord. No. 564, § 2; Ord. No. 1117, 1-10-96)\n\nThe following are amendments or additions to the rules adopted in section 28-2 : (1) A license fee, as established from time to time by resolution of the city council,\n                  shall be assessed annually, payable January 1 of each year. (2) A mobile home park shall consist of a minimum of ten (10) units and forty thousand\n                  (40,000) square feet of area. (3) It shall be unlawful within the city limits for any person to park any trailer or\n                  mobile home on any street, alley, highway or other public place, or on any tract of\n                  land owned by any person, occupied or unoccupied, except by special permission of\n                  the city council. No automobile trailer or mobile home shall be occupied or used for\n                  human habitation unless located in a licensed mobile home park or trailer park. (Ord. No. 564, § 3; Ord. No. 806; Ord. No. 1117, 1-10-96)\n\nFire hydrants within a trailer park or mobile home park shall be served by water mains\n               of at least six (6) inches inside diameter with a minimum flow of five hundred (500)\n            …",
+          "sourceUrl": "https://library.municode.com/nd/jamestown/codes/code_of_ordinances?nodeId=CH28MOHOPATRPA"
+        }
+      ]
+    },
+    {
+      "id": "lincoln",
+      "name": "Lincoln",
+      "sourceIndex": "https://library.municode.com/nd/lincoln",
+      "questions": [
+        {
+          "id": "nd:lincoln:0",
+          "prompt": "On a typical weekday in Lincoln, licensed businesses cannot sell or serve alcohol between 1:00 a.m. and what time?",
+          "choices": [
+            "6:00 a.m.",
+            "8:00 a.m.",
+            "10:00 a.m.",
+            "Noon"
+          ],
+          "answer": "8:00 a.m.",
+          "excerpt": "For the purpose of this title, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Alcohol means neutral spirits distilled at or above one hundred ninety (190) degrees proof,\n               whether or not such product is subsequently reduced, for nonindustrial use. Alcoholic beverages means any liquid suitable for drinking by human beings, which contains one-half (½)\n               of one (1) percent or more of alcohol by volume. Beer means any malt beverage containing more than one-half (½) of one (1) percent of alcohol\n               by volume. Licensee means any person to whom a license has been issued under the provisions of this title. Liquor means any alcoholic beverage except beer. Lodge or club means and includes any corporation or association organized for civic, fraternal,\n               social, or business purposes, or for the promotion of sports, which has at least two\n               hundred (200) members at the time a license is applied for pursuant to this title,\n               and was in existence at the time of the adoption of the Liquor Control Act of the\n               state. For the purposes of this section, the date of the adoption of the Liquor Control\n               Act of the state shall be November 3, 1936. Package and original package means and includes any container or receptacle holding alcoholic beverages which\n               is corked or sealed by the manufacturer and which cork or seal has not been removed\n               or broken prior to the sale of such package to the purchaser. Person means and includes persons, partnerships, other unincorporated associations and corporations. Sale means and includes any transfer, exchange, or barter in any manner or by any means\n               whatsoever for a consideration, and includes all sales made by any person, whether\n               principal proprietor, agent, servant or employee. Sell at retail or sale at retail means a…",
+          "sourceUrl": "https://library.municode.com/nd/lincoln/codes/code_of_ordinances?nodeId=TIT4ALBE"
+        },
+        {
+          "id": "nd:lincoln:1",
+          "prompt": "After what time on Christmas Eve must Lincoln bars and liquor stores stop selling alcohol?",
+          "choices": [
+            "4:00 p.m.",
+            "6:00 p.m.",
+            "8:00 p.m.",
+            "Midnight"
+          ],
+          "answer": "6:00 p.m.",
+          "excerpt": "For the purpose of this title, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Alcohol means neutral spirits distilled at or above one hundred ninety (190) degrees proof,\n               whether or not such product is subsequently reduced, for nonindustrial use. Alcoholic beverages means any liquid suitable for drinking by human beings, which contains one-half (½)\n               of one (1) percent or more of alcohol by volume. Beer means any malt beverage containing more than one-half (½) of one (1) percent of alcohol\n               by volume. Licensee means any person to whom a license has been issued under the provisions of this title. Liquor means any alcoholic beverage except beer. Lodge or club means and includes any corporation or association organized for civic, fraternal,\n               social, or business purposes, or for the promotion of sports, which has at least two\n               hundred (200) members at the time a license is applied for pursuant to this title,\n               and was in existence at the time of the adoption of the Liquor Control Act of the\n               state. For the purposes of this section, the date of the adoption of the Liquor Control\n               Act of the state shall be November 3, 1936. Package and original package means and includes any container or receptacle holding alcoholic beverages which\n               is corked or sealed by the manufacturer and which cork or seal has not been removed\n               or broken prior to the sale of such package to the purchaser. Person means and includes persons, partnerships, other unincorporated associations and corporations. Sale means and includes any transfer, exchange, or barter in any manner or by any means\n               whatsoever for a consideration, and includes all sales made by any person, whether\n               principal proprietor, agent, servant or employee. Sell at retail or sale at retail means a…",
+          "sourceUrl": "https://library.municode.com/nd/lincoln/codes/code_of_ordinances?nodeId=TIT4ALBE"
+        },
+        {
+          "id": "nd:lincoln:2",
+          "prompt": "What is the earliest a licensed business in Lincoln can sell alcohol on a Sunday?",
+          "choices": [
+            "8:00 a.m.",
+            "11:00 a.m.",
+            "Noon",
+            "1:00 p.m."
+          ],
+          "answer": "11:00 a.m.",
+          "excerpt": "For the purpose of this title, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Alcohol means neutral spirits distilled at or above one hundred ninety (190) degrees proof,\n               whether or not such product is subsequently reduced, for nonindustrial use. Alcoholic beverages means any liquid suitable for drinking by human beings, which contains one-half (½)\n               of one (1) percent or more of alcohol by volume. Beer means any malt beverage containing more than one-half (½) of one (1) percent of alcohol\n               by volume. Licensee means any person to whom a license has been issued under the provisions of this title. Liquor means any alcoholic beverage except beer. Lodge or club means and includes any corporation or association organized for civic, fraternal,\n               social, or business purposes, or for the promotion of sports, which has at least two\n               hundred (200) members at the time a license is applied for pursuant to this title,\n               and was in existence at the time of the adoption of the Liquor Control Act of the\n               state. For the purposes of this section, the date of the adoption of the Liquor Control\n               Act of the state shall be November 3, 1936. Package and original package means and includes any container or receptacle holding alcoholic beverages which\n               is corked or sealed by the manufacturer and which cork or seal has not been removed\n               or broken prior to the sale of such package to the purchaser. Person means and includes persons, partnerships, other unincorporated associations and corporations. Sale means and includes any transfer, exchange, or barter in any manner or by any means\n               whatsoever for a consideration, and includes all sales made by any person, whether\n               principal proprietor, agent, servant or employee. Sell at retail or sale at retail means a…",
+          "sourceUrl": "https://library.municode.com/nd/lincoln/codes/code_of_ordinances?nodeId=TIT4ALBE"
+        },
+        {
+          "id": "nd:lincoln:3",
+          "prompt": "If a parent brings someone under 21 into the drink-mixing area of a Lincoln restaurant, that person cannot sit at or within how many feet of the bar counter?",
+          "choices": [
+            "3 feet",
+            "5 feet",
+            "10 feet",
+            "They cannot enter that area at all"
+          ],
+          "answer": "3 feet",
+          "excerpt": "For the purpose of this title, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Alcohol means neutral spirits distilled at or above one hundred ninety (190) degrees proof,\n               whether or not such product is subsequently reduced, for nonindustrial use. Alcoholic beverages means any liquid suitable for drinking by human beings, which contains one-half (½)\n               of one (1) percent or more of alcohol by volume. Beer means any malt beverage containing more than one-half (½) of one (1) percent of alcohol\n               by volume. Licensee means any person to whom a license has been issued under the provisions of this title. Liquor means any alcoholic beverage except beer. Lodge or club means and includes any corporation or association organized for civic, fraternal,\n               social, or business purposes, or for the promotion of sports, which has at least two\n               hundred (200) members at the time a license is applied for pursuant to this title,\n               and was in existence at the time of the adoption of the Liquor Control Act of the\n               state. For the purposes of this section, the date of the adoption of the Liquor Control\n               Act of the state shall be November 3, 1936. Package and original package means and includes any container or receptacle holding alcoholic beverages which\n               is corked or sealed by the manufacturer and which cork or seal has not been removed\n               or broken prior to the sale of such package to the purchaser. Person means and includes persons, partnerships, other unincorporated associations and corporations. Sale means and includes any transfer, exchange, or barter in any manner or by any means\n               whatsoever for a consideration, and includes all sales made by any person, whether\n               principal proprietor, agent, servant or employee. Sell at retail or sale at retail means a…",
+          "sourceUrl": "https://library.municode.com/nd/lincoln/codes/code_of_ordinances?nodeId=TIT4ALBE"
+        },
+        {
+          "id": "nd:lincoln:4",
+          "prompt": "In Lincoln, it is unlawful for anyone under 21 to:",
+          "choices": [
+            "Purchase or possess alcoholic beverages",
+            "Eat in a restaurant that also sells alcohol",
+            "Work as a food waiter or busser under adult supervision",
+            "Attend a special event that has an alcohol permit"
+          ],
+          "answer": "Purchase or possess alcoholic beverages",
+          "excerpt": "For the purpose of this title, the following words and phrases shall have the meanings\n               respectively ascribed to them by this section: Alcohol means neutral spirits distilled at or above one hundred ninety (190) degrees proof,\n               whether or not such product is subsequently reduced, for nonindustrial use. Alcoholic beverages means any liquid suitable for drinking by human beings, which contains one-half (½)\n               of one (1) percent or more of alcohol by volume. Beer means any malt beverage containing more than one-half (½) of one (1) percent of alcohol\n               by volume. Licensee means any person to whom a license has been issued under the provisions of this title. Liquor means any alcoholic beverage except beer. Lodge or club means and includes any corporation or association organized for civic, fraternal,\n               social, or business purposes, or for the promotion of sports, which has at least two\n               hundred (200) members at the time a license is applied for pursuant to this title,\n               and was in existence at the time of the adoption of the Liquor Control Act of the\n               state. For the purposes of this section, the date of the adoption of the Liquor Control\n               Act of the state shall be November 3, 1936. Package and original package means and includes any container or receptacle holding alcoholic beverages which\n               is corked or sealed by the manufacturer and which cork or seal has not been removed\n               or broken prior to the sale of such package to the purchaser. Person means and includes persons, partnerships, other unincorporated associations and corporations. Sale means and includes any transfer, exchange, or barter in any manner or by any means\n               whatsoever for a consideration, and includes all sales made by any person, whether\n               principal proprietor, agent, servant or employee. Sell at retail or sale at retail means a…",
+          "sourceUrl": "https://library.municode.com/nd/lincoln/codes/code_of_ordinances?nodeId=TIT4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "mandan",
+      "name": "Mandan",
+      "sourceIndex": "https://library.municode.com/nd/mandan",
+      "questions": [
+        {
+          "id": "nd:mandan:0",
+          "prompt": "In Mandan, when may licensed places not serve alcohol or let people drink it?",
+          "choices": [
+            "From 1:00 a.m. to 8:00 a.m. every day of the week",
+            "Only after midnight on Sundays",
+            "From 2:00 a.m. to 10:00 a.m. on weekdays",
+            "All day on holidays"
+          ],
+          "answer": "From 1:00 a.m. to 8:00 a.m. every day of the week",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Growler means a glass bottle not to exceed 64 ounces that is filled with beer by a licensee\n               or an employee of a licensee with beer from a keg. The sale of growlers, in compliance\n               with this chapter, is authorized only for licensees approved to sell alcoholic beverages\n               both on-sale and off-sale. The filling of growlers by means of tapped keg shall not\n               constitute the breaking of a package. Growlers may only be filled from kegs procured\n               by the licensee from a duly licensed wholesaler or produced by the licensee pursuant\n               to applicable laws. Only professionally sanitized and sealed growlers may be filled\n               and made available for retail sale. The sale of a filled growler shall be considered\n               off-sale. A growler with a broken seal shall be considered an open container. Licensed premises means: (1) The rooms within a building, including the bar area, dining room, banquet or meeting\n                  rooms and all other areas, spaces or rooms where alcoholic beverages are regularly\n                  or occasionally sold, served, dispensed or consumed by patrons; (2) An enclosed patio structure permanently affixed to the building of the licensed premises\n                  which has been approved under the provisions of section 4-1-11 ; (3) A temporary site off and away from the licensed premises which has been approved by\n                  the board under the provisions of sections 4-2-6 or 4-2-9 ; or (4) A publicly owned or operated facility which has been granted a special permit…",
+          "sourceUrl": "https://library.municode.com/nd/mandan/codes/code_of_ordinances?nodeId=PT2CO_CH4ALBE"
+        },
+        {
+          "id": "nd:mandan:1",
+          "prompt": "How large can a take-home beer growler be when filled at a Mandan bar?",
+          "choices": [
+            "No bigger than 64 ounces",
+            "Up to one gallon",
+            "Any size as long as it is glass",
+            "32 ounces only"
+          ],
+          "answer": "No bigger than 64 ounces",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Growler means a glass bottle not to exceed 64 ounces that is filled with beer by a licensee\n               or an employee of a licensee with beer from a keg. The sale of growlers, in compliance\n               with this chapter, is authorized only for licensees approved to sell alcoholic beverages\n               both on-sale and off-sale. The filling of growlers by means of tapped keg shall not\n               constitute the breaking of a package. Growlers may only be filled from kegs procured\n               by the licensee from a duly licensed wholesaler or produced by the licensee pursuant\n               to applicable laws. Only professionally sanitized and sealed growlers may be filled\n               and made available for retail sale. The sale of a filled growler shall be considered\n               off-sale. A growler with a broken seal shall be considered an open container. Licensed premises means: (1) The rooms within a building, including the bar area, dining room, banquet or meeting\n                  rooms and all other areas, spaces or rooms where alcoholic beverages are regularly\n                  or occasionally sold, served, dispensed or consumed by patrons; (2) An enclosed patio structure permanently affixed to the building of the licensed premises\n                  which has been approved under the provisions of section 4-1-11 ; (3) A temporary site off and away from the licensed premises which has been approved by\n                  the board under the provisions of sections 4-2-6 or 4-2-9 ; or (4) A publicly owned or operated facility which has been granted a special permit…",
+          "sourceUrl": "https://library.municode.com/nd/mandan/codes/code_of_ordinances?nodeId=PT2CO_CH4ALBE"
+        },
+        {
+          "id": "nd:mandan:2",
+          "prompt": "Unless they give consent, a new class A, D, or D-1 liquor license generally cannot be issued within 300 feet of which of these?",
+          "choices": [
+            "A school, church, public library, or hospital",
+            "A city park or playground",
+            "Another bar or restaurant",
+            "A private house"
+          ],
+          "answer": "A school, church, public library, or hospital",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Growler means a glass bottle not to exceed 64 ounces that is filled with beer by a licensee\n               or an employee of a licensee with beer from a keg. The sale of growlers, in compliance\n               with this chapter, is authorized only for licensees approved to sell alcoholic beverages\n               both on-sale and off-sale. The filling of growlers by means of tapped keg shall not\n               constitute the breaking of a package. Growlers may only be filled from kegs procured\n               by the licensee from a duly licensed wholesaler or produced by the licensee pursuant\n               to applicable laws. Only professionally sanitized and sealed growlers may be filled\n               and made available for retail sale. The sale of a filled growler shall be considered\n               off-sale. A growler with a broken seal shall be considered an open container. Licensed premises means: (1) The rooms within a building, including the bar area, dining room, banquet or meeting\n                  rooms and all other areas, spaces or rooms where alcoholic beverages are regularly\n                  or occasionally sold, served, dispensed or consumed by patrons; (2) An enclosed patio structure permanently affixed to the building of the licensed premises\n                  which has been approved under the provisions of section 4-1-11 ; (3) A temporary site off and away from the licensed premises which has been approved by\n                  the board under the provisions of sections 4-2-6 or 4-2-9 ; or (4) A publicly owned or operated facility which has been granted a special permit…",
+          "sourceUrl": "https://library.municode.com/nd/mandan/codes/code_of_ordinances?nodeId=PT2CO_CH4ALBE"
+        },
+        {
+          "id": "nd:mandan:3",
+          "prompt": "A building seeking a retail liquor license in Mandan must:",
+          "choices": [
+            "Directly adjoin a public street",
+            "Have its own off-street parking",
+            "Be two stories or shorter",
+            "Sit at least one block from a school"
+          ],
+          "answer": "Directly adjoin a public street",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Growler means a glass bottle not to exceed 64 ounces that is filled with beer by a licensee\n               or an employee of a licensee with beer from a keg. The sale of growlers, in compliance\n               with this chapter, is authorized only for licensees approved to sell alcoholic beverages\n               both on-sale and off-sale. The filling of growlers by means of tapped keg shall not\n               constitute the breaking of a package. Growlers may only be filled from kegs procured\n               by the licensee from a duly licensed wholesaler or produced by the licensee pursuant\n               to applicable laws. Only professionally sanitized and sealed growlers may be filled\n               and made available for retail sale. The sale of a filled growler shall be considered\n               off-sale. A growler with a broken seal shall be considered an open container. Licensed premises means: (1) The rooms within a building, including the bar area, dining room, banquet or meeting\n                  rooms and all other areas, spaces or rooms where alcoholic beverages are regularly\n                  or occasionally sold, served, dispensed or consumed by patrons; (2) An enclosed patio structure permanently affixed to the building of the licensed premises\n                  which has been approved under the provisions of section 4-1-11 ; (3) A temporary site off and away from the licensed premises which has been approved by\n                  the board under the provisions of sections 4-2-6 or 4-2-9 ; or (4) A publicly owned or operated facility which has been granted a special permit…",
+          "sourceUrl": "https://library.municode.com/nd/mandan/codes/code_of_ordinances?nodeId=PT2CO_CH4ALBE"
+        },
+        {
+          "id": "nd:mandan:4",
+          "prompt": "A lodge or club applying for a Mandan liquor license must have at least 200 members and have existed on what date?",
+          "choices": [
+            "November 3, 1936",
+            "January 1, 1933",
+            "December 5, 1933",
+            "The year Mandan was founded"
+          ],
+          "answer": "November 3, 1936",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09.\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Growler means a glass bottle not to exceed 64 ounces that is filled with beer by a licensee\n               or an employee of a licensee with beer from a keg. The sale of growlers, in compliance\n               with this chapter, is authorized only for licensees approved to sell alcoholic beverages\n               both on-sale and off-sale. The filling of growlers by means of tapped keg shall not\n               constitute the breaking of a package. Growlers may only be filled from kegs procured\n               by the licensee from a duly licensed wholesaler or produced by the licensee pursuant\n               to applicable laws. Only professionally sanitized and sealed growlers may be filled\n               and made available for retail sale. The sale of a filled growler shall be considered\n               off-sale. A growler with a broken seal shall be considered an open container. Licensed premises means: (1) The rooms within a building, including the bar area, dining room, banquet or meeting\n                  rooms and all other areas, spaces or rooms where alcoholic beverages are regularly\n                  or occasionally sold, served, dispensed or consumed by patrons; (2) An enclosed patio structure permanently affixed to the building of the licensed premises\n                  which has been approved under the provisions of section 4-1-11 ; (3) A temporary site off and away from the licensed premises which has been approved by\n                  the board under the provisions of sections 4-2-6 or 4-2-9 ; or (4) A publicly owned or operated facility which has been granted a special permit…",
+          "sourceUrl": "https://library.municode.com/nd/mandan/codes/code_of_ordinances?nodeId=PT2CO_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "minot",
+      "name": "Minot",
+      "sourceIndex": "https://library.municode.com/nd/minot",
+      "questions": [
+        {
+          "id": "nd:minot:0",
+          "prompt": "If you throw advertising flyers onto Minot streets or sidewalks, what penalty does the city code set?",
+          "choices": [
+            "A $50 fine",
+            "A $150 fine",
+            "A $500 fine",
+            "A warning only"
+          ],
+          "answer": "A $150 fine",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority of municipalities to regulate advertising and signs, N.D.C.C., § 40-05-01(16).\n\n(a) It shall be unlawful to distribute handbills, poster, or other papers in the streets\n               of the city or for any person to throw or deposit upon the streets, sidewalks, alleys,\n               or any public place in the city any handbills, posters, or other papers. (b) Nothing shall be construed so as to prevent any person from delivering into any place\n               of business or residence in the city any poster, handbill, or other paper in such\n               a manner that the same will not fall or be blown by the wind upon the streets, sidewalks,\n               or public places in the city. (c) The penalty for a violation of section 3-1 shall be a fine of one hundred fifty dollars ($150.00). (Rev. Gen. Ords. 1962, §§ 18-0305, 18-0306; Ord. No. 4809, § 1)\n\n(a) The city council of the City of Minot finds and determines, that: (1) The placement and maintenance of signs within the untraveled portion of the public\n               right-of-way creates a special hazard and matter of public concern because a sign,\n               by its very nature and purpose, is designed and maintained to invite the notice and\n               attention of passersby, and consequently the closer a sign is placed to the traveled\n               portion of the right-of-way the greater the potential for distracting the attention\n               of motorists or pedestrians or both, thus increasing the risk of traffic accidents. (2) In this regard a sign located within the public right-of-way is qualitatively different\n               from other projections or fixtures placed and maintained within the right-of-way,\n               so that a prohibition on such sign placement and maintenance is justified by the health\n               and safety interests of the community, even though such interests may not or do not\n               justify a flat…",
+          "sourceUrl": "https://library.municode.com/nd/minot/codes/code_of_ordinances?nodeId=COOR_CH3ADSI"
+        },
+        {
+          "id": "nd:minot:1",
+          "prompt": "How may you legally get a flyer or poster to people in Minot?",
+          "choices": [
+            "Leave piles of them on public sidewalks",
+            "Tape them to streetlights and alley poles",
+            "Deliver them into a home or business so they will not blow onto the street",
+            "Toss them from a car along the curb"
+          ],
+          "answer": "Deliver them into a home or business so they will not blow onto the street",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority of municipalities to regulate advertising and signs, N.D.C.C., § 40-05-01(16).\n\n(a) It shall be unlawful to distribute handbills, poster, or other papers in the streets\n               of the city or for any person to throw or deposit upon the streets, sidewalks, alleys,\n               or any public place in the city any handbills, posters, or other papers. (b) Nothing shall be construed so as to prevent any person from delivering into any place\n               of business or residence in the city any poster, handbill, or other paper in such\n               a manner that the same will not fall or be blown by the wind upon the streets, sidewalks,\n               or public places in the city. (c) The penalty for a violation of section 3-1 shall be a fine of one hundred fifty dollars ($150.00). (Rev. Gen. Ords. 1962, §§ 18-0305, 18-0306; Ord. No. 4809, § 1)\n\n(a) The city council of the City of Minot finds and determines, that: (1) The placement and maintenance of signs within the untraveled portion of the public\n               right-of-way creates a special hazard and matter of public concern because a sign,\n               by its very nature and purpose, is designed and maintained to invite the notice and\n               attention of passersby, and consequently the closer a sign is placed to the traveled\n               portion of the right-of-way the greater the potential for distracting the attention\n               of motorists or pedestrians or both, thus increasing the risk of traffic accidents. (2) In this regard a sign located within the public right-of-way is qualitatively different\n               from other projections or fixtures placed and maintained within the right-of-way,\n               so that a prohibition on such sign placement and maintenance is justified by the health\n               and safety interests of the community, even though such interests may not or do not\n               justify a flat…",
+          "sourceUrl": "https://library.municode.com/nd/minot/codes/code_of_ordinances?nodeId=COOR_CH3ADSI"
+        },
+        {
+          "id": "nd:minot:2",
+          "prompt": "In a Minot residential area, how long may one garage-sale or yard-sale sign stay up at your house each year?",
+          "choices": [
+            "7 days in a row",
+            "Not more than 21 days, which do not have to be consecutive",
+            "Every weekend from May through September",
+            "As long as you like if the sign is not lit"
+          ],
+          "answer": "Not more than 21 days, which do not have to be consecutive",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority of municipalities to regulate advertising and signs, N.D.C.C., § 40-05-01(16).\n\n(a) It shall be unlawful to distribute handbills, poster, or other papers in the streets\n               of the city or for any person to throw or deposit upon the streets, sidewalks, alleys,\n               or any public place in the city any handbills, posters, or other papers. (b) Nothing shall be construed so as to prevent any person from delivering into any place\n               of business or residence in the city any poster, handbill, or other paper in such\n               a manner that the same will not fall or be blown by the wind upon the streets, sidewalks,\n               or public places in the city. (c) The penalty for a violation of section 3-1 shall be a fine of one hundred fifty dollars ($150.00). (Rev. Gen. Ords. 1962, §§ 18-0305, 18-0306; Ord. No. 4809, § 1)\n\n(a) The city council of the City of Minot finds and determines, that: (1) The placement and maintenance of signs within the untraveled portion of the public\n               right-of-way creates a special hazard and matter of public concern because a sign,\n               by its very nature and purpose, is designed and maintained to invite the notice and\n               attention of passersby, and consequently the closer a sign is placed to the traveled\n               portion of the right-of-way the greater the potential for distracting the attention\n               of motorists or pedestrians or both, thus increasing the risk of traffic accidents. (2) In this regard a sign located within the public right-of-way is qualitatively different\n               from other projections or fixtures placed and maintained within the right-of-way,\n               so that a prohibition on such sign placement and maintenance is justified by the health\n               and safety interests of the community, even though such interests may not or do not\n               justify a flat…",
+          "sourceUrl": "https://library.municode.com/nd/minot/codes/code_of_ordinances?nodeId=COOR_CH3ADSI"
+        },
+        {
+          "id": "nd:minot:3",
+          "prompt": "How many “For Sale” or “For Rent” signs does Minot allow for each dwelling unit in a residential zone?",
+          "choices": [
+            "One",
+            "Two",
+            "Four",
+            "Unlimited if they are not lit"
+          ],
+          "answer": "Two",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority of municipalities to regulate advertising and signs, N.D.C.C., § 40-05-01(16).\n\n(a) It shall be unlawful to distribute handbills, poster, or other papers in the streets\n               of the city or for any person to throw or deposit upon the streets, sidewalks, alleys,\n               or any public place in the city any handbills, posters, or other papers. (b) Nothing shall be construed so as to prevent any person from delivering into any place\n               of business or residence in the city any poster, handbill, or other paper in such\n               a manner that the same will not fall or be blown by the wind upon the streets, sidewalks,\n               or public places in the city. (c) The penalty for a violation of section 3-1 shall be a fine of one hundred fifty dollars ($150.00). (Rev. Gen. Ords. 1962, §§ 18-0305, 18-0306; Ord. No. 4809, § 1)\n\n(a) The city council of the City of Minot finds and determines, that: (1) The placement and maintenance of signs within the untraveled portion of the public\n               right-of-way creates a special hazard and matter of public concern because a sign,\n               by its very nature and purpose, is designed and maintained to invite the notice and\n               attention of passersby, and consequently the closer a sign is placed to the traveled\n               portion of the right-of-way the greater the potential for distracting the attention\n               of motorists or pedestrians or both, thus increasing the risk of traffic accidents. (2) In this regard a sign located within the public right-of-way is qualitatively different\n               from other projections or fixtures placed and maintained within the right-of-way,\n               so that a prohibition on such sign placement and maintenance is justified by the health\n               and safety interests of the community, even though such interests may not or do not\n               justify a flat…",
+          "sourceUrl": "https://library.municode.com/nd/minot/codes/code_of_ordinances?nodeId=COOR_CH3ADSI"
+        },
+        {
+          "id": "nd:minot:4",
+          "prompt": "In Minot, how high must a hanging sign be above a sidewalk?",
+          "choices": [
+            "At least 5 feet",
+            "At least 6 feet",
+            "At least 7 feet",
+            "At least 10 feet"
+          ],
+          "answer": "At least 7 feet",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Authority of municipalities to regulate advertising and signs, N.D.C.C., § 40-05-01(16).\n\n(a) It shall be unlawful to distribute handbills, poster, or other papers in the streets\n               of the city or for any person to throw or deposit upon the streets, sidewalks, alleys,\n               or any public place in the city any handbills, posters, or other papers. (b) Nothing shall be construed so as to prevent any person from delivering into any place\n               of business or residence in the city any poster, handbill, or other paper in such\n               a manner that the same will not fall or be blown by the wind upon the streets, sidewalks,\n               or public places in the city. (c) The penalty for a violation of section 3-1 shall be a fine of one hundred fifty dollars ($150.00). (Rev. Gen. Ords. 1962, §§ 18-0305, 18-0306; Ord. No. 4809, § 1)\n\n(a) The city council of the City of Minot finds and determines, that: (1) The placement and maintenance of signs within the untraveled portion of the public\n               right-of-way creates a special hazard and matter of public concern because a sign,\n               by its very nature and purpose, is designed and maintained to invite the notice and\n               attention of passersby, and consequently the closer a sign is placed to the traveled\n               portion of the right-of-way the greater the potential for distracting the attention\n               of motorists or pedestrians or both, thus increasing the risk of traffic accidents. (2) In this regard a sign located within the public right-of-way is qualitatively different\n               from other projections or fixtures placed and maintained within the right-of-way,\n               so that a prohibition on such sign placement and maintenance is justified by the health\n               and safety interests of the community, even though such interests may not or do not\n               justify a flat…",
+          "sourceUrl": "https://library.municode.com/nd/minot/codes/code_of_ordinances?nodeId=COOR_CH3ADSI"
+        }
+      ]
+    },
+    {
+      "id": "ray",
+      "name": "Ray",
+      "sourceIndex": "https://library.municode.com/nd/ray",
+      "questions": [
+        {
+          "id": "nd:ray:0",
+          "prompt": "Who holds all the powers of the City of Ray under its home rule charter?",
+          "choices": [
+            "The elected city governing body",
+            "The mayor acting alone",
+            "The North Dakota governor",
+            "A volunteer board"
+          ],
+          "answer": "The elected city governing body",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter. Amendments are indicated by\n               parenthetical history notes following amended provisions. The absence of a history\n               note indicates that the provision remains unchanged from the original. For stylistic\n               purposes, headings and catchlines have been made uniform, and the same style of expression\n               of numbers in text as appears in the Code of Ordinances has been used. A consistent\n               scheme of capitalization has also been used. Additions for clarity are indicated by\n               brackets.\n\nThe inhabitants of the City of Ray, North Dakota, within the corporate limits as now\n               established or as established later in the manner provided by law, shall continue\n               to be a municipal body politic and corporate in perpetuity, under the name of the\n               \"City of Ray.\"\n\nSubject to the limitations imposed by the state constitution, state law, and this\n               Charter, all powers of the city shall be vested in the elected city governing body.\n               The elected governing body shall enact local ordinances, adopt budgets, determine\n               policies, and prescribe the functions of government to be performed under this Charter\n               by the city. The elected city governing body shall have the power to enact all proper\n               and necessary ordinances, resolutions and orders to carry out and give effect to the\n               express and implied powers granted in this Charter. All powers of the city shall be\n               exercised in the manner prescribed by this Charter, or if the manner is not prescribed,\n               then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all of the implied powers\n …",
+          "sourceUrl": "https://library.municode.com/nd/ray/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:ray:1",
+          "prompt": "Can the City of Ray impose a tax on personal income?",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "answer": "No",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter. Amendments are indicated by\n               parenthetical history notes following amended provisions. The absence of a history\n               note indicates that the provision remains unchanged from the original. For stylistic\n               purposes, headings and catchlines have been made uniform, and the same style of expression\n               of numbers in text as appears in the Code of Ordinances has been used. A consistent\n               scheme of capitalization has also been used. Additions for clarity are indicated by\n               brackets.\n\nThe inhabitants of the City of Ray, North Dakota, within the corporate limits as now\n               established or as established later in the manner provided by law, shall continue\n               to be a municipal body politic and corporate in perpetuity, under the name of the\n               \"City of Ray.\"\n\nSubject to the limitations imposed by the state constitution, state law, and this\n               Charter, all powers of the city shall be vested in the elected city governing body.\n               The elected governing body shall enact local ordinances, adopt budgets, determine\n               policies, and prescribe the functions of government to be performed under this Charter\n               by the city. The elected city governing body shall have the power to enact all proper\n               and necessary ordinances, resolutions and orders to carry out and give effect to the\n               express and implied powers granted in this Charter. All powers of the city shall be\n               exercised in the manner prescribed by this Charter, or if the manner is not prescribed,\n               then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all of the implied powers\n …",
+          "sourceUrl": "https://library.municode.com/nd/ray/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:ray:2",
+          "prompt": "Does the charter let Ray charge extra registration fees on motor vehicles?",
+          "choices": [
+            "Yes",
+            "No, only the state may do that"
+          ],
+          "answer": "Yes",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter. Amendments are indicated by\n               parenthetical history notes following amended provisions. The absence of a history\n               note indicates that the provision remains unchanged from the original. For stylistic\n               purposes, headings and catchlines have been made uniform, and the same style of expression\n               of numbers in text as appears in the Code of Ordinances has been used. A consistent\n               scheme of capitalization has also been used. Additions for clarity are indicated by\n               brackets.\n\nThe inhabitants of the City of Ray, North Dakota, within the corporate limits as now\n               established or as established later in the manner provided by law, shall continue\n               to be a municipal body politic and corporate in perpetuity, under the name of the\n               \"City of Ray.\"\n\nSubject to the limitations imposed by the state constitution, state law, and this\n               Charter, all powers of the city shall be vested in the elected city governing body.\n               The elected governing body shall enact local ordinances, adopt budgets, determine\n               policies, and prescribe the functions of government to be performed under this Charter\n               by the city. The elected city governing body shall have the power to enact all proper\n               and necessary ordinances, resolutions and orders to carry out and give effect to the\n               express and implied powers granted in this Charter. All powers of the city shall be\n               exercised in the manner prescribed by this Charter, or if the manner is not prescribed,\n               then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all of the implied powers\n …",
+          "sourceUrl": "https://library.municode.com/nd/ray/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:ray:3",
+          "prompt": "Ray may add sales and use taxes. Those taxes may not use multiple rates except for some items. Which group is an allowed exception?",
+          "choices": [
+            "Electricity, piped natural or artificial gas, other heating fuels, motor vehicles, aircraft, watercraft, modular homes, manufactured homes, or mobile homes",
+            "Groceries and prescription drugs",
+            "Clothing and shoes",
+            "Restaurant meals"
+          ],
+          "answer": "Electricity, piped natural or artificial gas, other heating fuels, motor vehicles, aircraft, watercraft, modular homes, manufactured homes, or mobile homes",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter. Amendments are indicated by\n               parenthetical history notes following amended provisions. The absence of a history\n               note indicates that the provision remains unchanged from the original. For stylistic\n               purposes, headings and catchlines have been made uniform, and the same style of expression\n               of numbers in text as appears in the Code of Ordinances has been used. A consistent\n               scheme of capitalization has also been used. Additions for clarity are indicated by\n               brackets.\n\nThe inhabitants of the City of Ray, North Dakota, within the corporate limits as now\n               established or as established later in the manner provided by law, shall continue\n               to be a municipal body politic and corporate in perpetuity, under the name of the\n               \"City of Ray.\"\n\nSubject to the limitations imposed by the state constitution, state law, and this\n               Charter, all powers of the city shall be vested in the elected city governing body.\n               The elected governing body shall enact local ordinances, adopt budgets, determine\n               policies, and prescribe the functions of government to be performed under this Charter\n               by the city. The elected city governing body shall have the power to enact all proper\n               and necessary ordinances, resolutions and orders to carry out and give effect to the\n               express and implied powers granted in this Charter. All powers of the city shall be\n               exercised in the manner prescribed by this Charter, or if the manner is not prescribed,\n               then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all of the implied powers\n …",
+          "sourceUrl": "https://library.municode.com/nd/ray/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:ray:4",
+          "prompt": "What extra power do voters in Ray have over city ordinances?",
+          "choices": [
+            "They can initiate new ordinances and refer others to a vote",
+            "They vote on the budget every month",
+            "They have no power besides electing officials",
+            "They can fire the city attorney"
+          ],
+          "answer": "They can initiate new ordinances and refer others to a vote",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter. Amendments are indicated by\n               parenthetical history notes following amended provisions. The absence of a history\n               note indicates that the provision remains unchanged from the original. For stylistic\n               purposes, headings and catchlines have been made uniform, and the same style of expression\n               of numbers in text as appears in the Code of Ordinances has been used. A consistent\n               scheme of capitalization has also been used. Additions for clarity are indicated by\n               brackets.\n\nThe inhabitants of the City of Ray, North Dakota, within the corporate limits as now\n               established or as established later in the manner provided by law, shall continue\n               to be a municipal body politic and corporate in perpetuity, under the name of the\n               \"City of Ray.\"\n\nSubject to the limitations imposed by the state constitution, state law, and this\n               Charter, all powers of the city shall be vested in the elected city governing body.\n               The elected governing body shall enact local ordinances, adopt budgets, determine\n               policies, and prescribe the functions of government to be performed under this Charter\n               by the city. The elected city governing body shall have the power to enact all proper\n               and necessary ordinances, resolutions and orders to carry out and give effect to the\n               express and implied powers granted in this Charter. All powers of the city shall be\n               exercised in the manner prescribed by this Charter, or if the manner is not prescribed,\n               then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all of the implied powers\n …",
+          "sourceUrl": "https://library.municode.com/nd/ray/codes/code_of_ordinances?nodeId=PTICH"
+        }
+      ]
+    },
+    {
+      "id": "rugby",
+      "name": "Rugby",
+      "sourceIndex": "https://library.municode.com/nd/rugby",
+      "questions": [
+        {
+          "id": "nd:rugby:0",
+          "prompt": "Where may a Rugby resident plant a shade or ornamental tree next to their lot?",
+          "choices": [
+            "Anywhere along the street they choose",
+            "Between the sidewalk and the roadway, only where the street commissioner allows",
+            "In the middle of the carriage way",
+            "Only on private property inside the lot"
+          ],
+          "answer": "Between the sidewalk and the roadway, only where the street commissioner allows",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- For statutory powers relating to parks and boulevards, See N.D.C.C. § 40-05-01(9). For statutory provisions as to parks and park districts, See N.D.C.C., Chapter 40-49.\n\nSections:\n\nThe city council hereby accepts and creates a park district of the city under the\n               provisions of Article 24 of Chapter 49 of the Political Code of the Compiled Laws\n               of the State of North Dakota for the year 1913, as amended by Chapter 71 of the Session\n               Laws of 1915; Chapter 178 of the Session Laws of 1917; Chapter 96 of the Session Laws\n               of 1921; Chapter 194 of the Session Laws of 1927; Chapter 180 of the Session Laws\n               of 1929; Chapter 198 of the Session Laws of 1931; and Chapter 204 of the Session Laws\n               of 1935; and all acts or amendments which may be hereafter enacted or made. (1942 Rev. Ords., § 12-101)\n\nSuch park district shall embrace the whole of the territory within the city limits\n               of the city, and such other areas as may from time to time be permitted by the laws\n               of North Dakota. (1942 Rev. Ords., § 12-102)\n\nSections:\n\nAny person or persons who may own or have an interest in any lot, parts of lots, or\n               parcel of land in this city, may and they are hereby authorized to set out or plant\n               in any of the streets of this city adjacent to the lots, parts of lots, or tracts\n               of land, on the line between the sidewalk and the carriage way of such street in such\n               places as the street commissioner may designate or permit, any shade or ornamental\n               trees; and such person or persons shall have permission to take all proper ways and\n               means to promote the growth or protect said shade and ornamental trees. (1942 Rev. Ords., § 12-201)\n\nThe same shall at all times be kept trimmed so that there will be eight feet clear\n               between the sidewalk and the lambs.…",
+          "sourceUrl": "https://library.municode.com/nd/rugby/codes/code_of_ordinances?nodeId=TIT11PABO"
+        },
+        {
+          "id": "nd:rugby:1",
+          "prompt": "May you hitch or tie a horse or other animal to a shade tree on a Rugby street, park, or public square?",
+          "choices": [
+            "Yes, if you planted the tree",
+            "Yes, for a short stop",
+            "No, hitching animals to shade trees is not allowed",
+            "Only with the mayor's written okay"
+          ],
+          "answer": "No, hitching animals to shade trees is not allowed",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- For statutory powers relating to parks and boulevards, See N.D.C.C. § 40-05-01(9). For statutory provisions as to parks and park districts, See N.D.C.C., Chapter 40-49.\n\nSections:\n\nThe city council hereby accepts and creates a park district of the city under the\n               provisions of Article 24 of Chapter 49 of the Political Code of the Compiled Laws\n               of the State of North Dakota for the year 1913, as amended by Chapter 71 of the Session\n               Laws of 1915; Chapter 178 of the Session Laws of 1917; Chapter 96 of the Session Laws\n               of 1921; Chapter 194 of the Session Laws of 1927; Chapter 180 of the Session Laws\n               of 1929; Chapter 198 of the Session Laws of 1931; and Chapter 204 of the Session Laws\n               of 1935; and all acts or amendments which may be hereafter enacted or made. (1942 Rev. Ords., § 12-101)\n\nSuch park district shall embrace the whole of the territory within the city limits\n               of the city, and such other areas as may from time to time be permitted by the laws\n               of North Dakota. (1942 Rev. Ords., § 12-102)\n\nSections:\n\nAny person or persons who may own or have an interest in any lot, parts of lots, or\n               parcel of land in this city, may and they are hereby authorized to set out or plant\n               in any of the streets of this city adjacent to the lots, parts of lots, or tracts\n               of land, on the line between the sidewalk and the carriage way of such street in such\n               places as the street commissioner may designate or permit, any shade or ornamental\n               trees; and such person or persons shall have permission to take all proper ways and\n               means to promote the growth or protect said shade and ornamental trees. (1942 Rev. Ords., § 12-201)\n\nThe same shall at all times be kept trimmed so that there will be eight feet clear\n               between the sidewalk and the lambs.…",
+          "sourceUrl": "https://library.municode.com/nd/rugby/codes/code_of_ordinances?nodeId=TIT11PABO"
+        },
+        {
+          "id": "nd:rugby:2",
+          "prompt": "What is the speed limit for a bicycle, motorcycle, or automobile inside a Rugby park?",
+          "choices": [
+            "10 miles per hour",
+            "20 miles per hour",
+            "No posted limit for bikes",
+            "5 miles per hour"
+          ],
+          "answer": "20 miles per hour",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- For statutory powers relating to parks and boulevards, See N.D.C.C. § 40-05-01(9). For statutory provisions as to parks and park districts, See N.D.C.C., Chapter 40-49.\n\nSections:\n\nThe city council hereby accepts and creates a park district of the city under the\n               provisions of Article 24 of Chapter 49 of the Political Code of the Compiled Laws\n               of the State of North Dakota for the year 1913, as amended by Chapter 71 of the Session\n               Laws of 1915; Chapter 178 of the Session Laws of 1917; Chapter 96 of the Session Laws\n               of 1921; Chapter 194 of the Session Laws of 1927; Chapter 180 of the Session Laws\n               of 1929; Chapter 198 of the Session Laws of 1931; and Chapter 204 of the Session Laws\n               of 1935; and all acts or amendments which may be hereafter enacted or made. (1942 Rev. Ords., § 12-101)\n\nSuch park district shall embrace the whole of the territory within the city limits\n               of the city, and such other areas as may from time to time be permitted by the laws\n               of North Dakota. (1942 Rev. Ords., § 12-102)\n\nSections:\n\nAny person or persons who may own or have an interest in any lot, parts of lots, or\n               parcel of land in this city, may and they are hereby authorized to set out or plant\n               in any of the streets of this city adjacent to the lots, parts of lots, or tracts\n               of land, on the line between the sidewalk and the carriage way of such street in such\n               places as the street commissioner may designate or permit, any shade or ornamental\n               trees; and such person or persons shall have permission to take all proper ways and\n               means to promote the growth or protect said shade and ornamental trees. (1942 Rev. Ords., § 12-201)\n\nThe same shall at all times be kept trimmed so that there will be eight feet clear\n               between the sidewalk and the lambs.…",
+          "sourceUrl": "https://library.municode.com/nd/rugby/codes/code_of_ordinances?nodeId=TIT11PABO"
+        },
+        {
+          "id": "nd:rugby:3",
+          "prompt": "Can you let cattle, horses, goats, or similar animals graze in a Rugby park if someone is watching them?",
+          "choices": [
+            "Yes, a watcher makes it legal",
+            "Yes, if they are tied with a rope",
+            "No, grazing there counts as running at large even with a watcher",
+            "Only on designated picnic days"
+          ],
+          "answer": "No, grazing there counts as running at large even with a watcher",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- For statutory powers relating to parks and boulevards, See N.D.C.C. § 40-05-01(9). For statutory provisions as to parks and park districts, See N.D.C.C., Chapter 40-49.\n\nSections:\n\nThe city council hereby accepts and creates a park district of the city under the\n               provisions of Article 24 of Chapter 49 of the Political Code of the Compiled Laws\n               of the State of North Dakota for the year 1913, as amended by Chapter 71 of the Session\n               Laws of 1915; Chapter 178 of the Session Laws of 1917; Chapter 96 of the Session Laws\n               of 1921; Chapter 194 of the Session Laws of 1927; Chapter 180 of the Session Laws\n               of 1929; Chapter 198 of the Session Laws of 1931; and Chapter 204 of the Session Laws\n               of 1935; and all acts or amendments which may be hereafter enacted or made. (1942 Rev. Ords., § 12-101)\n\nSuch park district shall embrace the whole of the territory within the city limits\n               of the city, and such other areas as may from time to time be permitted by the laws\n               of North Dakota. (1942 Rev. Ords., § 12-102)\n\nSections:\n\nAny person or persons who may own or have an interest in any lot, parts of lots, or\n               parcel of land in this city, may and they are hereby authorized to set out or plant\n               in any of the streets of this city adjacent to the lots, parts of lots, or tracts\n               of land, on the line between the sidewalk and the carriage way of such street in such\n               places as the street commissioner may designate or permit, any shade or ornamental\n               trees; and such person or persons shall have permission to take all proper ways and\n               means to promote the growth or protect said shade and ornamental trees. (1942 Rev. Ords., § 12-201)\n\nThe same shall at all times be kept trimmed so that there will be eight feet clear\n               between the sidewalk and the lambs.…",
+          "sourceUrl": "https://library.municode.com/nd/rugby/codes/code_of_ordinances?nodeId=TIT11PABO"
+        },
+        {
+          "id": "nd:rugby:4",
+          "prompt": "May you walk across the grass berm or boulevard strip beside a Rugby street?",
+          "choices": [
+            "Yes, it is public lawn for everyone",
+            "No, except in case of necessity",
+            "Never, under any circumstances",
+            "Only after dark"
+          ],
+          "answer": "No, except in case of necessity",
+          "excerpt": "Chapters: Footnotes: --- ( 1 ) --- For statutory powers relating to parks and boulevards, See N.D.C.C. § 40-05-01(9). For statutory provisions as to parks and park districts, See N.D.C.C., Chapter 40-49.\n\nSections:\n\nThe city council hereby accepts and creates a park district of the city under the\n               provisions of Article 24 of Chapter 49 of the Political Code of the Compiled Laws\n               of the State of North Dakota for the year 1913, as amended by Chapter 71 of the Session\n               Laws of 1915; Chapter 178 of the Session Laws of 1917; Chapter 96 of the Session Laws\n               of 1921; Chapter 194 of the Session Laws of 1927; Chapter 180 of the Session Laws\n               of 1929; Chapter 198 of the Session Laws of 1931; and Chapter 204 of the Session Laws\n               of 1935; and all acts or amendments which may be hereafter enacted or made. (1942 Rev. Ords., § 12-101)\n\nSuch park district shall embrace the whole of the territory within the city limits\n               of the city, and such other areas as may from time to time be permitted by the laws\n               of North Dakota. (1942 Rev. Ords., § 12-102)\n\nSections:\n\nAny person or persons who may own or have an interest in any lot, parts of lots, or\n               parcel of land in this city, may and they are hereby authorized to set out or plant\n               in any of the streets of this city adjacent to the lots, parts of lots, or tracts\n               of land, on the line between the sidewalk and the carriage way of such street in such\n               places as the street commissioner may designate or permit, any shade or ornamental\n               trees; and such person or persons shall have permission to take all proper ways and\n               means to promote the growth or protect said shade and ornamental trees. (1942 Rev. Ords., § 12-201)\n\nThe same shall at all times be kept trimmed so that there will be eight feet clear\n               between the sidewalk and the lambs.…",
+          "sourceUrl": "https://library.municode.com/nd/rugby/codes/code_of_ordinances?nodeId=TIT11PABO"
+        }
+      ]
+    },
+    {
+      "id": "valley-city",
+      "name": "Valley City",
+      "sourceIndex": "https://library.municode.com/nd/valley_city",
+      "questions": [
+        {
+          "id": "nd:valley-city:0",
+          "prompt": "In Valley City, a drink is an alcoholic beverage if it contains at least this much alcohol by volume:",
+          "choices": [
+            "One-half of one percent or more",
+            "One percent or more",
+            "Three percent or more",
+            "Five percent or more"
+          ],
+          "answer": "One-half of one percent or more",
+          "excerpt": "As used in this title: Agent means a person or entity acting on behalf of the license holder or an employee of\n               the license holder. Alcoholic beverages means any liquid intended for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume. All alcoholic beverages shall be deemed\n               intoxicating. This section does not apply to wines delivered to priests, rabbis, and\n               ministers for sacramental use. Applicant means a person who completes the license application. An applicant may or may not\n               be an owner or licensee. Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume and includes an alcoholic beverage made by the fermentation of malt substitutes,\n               including rice, grain of any kind, glucose, sugar, or molasses, which has not undergone\n               distillation. Brewer taproom means any licensed premises that makes and sells beer as set forth in N.D.C.C. §\n               5-01-21. City means the City of Valley City. Club or lodge means any corporation or association organized for civic, fraternal, social, or business\n               purposes, or for the promotion of sports. The \"club\" or \"lodge\" must have at least\n               100 members at the time of the license application and have been in existence for\n               20 years prior to the time of application for the license; if not it must be a local\n               organization which is a subsidiary of and chartered by a national organization which\n               has had a bona fide existence for more than 20 years. Commission means the Board of City Commissioners of the city. Growler means a sealed container holding at least 12 ounces and not more than two liters\n               of beer that is filled and sealed on-site for the sole purpose of off-premises consumption.\n               At the time of sale, the container must be sealed with a…",
+          "sourceUrl": "https://library.municode.com/nd/valley_city/codes/code_of_ordinances?nodeId=PTIICOOR_TIT4AL"
+        },
+        {
+          "id": "nd:valley-city:1",
+          "prompt": "If a Valley City business fills a growler of beer for you to take home, how large can that container be?",
+          "choices": [
+            "At least 12 ounces and not more than two liters",
+            "Exactly one pint",
+            "Any size as long as it has a lid",
+            "No more than 12 ounces"
+          ],
+          "answer": "At least 12 ounces and not more than two liters",
+          "excerpt": "As used in this title: Agent means a person or entity acting on behalf of the license holder or an employee of\n               the license holder. Alcoholic beverages means any liquid intended for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume. All alcoholic beverages shall be deemed\n               intoxicating. This section does not apply to wines delivered to priests, rabbis, and\n               ministers for sacramental use. Applicant means a person who completes the license application. An applicant may or may not\n               be an owner or licensee. Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume and includes an alcoholic beverage made by the fermentation of malt substitutes,\n               including rice, grain of any kind, glucose, sugar, or molasses, which has not undergone\n               distillation. Brewer taproom means any licensed premises that makes and sells beer as set forth in N.D.C.C. §\n               5-01-21. City means the City of Valley City. Club or lodge means any corporation or association organized for civic, fraternal, social, or business\n               purposes, or for the promotion of sports. The \"club\" or \"lodge\" must have at least\n               100 members at the time of the license application and have been in existence for\n               20 years prior to the time of application for the license; if not it must be a local\n               organization which is a subsidiary of and chartered by a national organization which\n               has had a bona fide existence for more than 20 years. Commission means the Board of City Commissioners of the city. Growler means a sealed container holding at least 12 ounces and not more than two liters\n               of beer that is filled and sealed on-site for the sole purpose of off-premises consumption.\n               At the time of sale, the container must be sealed with a…",
+          "sourceUrl": "https://library.municode.com/nd/valley_city/codes/code_of_ordinances?nodeId=PTIICOOR_TIT4AL"
+        },
+        {
+          "id": "nd:valley-city:2",
+          "prompt": "How far from Valley City city limits may a resident manager of a licensed alcohol business live?",
+          "choices": [
+            "Within 75 miles",
+            "Inside the city limits only",
+            "Within 10 miles of the bar",
+            "Anywhere in North Dakota"
+          ],
+          "answer": "Within 75 miles",
+          "excerpt": "As used in this title: Agent means a person or entity acting on behalf of the license holder or an employee of\n               the license holder. Alcoholic beverages means any liquid intended for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume. All alcoholic beverages shall be deemed\n               intoxicating. This section does not apply to wines delivered to priests, rabbis, and\n               ministers for sacramental use. Applicant means a person who completes the license application. An applicant may or may not\n               be an owner or licensee. Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume and includes an alcoholic beverage made by the fermentation of malt substitutes,\n               including rice, grain of any kind, glucose, sugar, or molasses, which has not undergone\n               distillation. Brewer taproom means any licensed premises that makes and sells beer as set forth in N.D.C.C. §\n               5-01-21. City means the City of Valley City. Club or lodge means any corporation or association organized for civic, fraternal, social, or business\n               purposes, or for the promotion of sports. The \"club\" or \"lodge\" must have at least\n               100 members at the time of the license application and have been in existence for\n               20 years prior to the time of application for the license; if not it must be a local\n               organization which is a subsidiary of and chartered by a national organization which\n               has had a bona fide existence for more than 20 years. Commission means the Board of City Commissioners of the city. Growler means a sealed container holding at least 12 ounces and not more than two liters\n               of beer that is filled and sealed on-site for the sole purpose of off-premises consumption.\n               At the time of sale, the container must be sealed with a…",
+          "sourceUrl": "https://library.municode.com/nd/valley_city/codes/code_of_ordinances?nodeId=PTIICOOR_TIT4AL"
+        },
+        {
+          "id": "nd:valley-city:3",
+          "prompt": "How many members must a club or lodge usually have when it applies for an alcohol license in Valley City?",
+          "choices": [
+            "At least 100",
+            "At least 25",
+            "At least 50",
+            "No set number"
+          ],
+          "answer": "At least 100",
+          "excerpt": "As used in this title: Agent means a person or entity acting on behalf of the license holder or an employee of\n               the license holder. Alcoholic beverages means any liquid intended for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume. All alcoholic beverages shall be deemed\n               intoxicating. This section does not apply to wines delivered to priests, rabbis, and\n               ministers for sacramental use. Applicant means a person who completes the license application. An applicant may or may not\n               be an owner or licensee. Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume and includes an alcoholic beverage made by the fermentation of malt substitutes,\n               including rice, grain of any kind, glucose, sugar, or molasses, which has not undergone\n               distillation. Brewer taproom means any licensed premises that makes and sells beer as set forth in N.D.C.C. §\n               5-01-21. City means the City of Valley City. Club or lodge means any corporation or association organized for civic, fraternal, social, or business\n               purposes, or for the promotion of sports. The \"club\" or \"lodge\" must have at least\n               100 members at the time of the license application and have been in existence for\n               20 years prior to the time of application for the license; if not it must be a local\n               organization which is a subsidiary of and chartered by a national organization which\n               has had a bona fide existence for more than 20 years. Commission means the Board of City Commissioners of the city. Growler means a sealed container holding at least 12 ounces and not more than two liters\n               of beer that is filled and sealed on-site for the sole purpose of off-premises consumption.\n               At the time of sale, the container must be sealed with a…",
+          "sourceUrl": "https://library.municode.com/nd/valley_city/codes/code_of_ordinances?nodeId=PTIICOOR_TIT4AL"
+        },
+        {
+          "id": "nd:valley-city:4",
+          "prompt": "When can someone sell alcoholic beverages in Valley City without a city alcohol license?",
+          "choices": [
+            "A nonprofit is selling them as part of a fundraising activity",
+            "Anyone selling only beer at a garage sale",
+            "If the drinks are given away for free",
+            "If the event lasts less than one hour"
+          ],
+          "answer": "A nonprofit is selling them as part of a fundraising activity",
+          "excerpt": "As used in this title: Agent means a person or entity acting on behalf of the license holder or an employee of\n               the license holder. Alcoholic beverages means any liquid intended for drinking by human beings which contains one-half of\n               one percent or more of alcohol by volume. All alcoholic beverages shall be deemed\n               intoxicating. This section does not apply to wines delivered to priests, rabbis, and\n               ministers for sacramental use. Applicant means a person who completes the license application. An applicant may or may not\n               be an owner or licensee. Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume and includes an alcoholic beverage made by the fermentation of malt substitutes,\n               including rice, grain of any kind, glucose, sugar, or molasses, which has not undergone\n               distillation. Brewer taproom means any licensed premises that makes and sells beer as set forth in N.D.C.C. §\n               5-01-21. City means the City of Valley City. Club or lodge means any corporation or association organized for civic, fraternal, social, or business\n               purposes, or for the promotion of sports. The \"club\" or \"lodge\" must have at least\n               100 members at the time of the license application and have been in existence for\n               20 years prior to the time of application for the license; if not it must be a local\n               organization which is a subsidiary of and chartered by a national organization which\n               has had a bona fide existence for more than 20 years. Commission means the Board of City Commissioners of the city. Growler means a sealed container holding at least 12 ounces and not more than two liters\n               of beer that is filled and sealed on-site for the sole purpose of off-premises consumption.\n               At the time of sale, the container must be sealed with a…",
+          "sourceUrl": "https://library.municode.com/nd/valley_city/codes/code_of_ordinances?nodeId=PTIICOOR_TIT4AL"
+        }
+      ]
+    },
+    {
+      "id": "velva",
+      "name": "Velva",
+      "sourceIndex": "https://library.municode.com/nd/velva",
+      "questions": [
+        {
+          "id": "nd:velva:0",
+          "prompt": "Do you need a Velva city license before you can sell or keep intoxicating liquor for sale?",
+          "choices": [
+            "No, a state license is enough",
+            "Yes, you must get a license first",
+            "Only if you sell hard liquor instead of beer",
+            "Only for sales after 9 p.m."
+          ],
+          "answer": "Yes, you must get a license first",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09; local regulation of alcoholic beverages, N.D.C.C. § 40-45-01(29).\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume. Club or lodge means and includes any corporation or association organized for civic, fraternal,\n               social or business purposes, or the promotion of sports, which has at least 100 members\n               at the time the license is applied for and was in existence at the time of the adoption\n               of the Liquor Control Act of the state, which for the purpose of this chapter is defined\n               to be on November 3, 1936. Intoxicating liquor and liquor mean any liquid suitable and intended for consumption by human beings which contains\n               one-half of one percent or more of alcohol by volume, and shall include beer. Package and original package mean and include any container or receptacle holding liquor, which container or receptacle\n               is corked or sealed by the manufacturer thereof and which cork or seal has not been\n               removed or broken prior to the sale of such package to the purchaser. Sale and sell mean and include all barters, and all manner or means of furnishing intoxicating\n               liquor, including the selling, exchange, barter, disposition of, and keeping for sale\n               of such intoxicating liquors. (Prior Code, § 6-201; altered in 2020 recodification) State Law reference— Alcoholic beverage law definitions, N.D.C.C. § 5-01-01.\n\nNo person as defined in this chapter shall sell, exchange, dispose of or keep for\n               sale…",
+          "sourceUrl": "https://library.municode.com/nd/velva/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:velva:1",
+          "prompt": "Who cannot be issued a liquor license in Velva?",
+          "choices": [
+            "Anyone under 21 years old",
+            "Anyone who has never owned a restaurant",
+            "Anyone who lives outside city limits",
+            "Anyone who sells only packaged beer"
+          ],
+          "answer": "Anyone under 21 years old",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09; local regulation of alcoholic beverages, N.D.C.C. § 40-45-01(29).\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume. Club or lodge means and includes any corporation or association organized for civic, fraternal,\n               social or business purposes, or the promotion of sports, which has at least 100 members\n               at the time the license is applied for and was in existence at the time of the adoption\n               of the Liquor Control Act of the state, which for the purpose of this chapter is defined\n               to be on November 3, 1936. Intoxicating liquor and liquor mean any liquid suitable and intended for consumption by human beings which contains\n               one-half of one percent or more of alcohol by volume, and shall include beer. Package and original package mean and include any container or receptacle holding liquor, which container or receptacle\n               is corked or sealed by the manufacturer thereof and which cork or seal has not been\n               removed or broken prior to the sale of such package to the purchaser. Sale and sell mean and include all barters, and all manner or means of furnishing intoxicating\n               liquor, including the selling, exchange, barter, disposition of, and keeping for sale\n               of such intoxicating liquors. (Prior Code, § 6-201; altered in 2020 recodification) State Law reference— Alcoholic beverage law definitions, N.D.C.C. § 5-01-01.\n\nNo person as defined in this chapter shall sell, exchange, dispose of or keep for\n               sale…",
+          "sourceUrl": "https://library.municode.com/nd/velva/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:velva:2",
+          "prompt": "When do Velva on-sale and off-sale liquor licenses expire each year?",
+          "choices": [
+            "June 30",
+            "December 31",
+            "July 1",
+            "The anniversary of the issue date"
+          ],
+          "answer": "June 30",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09; local regulation of alcoholic beverages, N.D.C.C. § 40-45-01(29).\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume. Club or lodge means and includes any corporation or association organized for civic, fraternal,\n               social or business purposes, or the promotion of sports, which has at least 100 members\n               at the time the license is applied for and was in existence at the time of the adoption\n               of the Liquor Control Act of the state, which for the purpose of this chapter is defined\n               to be on November 3, 1936. Intoxicating liquor and liquor mean any liquid suitable and intended for consumption by human beings which contains\n               one-half of one percent or more of alcohol by volume, and shall include beer. Package and original package mean and include any container or receptacle holding liquor, which container or receptacle\n               is corked or sealed by the manufacturer thereof and which cork or seal has not been\n               removed or broken prior to the sale of such package to the purchaser. Sale and sell mean and include all barters, and all manner or means of furnishing intoxicating\n               liquor, including the selling, exchange, barter, disposition of, and keeping for sale\n               of such intoxicating liquors. (Prior Code, § 6-201; altered in 2020 recodification) State Law reference— Alcoholic beverage law definitions, N.D.C.C. § 5-01-01.\n\nNo person as defined in this chapter shall sell, exchange, dispose of or keep for\n               sale…",
+          "sourceUrl": "https://library.municode.com/nd/velva/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:velva:3",
+          "prompt": "If a Velva business has only an off-sale liquor license, what is not allowed?",
+          "choices": [
+            "Selling liquor in sealed original packages to take away",
+            "Letting anyone open a package on the licensed premises",
+            "Keeping the liquor in the store",
+            "Applying for the license during the year"
+          ],
+          "answer": "Letting anyone open a package on the licensed premises",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09; local regulation of alcoholic beverages, N.D.C.C. § 40-45-01(29).\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume. Club or lodge means and includes any corporation or association organized for civic, fraternal,\n               social or business purposes, or the promotion of sports, which has at least 100 members\n               at the time the license is applied for and was in existence at the time of the adoption\n               of the Liquor Control Act of the state, which for the purpose of this chapter is defined\n               to be on November 3, 1936. Intoxicating liquor and liquor mean any liquid suitable and intended for consumption by human beings which contains\n               one-half of one percent or more of alcohol by volume, and shall include beer. Package and original package mean and include any container or receptacle holding liquor, which container or receptacle\n               is corked or sealed by the manufacturer thereof and which cork or seal has not been\n               removed or broken prior to the sale of such package to the purchaser. Sale and sell mean and include all barters, and all manner or means of furnishing intoxicating\n               liquor, including the selling, exchange, barter, disposition of, and keeping for sale\n               of such intoxicating liquors. (Prior Code, § 6-201; altered in 2020 recodification) State Law reference— Alcoholic beverage law definitions, N.D.C.C. § 5-01-01.\n\nNo person as defined in this chapter shall sell, exchange, dispose of or keep for\n               sale…",
+          "sourceUrl": "https://library.municode.com/nd/velva/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        },
+        {
+          "id": "nd:velva:4",
+          "prompt": "On Sunday, when may a qualifying Velva eating place with an on-sale license sell beer and wine with prepared meals?",
+          "choices": [
+            "12:00 noon to 9:00 p.m.",
+            "All day as long as food is served",
+            "Only after 5:00 p.m.",
+            "Sunday beer and wine sales are never allowed"
+          ],
+          "answer": "12:00 noon to 9:00 p.m.",
+          "excerpt": "Footnotes: --- ( 1 ) --- State Law reference— Alcoholic beverages, N.D.C.C. title 5; local regulation of retail sales of alcohol,\n               N.D.C.C. § 5-02-09; local regulation of alcoholic beverages, N.D.C.C. § 40-45-01(29).\n\nThe following words, terms and phrases, when used in this chapter, shall have the\n               meanings ascribed to them in this section, except where the context clearly indicates\n               a different meaning: Beer means any malt beverage containing more than one-half of one percent of alcohol by\n               volume. Club or lodge means and includes any corporation or association organized for civic, fraternal,\n               social or business purposes, or the promotion of sports, which has at least 100 members\n               at the time the license is applied for and was in existence at the time of the adoption\n               of the Liquor Control Act of the state, which for the purpose of this chapter is defined\n               to be on November 3, 1936. Intoxicating liquor and liquor mean any liquid suitable and intended for consumption by human beings which contains\n               one-half of one percent or more of alcohol by volume, and shall include beer. Package and original package mean and include any container or receptacle holding liquor, which container or receptacle\n               is corked or sealed by the manufacturer thereof and which cork or seal has not been\n               removed or broken prior to the sale of such package to the purchaser. Sale and sell mean and include all barters, and all manner or means of furnishing intoxicating\n               liquor, including the selling, exchange, barter, disposition of, and keeping for sale\n               of such intoxicating liquors. (Prior Code, § 6-201; altered in 2020 recodification) State Law reference— Alcoholic beverage law definitions, N.D.C.C. § 5-01-01.\n\nNo person as defined in this chapter shall sell, exchange, dispose of or keep for\n               sale…",
+          "sourceUrl": "https://library.municode.com/nd/velva/codes/code_of_ordinances?nodeId=PTIICOOR_CH4ALBE"
+        }
+      ]
+    },
+    {
+      "id": "wahpeton",
+      "name": "Wahpeton",
+      "sourceIndex": "https://library.municode.com/nd/wahpeton",
+      "questions": [
+        {
+          "id": "nd:wahpeton:0",
+          "prompt": "Who holds all the powers of city government in Wahpeton?",
+          "choices": [
+            "The elected governing body",
+            "A city manager chosen by the state",
+            "The county commission",
+            "Federal officials"
+          ],
+          "answer": "The elected governing body",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter, originally adopted on November\n               18, 1988. Amendments are indicated by parenthetical history notes following amended\n               provisions. The absence of a history note indicates that the provision remains unchanged\n               from the original. For stylistic purposes, headings and catchlines have been made\n               uniform, and the same style of expression of numbers in text as appears in the Code\n               of Ordinances has been used. A consistent scheme of capitalization has also been used.\n               Additions for clarity are indicated by brackets. State Law reference— Home rule charters, N.D.C.C. § 40-05.1-01 et seq.\n\nThe inhabitants of the City of Wahpeton, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and corporate in perpetuity, under the name of the \"City of\n            Wahpeton\".\n\nSubject to the limitations imposed by the state constitution, state law, and this\n            Charter, all powers of the city shall be vested in the elected governing body. The\n            elected governing body shall enact local legislation, adopt budgets, determine policies,\n            and prescribe the functions of government to be performed under this charter by the\n            city. All powers of the city shall be exercised in the manner prescribed by this Charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all the implied powers necessary\n               or appropriate to carry into execution all powers granted. It is the intention of\n               this Charter, pursuant to state law, to grant and…",
+          "sourceUrl": "https://library.municode.com/nd/wahpeton/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:wahpeton:1",
+          "prompt": "Wahpeton can add extra motor-vehicle registration fees or extra sales and use taxes only:",
+          "choices": [
+            "When the governing body passes an ordinance",
+            "By citizen initiative or after a referendum",
+            "With the governor’s written approval",
+            "During even-numbered years"
+          ],
+          "answer": "By citizen initiative or after a referendum",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter, originally adopted on November\n               18, 1988. Amendments are indicated by parenthetical history notes following amended\n               provisions. The absence of a history note indicates that the provision remains unchanged\n               from the original. For stylistic purposes, headings and catchlines have been made\n               uniform, and the same style of expression of numbers in text as appears in the Code\n               of Ordinances has been used. A consistent scheme of capitalization has also been used.\n               Additions for clarity are indicated by brackets. State Law reference— Home rule charters, N.D.C.C. § 40-05.1-01 et seq.\n\nThe inhabitants of the City of Wahpeton, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and corporate in perpetuity, under the name of the \"City of\n            Wahpeton\".\n\nSubject to the limitations imposed by the state constitution, state law, and this\n            Charter, all powers of the city shall be vested in the elected governing body. The\n            elected governing body shall enact local legislation, adopt budgets, determine policies,\n            and prescribe the functions of government to be performed under this charter by the\n            city. All powers of the city shall be exercised in the manner prescribed by this Charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all the implied powers necessary\n               or appropriate to carry into execution all powers granted. It is the intention of\n               this Charter, pursuant to state law, to grant and…",
+          "sourceUrl": "https://library.municode.com/nd/wahpeton/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:wahpeton:2",
+          "prompt": "When Wahpeton sets its city budget, must each mill levy be spent only on the purpose the state assigned to it?",
+          "choices": [
+            "Yes, those dedications must be followed exactly",
+            "No, the budget can be put together without regard to those specific dedications",
+            "Only the school mill levy can be moved around",
+            "The city cannot use mill levies at all"
+          ],
+          "answer": "No, the budget can be put together without regard to those specific dedications",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter, originally adopted on November\n               18, 1988. Amendments are indicated by parenthetical history notes following amended\n               provisions. The absence of a history note indicates that the provision remains unchanged\n               from the original. For stylistic purposes, headings and catchlines have been made\n               uniform, and the same style of expression of numbers in text as appears in the Code\n               of Ordinances has been used. A consistent scheme of capitalization has also been used.\n               Additions for clarity are indicated by brackets. State Law reference— Home rule charters, N.D.C.C. § 40-05.1-01 et seq.\n\nThe inhabitants of the City of Wahpeton, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and corporate in perpetuity, under the name of the \"City of\n            Wahpeton\".\n\nSubject to the limitations imposed by the state constitution, state law, and this\n            Charter, all powers of the city shall be vested in the elected governing body. The\n            elected governing body shall enact local legislation, adopt budgets, determine policies,\n            and prescribe the functions of government to be performed under this charter by the\n            city. All powers of the city shall be exercised in the manner prescribed by this Charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all the implied powers necessary\n               or appropriate to carry into execution all powers granted. It is the intention of\n               this Charter, pursuant to state law, to grant and…",
+          "sourceUrl": "https://library.municode.com/nd/wahpeton/codes/code_of_ordinances?nodeId=PTICH"
+        },
+        {
+          "id": "nd:wahpeton:3",
+          "prompt": "Do Wahpeton residents have the right to propose new city ordinances or send existing ones to a public vote?",
+          "choices": [
+            "No, only the governing body can do that",
+            "Yes, they have the right to initiate and refer ordinances",
+            "Only if they own property inside city limits",
+            "Only for tax increases"
+          ],
+          "answer": "Yes, they have the right to initiate and refer ordinances",
+          "excerpt": "Footnotes: --- ( 1 ) --- Editor's note— Printed in this part is the city's home rule charter, originally adopted on November\n               18, 1988. Amendments are indicated by parenthetical history notes following amended\n               provisions. The absence of a history note indicates that the provision remains unchanged\n               from the original. For stylistic purposes, headings and catchlines have been made\n               uniform, and the same style of expression of numbers in text as appears in the Code\n               of Ordinances has been used. A consistent scheme of capitalization has also been used.\n               Additions for clarity are indicated by brackets. State Law reference— Home rule charters, N.D.C.C. § 40-05.1-01 et seq.\n\nThe inhabitants of the City of Wahpeton, within the corporate limits as now established\n            or as hereafter established in the manner provided by law, shall continue to be a\n            municipal body politic and corporate in perpetuity, under the name of the \"City of\n            Wahpeton\".\n\nSubject to the limitations imposed by the state constitution, state law, and this\n            Charter, all powers of the city shall be vested in the elected governing body. The\n            elected governing body shall enact local legislation, adopt budgets, determine policies,\n            and prescribe the functions of government to be performed under this charter by the\n            city. All powers of the city shall be exercised in the manner prescribed by this Charter,\n            or if the manner be not prescribed, then in such manner as may be prescribed by ordinance.\n\nThe city shall have all powers granted to municipal corporations by the constitution\n               and laws of this state and by this Charter, together with all the implied powers necessary\n               or appropriate to carry into execution all powers granted. It is the intention of\n               this Charter, pursuant to state law, to grant and…",
+          "sourceUrl": "https://library.municode.com/nd/wahpeton/codes/code_of_ordinances?nodeId=PTICH"
+        }
+      ]
+    },
+    {
+      "id": "watford-city",
+      "name": "Watford City",
+      "sourceIndex": "https://library.municode.com/nd/watford_city",
+      "questions": [
+        {
+          "id": "nd:watford-city:0",
+          "prompt": "An outdoor animal shelter must have a solid floor raised at least how far off the ground?",
+          "choices": [
+            "2 inches",
+            "6 inches",
+            "1 foot",
+            "It does not have to be raised"
+          ],
+          "answer": "2 inches",
+          "excerpt": "It shall be unlawful for any person to abuse any animal through an act, omission,\n               or neglect, which causes or inflicts any unnecessary pain, injury or death to any\n               animal, whether such animal belongs to such person or to another, except that reasonable\n               force, taking into account the size and demeanor of the animal, may be employed to\n               drive away vicious or trespassing animals. It shall be unlawful for any person in\n               charge of any animal to fail to provide such animal with food, potable water, shade\n               or shelter, or to expose any animal to hot, stormy, cold or inclement weather for\n               an extended period, or to carry any such animal in or upon any vehicle in a cruel\n               or inhumane manner. As used in this section: (a) Shade shall mean protection from the direct rays of the sun during the months of June through\n                  September. (b) Shelter as it applies to animals, shall mean a moisture-proof structure of suitable size\n                  to accommodate the animal and allow retention of body heat, made of durable material\n                  with a solid floor raised at least two (2) inches from the ground and with the entrance\n                  covered by a flexible, wind-proof material. Such structure shall be provided with\n                  a sufficient quantity of suitable bedding to provide insulation and protection against\n                  cold and dampness. (c) Vicious shall mean any animal that approaches any person or domestic animal in an apparent\n                  attitude of attack. (Ord. No. 202, 8-3-2009)\n\nIt shall be unlawful to permit any dangerous animal or vicious animal of any land\n               to run at large within the City; exhibitions of parades of animals which are ferae\n               naturae in the eyes of the law may be conducted only upon securing a permit from the\n               Chief of Police. It shall also be unlawful…",
+          "sourceUrl": "https://library.municode.com/nd/watford_city/codes/code_of_ordinances?nodeId=CHVIIANFO"
+        },
+        {
+          "id": "nd:watford-city:1",
+          "prompt": "When must you provide shade that protects an animal from the sun's direct rays?",
+          "choices": [
+            "June through September",
+            "Year-round",
+            "Only in winter",
+            "April through October"
+          ],
+          "answer": "June through September",
+          "excerpt": "It shall be unlawful for any person to abuse any animal through an act, omission,\n               or neglect, which causes or inflicts any unnecessary pain, injury or death to any\n               animal, whether such animal belongs to such person or to another, except that reasonable\n               force, taking into account the size and demeanor of the animal, may be employed to\n               drive away vicious or trespassing animals. It shall be unlawful for any person in\n               charge of any animal to fail to provide such animal with food, potable water, shade\n               or shelter, or to expose any animal to hot, stormy, cold or inclement weather for\n               an extended period, or to carry any such animal in or upon any vehicle in a cruel\n               or inhumane manner. As used in this section: (a) Shade shall mean protection from the direct rays of the sun during the months of June through\n                  September. (b) Shelter as it applies to animals, shall mean a moisture-proof structure of suitable size\n                  to accommodate the animal and allow retention of body heat, made of durable material\n                  with a solid floor raised at least two (2) inches from the ground and with the entrance\n                  covered by a flexible, wind-proof material. Such structure shall be provided with\n                  a sufficient quantity of suitable bedding to provide insulation and protection against\n                  cold and dampness. (c) Vicious shall mean any animal that approaches any person or domestic animal in an apparent\n                  attitude of attack. (Ord. No. 202, 8-3-2009)\n\nIt shall be unlawful to permit any dangerous animal or vicious animal of any land\n               to run at large within the City; exhibitions of parades of animals which are ferae\n               naturae in the eyes of the law may be conducted only upon securing a permit from the\n               Chief of Police. It shall also be unlawful…",
+          "sourceUrl": "https://library.municode.com/nd/watford_city/codes/code_of_ordinances?nodeId=CHVIIANFO"
+        },
+        {
+          "id": "nd:watford-city:2",
+          "prompt": "A locked outdoor pen or kennel for a dangerous animal must have sides at least how high, plus a securely attached top?",
+          "choices": [
+            "4 feet",
+            "6 feet",
+            "8 feet",
+            "3 feet"
+          ],
+          "answer": "6 feet",
+          "excerpt": "It shall be unlawful for any person to abuse any animal through an act, omission,\n               or neglect, which causes or inflicts any unnecessary pain, injury or death to any\n               animal, whether such animal belongs to such person or to another, except that reasonable\n               force, taking into account the size and demeanor of the animal, may be employed to\n               drive away vicious or trespassing animals. It shall be unlawful for any person in\n               charge of any animal to fail to provide such animal with food, potable water, shade\n               or shelter, or to expose any animal to hot, stormy, cold or inclement weather for\n               an extended period, or to carry any such animal in or upon any vehicle in a cruel\n               or inhumane manner. As used in this section: (a) Shade shall mean protection from the direct rays of the sun during the months of June through\n                  September. (b) Shelter as it applies to animals, shall mean a moisture-proof structure of suitable size\n                  to accommodate the animal and allow retention of body heat, made of durable material\n                  with a solid floor raised at least two (2) inches from the ground and with the entrance\n                  covered by a flexible, wind-proof material. Such structure shall be provided with\n                  a sufficient quantity of suitable bedding to provide insulation and protection against\n                  cold and dampness. (c) Vicious shall mean any animal that approaches any person or domestic animal in an apparent\n                  attitude of attack. (Ord. No. 202, 8-3-2009)\n\nIt shall be unlawful to permit any dangerous animal or vicious animal of any land\n               to run at large within the City; exhibitions of parades of animals which are ferae\n               naturae in the eyes of the law may be conducted only upon securing a permit from the\n               Chief of Police. It shall also be unlawful…",
+          "sourceUrl": "https://library.municode.com/nd/watford_city/codes/code_of_ordinances?nodeId=CHVIIANFO"
+        },
+        {
+          "id": "nd:watford-city:3",
+          "prompt": "If a dangerous animal goes beyond your property, its leash or chain cannot be longer than:",
+          "choices": [
+            "4 feet",
+            "6 feet",
+            "10 feet",
+            "There is no length limit"
+          ],
+          "answer": "4 feet",
+          "excerpt": "It shall be unlawful for any person to abuse any animal through an act, omission,\n               or neglect, which causes or inflicts any unnecessary pain, injury or death to any\n               animal, whether such animal belongs to such person or to another, except that reasonable\n               force, taking into account the size and demeanor of the animal, may be employed to\n               drive away vicious or trespassing animals. It shall be unlawful for any person in\n               charge of any animal to fail to provide such animal with food, potable water, shade\n               or shelter, or to expose any animal to hot, stormy, cold or inclement weather for\n               an extended period, or to carry any such animal in or upon any vehicle in a cruel\n               or inhumane manner. As used in this section: (a) Shade shall mean protection from the direct rays of the sun during the months of June through\n                  September. (b) Shelter as it applies to animals, shall mean a moisture-proof structure of suitable size\n                  to accommodate the animal and allow retention of body heat, made of durable material\n                  with a solid floor raised at least two (2) inches from the ground and with the entrance\n                  covered by a flexible, wind-proof material. Such structure shall be provided with\n                  a sufficient quantity of suitable bedding to provide insulation and protection against\n                  cold and dampness. (c) Vicious shall mean any animal that approaches any person or domestic animal in an apparent\n                  attitude of attack. (Ord. No. 202, 8-3-2009)\n\nIt shall be unlawful to permit any dangerous animal or vicious animal of any land\n               to run at large within the City; exhibitions of parades of animals which are ferae\n               naturae in the eyes of the law may be conducted only upon securing a permit from the\n               Chief of Police. It shall also be unlawful…",
+          "sourceUrl": "https://library.municode.com/nd/watford_city/codes/code_of_ordinances?nodeId=CHVIIANFO"
+        },
+        {
+          "id": "nd:watford-city:4",
+          "prompt": "Can you keep a dangerous animal in a house or structure when the windows are open?",
+          "choices": [
+            "No",
+            "Yes, if screens are in place",
+            "Yes, if the animal is muzzled",
+            "Only during the day"
+          ],
+          "answer": "No",
+          "excerpt": "It shall be unlawful for any person to abuse any animal through an act, omission,\n               or neglect, which causes or inflicts any unnecessary pain, injury or death to any\n               animal, whether such animal belongs to such person or to another, except that reasonable\n               force, taking into account the size and demeanor of the animal, may be employed to\n               drive away vicious or trespassing animals. It shall be unlawful for any person in\n               charge of any animal to fail to provide such animal with food, potable water, shade\n               or shelter, or to expose any animal to hot, stormy, cold or inclement weather for\n               an extended period, or to carry any such animal in or upon any vehicle in a cruel\n               or inhumane manner. As used in this section: (a) Shade shall mean protection from the direct rays of the sun during the months of June through\n                  September. (b) Shelter as it applies to animals, shall mean a moisture-proof structure of suitable size\n                  to accommodate the animal and allow retention of body heat, made of durable material\n                  with a solid floor raised at least two (2) inches from the ground and with the entrance\n                  covered by a flexible, wind-proof material. Such structure shall be provided with\n                  a sufficient quantity of suitable bedding to provide insulation and protection against\n                  cold and dampness. (c) Vicious shall mean any animal that approaches any person or domestic animal in an apparent\n                  attitude of attack. (Ord. No. 202, 8-3-2009)\n\nIt shall be unlawful to permit any dangerous animal or vicious animal of any land\n               to run at large within the City; exhibitions of parades of animals which are ferae\n               naturae in the eyes of the law may be conducted only upon securing a permit from the\n               Chief of Police. It shall also be unlawful…",
+          "sourceUrl": "https://library.municode.com/nd/watford_city/codes/code_of_ordinances?nodeId=CHVIIANFO"
+        }
+      ]
+    },
+    {
+      "id": "west-fargo",
+      "name": "West Fargo",
+      "sourceIndex": "https://library.municode.com/nd/west_fargo",
+      "questions": []
+    },
+    {
+      "id": "wyndmere",
+      "name": "Wyndmere",
+      "sourceIndex": "https://library.municode.com/nd/wyndmere",
+      "questions": []
+    }
+  ]
+}
